@@ -1,0 +1,32 @@
+pbl_reqentry.jsp.dapy.finitemcoding_eof = Εναλλακτική Κωδικοποίηση ΕΟΦ
+pbl_reqentry.jsp.dapy.finitemcoding_items = Εναλλακτική Κωδικοποίηση Υγειον.Υλικών
+
+pbl_reqentry.jsp.validations.dapy.finitemcoding_eof_required = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση ΕΟΦ
+pbl_reqentry.jsp.validations.dapy.finitemcoding_items_required = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση Υλικών
+
+pta_outcomeentry.jsp.pta_outcome.dapycode = Κωδ. ΔΑΠΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.finitemcoding_eof','Εναλλακτική Κωδικοποίηση ΕΟΦ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.finitemcoding_items','Εναλλακτική Κωδικοποίηση Υγειον.Υλικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_outcomeentry.jsp.pta_outcome.dapycode','Κωδ. ΔΑΠΥ');
+
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Συμπληρώστε Υποχρεωτικά Κωδικό Οργανισμού Με Βάση Τον ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.validations.dapy.companyikacode_required';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Συμπληρώστε Υποχρεωτικά Αριθμό Σύμβασης Με Βάση Τον ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.validations.dapy.ikacontractno_required';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση Υπηρεσιών ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.validations.dapy.finitemcoding_main_required';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση Ομαδοποίησης ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.validations.dapy.finitemcoding_itemtype_required';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Κωδ. Οργανισμού με βάση τον ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.dapy.companyikacode';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Δημιουργία Αρχείου ΔΑΠΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.dapydisplaybox.caption';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Εναλλακτική Κωδικοποίηση Ομαδοποίησης ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.dapy.finitemcoding_itemtype';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Εναλλακτική Κωδικοποίηση Υπηρεσιών ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.dapy.finitemcoding_main';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Αρ. Σύμβασης με βάση τον ΕΟΠΥΥ' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.dapy.ikacontractno';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.finitemcoding_eof_required','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση ΕΟΦ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.finitemcoding_items_required','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση Υλικών');
+
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Ελεγκτή Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_dapydataentry.jsp.med_orderheader.approvaldoctorcode';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Συνταγ.Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_dapydataentry.jsp.med_orderheader.orderdoctorcode';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Ελεγκτή Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorcode';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Συνταγ.Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorcode';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Ελεγκτή Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctorcode';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Συνταγ.Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorcode';
+

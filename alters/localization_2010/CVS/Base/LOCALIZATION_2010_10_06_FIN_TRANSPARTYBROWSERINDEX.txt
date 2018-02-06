@@ -1,0 +1,7 @@
+inv_orderstoreentry.jsp.inv_transheader.doctorid = Ιατρ.Συνταγογρ.
+inv_orderstoreentry.jsp.inv_transheader.noodgrantdays = Αρ.Ημερών Χορ.
+inv_orderstoreentry.jsp.inv_transheader.grantreason = Αιτία Χορήγησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transheader.doctorid','Ιατρ.Συνταγογρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transheader.noodgrantdays','Αρ.Ημερών Χορ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transheader.grantreason','Αιτία Χορήγησης');

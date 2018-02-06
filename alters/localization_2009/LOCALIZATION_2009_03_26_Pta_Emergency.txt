@@ -1,0 +1,77 @@
+﻿pta_emergencydata1entry.jsp.pagetitle = Καταχώρηση Στοιχείων Διαλογής
+pta_emergencydata1entry.jsp.entrydisplaybox.caption = Στοιχεία Διαλογής
+pta_emergencydata1entry.jsp.pta_visit.mnemonic = Κωδ. Περιστατικού
+pta_emergencydata1entry.jsp.pta_visitadmission.admissiondate = Ημ/νία Εισαγωγής
+pta_emergencydata1entry.jsp.pta_visit.name = Ονοματεπώνυμο Ασθ.
+pta_emergencydata1entry.jsp.pta_visit.fatherfirstname = Ον.Πατρός
+pta_emergencydata1entry.jsp.pta_patient.mnemonic = Κδ.Ασθενή 
+pta_emergencydata1entry.jsp.pta_transfer_toclinicid = Κλινική
+pta_emergencydata1entry.jsp.pta_visit.severityid = Βαρύτητα Περιστατικού
+pta_emergencydata1entry.jsp.pta_visitAdmission.admissioncomments = Σχόλια
+
+pta_emergencydata1entry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Κωδικό Περιστατικού
+pta_emergencydata1entry.jsp.validations.clinic_required = Συμπληρώστε Υποχρεωτικά Κλινική
+pta_emergencydata1entry.jsp.validations.severity_required = Συμπληρώστε Υποχρεωτικά Βαρύτητα Περιστατικού
+
+pta_emergencywaitlist.jsp.pta_visitadmission.admissiontime = Ώρα Προσέλευσης
+pta_emergencywaitlist.jsp.pta_visit.lastname = Επώνυμο
+pta_emergencywaitlist.jsp.pta_visit.firstname = Όνομα
+pta_emergencywaitlist.jsp.pta_visit.mnemonic = Περιστατικό
+pta_emergencywaitlist.jsp.counter = Α/Α
+
+pta_oupparametersentry.jsp.pta_oupparameters.emergencydoctorroleid = Ρόλος Ιατρού για Εξεταστήρια ΤΕΠ
+
+pta_emergencydata2entry.jsp.pagetitle = Καταχώρηση Στοιχείων Συντονιστή
+pta_emergencydata2entry.jsp.entrydisplaybox.caption = Στοιχεία Συντονιστή
+pta_emergencydata2entry.jsp.pta_visit.mnemonic = Κωδ. Περιστατικού
+pta_emergencydata2entry.jsp.pta_visitadmission.admissiondate = Ημ/νία Εισαγωγής
+pta_emergencydata2entry.jsp.pta_visit.name = Ονοματεπώνυμο Ασθ.
+pta_emergencydata2entry.jsp.pta_visit.fatherfirstname = Ον.Πατρός
+pta_emergencydata2entry.jsp.pta_patient.mnemonic = Κδ.Ασθενή 
+pta_emergencydata2entry.jsp.pta_transfer_toclinicid = Κλινική
+pta_emergencydata2entry.jsp.pta_visit.severityid = Βαρύτητα Περιστατικού
+pta_emergencydata2entry.jsp.pta_visitAdmission.admissioncomments = Σχόλια
+pta_emergencydata2entry.jsp.pta_visitdoctordetail.doctorid = Εξεταστήριο
+
+pta_emergencydata2entry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Κωδικό Περιστατικού
+pta_emergencydata2entry.jsp.validations.doctorid_required = Συμπληρώστε Υποχρεωτικά Εξεταστήριο
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pagetitle','Καταχώρηση Στοιχείων Διαλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.entrydisplaybox.caption','Στοιχεία Διαλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_visit.mnemonic','Κωδ. Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_visitadmission.admissiondate','Ημ/νία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_visit.name','Ονοματεπώνυμο Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_visit.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_patient.mnemonic','Κδ.Ασθενή ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_transfer_toclinicid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_visit.severityid','Βαρύτητα Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata1entry.jsp.pta_visitAdmission.admissioncomments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_emergencydata1entry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Κωδικό Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_emergencydata1entry.jsp.validations.clinic_required','Συμπληρώστε Υποχρεωτικά Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_emergencydata1entry.jsp.validations.severity_required','Συμπληρώστε Υποχρεωτικά Βαρύτητα Περιστατικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencywaitlist.jsp.pta_visitadmission.admissiontime','Ώρα Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencywaitlist.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencywaitlist.jsp.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencywaitlist.jsp.pta_visit.mnemonic','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencywaitlist.jsp.counter','Α/Α');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupparametersentry.jsp.pta_oupparameters.emergencydoctorroleid','Ρόλος Ιατρού για Εξεταστήρια ΤΕΠ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pagetitle','Καταχώρηση Στοιχείων Συντονιστή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.entrydisplaybox.caption','Στοιχεία Συντονιστή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visit.mnemonic','Κωδ. Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visitadmission.admissiondate','Ημ/νία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visit.name','Ονοματεπώνυμο Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visit.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_patient.mnemonic','Κδ.Ασθενή ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_transfer_toclinicid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visit.severityid','Βαρύτητα Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visitAdmission.admissioncomments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_emergencydata2entry.jsp.pta_visitdoctordetail.doctorid','Εξεταστήριο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_emergencydata2entry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Κωδικό Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_emergencydata2entry.jsp.validations.doctorid_required','Συμπληρώστε Υποχρεωτικά Εξεταστήριο');
+

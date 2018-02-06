@@ -1,0 +1,37 @@
+sys_metadataentry.jsp.sys_metadata.freetext1 = Ελεύθερο Πεδίο 1
+sys_metadataentry.jsp.sys_metadata.freetext2 = Ελεύθερο Πεδίο 2
+sys_metadataentry.jsp.sys_metadata.freetext3 = Ελεύθερο Πεδίο 3
+
+pta_doctorentry.jsp.pta_doctor.taxregistrationno = ΑΦΜ
+
+pbl_doctorroleentry.jsp.pbl_doctorrole.isattendingphysician = Ρόλος Θεράποντος
+
+pbl_dapydataentry.jsp.med_orderheader.approvaldoctortaxno = ΑΦΜ Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctortaxno = ΑΦΜ Ελεγκτή Ιατρού
+
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.iseanouncement = Ηλεκτρ. Αναγγελία
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementadmissionnum = Αρ.Εισιτ.Ηλ.Αναγγ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementadmissiondate = Ημ.Εισιτ.Ηλ.Αναγγ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementdischargenum = Αρ.Εξιτ.Ηλ.Αναγγ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementdischargedate = Ημ.Εξιτ.Ηλ.Αναγγ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctortaxno = ΑΦΜ Ελεγκτή Ιατρού
+
+fin_transpartyentry.jsp.pbl_insuranceschemeheader.dapycode = Κωδ. ΔΑΠΥ
+
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.chronicdiagnosiscode = Κωδ.Χρόνιας Πάθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_metadataentry.jsp.sys_metadata.freetext1','Ελεύθερο Πεδίο 1');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_metadataentry.jsp.sys_metadata.freetext2','Ελεύθερο Πεδίο 2');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_metadataentry.jsp.sys_metadata.freetext3','Ελεύθερο Πεδίο 3');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.taxregistrationno','ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleentry.jsp.pbl_doctorrole.isattendingphysician','Ρόλος Θεράποντος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.approvaldoctortaxno','ΑΦΜ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctortaxno','ΑΦΜ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.iseanouncement','Ηλεκτρ. Αναγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementadmissionnum','Αρ.Εισιτ.Ηλ.Αναγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementadmissiondate','Ημ.Εισιτ.Ηλ.Αναγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementdischargenum','Αρ.Εξιτ.Ηλ.Αναγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.eanouncementdischargedate','Ημ.Εξιτ.Ηλ.Αναγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctortaxno','ΑΦΜ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.pbl_insuranceschemeheader.dapycode','Κωδ. ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.chronicdiagnosiscode','Κωδ.Χρόνιας Πάθ.');

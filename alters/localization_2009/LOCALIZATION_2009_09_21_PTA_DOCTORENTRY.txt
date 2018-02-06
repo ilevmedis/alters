@@ -1,0 +1,22 @@
+pta_doctorentry.jsp.pbl_doctorruledoctorlnk.validsincedate = Από Ημερ.
+pta_doctorentry.jsp.pbl_doctorruledoctorlnk.validtilldate = Έως Ημερ.
+pta_doctorentry.jsp.pbl_doctorruledoctorlnk.doctorruleheaderid = Κανόνας Αμοιβ.
+pta_doctorentry.jsp.pbl_doctorruledisplaybox.caption = Κανόνες Αμοιβών
+
+pta_doctorentry.jsp.validations.doctorruleheaderidrequired = Συμπληρώστε Υποχρεωτικά Κανόνα Αμοιβής
+pta_doctorentry.jsp.validations.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+pta_doctorentry.jsp.validations.tilldatenotvalid = Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος
+pta_doctorentry.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+pta_doctorentry.jsp.validations.sincedate_lessthan_tilldate = Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pbl_doctorruledoctorlnk.validsincedate','Από Ημερ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pbl_doctorruledoctorlnk.validtilldate','Έως Ημερ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pbl_doctorruledoctorlnk.doctorruleheaderid','Κανόνας Αμοιβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pbl_doctorruledisplaybox.caption','Κανόνες Αμοιβών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.doctorruleheaderidrequired','Συμπληρώστε Υποχρεωτικά Κανόνα Αμοιβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.tilldatenotvalid','Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.sincedate_lessthan_tilldate','Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής');

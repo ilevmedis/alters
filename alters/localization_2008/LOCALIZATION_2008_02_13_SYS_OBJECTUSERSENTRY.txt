@@ -1,0 +1,8 @@
+﻿sys_reportentry.jsp.objectuserslink = Πρόσβαση Χρηστών
+sys_objectusersentry.jsp.griddisplaybox.caption = Ορισμός Πρόσβασης Σε Αντικείμενα
+sys_objectusersentry.jsp.sys_objectusers.ispublictoallusers = Πρόσβαση Ανεξαρτήτως Χρήστη
+sys_objectusersentry.jsp.sys_objectusers.role_selected = Πρόσβαση
+sys_objectusersentry.jsp.sys_objectusers.username = Χρήστης
+sys_objectusersentry.jsp.sys_objectusers.username_selected = Πρόσβαση
+sys_objectusersentry.jsp.sys_role.descr = Ρόλος
+sys_objectusersentry.jsp.validations.at_least_one_user_or_role_must_be_selected = Επιλέξτε Υποχρεωτικά Τουλάχιστον Ένα Χρήστη ή Ένα Ρόλο

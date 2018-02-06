@@ -1,0 +1,121 @@
+pta_parametersentry.jsp.pta_parameters.patientdebtthreshold = Κατώφλι Οφειλής Ασθενή
+
+pta_patientdebtbrowser.jsp.pagetitle = Διαχείριση Υπολοίπων Ασθενών
+pta_patientdebtbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_patientdebtbrowser.jsp.griddisplaybox.caption = Υπόλοιπα Ασθενών
+
+pta_patientdebtbrowser.jsp.lastname_criteria = Επώνυμο-Όνομα
+pta_patientdebtbrowser.jsp.visitmnemonic_criteria = Αρ.Εισιτηρίου
+pta_patientdebtbrowser.jsp.patientid_criteria = ΚΑ Ασθενή
+pta_patientdebtbrowser.jsp.InOutPatient_criteria = Εσωτ./Εξωτ.
+pta_patientdebtbrowser.jsp.patientmnemonic_criteria = Μν.Κωδ.Ασθενή
+pta_patientdebtbrowser.jsp.sinceadmissiondate_criteria = Από Ημ/νία Εισόδου
+pta_patientdebtbrowser.jsp.tilladmissiondate_criteria = Έως Ημ/νία Εισόδου
+pta_patientdebtbrowser.jsp.sincedischargedate_criteria = Από Ημ/νία Εξιτηρίου
+pta_patientdebtbrowser.jsp.tilldischargedate_criteria = Έως Ημ/νία Εξιτηρίου
+pta_patientdebtbrowser.jsp.therapondoctorid_criteria = Θεραπων Ιατρος
+pta_patientdebtbrowser.jsp.sistisasdoctorid_criteria = Συστήσας Ιατρός
+pta_patientdebtbrowser.jsp.pta_patientdebt.visitmnemonic = Αρ.Εισιτ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.patientmnemonic = Μν.Κωδ.Ασθ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.patientid = ΚΑ Ασθ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.firstname = Όνομα
+pta_patientdebtbrowser.jsp.pta_patientdebt.lastname = Επώνυμο
+pta_patientdebtbrowser.jsp.pta_patientdebt.admissiondate = Ημ.Εισαγ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.dischargedate = Ημ.Εξιτ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.theraponfirstname = Όν.Θεράπ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.theraponlastname = Επών.Θεράπ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.sistisasfirstname = Όν.Συστησ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.sistisaslastname = Επών.Συστησ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.visitdebt = Υπόλ.Περιστ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.patientdebt = Υπόλ.Ασθ.
+pta_patientdebtbrowser.jsp.pta_patientdebt.banknotedebt = Υπόλ.Αξιογρ.
+pta_patientdebtbrowser.jsp.debtcomments = Ειδοποιήσεις Υπολοίπων
+pta_patientdebtbrowser.jsp.visitdata = Κατηγ.
+pta_patientdebtbrowser.jsp.banknotedata = Αξιογ.
+
+pta_patientdebtcommententry.jsp.entrydisplaybox.caption = Σχόλια Υπολ. Ασθενών
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.commentsdate = Ημ/νία Σχολ.
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.comments = Σχόλια
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.iscreatingalert = Ειδοποίηση?
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.alertdate = Ημ/νία Ειδοπ.
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.entryuser = Χρήστης Καταχ.
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.entrydatetime = Ημ/νία Καταχ.
+
+pta_patientdebtcommententry.jsp.validations.commentdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Σχολίου
+pta_patientdebtcommententry.jsp.validations.comments_required = Συμπληρώστε Υποχρεωτικά Σχόλιο
+pta_patientdebtcommententry.jsp.validations.alertdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Ειδοποίησης
+
+pta_patientdebtvisitentry.jsp.entrydisplaybox.caption = Στοιχεια Υπολοίπου Ασθενή
+pta_patientdebtvisitentry.jsp.pta_visit.debtcategoryindicator = Κατηγορία Υπολοίπου
+pta_patientdebtvisitentry.jsp.pta_visit.ispatientcontacted = Τηλ. Επικοινωνία με Ασθενή
+
+pta_patientdebtbanknoteentry.jsp.entrydisplaybox.caption = Αξιόγραφα Περιστατικού
+pta_patientdebtbanknoteentry.jsp.credit.internaleventdate = Ημ/νία Πληρ.
+pta_patientdebtbanknoteentry.jsp.fin_banknote.banknotecode = Αρ.Αξιογράφου
+pta_patientdebtbanknoteentry.jsp.fin_banknote.banknoteexpdate = Ημ.Λήξης
+pta_patientdebtbanknoteentry.jsp.fin_banknotestatus.mnemonic = Κατάσταση
+pta_patientdebtbanknoteentry.jsp.fin_banknote.amount = Αξία
+pta_patientdebtbanknoteentry.jsp.fin_banknote.totalcredit = Πληρωμές
+pta_patientdebtbanknoteentry.jsp.fin_banknote.debt = Υπόλοιπο
+pta_patientdebtbanknoteentry.jsp.fin_banknote.debtcategoryindicator = Κατηγορία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.patientdebtthreshold','Κατώφλι Οφειλής Ασθενή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pagetitle','Διαχείριση Υπολοίπων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.griddisplaybox.caption','Υπόλοιπα Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.lastname_criteria','Επώνυμο-Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.visitmnemonic_criteria','Αρ.Εισιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.patientid_criteria','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.InOutPatient_criteria','Εσωτ./Εξωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.patientmnemonic_criteria','Μν.Κωδ.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.sinceadmissiondate_criteria','Από Ημ/νία Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.tilladmissiondate_criteria','Έως Ημ/νία Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.sincedischargedate_criteria','Από Ημ/νία Εξιτηριου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.tilldischargedate_criteria','Έως Ημ/νία Εξιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.therapondoctorid_criteria','Θεραπων Ιατρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.sistisasdoctorid_criteria','Συστήσας Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.visitmnemonic','Αρ.Εισιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.patientmnemonic','Μν.Κωδ.Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.patientid','ΚΑ Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.admissiondate','Ημ.Εισαγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.dischargedate','Ημ.Εξιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.theraponfirstname','Όν.Θεράπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.theraponlastname','Επών.Θεράπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.sistisasfirstname','Όν.Συστησ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.sistisaslastname','Επών.Συστησ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.visitdebt','Υπόλ.Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.patientdebt','Υπόλ.Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.pta_patientdebt.banknotedebt','Υπόλ.Αξιογρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.debtcomments','Ειδοποιήσεις Υπολοίπων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.visitdata','Κατηγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbrowser.jsp.banknotedata','Αξιογ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.entrydisplaybox.caption','Σχόλια Υπολ. Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.commentsdate','Ημ/νία Σχολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.iscreatingalert','Ειδοποίηση?');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.alertdate','Ημ/νία Ειδοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.entryuser','Χρήστης Καταχ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.entrydatetime','Ημ/νία Καταχ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientdebtcommententry.jsp.validations.commentdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Σχολίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientdebtcommententry.jsp.validations.comments_required','Συμπληρώστε Υποχρεωτικά Σχόλιο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientdebtcommententry.jsp.validations.alertdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Ειδοποίησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtvisitentry.jsp.entrydisplaybox.caption','Στοιχεια Υπολοίπου Ασθενή ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtvisitentry.jsp.pta_visit.debtcategoryindicator','Κατηγορία Υπολοίπου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtvisitentry.jsp.pta_visit.ispatientcontacted','Τηλ. Επικοινωνία με Ασθενή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.entrydisplaybox.caption','Αξιόγραφα Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.credit.internaleventdate','Ημ/νία Πληρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknote.banknotecode','Αρ.Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknote.banknoteexpdate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknotestatus.mnemonic','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknote.amount','Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknote.totalcredit','Πληρωμές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknote.debt','Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtbanknoteentry.jsp.fin_banknote.debtcategoryindicator','Κατηγορία');
+

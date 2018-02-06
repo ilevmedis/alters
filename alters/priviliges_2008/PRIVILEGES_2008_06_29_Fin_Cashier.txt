@@ -1,0 +1,15 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('fin_cashierbrowser.jsp.view', 'Διαχείριση Ταμείων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_cashierbrowser.jsp.print', 'Διαχείριση Ταμείων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('fin_cashierentry.jsp.view', 'Καταχώρηση Ταμείων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_cashierentry.jsp.print', 'Καταχώρηση Ταμείων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_cashierentry.jsp.insert', 'Καταχώρηση Ταμείων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_cashierentry.jsp.update', 'Καταχώρηση Ταμείων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_cashierentry.jsp.delete', 'Καταχώρηση Ταμείων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_cashierentry.jsp.insert', 1);

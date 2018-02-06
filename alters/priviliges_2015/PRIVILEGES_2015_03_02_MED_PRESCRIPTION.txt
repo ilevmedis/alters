@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionbrowser.jsp.view', 'Διαχείριση Συνταγών');
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionbrowser.jsp.print', 'Εκτύπωση Συνταγών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_prescriptionbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_prescriptionbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionentry.jsp.view', 'Ανάγνωση Συνταγών');
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionentry.jsp.print', 'Εκτύπωση Συνταγών');
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionentry.jsp.insert', 'Εισαγωγή Συνταγών');
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionentry.jsp.update', 'Μεταβολή Συνταγών');
+insert into sys_privilege(privilegeid, descr) values ('med_prescriptionentry.jsp.delete', 'Διαγραφή Συνταγών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_prescriptionentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_prescriptionentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_prescriptionentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_prescriptionentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_prescriptionentry.jsp.insert', 1);
+

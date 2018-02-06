@@ -1,0 +1,5 @@
+﻿insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'header.jsp.tools', 1, 'Εργαλεία', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'header.jsp.browsercustomization', 1, 'Παραμετροποίηση Browser', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'header.jsp.objectinspector', 1, 'Ιδιότητες Αντικειμένων', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'submitbuttons.clearcriteria', 1, 'Μηδενισμός Κριτηρίων', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'submitbuttons.accesskeys.clearcriteria', 1, 'l', '0');

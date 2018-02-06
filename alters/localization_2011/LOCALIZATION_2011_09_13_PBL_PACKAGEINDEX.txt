@@ -1,0 +1,15 @@
+pbl_packageindex.jsp.griddisplaybox.pagetitle = Επιλογή Πακέτου
+pbl_packageindex.jsp.criteriadisplaybox.caption = Επιλογή Πακέτου
+pbl_packageindex.jsp.griddisplaybox.caption = Πακέτα
+pbl_packageindex.jsp.mnemonic_criteria = Μνημ Κωδικός
+pbl_packageindex.jsp.descr_criteria = Περιγραφή
+pbl_packageindex.jsp.pbl_package.mnemonic = Μνημ Κωδικός
+pbl_packageindex.jsp.pbl_package.descr = Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.griddisplaybox.pagetitle','Επιλογή Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.criteriadisplaybox.caption','Επιλογή Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.griddisplaybox.caption','Πακέτα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.mnemonic_criteria','Μνημ Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.pbl_package.mnemonic','Μνημ Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.pbl_package.descr','Περιγραφή');

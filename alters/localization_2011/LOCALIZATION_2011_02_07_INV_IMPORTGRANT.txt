@@ -1,0 +1,9 @@
+inv_importgrant.jsp.validations.eventtype_notfound = Ο Κωδικός Κίνησης Δεν Βρέθηκε - Κωδικός Κίνησης:
+inv_importgrant.jsp.validations.store_notfound = Η Αποθήκη Δεν Βρέθηκε - Κωδικός Αποθήκης:
+inv_importgrant.jsp.validations.matrix_notfound = Η Διαδικασία Δεν Βρέθηκε
+inv_importgrant.jsp.validations.internaleventdate_required = H Ημ/νία Είναι Υποχρεωτική
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.eventtype_notfound','Ο Κωδικός Κίνησης Δεν Βρέθηκε - Κωδικός Κίνησης:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.store_notfound','Η Αποθήκη Δεν Βρέθηκε - Κωδικός Αποθήκης:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.matrix_notfound','Η Διαδικασία Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.internaleventdate_required','H Ημ/νία Είναι Υποχρεωτική');

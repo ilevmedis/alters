@@ -1,0 +1,15 @@
+inv_storeindex.jsp.criteriadisplaybox.caption = Επιλογή Αποθήκης / Τμήματος
+inv_storeindex.jsp.griddisplaybox.caption = Αποθήκες / Τμήματα
+inv_storeindex.jsp.mnemonic_criteria = Μνημ. Κωδικός
+inv_storeindex.jsp.descr_criteria = Περιγραφή
+inv_storeindex.jsp.storetype_criteria = Είδος Αποθήκης
+inv_storeindex.jsp.inv_store.mnemonic = Μνημ. Κωδικός
+inv_storeindex.jsp.inv_store.descr = Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.criteriadisplaybox.caption','Επιλογή Αποθήκης / Τμήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.griddisplaybox.caption','Αποθήκες / Τμήματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.storetype_criteria','Είδος Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.inv_store.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeindex.jsp.inv_store.descr','Περιγραφή');

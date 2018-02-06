@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_grantcancelentry.jsp.view', 'Καταχώρηση Ακύρωσης Χορήγησης (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_grantcancelentry.jsp.print', 'Καταχώρηση Ακύρωσης Χορήγησης (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_grantcancelentry.jsp.insert', 'Καταχώρηση Ακύρωσης Χορήγησης (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_grantcancelentry.jsp.update', 'Καταχώρηση Ακύρωσης Χορήγησης (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_grantcancelentry.jsp.delete', 'Καταχώρηση Ακύρωσης Χορήγησης (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_grantcancelentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_grantcancelentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_grantcancelentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_grantcancelentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_grantcancelentry.jsp.insert', 1);

@@ -1,0 +1,1 @@
+alter table pbl_visitcoverdetail add (approvaldoctorsurname varchar2(40), approvaldoctorfirstname varchar2(20), approvaldoctorcode varchar2(15));

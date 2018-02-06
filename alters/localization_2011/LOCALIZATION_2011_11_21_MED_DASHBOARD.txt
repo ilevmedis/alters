@@ -1,0 +1,111 @@
+med_dashboardentry.jsp.pagetitle = Καταχώρηση Dashboard
+med_dashboardentry.jsp.entrydisplaybox.caption = Στοιχεία Dashboard
+med_dashboardentry.jsp.med_dashboardheader.dashboardid = Κωδικός
+med_dashboardentry.jsp.med_dashboard.mnemonic = Μνημονικός
+med_dashboardentry.jsp.med_dashboard.descr = Περιγραφή
+med_dashboardentry.jsp.med_dashboard.comments = Σχόλια
+med_dashboardentry.jsp.med_dashboarditem.title = Τίτλος
+
+
+med_dashboardentry.jsp.med_dashboard.isdefault = Προεπιλεγμένο
+med_dashboardentry.jsp.objectuserslink = Πρόσβαση Χρηστών
+
+med_dashboardentry.jsp.validations.med_dashboardheader.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό
+med_dashboardentry.jsp.validations.med_dashboardheader.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+med_dashboardentry.jsp.validations.default_already_exists = Υπάρχει Ήδη Άλλο Dashboard Ορισμένο Ως Προεπιλεγμένο
+
+med_dashboarditementry.jsp.entrydisplaybox.caption = Στοιχεία Εμφάνισης
+med_dashboarditementry.jsp.med_servicemasterdisplaybox.caption = Υπηρεσίες
+med_dashboarditementry.jsp.med_obsparamdisplaybox.caption = Μετρήσεις
+med_dashboarditementry.jsp.dashboard.service_elements_label = Εμφάνιση Πολλαπλών Υπηρεσιών
+med_dashboarditementry.jsp.dashboard.obsparam_elements_label = Εμφάνιση Πολλαπλών Μετρήσεων
+
+med_dashboarditementry.jsp.med_dashboarditem.isinpanel = Ανήκει Σε Panel
+med_dashboarditementry.jsp.med_dashboarditem.isdiscplayedaschart = Απεικόνιση Ως Γράφημα
+med_dashboarditementry.jsp.med_dashboarditem.fetchallpatientdata = Δεδομένα Ασθ. Ανεξ. Νοσηλ.
+med_dashboarditementry.jsp.med_dashboarditem.noofrowsperpage = Αρ. Εγγρ. Ανά Σελ.
+med_dashboarditementry.jsp.dashboard.elements_label = Στοιχεία DashBoard
+med_dashboarditementry.jsp.med_dashboarditem.href = Δ/νση
+med_dashboarditementry.jsp.med_dashboarditem.reportid = Αναφορά
+med_dashboarditementry.jsp.med_dashboarditem.isaddingnewservice = Εισάγει Ιατρ. Υπηρ.
+med_dashboarditementry.jsp.med_dashboarditem.servicemasterid = Υπηρεσία
+med_dashboarditementry.jsp.med_dashboarditem.servicemastergroupingcode = Ομαδ. Υπηρ.
+med_dashboarditementry.jsp.med_dashboarditem.servicemasters = Πολλαπλές Υπηρεσίες
+med_dashboarditementry.jsp.med_obsparam.parameterid = Παραμ. Μέτρησης
+med_dashboarditementry.jsp.med_dashboarditem.isautorefresh = Αυτόμ. Ανανέωση
+med_dashboarditementry.jsp.med_dashboarditem.autorefreshinterval = Χρονικό Βήμα Ανανέωσης (sec)
+
+med_dashboarditementry.jsp.med_dashboarditem.reportvisitidparam = Κωδικός Κριτηρίου Νοσηλείας
+med_dashboarditementry.jsp.med_dashboarditem.reportpatientidparam = Κωδικος Κριτηριου Ασθενη
+med_dashboarditementry.jsp.med_dashboarditem.reportsincedateparam = Κωδικός Κρίτηρίου Από Ημερομηνία
+med_dashboarditementry.jsp.med_dashboarditem.reporttilldateparam = Κωδικός Κριτηρίου Έως Ημερομηνία
+
+med_dashboarditementry.jsp.validations.med_dashboarditem.isaddingnewservice_required = Επιλέξτε Υποχρεωτικά 'Εισάγει Ιατρ. Υπηρεσία'
+med_dashboarditementry.jsp.validations.med_dashboarditem.servicemasteridrequired = Επιλέξτε Υποχρεωτικά Ιατρική Υπηρεσία
+med_dashboarditementry.jsp.validations.med_dashboarditem.servicemastergroupingcode_required = Επιλέξτε Υποχρεωτικά Κωδικό Ομάδας Υπηρεσιών
+med_dashboarditementry.jsp.validations.med_dashboarditem.noofrowsperpagerequired = Συμπληρώστε Υποχρεωτικά Αριθμό Εγγραφών Ανά Σελίδα
+med_dashboarditementry.jsp.validations.med_dashboarditem.define_one_service_element = Δεν Μπορείτε Να Συμπληρώσετε Ομαδοποίηση Και Πολλαπλές Υπηρεσίες Μαζί! Παρακαλώ Διορθώστε
+med_dashboarditementry.jsp.validations.med_dashboarditem.define_one_element = Δεν Μπορείτε Να Συμπληρώσετε Ταυτόχρονα Και Υπηρεσίες Και Παράμετρους Μετρήσεων! Παρακαλώ Διορθώστε
+med_dashboarditementry.jsp.validations.med_dashboarditem.too_many_elements_defined = Συμπληρώστε Αναφορά, ή Όνομα Φόρμας ή Ιατρική Υπηρεσία ή Μέτρηση
+med_dashboarditementry.jsp.validations.med_dashboarditem.report_or_service = Συμπληρώστε Αναφορά ή Ιατρική Υπηρεσία
+med_dashboarditementry.jsp.validations.med_dashboarditem.not_compatible_with_obsparam = Το Γράφημα Είναι Συμβατό Μόνο Με Πολλαπλές Μετρήσεις. Παρακαλώ Διορθώστε
+med_dashboarditementry.jsp.validations.med_dashboarditem.not_compatible_elements = Πολλαπλές Υπηρ./Μετρήσεις Είναι Ασύμβατες Με Στοιχεία Dashboard Αναφ.,Φόρμες κλπ.Παρακαλώ Διορθώστε
+med_dashboarditementry.jsp.validations.med_dashboarditem.isaddingnewservicerequired = Συμπληρώστε Υποχρεωτικά Εισάγει Νέα Υπηρεσία
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.pagetitle','Καταχώρηση Dashboard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.entrydisplaybox.caption','Στοιχεία Dashboard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.med_dashboardheader.dashboardid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.med_dashboard.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.med_dashboard.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.med_dashboard.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.med_dashboarditem.title','Τίτλος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.med_dashboard.isdefault','Προεπιλεγμένο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboardentry.jsp.objectuserslink','Πρόσβαση Χρηστών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboardentry.jsp.validations.med_dashboardheader.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboardentry.jsp.validations.med_dashboardheader.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboardentry.jsp.validations.default_already_exists','Υπάρχει Ήδη Άλλο Dashboard Ορισμένο Ως Προεπιλεγμένο');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.entrydisplaybox.caption','Στοιχεία Εμφάνισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_servicemasterdisplaybox.caption','Υπηρεσίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_obsparamdisplaybox.caption','Μετρήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.dashboard.service_elements_label','Εμφάνιση Πολλαπλών Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.dashboard.obsparam_elements_label','Εμφάνιση Πολλαπλών Μετρήσεων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.isinpanel','Ανήκει Σε Panel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.isdiscplayedaschart','Απεικόνιση Ως Γράφημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.fetchallpatientdata','Δεδομένα Ασθ. Ανεξ. Νοσηλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.noofrowsperpage','Αρ. Εγγρ. Ανά Σελ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.dashboard.elements_label','Στοιχεία DashBoard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.href','Δ/νση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.reportid','Αναφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.isaddingnewservice','Εισάγει Ιατρ. Υπηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.servicemasterid','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.servicemastergroupingcode','Ομαδ. Υπηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.servicemasters','Πολλαπλές Υπηρεσίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_obsparam.parameterid','Παραμ. Μέτρησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.isautorefresh','Αυτόμ. Ανανέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.autorefreshinterval','Χρονικό Βήμα Ανανέωσης (sec)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.reportvisitidparam','Κωδικός Κριτηρίου Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.reportpatientidparam','Κωδικος Κριτηριου Ασθενη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.reportsincedateparam','Κωδικός Κρίτηρίου Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_dashboarditementry.jsp.med_dashboarditem.reporttilldateparam','Κωδικός Κριτηρίου Έως Ημερομηνία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.isaddingnewservice_required','Επιλέξτε Υποχρεωτικά "Εισάγει Ιατρ. Υπηρεσία"');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.servicemasteridrequired','Επιλέξτε Υποχρεωτικά Ιατρική Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.servicemastergroupingcode_required','Επιλέξτε Υποχρεωτικά Κωδικό Ομάδας Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.noofrowsperpagerequired','Συμπληρώστε Υποχρεωτικά Αριθμό Εγγραφών Ανά Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.define_one_service_element','Δεν Μπορείτε Να Συμπληρώσετε Ομαδοποίηση Και Πολλαπλές Υπηρεσίες Μαζί! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.define_one_element','Δεν Μπορείτε Να Συμπληρώσετε Ταυτόχρονα Και Υπηρεσίες Και Παράμετρους Μετρήσεων! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.too_many_elements_defined','Συμπληρώστε Αναφορά, ή Όνομα Φόρμας ή Ιατρική Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.report_or_service','Συμπληρώστε Αναφορά ή Ιατρική Υπηρεσία ή Μέτρηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.not_compatible_with_obsparam','Το Γράφημα Είναι Συμβατό Μόνο Με Πολλαπλές Μετρήσεις. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.not_compatible_elements','Πολλαπλές Υπηρ./Μετρήσεις Είναι Ασύμβατες Με Στοιχεία Dashboard Αναφ.,Φόρμες κλπ.Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_dashboarditementry.jsp.validations.med_dashboarditem.isaddingnewservicerequired','Συμπληρώστε Υποχρεωτικά Εισάγει Νέα Υπηρεσία');

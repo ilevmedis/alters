@@ -1,0 +1,15 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitbrowser.jsp.view', 'Διαχείριση Γενικής Χρεωπίστωσης (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitbrowser.jsp.print', 'Διαχείριση Γενικής Χρεωπίστωσης (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitentry.jsp.view', 'Καταχώρηση Γενικής Χρεωπίστωσης (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitentry.jsp.print', 'Καταχώρηση Γενικής Χρεωπίστωσης (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitentry.jsp.insert', 'Καταχώρηση Γενικής Χρεωπίστωσης (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitentry.jsp.update', 'Καταχώρηση Γενικής Χρεωπίστωσης (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_genericcreditdebitentry.jsp.delete', 'Καταχώρηση Γενικής Χρεωπίστωσης (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_genericcreditdebitentry.jsp.insert', 1);

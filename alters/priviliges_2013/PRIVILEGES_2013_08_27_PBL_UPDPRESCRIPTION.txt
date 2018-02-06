@@ -1,0 +1,6 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_updeprescription.jsp.view', 'Ενημέρωση eΔΑΠΥ Εξωτερικών (Προβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_updeprescription.jsp.print', 'Ενημέρωση eΔΑΠΥ Εξωτερικών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_updeprescription.jsp.update', 'Ενημέρωση eΔΑΠΥ Εξωτερικών (Αποθήκευση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_updeprescription.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_updeprescription.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_updeprescription.jsp.update', 1);

@@ -1,0 +1,26 @@
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiabrowser.jsp.view', 'Διαχείριση ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiabrowser.jsp.print', 'Εκτύπωση ΧΕ Παγίας');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiabrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiabrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiaentry.jsp.view', 'Ανάγνωση ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiaentry.jsp.print', 'Εκτύπωση ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiaentry.jsp.insert', 'Εισαγωγή ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiaentry.jsp.update', 'Μεταβολή ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiaentry.jsp.delete', 'Διαγραφή ΧΕ Παγίας');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiaentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiaentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiaentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiaentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiaentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiapayentry.jsp.view', 'Ανάγνωση Εξόφλησης ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiapayentry.jsp.print', 'Εκτύπωση Εξόφλησης ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiapayentry.jsp.insert', 'Εισαγωγή Εξόφλησης ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiapayentry.jsp.update', 'Μεταβολή Εξόφλησης ΧΕ Παγίας');
+insert into sys_privilege(privilegeid, descr) values ('plg_xep2pagiapayentry.jsp.delete', 'Διαγραφή Εξόφλησης ΧΕ Παγίας');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiapayentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiapayentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiapayentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiapayentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'plg_xep2pagiapayentry.jsp.insert', 1);

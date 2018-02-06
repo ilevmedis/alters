@@ -1,0 +1,6 @@
+fin_transpartyentry.jsp.fin_transparty.invoicetype = Τύπος Τιμολογίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.invoicetype','Τύπος Τιμολογίου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_transpartyentry.jsp.validations.invoicetyperequired','Παρακαλώ Συμπληρώστε Τύπο Τιμολογίου Για Πελάτες ή Ασφ. Φορείς');
+

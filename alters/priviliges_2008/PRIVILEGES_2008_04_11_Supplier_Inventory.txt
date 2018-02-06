@@ -1,0 +1,10 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('fin_supplierinventoryentry.jsp.view', 'Απογραφή Προμηθευτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_supplierinventoryentry.jsp.print', 'Απογραφή Προμηθευτών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_supplierinventoryentry.jsp.insert', 'Απογραφή Προμηθευτών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_supplierinventoryentry.jsp.update', 'Απογραφή Προμηθευτών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_supplierinventoryentry.jsp.delete', 'Απογραφή Προμηθευτών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_supplierinventoryentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_supplierinventoryentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_supplierinventoryentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_supplierinventoryentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_supplierinventoryentry.jsp.insert', 1);

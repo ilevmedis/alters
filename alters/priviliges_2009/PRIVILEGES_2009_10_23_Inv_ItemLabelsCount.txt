@@ -1,0 +1,2 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_itemlabelscount.jsp.view', 'Αποθήκη Barcode');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_itemlabelscount.jsp.view', 1);

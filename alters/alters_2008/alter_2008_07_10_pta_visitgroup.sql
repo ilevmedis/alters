@@ -1,0 +1,1 @@
+﻿alter table pta_visitgroup add comments varchar2(50);

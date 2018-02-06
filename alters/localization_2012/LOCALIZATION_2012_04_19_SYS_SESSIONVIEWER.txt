@@ -1,0 +1,25 @@
+sys_sessionviewer.jsp.pagetitle = Προβολή Συνδεδεμένων Χρηστών
+sys_sessionviewer.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_sessionviewer.jsp.griddisplaybox.caption = Συνδεδεμένοι Χρήστες
+sys_sessionviewer.jsp.username_criteria = Χρήστης
+sys_sessionviewer.jsp.sessionid_criteria = Κωδ. Συνεδρίας
+sys_sessionviewer.jsp.ipaddress_criteria = Διεύθυνση
+sys_sessionviewer.jsp.sessioninfo.sessionid = Κωδ. Συνεδρίας
+sys_sessionviewer.jsp.sessioninfo.username = Χρήστης
+sys_sessionviewer.jsp.sessioninfo.ipaddress = Διεύθυνση
+sys_sessionviewer.jsp.sessioninfo.logintime = Ημέρα/Ώρα Εισόδου
+sys_sessionviewer.jsp.sessioninfo.lastpingtime = Τελευταία Επικοινωνία
+sys_sessionviewer.jsp.sessioninfo.logouttime = Ημέρα/Ώρα Εξόδου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.pagetitle','Προβολή Συνδεδεμένων Χρηστών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.griddisplaybox.caption','Συνδεδεμένοι Χρήστες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.username_criteria','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessionid_criteria','Κωδ. Συνεδρίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.ipaddress_criteria','Διεύθυνση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessioninfo.sessionid','Κωδ. Συνεδρίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessioninfo.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessioninfo.ipaddress','Διεύθυνση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessioninfo.logintime','Ημέρα/Ώρα Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessioninfo.lastpingtime','Τελευταία Επικοινωνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_sessionviewer.jsp.sessioninfo.logouttime','Ημέρα/Ώρα Εξόδου');

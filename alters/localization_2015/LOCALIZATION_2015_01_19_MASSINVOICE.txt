@@ -1,0 +1,8 @@
+pbl_massinvoiceentry.jsp.clinicid_criteria = Κλινική Εισαγωγής
+pbl_massinvoiceentry.jsp.onedaystayindicator_criteria = Μονοήμερο
+pbl_massinvoiceentry.jsp.nursedept_criteria = Νοσ.Σταθμός Εισαγωγής
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_massinvoiceentry.jsp.clinicid_criteria','Κλινική Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_massinvoiceentry.jsp.onedaystayindicator_criteria','Μονοήμερο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_massinvoiceentry.jsp.nursedept_criteria','Νοσ.Σταθμός Εισαγωγής');

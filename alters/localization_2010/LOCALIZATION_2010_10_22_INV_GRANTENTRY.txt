@@ -1,0 +1,9 @@
+inv_grantentry.jsp.med_orderHeader_internaleventno = Παραγγελία Προέλευσης
+inv_grantentry.jsp.viewgenerator = Προβολή Εγγραφής Προέλευσης
+
+inv_grantentry.jsp.validations.created_from_medorder = Η Χορήγηση Έχει Δημιουργηθεί Αυτοματα Από Φαρμακευτική Αγωγή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantentry.jsp.med_orderHeader_internaleventno','Παραγγελία Προέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantentry.jsp.viewgenerator','Προβολή Εγγραφής Προέλευσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.created_from_medorder','Η Χορήγηση Έχει Δημιουργηθεί Αυτοματα Από Φαρμακευτική Αγωγή');

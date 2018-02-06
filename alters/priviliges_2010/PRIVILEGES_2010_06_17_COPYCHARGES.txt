@@ -1,0 +1,5 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_chargecopy.jsp.insert', 'Αντιγραφή Χρεώσεων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_chargecopy.jsp.view', 'Αντιγραφή Χρεώσεων (Προβολή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecopy.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecopy.jsp.view', 1);

@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourcebrowser.jsp.view', 'Διαχείριση Μητρώου Επιχορηγήσεων');
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourcebrowser.jsp.print', 'Εκτύπωση Μητρώου Επιχορηγήσεων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourcebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourcebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourceentry.jsp.view', 'Ανάγνωση Επιχορήγησης');
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourceentry.jsp.print', 'Εκτύπωση Επιχορήγησης');
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourceentry.jsp.insert', 'Εισαγωγή Επιχορήγησης');
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourceentry.jsp.update', 'Μεταβολή Επιχορήγησης');
+insert into sys_privilege(privilegeid, descr) values ('plg_fundingsourceentry.jsp.delete', 'Διαγραφή Επιχορήγησης');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourceentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourceentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourceentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourceentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_fundingsourceentry.jsp.insert', 1);

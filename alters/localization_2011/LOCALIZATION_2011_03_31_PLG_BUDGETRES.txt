@@ -1,0 +1,21 @@
+plg_budgetresentry.jsp.inveventtypeid_criteria = Κωδικός Κίνησης
+plg_budgetresentry.jsp.validations.budgetresdate_lessthan_lastbudgetresdate = Υπάρχουν Προγενέστερες Δεσμεύσεις με Μεταγενέστερη Ημερομηνία Δέσμευσης. Παρακαλώ Διορθώστε.
+plg_budgetresentry.jsp.question.create_budgetresdetailfromorders = Προσοχή: οι λογ/σμοί και οι παραγγελίες που έχετε επιλέξει θα διαγραφούν. Επιθυμείτε να συνεχίσετε;
+plg_budgetresstatusentry.jsp.validations.budgetamountexceeded = Το ποσό δέσμευσης υπερβαίνει το υπόλοιπο του προϋπολογισμού. Παρακαλώ διορθώστε.
+plg_budgetresstatusentry.jsp.validations.existsstatuslogwitholderdate = Υπάρχει καταχωρήμενη αλλαγή κατάστασης με νεότερη ημεροηνία. Παρακαλώ Διορθώστε.
+plg_budgetresstatusentry.jsp.validations.existsapprovalwitholderdate = Υπάρχει καταχωρήμενη έγκριση δέσμευσης με νεότερη ημερομηνία. Παρακαλώ Διορθώστε.
+plg_budgetresstatusentry.jsp.validations.existsapprovalwithsameapprovalno = Υπάρχει καταχωρήμενη έγκριση δέσμευσης με ίδιο Αριθμό Δέσμευσης. Παρακαλώ Διορθώστε.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.inveventtypeid_criteria','Κωδικός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.budgetresdate_lessthan_lastbudgetresdate','Υπάρχουν Προγενέστερες Δεσμεύσεις με Μεταγενέστερη Ημερομηνία Δέσμευσης. Παρακαλώ Διορθώστε.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.question.create_budgetresdetailfromorders','Προσοχή: οι λογ/σμοί και οι παραγγελίες που έχετε επιλεξει θα διαγραφούν. Επιθυμείτε να συνεχίσετε;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresstatusentry.jsp.validations.budgetamountexceeded','Το ποσό δέσμευσης υπερβαίνει το υπόλοιπο του προϋπολογισμού. Παρακαλώ διορθώστε.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresstatusentry.jsp.validations.existsstatuslogwitholderdate','Υπάρχει καταχωρήμενη αλλαγή κατάστασης με νεότερη ημεροηνία. Παρακαλώ Διορθώστε.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresstatusentry.jsp.validations.existsapprovalwitholderdate','Υπάρχει καταχωρήμενη έγκριση δέσμευσης με νεότερη ημερομηνία. Παρακαλώ Διορθώστε.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresstatusentry.jsp.validations.existsapprovalwithsameapprovalno','Υπάρχει καταχωρήμενη έγκριση δέσμευσης με ίδιο Αριθμό Δέσμευσης. Παρακαλώ Διορθώστε.');
+
+
+
+
+
+

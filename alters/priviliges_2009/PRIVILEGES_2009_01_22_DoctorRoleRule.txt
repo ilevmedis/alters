@@ -1,0 +1,27 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_doctorrolerulebrowser.jsp.view', 'Διαχείριση Βαρδιών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorrolerulebrowser.jsp.print', 'Διαχείριση Βαρδιών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorrolerulebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorrolerulebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorroleruleentry.jsp.view', 'Καταχώρηση Βάρδιας (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorroleruleentry.jsp.print', 'Καταχώρηση Βάρδιας (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorroleruleentry.jsp.insert', 'Καταχώρηση Βάρδιας (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorroleruleentry.jsp.update', 'Καταχώρηση Βάρδιας (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorroleruleentry.jsp.delete', 'Καταχώρηση Βάρδιας (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorroleruleentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorroleruleentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorroleruleentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorroleruleentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_doctorroleruleentry.jsp.insert', 1);
+
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_copydoctorrolerule.jsp.view', 'Αντιγραφή Βαρδιών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_copydoctorrolerule.jsp.print', 'Αντιγραφή Βαρδιών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_copydoctorrolerule.jsp.insert', 'Αντιγραφή Βαρδιών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_copydoctorrolerule.jsp.update', 'Αντιγραφή Βαρδιών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_copydoctorrolerule.jsp.delete', 'Αντιγραφή Βαρδιών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_copydoctorrolerule.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_copydoctorrolerule.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_copydoctorrolerule.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_copydoctorrolerule.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_copydoctorrolerule.jsp.insert', 1);

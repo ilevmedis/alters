@@ -1,0 +1,9 @@
+pbl_contractdetailentry.jsp.pbl_contractitem.perccoverindicator = Μέθοδος Υπολογισμού
+pbl_contractdetailentry.jsp.pbl_contractgroup.perccoverindicator = Μέθοδος Υπολογισμού
+pbl_contractdetailentry.jsp.pbl_contractbasicrule.perccoverindicator = Μέθοδος Υπολογισμού
+pbl_contractdetailentry.jsp.pbl_contractbasicrule.exemption = Ποσό Απαλλαγής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_contractdetailentry.jsp.pbl_contractitem.perccoverindicator','Μέθοδος Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_contractdetailentry.jsp.pbl_contractgroup.perccoverindicator','Μέθοδος Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_contractdetailentry.jsp.pbl_contractbasicrule.perccoverindicator','Μέθοδος Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_contractdetailentry.jsp.pbl_contractbasicrule.exemption','Ποσό Απαλλαγής');

@@ -1,0 +1,83 @@
+sys_hl7rulebrowser.jsp.pagetitle = Διαχείριση Κανόνων HL7
+sys_hl7rulebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_hl7rulebrowser.jsp.griddisplaybox.caption = Κανόνες Μηνυμάτων HL7
+
+sys_hl7rulebrowser.jsp.mnemonic_criteria = Μνημονικός
+sys_hl7rulebrowser.jsp.descr_criteria = Περιγραφή
+sys_hl7rulebrowser.jsp.isactive_criteria = Ενεργός
+sys_hl7rulebrowser.jsp.sys_hl7ruleheader.hl7ruleheaderid = Κωδικός
+sys_hl7rulebrowser.jsp.sys_hl7ruleheader.mnemonic = Μνημονικός
+sys_hl7rulebrowser.jsp.sys_hl7ruleheader.descr = Περιγραφή
+sys_hl7rulebrowser.jsp.sys_hl7ruleheader.isactive = Ενεργός
+
+sys_hl7ruleentry.jsp.pagetitle = Καταχώρηση Κανόνων HL7
+sys_hl7ruleentry.jsp.entrydisplaybox.caption = Στοιχεία Κανόνα
+
+sys_hl7ruleentry.jsp.sys_hl7ruleheader.hl7ruleheaderid = Κωδικός
+sys_hl7ruleentry.jsp.sys_hl7ruleheader.mnemonic = Μνημονικός
+sys_hl7ruleentry.jsp.sys_hl7ruleheader.descr = Περιγραφή
+sys_hl7ruleentry.jsp.sys_hl7ruleheader.comments = Σχόλια
+sys_hl7ruleentry.jsp.sys_hl7ruleheader.isactive = Ενεργός
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.validsincedate = Από Ημ. Ισχύος
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.validtilldate = Εως Ημ. Ισχύος
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.messagetype = Είδος Μηνύματος
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.hostname = Η/Υ Αποστολής Μηνύματος
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.portnumber = Πόρτα
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.hl7version = Εκδοση HL7
+sys_hl7ruleentry.jsp.sys_hl7ruledetail.receivingapp = Εφαρμογή
+
+sys_hl7ruleentry.jsp.validations.sys_hl7ruleheader.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό
+sys_hl7ruleentry.jsp.validations.sys_hl7ruleheader.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.atleast_onerule_required = Συμπληρώστε Υποχρεωτικά Τουλάχιστον 1 Κανόνα
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.messagetyperequired = Συμπληρώστε Υποχρεωτικά Τύπο Μηνύματος
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.hostnamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Υπολογιστή Για Αποστολή Μηνύματος
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.portnumberrequired = Συμπληρώστε Υποχρεωτικά Πόρτα Υπολογιστή
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.hl7versionrequired = Συμπληρώστε Υποχρεωτικά Έκδοση HL7
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.validtilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+sys_hl7ruleentry.jsp.validations.invalid_dates = Το Ημερολογιακό Διάστημα Δεν Είναι Έγκυρο
+sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.receivingapprequired = Συμπληρώστε Εφαρμογή Στην Οποία Αποστέλλεται Το Μήνυμα HL7
+
+erp_eventtypematrixerpeventtypematrix.jsp.syshl7ruleheader_lbl = Κανόνας Μηνύματος HL7
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.pagetitle','Διαχείριση Κανόνων HL7');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.griddisplaybox.caption','Κανόνες Μηνυμάτων HL7');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.isactive_criteria','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.sys_hl7ruleheader.hl7ruleheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.sys_hl7ruleheader.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.sys_hl7ruleheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7rulebrowser.jsp.sys_hl7ruleheader.isactive','Ενεργός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.pagetitle','Καταχώρηση Κανόνων HL7');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.entrydisplaybox.caption','Στοιχεία Κανόνα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruleheader.hl7ruleheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruleheader.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruleheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruleheader.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruleheader.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.validsincedate','Από Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.validtilldate','Εως Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.messagetype','Είδος Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.hostname','Η/Υ Αποστολής Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.portnumber','Πόρτα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.hl7version','Εκδοση HL7');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_hl7ruleentry.jsp.sys_hl7ruledetail.receivingapp','Εφαρμογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruleheader.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruleheader.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.atleast_onerule_required','Συμπληρώστε Υποχρεωτικά Τουλάχιστον 1 Κανόνα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.messagetyperequired','Συμπληρώστε Υποχρεωτικά Τύπο Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.hostnamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Υπολογιστή Για Αποστολή Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.portnumberrequired','Συμπληρώστε Υποχρεωτικά Πόρτα Υπολογιστή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.hl7versionrequired','Συμπληρώστε Υποχρεωτικά Έκδοση HL7');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.validtilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.invalid_dates','Το Ημερολογιακό Διάστημα Δεν Είναι Έγκυρο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_hl7ruleentry.jsp.validations.sys_hl7ruledetail.receivingapprequired','Συμπληρώστε Εφαρμογή Στην Οποία Αποστέλλεται Το Μήνυμα HL7');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'erp_eventtypematrixerpeventtypematrix.jsp.syshl7ruleheader_lbl','Κανόνας Μηνύματος HL7');

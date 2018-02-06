@@ -1,0 +1,7 @@
+pta_visitadmissionbrowser.jsp.menuitems.medvisitsecurity = Ασφάλεια Περιστ.
+pta_oupvisitbrowser.jsp.menuitems.medvisitsecurity = Ασφάλεια Περιστ.
+pta_bedbrowser.jsp.menuitems.medvisitsecurity = Ασφάλεια Περιστ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitadmissionbrowser.jsp.menuitems.medvisitsecurity','Ασφάλεια Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitbrowser.jsp.menuitems.medvisitsecurity','Ασφάλεια Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.menuitems.medvisitsecurity','Ασφάλεια Περιστ.');

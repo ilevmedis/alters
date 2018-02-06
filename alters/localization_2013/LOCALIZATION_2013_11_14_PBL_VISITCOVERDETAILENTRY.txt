@@ -1,0 +1,13 @@
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.insurancecategoryindicator = Ασφαλ.Ικανότητα
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctortaxno = ΑΦΜ Συνταγ. Ιατρού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctorid = Ελεγκτής Ιατρός
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.europeaninsuranceid = Ευρ.Φορέας Ασφάλ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.directinsuredssn = ΑΜΚΑ Αμ.Ασφαλ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.insurancecategoryindicator','Ασφαλ.Ικανότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctortaxno','ΑΦΜ Συνταγ. Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctorid','Ελεγκτής Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.europeaninsuranceid','Ευρ.Φορέας Ασφάλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.directinsuredssn','ΑΜΚΑ Αμ.Ασφαλ.');
+
+

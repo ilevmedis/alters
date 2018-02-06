@@ -1,0 +1,13 @@
+pta_visitentry.jsp.pbl_visitcoverdetail.issuggestingpricelist = Ληψ.Τιμ
+pta_visitentry.jsp.validations.more_than_one_suggestedpricelist_found = Μόνο Ενας Φορέας Μπορεί Να Κάνει Λήψη Τιμοκαταλόγου. Παρακαλώ Διορθώστε
+pbl_visitcoverdetailentry.jsp.pbl_visictoverdetail.insurancebookno = Αρ.Βιβλιάρ
+pta_oupvisitentry.jsp.pbl_visitcoverdetail.issuggestingpricelist = Ληψ.Τιμ
+pta_oupvisitentry.jsp.validations.more_than_one_suggestedpricelist_found = Μόνο Ενας Φορέας Μπορεί Να Κάνει Λήψη Τιμοκαταλόγου. Παρακαλώ Διορθώστε
+
+delete from SYS_LOCALIZATION where LOCALIZATIONKEY = 'pta_oupvisitentry.jsp.pbl_visictoverdetail.insurancebookno';
+delete from SYS_LOCALIZATION where LOCALIZATIONKEY = 'pta_visitentry.jsp.pbl_visictoverdetail.insurancebookno';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_visitcoverdetail.issuggestingpricelist','Ληψ.Τιμ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.more_than_one_suggestedpricelist_found','Μόνο Ενας Φορέας Μπορεί Να Κάνει Λήψη Τιμοκαταλόγου. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visictoverdetail.insurancebookno','Αρ.Βιβλιάρ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_visitcoverdetail.issuggestingpricelist','Ληψ.Τιμ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.more_than_one_suggestedpricelist_found','Μόνο Ενας Φορέας Μπορεί Να Κάνει Λήψη Τιμοκαταλόγου. Παρακαλώ Διορθώστε');

@@ -1,0 +1,47 @@
+sys_reportentry.jsp.sys_reportcolumn.iseditable = Ενημέρωση Από Το Χρήστη
+sys_reportentry.jsp.sys_reportcolumn.isrequired = Υποχρεωτικό Πεδίο
+sys_reportentry.jsp.sys_reportcolumn.componenttype = Είδος Πεδιου Εμφάνισης
+sys_reportentry.jsp.sys_reportcolumn.ismetadatadropdown = DropDown Από SYS_METADATA
+sys_reportentry.jsp.sys_reportcolumn.metadataid = Κωδικός Τιμής Πίνακα SYS_METADATA
+sys_reportentry.jsp.sys_reportcolumn.sysmetadatasincevalue = Από Τιμή Επιλογής
+sys_reportentry.jsp.sys_reportcolumn.sysmetadatatillvalue = Έως Τιμή Επιλογής
+sys_reportentry.jsp.sys_reportcolumn.dropdowntablename = Όνομα Πίνακα Λήψης Τιμών
+sys_reportentry.jsp.sys_reportcolumn.dropdowntablecriteria = Φίλτρο Λήψης Εγγραφών Πίνακα
+sys_reportentry.jsp.sys_reportcolumn.dropdownkeycolumn = Πεδίο Πίνακα Κλειδιού
+sys_reportentry.jsp.sys_reportcolumn.dropdowndisplaycolumn = Πεδίο Πίνακα Προβολής
+sys_reportentry.jsp.sys_reportcolumn.isdropdowncompanydependent = Φίλτρο Εγγραφών Με Κριτήριο Την Εταιρεία
+sys_reportentry.jsp.sys_reportcolumn.isdropdownfyeardependent = Φίλτρο Εγγραφών Με Κριτήριο Το Έτος
+sys_reportentry.jsp.sys_reportcolumn.size = Μέγεθος Πεδίου
+sys_reportentry.jsp.sys_reportcolumn.maxlength = Μέγιστο Μέγεθος Πεδίου
+sys_reportentry.jsp.sys_reportcolumn.scale = Ακρίβεια Δεκαδικών
+sys_reportentry.jsp.sys_reportcolumn.readonly = Readonly
+sys_reportentry.jsp.sys_reportcolumn.enabled = Enabled
+sys_reportentry.jsp.sys_reportcolumn.mnemonicdatasource = Πεδιο Μν. Κωδ.
+sys_reportentry.jsp.sys_reportcolumn.descriptiondatasource = Πεδίο Περιγρ.
+sys_reportentry.jsp.sys_reportcolumn.searchfielddatasource = Πεδιο Προσθ. Πεδιου
+sys_reportentry.jsp.sys_reportcolumn.lookupcomponent = Lookup Επιλογής
+sys_reportentry.jsp.sys_reportcolumn.lookupextraparams = Άλλοι Παράμετροι Lookup
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.iseditable','Ενημέρωση Από Το Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.isrequired','Υποχρεωτικό Πεδίο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.componenttype','Είδος Πεδιου Εμφάνισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.ismetadatadropdown','DropDown Από SYS_METADATA');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.metadataid','Κωδικός Τιμής Πίνακα SYS_METADATA');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.sysmetadatasincevalue','Από Τιμή Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.sysmetadatatillvalue','Έως Τιμή Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.dropdowntablename','Όνομα Πίνακα Λήψης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.dropdowntablecriteria','Φίλτρο Λήψης Εγγραφών Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.dropdownkeycolumn','Πεδίο Πίνακα Κλειδιού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.dropdowndisplaycolumn','Πεδίο Πίνακα Προβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.isdropdowncompanydependent','Φίλτρο Εγγραφών Με Κριτήριο Την Εταιρεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.isdropdownfyeardependent','Φίλτρο Εγγραφών Με Κριτήριο Το Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.size','Μέγεθος Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.maxlength','Μέγιστο Μέγεθος Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.scale','Ακρίβεια Δεκαδικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.readonly','Readonly');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.enabled','Enabled');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.mnemonicdatasource','Πεδιο Μν. Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.descriptiondatasource','Πεδίο Περιγρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.searchfielddatasource','Πεδιο Προσθ. Πεδιου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.lookupcomponent','Lookup Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.lookupextraparams','Άλλοι Παράμετροι Lookup');

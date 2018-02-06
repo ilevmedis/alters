@@ -1,0 +1,15 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('prs_personelbrowser.jsp.view', 'Διαχείριση Στοιχείων Προσωπικού (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('prs_personelbrowser.jsp.print', 'Διαχείριση Στοιχείων Προσωπικού (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('prs_personelentry.jsp.view', 'Καταχώρηση Στοιχείων Προσωπικού (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('prs_personelentry.jsp.print', 'Καταχώρηση Στοιχείων Προσωπικού (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('prs_personelentry.jsp.insert', 'Καταχώρηση Στοιχείων Προσωπικού (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('prs_personelentry.jsp.update', 'Καταχώρηση Στοιχείων Προσωπικού (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('prs_personelentry.jsp.delete', 'Καταχώρηση Στοιχείων Προσωπικού (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'prs_personelentry.jsp.insert', 1);

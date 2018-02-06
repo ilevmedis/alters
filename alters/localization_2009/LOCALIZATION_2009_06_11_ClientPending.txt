@@ -1,0 +1,54 @@
+﻿pta_visitentry.jsp.clientpendinglink = Εκκρεμότητες Ασθενή
+
+pbl_clientpendingviewer.jsp.clientvisittotalsgriddisplaybox.caption = Υπόλοιπα Ασθενή Ανά Νοσηλεία
+pbl_clientpendingviewer.jsp.pendingbanknotesgriddisplaybox.caption = Εκκρεμότητες Αξιογράφων
+pbl_clientpendingviewer.jsp.visitcoverdetaildisplaybox.caption = Ασφαλιστικές Εκκρεμότητες
+
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.fyearmnemonic = Έτος
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.visitmnemonic = Περιστατικό
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.admissiondate = Ημ/νία Εισ.
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.dischargedate = Ημ/νία Εξιτ.
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.amountdebit = Χρέωση
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.amountcredit = Πίστωση
+pbl_clientpendingviewer.jsp.pbl_clientvisittotals.balance = Υπόλοιπο
+pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.internaleventdate = Ημ/νία Είσπρ
+pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.internaleventno = Αρ. Κίνησης
+pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.banknotecode = Αρ. Αξιογράφου
+pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.banknoteexpdate = Ημ/νία Λήξης
+pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.amount = Αξία
+pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.visitmnemonic = Περιστατικό 
+pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.admissiondate = Ημ/νία Εισ.
+pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.dischargedate = Ημ/νία Εξιτ.
+pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.pendingdescr = Περιγραφή Εκκρεμότητας
+
+pbl_clientpendingviewer.jsp.validations.patient_not_defined = Δεν Είναι Ορισμένος Ο Ασθενής
+pbl_clientpendingviewer.jsp.validations.fintransparty_not_defined = Δεν Είναι Ορισμένος Ο Πελάτης
+pta_visitentry.jsp.validations.client_has_pending = ΠΡΟΣΟΧΗ!!! Ο Ασθενής Έχει Εκκρεμότητες
+pta_oupvisitentry.jsp.validations.client_has_pending = ΠΡΟΣΟΧΗ!!! Ο Ασθενής Έχει Εκκρεμότητες
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.clientpendinglink','Εκκρεμότητες Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.clientvisittotalsgriddisplaybox.caption','Υπόλοιπα Ασθενή Ανά Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.fyearmnemonic','Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.visitmnemonic','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.admissiondate','Ημ/νία Εισ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.dischargedate','Ημ/νία Εξιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.amountdebit','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.amountcredit','Πίστωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_clientvisittotals.balance','Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pendingbanknotesgriddisplaybox.caption','Εκκρεμότητες Αξιογράφων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.visitcoverdetaildisplaybox.caption','Ασφαλιστικές Εκκρεμότητες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.internaleventdate','Ημ/νία Είσπρ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.banknotecode','Αρ. Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.banknoteexpdate','Ημ/νία Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_pendingbanknotes.amount','Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.visitmnemonic','Περιστατικό ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.admissiondate','Ημ/νία Εισ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.dischargedate','Ημ/νία Εξιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientpendingviewer.jsp.pbl_visitcoverdetail.pendingdescr','Περιγραφή Εκκρεμότητας');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientpendingviewer.jsp.validations.patient_not_defined','Δεν Είναι Ορισμένος Ο Ασθενής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientpendingviewer.jsp.validations.fintransparty_not_defined','Δεν Είναι Ορισμένος Ο Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.client_has_pending','ΠΡΟΣΟΧΗ!!! Ο Ασθενής Έχει Εκκρεμότητες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.client_has_pending','ΠΡΟΣΟΧΗ!!! Ο Ασθενής Έχει Εκκρεμότητες');

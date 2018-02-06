@@ -1,0 +1,12 @@
+sys_changeorderstorefyear.jsp.invstoreid = Παραγγέλων Τμήμα
+sys_changeorderstorefyear.jsp.relativestoreid = Προς Αποθήκη
+sys_changeorderstorefyear.jsp.sinceinternaleventdate_criteria = Από Ημ/νία Παραγγελίας
+sys_changeorderstorefyear.jsp.tillinternaleventdate_criteria = Έως Ημ/νία Παραγγελίας
+
+update sys_localization
+  set message = 'Παραγγέλων Τμήμα'
+where localizationkey = 'sys_changeorderstorefyear.jsp.invstoreid';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.relativestoreid','Προς Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.sinceinternaleventdate_criteria','Από Ημ/νία Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.tillinternaleventdate_criteria','Έως Ημ/νία Παραγγελίας');

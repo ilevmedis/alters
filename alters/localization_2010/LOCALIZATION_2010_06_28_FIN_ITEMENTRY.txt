@@ -1,0 +1,5 @@
+fin_itementry.jsp.validations.vatidoutpatients_required = Συμπληρώστε Υποχρεωτικά Κατηγ. ΦΠΑ Εξωτερικών Ασθενών
+fin_itementry.jsp.fin_item.vatidoutpatients = ΦΠΑ Εξ. Ασθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'fin_itementry.jsp.validations.vatidoutpatients_required','Συμπληρώστε Υποχρεωτικά Κατηγ. ΦΠΑ Εξωτερικών Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'fin_itementry.jsp.fin_item.vatidoutpatients','ΦΠΑ Εξ. Ασθ.');

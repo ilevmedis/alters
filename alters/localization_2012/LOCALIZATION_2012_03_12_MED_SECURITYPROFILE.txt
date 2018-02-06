@@ -1,0 +1,49 @@
+med_securityprofilebrowser.jsp.pagetitle = Διαχείριση Προφίλ Ασφάλειας Ιατρ.
+med_securityprofilebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_securityprofilebrowser.jsp.griddisplaybox.caption = Προφίλ Ασφάλειας Ιατρ.
+
+med_securityprofilebrowser.jsp.mnemonic_criteria = Μνημ. Κωδικός
+med_securityprofilebrowser.jsp.descr_criteria = Περιγραφή
+med_securityprofilebrowser.jsp.isactive_criteria = Ενεργός
+med_securityprofilebrowser.jsp.med_securityprofile.securityprofileid = Κωδικός
+med_securityprofilebrowser.jsp.med_securityprofile.mnemonic = Μνημ. Κωδικός
+med_securityprofilebrowser.jsp.med_securityprofile.descr = Περιγραφή
+med_securityprofilebrowser.jsp.med_securityprofile.isactive = Ενεργός
+
+med_securityprofileentry.jsp.pagetitle = Καταχώρηση Προφίλ Ασφάλειας Ιατρ.
+med_securityprofileentry.jsp.entrydisplaybox.caption = Στοιχεία Προφίλ Ασφάλειας Ιατρ.
+
+med_securityprofileentry.jsp.med_securityprofile.securityprofileid = Κωδικός
+med_securityprofileentry.jsp.med_securityprofile.mnemonic = Μνημ. Κωδικός
+med_securityprofileentry.jsp.med_securityprofile.descr = Περιγραφή
+med_securityprofileentry.jsp.med_securityprofile.comments = Σχόλια
+med_securityprofileentry.jsp.med_securityprofile.isactive = Ενεργό
+med_securityprofileentry.jsp.med_securityprofile.isdefault = Προεπιλεγμένο
+
+med_securityprofileentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό
+med_securityprofileentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.pagetitle','Διαχείριση Προφίλ Ασφάλειας Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.griddisplaybox.caption','Προφίλ Ασφάλειας Ιατρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.isactive_criteria','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.med_securityprofile.securityprofileid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.med_securityprofile.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.med_securityprofile.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofilebrowser.jsp.med_securityprofile.isactive','Ενεργός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.pagetitle','Καταχώρηση Προφίλ Ασφάλειας Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.entrydisplaybox.caption','Στοιχεία Προφίλ Ασφάλειας Ιατρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.med_securityprofile.securityprofileid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.med_securityprofile.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.med_securityprofile.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.med_securityprofile.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.med_securityprofile.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityprofileentry.jsp.med_securityprofile.isdefault','Προεπιλεγμένο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_securityprofileentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_securityprofileentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');

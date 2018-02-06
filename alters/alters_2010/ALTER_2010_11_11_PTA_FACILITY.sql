@@ -1,0 +1,1 @@
+alter table PTA_FACILITY add INOUTPATIENTINDICATOR number(38);

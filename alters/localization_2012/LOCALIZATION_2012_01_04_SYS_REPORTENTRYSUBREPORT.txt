@@ -1,0 +1,16 @@
+sys_reportentrysubreport.jsp.pagetitle = Επιλογή Αναφοράς (SubReport)
+sys_reportentrysubreport.jsp.subreportdisplaybox.caption = Αναφορά και Ζεύγη Κριτηρίου/Στήλης
+sys_reportentrysubreport.jsp.reportid = Αναφορά
+sys_reportentrysubreport.jsp.columnname = Στήλη
+sys_reportentrysubreport.jsp.criterianame = Κριτήριο
+
+sys_reportentrysubreport.jsp.validations.reportid_required = Συμπληρώστε Υποχρεωτικά Αναφορά
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysubreport.jsp.pagetitle','Επιλογή Αναφοράς (SubReport)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysubreport.jsp.subreportdisplaybox.caption','Αναφορά και Ζεύγη Κριτηρίου/Στήλης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysubreport.jsp.reportid','Αναφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysubreport.jsp.columnname','Στήλη ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysubreport.jsp.criterianame','Κριτήριο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentrysubreport.jsp.validations.reportid_required','Συμπληρώστε Υποχρεωτικά Αναφορά');
+

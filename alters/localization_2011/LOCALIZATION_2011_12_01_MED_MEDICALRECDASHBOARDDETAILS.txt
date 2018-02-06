@@ -1,0 +1,8 @@
+med_medicalrecdashboarddetails.jsp.entrydisplaybox.caption = Ημερολ.Διάστημα
+med_medicalrecdashboarddetails.jsp.displayboxtitle_sincedate = Από
+med_medicalrecdashboarddetails.jsp.displayboxtitle_tilldate = Έως
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboarddetails.jsp.entrydisplaybox.caption','Ημερολ.Διάστημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboarddetails.jsp.displayboxtitle_sincedate','Από');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboarddetails.jsp.displayboxtitle_tilldate','Έως');
+

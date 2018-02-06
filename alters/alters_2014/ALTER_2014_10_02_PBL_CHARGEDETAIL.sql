@@ -1,0 +1,1 @@
+alter table PBL_CHARGEDETAIL add EPRESCRSEQUENCENUMBER number(38);

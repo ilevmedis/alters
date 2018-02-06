@@ -1,0 +1,9 @@
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.clawbackperccalc = Ποσοστό Υπολ. Claw Back/Rebate
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.clawbackperccover = Ποσοστό Κάλ. Claw Back/Rebate
+
+pbl_visitcoverdetailentry.jsp.validations.error_in_clawback = Το Σύνολο Του Ποσοστού Κάλυψης Claw Back / Rebate Είναι Λανθασμένο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.clawbackperccalc','Ποσοστό Υπολ. Claw Back/Rebate');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.clawbackperccover','Ποσοστό Κάλ. Claw Back/Rebate');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitcoverdetailentry.jsp.validations.error_in_clawback','Το Σύνολο Του Ποσοστού Κάλυψης Claw Back / Rebate Είναι Λανθασμένο');

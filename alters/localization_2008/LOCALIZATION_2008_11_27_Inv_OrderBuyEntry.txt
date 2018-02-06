@@ -1,0 +1,21 @@
+﻿inv_orderbuyentry.jsp.tabs.page1 = Είδη Παραγγελίας
+inv_orderbuyentry.jsp.tabs.page2 = Λοιπά Στοιχεία Παραγγελίας
+inv_orderbuyentry.jsp.inv_transheader.orderrecipient = Παραλήπτης Παραγγελίας
+inv_orderbuyentry.jsp.inv_transheader.orderfaxno = Αρ. FAX
+inv_orderbuyentry.jsp.inv_transheader.orderpersonid = Αγοραστής
+inv_orderbuyentry.jsp.inv_transheader.recipientpersonid = Υπεύθυνος Παραλαβής
+inv_orderbuyentry.jsp.inv_transheader.expectedpurchasedate = Επιθυμητή Ημ/νία Παραλαβής
+inv_orderbuyentry.jsp.inv_transheader.comments = Σημειώσεις
+inv_orderbuyentry.jsp.inv_transheader.paymentagreementheaderid = Συμφ.Πληρωμής
+inv_buyentry.jsp.inv_transheader.recipientpersonid = Αγοραστής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.tabs.page1','Είδη Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.tabs.page2','Λοιπά Στοιχεία Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderrecipient','Παραλήπτης Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderfaxno','Αρ. FAX');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderpersonid','Αγοραστής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.recipientpersonid','Υπεύθυνος Παραλαβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.expectedpurchasedate','Επιθυμητή Ημ/νία Παραλαβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.comments','Σημειώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.paymentagreementheaderid','Συμφ.Πληρωμής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.inv_transheader.recipientpersonid','Αγοραστής');

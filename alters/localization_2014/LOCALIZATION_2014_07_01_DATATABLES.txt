@@ -1,0 +1,13 @@
+HtmlDataTable.fetchNextPage = Επόμενες
+HtmlDataTable.fetchAllData = Όλες Οι Εγγραφές
+HtmlDataTable.notAllRowsFetched = (Δεν Αναγνώστηκαν Όλες Οι Εγγραφές)
+JspDataTable.fetchNextPage = Επόμενες
+JspDataTable.fetchAllData = Όλες Οι Εγγραφές
+JspDataTable.notAllRowsFetched = (Δεν Αναγνώστηκαν Όλες Οι Εγγραφές)
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'HtmlDataTable.fetchNextPage','Επόμενες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'HtmlDataTable.fetchAllData','Όλες Οι Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'HtmlDataTable.notAllRowsFetched','(Δεν Αναγνώστηκαν Όλες Οι Εγγραφές)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'JspDataTable.fetchNextPage','Επόμενες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'JspDataTable.fetchAllData','Όλες Οι Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'JspDataTable.notAllRowsFetched','(Δεν Αναγνώστηκαν Όλες Οι Εγγραφές)');

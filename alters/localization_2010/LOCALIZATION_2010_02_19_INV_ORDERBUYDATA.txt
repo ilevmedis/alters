@@ -1,0 +1,9 @@
+inv_orderbuydata.jsp.qua = Απόθεμα Αποθ.
+inv_orderbuydata.jsp.quaorder = Ανεκτ. Παραγγελίες
+
+inv_orderbuyentry.jsp.inv_openitemdetail.totalquabinded = Ποσ.Εκτ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuydata.jsp.qua','Απόθεμα Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuydata.jsp.quaorder','Ανεκτ. Παραγγελίες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_openitemdetail.totalquabinded','Ποσ.Εκτ.');

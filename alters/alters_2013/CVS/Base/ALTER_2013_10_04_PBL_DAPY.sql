@@ -1,0 +1,2 @@
+alter table PBL_DAPY drop constraint PBL_REQHEADER_PBL_DAPY_FK;
+alter table PBL_DAPY add constraint PBL_REQ_HEADER_PBL_DAPY foreign key (REQHEADERID, COMPANYID) references pbl_reqheader (REQHEADERID, COMPANYID) on delete cascade;

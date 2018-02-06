@@ -1,0 +1,2 @@
+alter table pbl_chargeheader modify (orderdoctorfirstname varchar2(50), orderdoctorsurname varchar2(50));
+alter table med_orderheader modify (orderdoctorfirstname varchar2(50), orderdoctorsurname varchar2(50));

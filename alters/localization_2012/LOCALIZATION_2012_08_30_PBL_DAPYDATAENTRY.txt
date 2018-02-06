@@ -1,0 +1,62 @@
+pbl_dapydataentry.jsp.entrydisplaybox.caption = Στοιχεία ΔΑΠΥ
+pbl_dapydataentry.jsp.med_orderheader.dapyvisittypeindicator = Τύπος Παραπεμπτικού
+pbl_dapydataentry.jsp.med_orderheader.orderorganisationcode = Κδ.Μον.Υγ.Παραπεμπτικού
+pbl_dapydataentry.jsp.med_orderheader.orderdoctorfirstname = Όν.Συνταγ.Ιατρού
+pbl_dapydataentry.jsp.med_orderheader.orderdoctorsurname = Επων.Συνταγ.Ιατρού
+pbl_dapydataentry.jsp.med_orderheader.orderdoctorcode = Κδ.ΤΣΑΥ Συνταγ.Ιατρού
+pbl_dapydataentry.jsp.med_orderheader.orderdoctorid = Συνταγ.Ιατρός
+pbl_dapydataentry.jsp.med_orderheader.approvaldoctorsurname = Επων.Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.med_orderheader.approvaldoctorfirstname = Όν.Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.med_orderheader.approvaldoctorcode = Κδ.ΤΣΑΥ Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.med_orderheader.refapprovaldate = Ημερομηνία έγκρισης
+pbl_dapydataentry.jsp.med_orderheader.referenceno = Αριθμός Παραπεμπτικού
+pbl_dapydataentry.jsp.med_orderheader.issuedate = Ημερομηνία έκδοσης
+
+pbl_dapydataentry.jsp.entrydisplaybox.caption = Στοιχεία ΔΑΠΥ
+pbl_dapydataentry.jsp.pbl_chargeheader.dapyvisittypeindicator = Τύπος Παραπεμπτικού
+pbl_dapydataentry.jsp.pbl_chargeheader.orderorganisationcode = Κδ.Μον.Υγ.Παραπεμπτικού
+pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorfirstname = Όν.Συνταγ.Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorsurname = Επων.Συνταγ.Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorcode = Κδ.ΤΣΑΥ Συνταγ.Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorid = Συνταγ.Ιατρός
+pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorsurname = Επων.Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorfirstname = Όν.Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorcode = Κδ.ΤΣΑΥ Ελεγκτή Ιατρού
+pbl_dapydataentry.jsp.pbl_chargeheader.refapprovaldate = Ημερομηνία έγκρισης
+pbl_dapydataentry.jsp.pbl_chargeheader.referenceno = Αριθμός Παραπεμπτικού
+pbl_dapydataentry.jsp.pbl_chargeheader.issuedate = Ημερομηνία έκδοσης
+
+med_orderentry.jsp.dapydatalookup = Στοιχεία ΔΑΠΥ
+pta_oupvisitentry.jsp.dapydatalookup = Στοιχεία ΔΑΠΥ
+pbl_chargeentry.jsp.dapydatalookup = Στοιχεία ΔΑΠΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.entrydisplaybox.caption','Στοιχεία ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.dapyvisittypeindicator','Τύπος Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.orderorganisationcode','Κδ.Μον.Υγ.Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.orderdoctorfirstname','Όν.Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.orderdoctorsurname','Επων.Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.orderdoctorcode','Κδ.ΤΣΑΥ Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.orderdoctorid','Συνταγ.Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.approvaldoctorsurname','Επων.Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.approvaldoctorfirstname','Όν.Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.approvaldoctorcode','Κδ.ΤΣΑΥ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.refapprovaldate','Ημερομηνία έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.referenceno','Αριθμός Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.issuedate','Ημερομηνία έκδοσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.dapyvisittypeindicator','Τύπος Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.orderorganisationcode','Κδ.Μον.Υγ.Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorfirstname','Όν.Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorsurname','Επων.Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorcode','Κδ.ΤΣΑΥ Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.orderdoctorid','Συνταγ.Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorsurname','Επων.Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorfirstname','Όν.Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.approvaldoctorcode','Κδ.ΤΣΑΥ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.refapprovaldate','Ημερομηνία έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.referenceno','Αριθμός Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.issuedate','Ημερομηνία έκδοσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.dapydatalookup','Στοιχεία ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.dapydatalookup','Στοιχεία ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.dapydatalookup','Στοιχεία ΔΑΠΥ');

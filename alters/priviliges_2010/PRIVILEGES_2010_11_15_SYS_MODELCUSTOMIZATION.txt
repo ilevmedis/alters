@@ -1,0 +1,14 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationbrowser.jsp.view', 'Ανάγνωση Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationbrowser.jsp.print', 'Εκτύπωση Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationbrowser.jsp.print', 1);
+insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationentry.jsp.view', 'Ανάγνωση Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationentry.jsp.print', 'Εκτύπωση Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationentry.jsp.insert', 'Εισαγωγή Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationentry.jsp.update', 'Μεταβολή Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_privilege(privilegeid, descr) values ('sys_modelcustomizationentry.jsp.delete', 'Διαγραφή Παραμετροποίησης Μοντέλων Δεδομένων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_modelcustomizationentry.jsp.insert', 1);

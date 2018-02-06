@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('src_parametersentry.jsp.view', 'Παράμετροι Προμήθειας (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_parametersentry.jsp.insert', 'Παράμετροι Προμήθειας (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('src_parametersentry.jsp.update', 'Παράμετροι Προμήθειας (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('src_parametersentry.jsp.delete', 'Παράμετροι Προμήθειας (Διαγραφή)');
+insert into sys_privilege(privilegeid, descr) values ('src_parametersentry.jsp.print', 'Παράμετροι Προμήθειας (Εκτύπωση)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'src_parametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'src_parametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'src_parametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'src_parametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'src_parametersentry.jsp.insert', 1);

@@ -1,0 +1,5 @@
+pta_visitentry.jsp.messages.choose_selected_patient = Επιλογή Αυτού Του Ασθενή
+pta_visitentry.jsp.messages.goto_search_page = Αναζήτηση Ασθενή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.messages.goto_search_page','Αναζήτηση Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.messages.choose_selected_patient','Επιλογή Αυτού Του Ασθενή');

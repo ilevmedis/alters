@@ -1,0 +1,1 @@
+﻿alter table pbl_package modify mnemonic varchar2(20);

@@ -1,0 +1,7 @@
+med_messagebrowser.jsp.pta_visit.mnemonic = Μνημ.Κωδ.
+med_messagebrowser.jsp.pta_visit.lastname = Επώνυμο
+med_messagebrowser.jsp.pta_visit.firstname = Όνομα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.pta_visit.mnemonic','Μνημ.Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.pta_visit.firstname','Όνομα');

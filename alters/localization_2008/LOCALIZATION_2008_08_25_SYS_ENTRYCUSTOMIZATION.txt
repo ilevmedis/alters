@@ -1,0 +1,42 @@
+﻿header.jsp.entrycustomization = Παραμετροποίηση Entry
+sys_entrycustomization.jsp.pagetitle = Μορφή Συμπλήρωσης Πρόσθετων Πεδίων Φόρμας
+sys_entrycustomization.jsp.entrydisplaybox.caption = Διαμόρφωση Συμπλήρωσης Πρόσθετων Πεδίων Φόρμας
+sys_entrycustomization.jsp.additionalfieldcriteriadisplaybox.caption = Επιλογή Πεδίων
+sys_entrycustomization.jsp.additionalfieldgriddisplaybox.caption = Επιλογή Πεδίων
+sys_entrycustomization.jsp.tabs.page1 = Διαμόρφωση Φόρμας
+sys_entrycustomization.jsp.tabs.page2 = Προεπισκόπηση Μορφής
+sys_entrycustomization.jsp.tabs.page3 = Προσθήκη Πεδίων
+sys_entrycustomization.jsp.mnemonic_criteria = Μνημ. Κωδικός
+sys_entrycustomization.jsp.descr_criteria = Περιγραφή
+sys_entrycustomization.jsp.sys_additionalfield.additionalfieldid = Κωδ.Εγγραφής
+sys_entrycustomization.jsp.sys_additionalfield.mnemonic = Μνημ. Κωδικός
+sys_entrycustomization.jsp.sys_additionalfield.descr = Περιγραφή
+sys_entrycustomization.jsp.sys_additionalfield.checked = Επιλογή
+sys_entrycustomization.jsp.validations.entrycontroller_error = Η Διαμόρφωση Συμπλήρωσης Πρόσθετων Πεδιων Καλείται Μόνο Από Φόρμες Καταχώρησης Δεδομένων
+submitbuttons.additionalfield = Πρόσθετα Δεδομένα
+sys_entryadditionalfield.jsp.entrydisplaybox.caption = Συμπλήρωση Πρόσθετων Δεδομένων
+ = Η Συμπλήρωση Πρόσθετων Πεδιων Καλείται Μόνο Από Φόρμες Καταχώρησης Δεδομένων
+sys_entryadditionalfield.jsp.validations.undefined_customization = Δεν Έχει Συμπληρωθεί Μορφή Συμπλήρωσης Πρόσθετων Πεδιων
+sys_entryadditionalfield.jsp.validations.required_field = Συμπληρώστε Το Υποχρεωτικό Πεδίο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'header.jsp.entrycustomization','Παραμετροποίηση Entry');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.pagetitle','Μορφή Συμπλήρωσης Πρόσθετων Πεδίων Φόρμας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.entrydisplaybox.caption','Διαμόρφωση Συμπλήρωσης Πρόσθετων Πεδίων Φόρμας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.additionalfieldcriteriadisplaybox.caption','Επιλογή Πεδίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.additionalfieldgriddisplaybox.caption','Επιλογή Πεδίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.tabs.page1','Διαμόρφωση Φόρμας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.tabs.page2','Προεπισκόπηση Μορφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.tabs.page3','Προσθήκη Πεδίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.sys_additionalfield.additionalfieldid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.sys_additionalfield.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.sys_additionalfield.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.sys_additionalfield.checked','Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_entrycustomization.jsp.validations.entrycontroller_error','Η Διαμόρφωση Συμπλήρωσης Πρόσθετων Πεδιων Καλείται Μόνο Από Φόρμες Καταχώρησης Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.additionalfield','Πρόσθετα Δεδομένα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entryadditionalfield.jsp.entrydisplaybox.caption','Συμπλήρωση Πρόσθετων Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_entryadditionalfield.jsp.validations.entrycontroller_error','Η Διαμόρφωση Συμπλήρωσης Πρόσθετων Πεδιων Καλείται Μόνο Από Φόρμες Καταχώρησης Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_entryadditionalfield.jsp.validations.undefined_customization','Δεν Έχει Συμπληρωθεί Μορφή Συμπλήρωσης Πρόσθετων Πεδιων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_entryadditionalfield.jsp.validations.required_field','Συμπληρώστε Το Υποχρεωτικό Πεδίο');
+

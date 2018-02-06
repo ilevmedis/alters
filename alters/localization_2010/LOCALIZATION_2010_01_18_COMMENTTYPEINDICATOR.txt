@@ -1,0 +1,5 @@
+pta_patientdebtcommententry.jsp.pta_patientdebtcomment.commenttypeindicator = Κατηγ.Σχολίου
+pta_patientdebtcommententry.jsp.validations.commenttypeindicatorrequired = Συμπληρώστε Υποχρεωτικά Κατηγ. Σχολίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientdebtcommententry.jsp.pta_patientdebtcomment.commenttypeindicator','Κατηγ.Σχολίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientdebtcommententry.jsp.validations.commenttypeindicatorrequired','Συμπληρώστε Υποχρεωτικά Κατηγ. Σχολίου');

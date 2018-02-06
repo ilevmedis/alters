@@ -1,0 +1,27 @@
+inv_orderbuyentry.jsp.orderstore_include = Επιλογή
+inv_orderbuyentry.jsp.orderlink = Συνδ.Παρ.Τμ.
+
+inv_orderstoreentry.jsp.orderbuylink = Συνδ.Παρ.Προμ.
+
+inv_orderstoreorderbuylinkviewer.jsp.inv_transheader.internaleventdate = Ημ/νία
+inv_orderstoreorderbuylinkviewer.jsp.inv_transheader.internaleventno = Αρ.Κίνησης
+inv_orderstoreorderbuylinkviewer.jsp.griddisplaybox.caption = Συνδ. Παρ. Προμηθευτών
+
+inv_orderbuyentry.jsp.validations.itemsmustbeemptyexception = Δεν Πρέπει Να Υπάρχουν Συμπληρωμένα Είδη Για Επιλέξετε Παραγγελίες
+inv_orderbuyentry.jsp.validations.orderquaexceededexception = Υπέρβαση Ποσότητας Παραγγελίας
+inv_orderbuyentry.jsp.questions.orderclosed = Δεν Έχει Υπόλοιπο Προς Εκτέλεση, Να Κλείσει;
+inv_orderbuyentry.jsp.questions.orderopen = Έχει Υπόλοιπο Προς Εκτέλεση, Να Κλείσει;
+inv_orderbuyentry.jsp.questions.order = Η Παραγγελία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.orderstore_include','Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.orderlink','Συνδ.Παρ.Τμ. ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.orderbuylink','Συνδ.Παρ.Προμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreorderbuylinkviewer.jsp.inv_transheader.internaleventdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreorderbuylinkviewer.jsp.inv_transheader.internaleventno','Αρ.Κίνησης ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.itemsmustbeemptyexception','Δεν Πρέπει Να Υπάρχουν Συμπληρωμένα Είδη Για Επιλέξετε Παραγγελίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.orderquaexceededexception','Υπέρβαση Ποσότητας Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.questions.orderclosed','Δεν Έχει Υπόλοιπο Προς Εκτέλεση, Να Κλείσει;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.questions.orderopen','Έχει Υπόλοιπο Προς Εκτέλεση, Να Κλείσει;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.questions.order','Η Παραγγελία');

@@ -1,0 +1,71 @@
+med_creategrantsfromworklist.jsp.pagetitle = Μετατροπή Φαρμ. Αγωγής Σε Χορηγήσεις
+med_creategrantsfromworklist.jsp.tabs.page1 = Λίστα Εργασίας (Φάρμακα)
+med_creategrantsfromworklist.jsp.tabs.page2 = Χορηγήσεις
+med_creategrantsfromworklist.jsp.criteriadisplaybox.caption = Κριτήρια Αναζητησης
+med_creategrantsfromworklist.jsp.creategrants = Δημιουργία Χορηγήσεων
+med_creategrantsfromworklist.jsp.griddisplaybox.caption = Λίστα Εργασίας (Φάρμακα)
+med_creategrantsfromworklist.jsp.orderreceiptfacilityid_criteria = Τμήμα
+med_creategrantsfromworklist.jsp.sincedate_criteria = Από Ημερομηνία
+med_creategrantsfromworklist.jsp.tilldate_criteria = Έως Ημερομηνία
+med_creategrantsfromworklist.jsp.med_orderdetail.orderdate = Ημ/νία Παραγγ.
+med_creategrantsfromworklist.jsp.med_orderheader.internaleventno = Αρ.Παραγγ.
+med_creategrantsfromworklist.jsp.med_orderdetail.scheduledate = Ημ/νία Προγρ/σμού
+med_creategrantsfromworklist.jsp.inv_item.displaydescr = Φάρμακο
+med_creategrantsfromworklist.jsp.pta_visit.mnemonic = Αρ.Νοσηλείας
+med_creategrantsfromworklist.jsp.pta_visit.lastname = Επώνυμο
+med_creategrantsfromworklist.jsp.pta_visit.firstname = Όνομα
+med_creategrantsfromworklist.jsp.med_orderheader.priorityindicator = Προτεραιότητα
+med_creategrantsfromworklist.jsp.med_orderdetail.serviceorderstatus = Κατάσταση
+med_creategrantsfromworklist.jsp.med_orderperson.name = Παραγγέλων
+
+med_creategrantsfromworklist.jsp.grantdatadisplaybox.caption = Στοιχεία Δημιουργίας Χορηγήσεων
+med_creategrantsfromworklist.jsp.inv_transheader.descr = Αιτιολογία
+med_creategrantsfromworklist.jsp.inv_eventtype.mnemonic = Κωδ.Κιν.Αποθήκης
+med_creategrantsfromworklist.jsp.erp_eventtype.mnemonic = Διαδικασία
+med_creategrantsfromworklist.jsp.grantgriddisplaybox.caption = Χορηγήσεις
+med_creategrantsfromworklist.jsp.inv_transheader.internaleventno = Αρ. Κίνησης
+med_creategrantsfromworklist.jsp.inv_transheader.internaleventdate = Ημ/νία
+med_creategrantsfromworklist.jsp.grant.pta_visit.firstname = Όνομα
+med_creategrantsfromworklist.jsp.grant.pta_visit.lastname = Επώνυμο
+med_creategrantsfromworklist.jsp.grant.pta_visit.mnemonic = Κωδ. Νοσ.
+
+med_creategrantsfromworklist.jsp.validations.facilityrequired = Συμπληρώστε Υποχρεωτικά Τμήμα
+med_creategrantsfromworklist.jsp.validations.sincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημ/νία
+med_creategrantsfromworklist.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημ/νία
+med_creategrantsfromworklist.jsp.validations.eventtype_required = Συμπληρώστε Υποχρεωτικά Διαδικασία - Κωδικό Κινησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.pagetitle','Μετατροπή Φαρμ. Αγωγής Σε Χορηγήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.tabs.page1','Λίστα Εργασίας (Φάρμακα)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.tabs.page2','Χορηγήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.criteriadisplaybox.caption','Κριτήρια Αναζητησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.creategrants','Δημιουργία Χορηγήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.griddisplaybox.caption','Λίστα Εργασίας (Φάρμακα)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.orderreceiptfacilityid_criteria','Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.sincedate_criteria','Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.tilldate_criteria','Έως Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.med_orderdetail.orderdate','Ημ/νία Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.med_orderheader.internaleventno','Αρ.Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.med_orderdetail.scheduledate','Ημ/νία Προγρ/σμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.inv_item.displaydescr','Φάρμακο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.pta_visit.mnemonic','Αρ.Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.med_orderheader.priorityindicator','Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.med_orderdetail.serviceorderstatus','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.med_orderperson.name','Παραγγέλων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.grantdatadisplaybox.caption','Στοιχεία Δημιουργίας Χορηγήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.inv_transheader.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.inv_eventtype.mnemonic','Κωδ.Κιν.Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.grantgriddisplaybox.caption','Χορηγήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.inv_transheader.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.inv_transheader.internaleventdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.grant.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.grant.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_creategrantsfromworklist.jsp.grant.pta_visit.mnemonic','Κωδ. Νοσ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_creategrantsfromworklist.jsp.validations.facilityrequired','Συμπληρώστε Υποχρεωτικά Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_creategrantsfromworklist.jsp.validations.sincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_creategrantsfromworklist.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_creategrantsfromworklist.jsp.validations.eventtype_required','Συμπληρώστε Υποχρεωτικά Διαδικασία - Κωδικό Κινησης');

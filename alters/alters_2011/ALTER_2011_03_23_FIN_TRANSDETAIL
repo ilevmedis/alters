@@ -1,0 +1,8 @@
+alter table fin_transdetail add constraint pbl_repaydt_fintrdt_fk
+  foreign key(reqpaydetailid, companyid, fyearid)
+  references pbl_reqpaydetail(reqpaydetailid, companyid, fyearid);
+
+create index pbl_repaydt_fintrdt_fk on fin_transdetail (reqpaydetailid, companyid, fyearid);
+
+create index fin_trdt_evt_date on fin_transdetail(companyid, transacteeindicator,
+  internaleventdate, eventtypeindicator);

@@ -1,0 +1,5 @@
+﻿pta_entrancebook.comments = Σχόλια
+pta_oupentrancebookprint.jsp.pta_entrancebook.comments = Σχόλια
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebook.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupentrancebookprint.jsp.pta_entrancebook.comments','Σχόλια');

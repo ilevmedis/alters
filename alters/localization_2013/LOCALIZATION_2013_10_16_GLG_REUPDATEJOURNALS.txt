@@ -1,0 +1,7 @@
+glg_reupdatejournals.jsp.messages.noofrows = Αρ. Εγγραφών
+glg_reupdatejournals.jsp.validations.error_occurred = Παρουσιάστηκε Σφάλμα Κατά Τη Διαδικασία Ενημερέρωσης
+messages.stopjob = Διακοπή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_reupdatejournals.jsp.messages.noofrows','Αρ. Εγγραφών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_reupdatejournals.jsp.validations.error_occurred','Παρουσιάστηκε Σφάλμα Κατά Τη Διαδικασία Ενημερέρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'messages.stopjob','Διακοπή');

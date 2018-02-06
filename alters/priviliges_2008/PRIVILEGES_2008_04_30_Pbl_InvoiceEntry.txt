@@ -1,0 +1,10 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_invoiceentry.jsp.view', 'Ασύνδετη Τιμολόγηση (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_invoiceentry.jsp.print', 'Ασύνδετη Τιμολόγηση (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_invoiceentry.jsp.insert', 'Ασύνδετη Τιμολόγηση (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_invoiceentry.jsp.update', 'Ασύνδετη Τιμολόγηση (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_invoiceentry.jsp.delete', 'Ασύνδετη Τιμολόγηση (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoiceentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoiceentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoiceentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoiceentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoiceentry.jsp.insert', 1);

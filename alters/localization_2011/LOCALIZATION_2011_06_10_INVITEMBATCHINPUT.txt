@@ -1,0 +1,58 @@
+inv_itembatchinputentry.jsp.pagetitle = Καταχώρηση Ειδών Αποθήκης Από Excel
+inv_itembatchinputentry.jsp.entrydisplaybox.caption = Στοιχεία Ενοποίησης
+
+inv_itembatchinputentry.jsp.invitem_batchinput.unitofmeasureid = Κύρια Μ.Μ
+inv_itembatchinputentry.jsp.invitem_batchinput.vatid = ΦΠΑ Αγορών
+inv_itembatchinputentry.jsp.invitem_batchinput.invitemglggroupid = Λογ/κή Ομάδα
+inv_itembatchinputentry.jsp.invitem_batchinput.itemtype = Κατηγ.Είδους
+inv_itembatchinputentry.jsp.invitem_batchinput.isactive = Ενεργό
+inv_itembatchinputentry.jsp.invitem_batchinput.isbilledtopatients = Χρεούμενο Είδος
+inv_itembatchinputentry.jsp.jsp.invitem_batchinput.useitemcodes = Έλεγχος Διπλοεγγρ. Μέσω Εναλ.Κωδ.
+inv_itembatchinputentry.jsp.jsp.invitem_batchinput.invitemcoding = Εναλλακτικός Κωδικός
+inv_itembatchinputentry.jsp.jsp.pricelist_batchinput.filename = Όνομα Αρχείου
+
+inv_itembatchinputentry.jsp.message.procedure_successfull = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+inv_itembatchinputentry.jsp.message.procedure_unsuccessfull = Η Διαδικασία Δεν Ολοκληρώθηκε
+
+inv_itembatchinputentry.jsp.validations.filename_required = Επιλέξτε Υποχρεωτικά Αρχείο
+inv_itembatchinputentry.jsp.validations.unitofmeasureid_required = Συμπληρώστε Μονάδα Μέτρησης
+inv_itembatchinputentry.jsp.validations.wrong_invitem_mnemonic = Εσφαλμένος Μνημονικός Κωδικός Είδους
+inv_itembatchinputentry.jsp.validations.invitem_mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό Είδους
+inv_itembatchinputentry.jsp.validations.empty_excel_file = Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε
+inv_itembatchinputentry.jsp.validations.wrong_invitemcoding = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση
+inv_itembatchinputentry.jsp.validations.vatidrequired = Συμπληρώστε Υποχρεωτικά Κωδικό ΦΠΑ
+inv_itembatchinputentry.jsp.validations.glggroupidrequired = Συμπληρώστε Υποχρεωτικά Λογιστική Ομάδα
+inv_itembatchinputentry.jsp.validations.itemtyperequired = Συμπληρώστε Υποχρεωτικά Κατηγορία Είδους
+inv_itembatchinputentry.jsp.validations.wrong_itemcode = Εσφαλμένος Εναλλακτικός Κωδικός
+inv_itembatchinputentry.jsp.validations.itemcode_exists = Ο Εναλλακτικός Κωδικός Υπάρχει Ήδη
+inv_itembatchinputentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή Είδους
+inv_itembatchinputentry.jsp.validations.inv_item.mnemonic_exists = Ο Μνημονικός Κωδικός Του Είδους Υπάρχει Ήδη
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.pagetitle','Καταχώρηση Ειδών Αποθήκης Από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.entrydisplaybox.caption','Στοιχεία Ενοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.invitem_batchinput.unitofmeasureid','Κύρια Μ.Μ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.invitem_batchinput.vatid','ΦΠΑ Αγορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.invitem_batchinput.invitemglggroupid','Λογ/κή Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.invitem_batchinput.itemtype','Κατηγ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.invitem_batchinput.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.invitem_batchinput.isbilledtopatients','Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.jsp.invitem_batchinput.useitemcodes','Έλεγχος Διπλοεγγρ. Μέσω Εναλ.Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.jsp.invitem_batchinput.invitemcoding','Εναλλακτικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.jsp.pricelist_batchinput.filename','Όνομα Αρχείου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.message.procedure_successfull','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembatchinputentry.jsp.message.procedure_unsuccessfull','Η Διαδικασία Δεν Ολοκληρώθηκε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.filename_required','Επιλέξτε Υποχρεωτικά Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.unitofmeasureid_required','Συμπληρώστε Μονάδα Μέτρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.wrong_invitem_mnemonic','Εσφαλμένος Μνημονικός Κωδικός Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.invitem_mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.empty_excel_file','Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.wrong_invitemcoding','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.vatidrequired','Συμπληρώστε Υποχρεωτικά Κωδικό ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.glggroupidrequired','Συμπληρώστε Υποχρεωτικά Λογιστική Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.itemtyperequired','Συμπληρώστε Υποχρεωτικά Κατηγορία Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.wrong_itemcode','Εσφαλμένος Εναλλακτικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.itemcode_exists','Ο Εναλλακτικός Κωδικός Υπάρχει Ήδη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itembatchinputentry.jsp.validations.inv_item.mnemonic_exists','Ο Μνημονικός Κωδικός Του Είδους Υπάρχει Ήδη');

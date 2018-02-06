@@ -1,0 +1,52 @@
+﻿inv_importbuys.jsp.pagetitle = Εισαγωγή Δεδομένων Αγορών Από Excel
+inv_importbuys.jsp.criteriadisplaybox.caption = Ορισμός Αρχείου
+inv_importbuys.jsp.importexcel_submit = Εισαγωγή Δεδομένων
+inv_importbuys.jsp.importbuys = Αρχείο
+inv_importbuys.jsp.griddisplaybox.caption = Στοιχεία Αγορών
+inv_importbuys.jsp.inv_transheader.internaleventdate = Ημ/νία Κίνησης
+inv_importbuys.jsp.inv_transheader.internaleventno = Αρ. Κίνησης
+inv_importbuys.jsp.fin_transparty.mnemonic = Κωδ. Προμηθ.
+inv_importbuys.jsp.fin_transparty.name = Επωνυμία
+inv_importbuys.jsp.inv_transheader.externaleventtype = Παρ. Προμηθ.
+inv_importbuys.jsp.inv_transheader.externaleventno = Αρ. Παρ.
+inv_importbuys.jsp.inv_transheader.externaleventdate = Ημ. Παρ. Προμηθ.
+inv_importbuys.jsp.inv_transheader.descr = Αιτιολογία
+inv_importbuys.jsp.inv_transheader.netamount = Καθ. Αξία
+inv_importbuys.jsp.inv_transheader.totalamount = Συνολ. Αξία
+
+inv_importbuys.jsp.validations.storemnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημ.Κωδ.Αποθήκης
+inv_importbuys.jsp.validations.internaleventdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Παραλαβής
+inv_importbuys.jsp.validations.eventtypemnemonic_required = Συμπληρώστε Υποχρεωτικά Κωδ.Κίνησης
+inv_importbuys.jsp.validations.fintransparty_required = Συμπληρώστε Υποχρεωτικά Προμηθευτή (Κωδικό ή ΑΦΜ)
+inv_importbuys.jsp.validations.externaleventtype_required = Συμπληρώστε Υποχρεωτικά Τύπο Παρ/κού Προμηθευτή
+inv_importbuys.jsp.validations.externaleventno_required = Συμπληρώστε Υποχρεωτικά Αρ.Παρ/κού Προμηθευτή
+inv_importbuys.jsp.validations.externaleventdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Παρ/κού Προμηθευτή
+inv_importbuys.jsp.validations.qua_required = Συμπληρώστε Υποχρεωτικά Ποσότητα
+inv_importbuys.jsp.validations.duplicate_externaleventno = Υπάρχει Ήδη Καταχωρημένη Εγγραφή Με Τον Ίδιο Αριθμό Παραστατικού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.pagetitle','Εισαγωγή Δεδομένων Αγορών Από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.criteriadisplaybox.caption','Ορισμός Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.importexcel_submit','Εισαγωγή Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.importbuys','Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.griddisplaybox.caption','Στοιχεία Αγορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.fin_transparty.mnemonic','Κωδ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.fin_transparty.name','Επωνυμία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.externaleventtype','Παρ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.externaleventno','Αρ. Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.externaleventdate','Ημ. Παρ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.netamount','Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importbuys.jsp.inv_transheader.totalamount','Συνολ. Αξία');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.storemnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημ.Κωδ.Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.internaleventdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Παραλαβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.eventtypemnemonic_required','Συμπληρώστε Υποχρεωτικά Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.fintransparty_required','Συμπληρώστε Υποχρεωτικά Προμηθευτή (Κωδικό ή ΑΦΜ)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.externaleventtype_required','Συμπληρώστε Υποχρεωτικά Τύπο Παρ/κού Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.externaleventno_required','Συμπληρώστε Υποχρεωτικά Αρ.Παρ/κού Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.externaleventdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Παρ/κού Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.qua_required','Συμπληρώστε Υποχρεωτικά Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importbuys.jsp.validations.duplicate_externaleventno','Υπάρχει Ήδη Καταχωρημένη Εγγραφή Με Τον Ίδιο Αριθμό Παραστατικού');

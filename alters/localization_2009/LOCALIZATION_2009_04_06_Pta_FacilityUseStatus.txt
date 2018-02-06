@@ -1,0 +1,15 @@
+﻿pta_facilityentry.jsp.userdisplaybox.caption = Ορισμός Πρόσβασης Χρηστών
+pta_facilityentry.jsp.usestatusdisplaybox.caption = Ημερολογιακή Κατάσταση Χρήσης
+pta_facilityentry.jsp.pta_facilityusestatus.sincedate = Από Ημ/νία
+pta_facilityentry.jsp.pta_facilityusestatus.tilldate = Έως Ημ/νία
+pta_facilityentry.jsp.pta_facilityusestatus.usestatus = Κατάσταση Χρήσης
+
+pta_facilityentry.jsp.validations.sincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.userdisplaybox.caption','Ορισμός Πρόσβασης Χρηστών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.usestatusdisplaybox.caption','Ημερολογιακή Κατάσταση Χρήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facilityusestatus.sincedate','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facilityusestatus.tilldate','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facilityusestatus.usestatus','Κατάσταση Χρήσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilityentry.jsp.validations.sincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία');

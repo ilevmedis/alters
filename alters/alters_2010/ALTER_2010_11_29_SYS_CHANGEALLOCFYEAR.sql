@@ -1,0 +1,1 @@
+create index SINCEALLOCDATE_STATUS_NDX on RSC_RESOURCEALLOCATION (companyid, fyearid, sinceallocationdate);

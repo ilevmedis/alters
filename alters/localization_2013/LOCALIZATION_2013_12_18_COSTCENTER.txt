@@ -1,0 +1,5 @@
+fin_suppliercreditentry.jsp.fin_transdetail.fincostcenterid = Κέντρο Κόστους
+inv_buyentry.jsp.inv_transheader.costcenterid = Κέντρο Κόστους
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.fincostcenterid','Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.inv_transheader.costcenterid','Κέντρο Κόστους');

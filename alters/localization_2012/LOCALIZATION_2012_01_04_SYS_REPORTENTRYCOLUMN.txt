@@ -1,0 +1,5 @@
+sys_reportentrycolumn.jsp.pagetitle = Επιλογή Στήλης
+sys_reportentrycolumn.jsp.reportcolumnsdisplaybox.caption = Στήλες Αναφοράς
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrycolumn.jsp.pagetitle','Επιλογή Στήλης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrycolumn.jsp.reportcolumnsdisplaybox.caption','Στήλες Αναφοράς');

@@ -1,0 +1,11 @@
+inv_alternativedrug.jsp.pagetitle = Επιλογή Εναλλακτικού-Αντικ/μου Είδους
+inv_alternativedrug.jsp.griddisplaybox.caption = Εναλλακτικά-Αντικ/μα Είδη
+inv_alternativedrug.jsp.inv_item.mnemonic = Μν. Κωδ.
+inv_alternativedrug.jsp.inv_item.displaydescr = Περιγραφή
+inv_itemindex.jsp.alternativedrug = Εναλλακτικά-Αντικ/μα Είδη
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_alternativedrug.jsp.pagetitle','Επιλογή Εναλλακτικού-Αντικ/μου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_alternativedrug.jsp.griddisplaybox.caption','Εναλλακτικά-Αντικ/μα Είδη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_alternativedrug.jsp.inv_item.mnemonic','Μν. Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_alternativedrug.jsp.inv_item.displaydescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemindex.jsp.alternativedrug','Εναλλακτικά-Αντικ/μα Είδη');

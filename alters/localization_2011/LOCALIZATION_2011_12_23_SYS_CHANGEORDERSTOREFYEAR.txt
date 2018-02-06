@@ -1,0 +1,24 @@
+sys_changeorderstorefyear.jsp.pagetitle = Μεταφορά Παραγγελιών Ορόφων Στο Νέο Έτος
+sys_changeorderstorefyear.jsp.messagedisplaybox.caption = Στοιχεία Μεταφοράς
+sys_changeorderstorefyear.jsp.fyear = Οικονομικό Έτος Αντλησης Στοιχειων
+sys_changeorderstorefyear.jsp.transfer = Μεταφορά
+sys_changeorderstorefyear.jsp.internaleventdate_criteria = Νέα Ημερομηνία Παραγγελιών
+sys_changeorderstorefyear.jsp.invstoreid = Αποθήκη
+
+sys_changeorderstorefyear.jsp.successfullcompletion = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+sys_changeorderstorefyear.jsp.errorsfound = Βρέθηκαν Σφάλματα Κατά Τη Μεταφορά
+sys_changeorderstorefyear.jsp.fyearrequired = Συμπληρώστε Υποχρεωτικά Έτος
+sys_changeorderstorefyear.jsp.noordersfound = Δεν Βρέθηκαν Παραγγελίες Ορόφων Για Μεταφορά
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.pagetitle','Μεταφορά Παραγγελιών Ορόφων Στο Νέο Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.messagedisplaybox.caption','Στοιχεία Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.fyear','Οικονομικό Έτος Αντλησης Στοιχειων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.transfer','Μεταφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.internaleventdate_criteria','Νέα Ημερομηνία Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeorderstorefyear.jsp.invstoreid','Αποθήκη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeorderstorefyear.jsp.successfullcompletion','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeorderstorefyear.jsp.errorsfound','Βρέθηκαν Σφάλματα Κατά Τη Μεταφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeorderstorefyear.jsp.fyearrequired','Συμπληρώστε Υποχρεωτικά Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeorderstorefyear.jsp.noordersfound','Δεν Βρέθηκαν Παραγγελίες Ορόφων Για Μεταφορά');

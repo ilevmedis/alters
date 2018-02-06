@@ -1,0 +1,20 @@
+pbl_visitinvoiceentry.jsp.changedisplaybox.caption = Υπολογισμός Ποσού Για Ρέστα
+pbl_visitinvoiceentry.jsp.fin_transdebit.totalamount = Σύνολο Οφειλής
+pbl_visitinvoiceentry.jsp.fin_transheader.amountpayed = Ποσό Είσπραξης
+pbl_visitinvoiceentry.jsp.fin_transheader.change = Ρέστα
+pbl_parametersentry.jsp.pbl_parameters.iscalculatingchange = Οθόνη Υπολογισμού Ποσού Για Ρέστα
+
+pbl_invoiceentry.jsp.changedisplaybox.caption = Υπολογισμός Ποσού Για Ρέστα
+pbl_invoiceentry.jsp.fin_transdebit.totalamount = Σύνολο Οφειλής
+pbl_invoiceentry.jsp.fin_transheader.amountpayed = Ποσό Είσπραξης
+pbl_invoiceentry.jsp.fin_transheader.change = Ρέστα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.changedisplaybox.caption','Υπολογισμός Ποσού Για Ρέστα ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.fin_transdebit.totalamount','Σύνολο Οφειλής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.fin_transheader.amountpayed','Ποσό Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.fin_transheader.change','Ρέστα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.iscalculatingchange','Οθόνη Υπολογισμού Ποσού Για Ρέστα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.changedisplaybox.caption','Υπολογισμός Ποσού Για Ρέστα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transdebit.totalamount','Σύνολο Οφειλής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transheader.amountpayed','Ποσό Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transheader.change','Ρέστα');

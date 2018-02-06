@@ -1,0 +1,33 @@
+med_servicestatuslogentry.jsp.pagetitle = Αλλαγή Κατάστασης Ιατρικών Υπηρεσιών
+med_servicestatuslogentry.jsp.entrydisplaybox.caption = Καταστάσεις Ιατρικής Υπηρεσίας
+med_servicestatuslogentry.jsp.entrydisplaybox.caption
+med_servicestatuslogentry.jsp.med_servicestatuslog.logdate = Ημερομηνία Αλλαγής Κατάστασης
+med_servicestatuslogentry.jsp.med_servicestatuslog.logtime = Ωρα Αλλαγής Κατάστασης
+med_servicestatuslogentry.jsp.med_servicestatuslog.newservicestatusid = Νέα Κατάσταση
+med_servicestatuslogentry.jsp.med_servicestatuslog.logusername = Χρήστης
+
+med_servicestatuslogentry.jsp.validations.med_servicestatuslog.logdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Αλλαγής Κατάστασης
+med_servicestatuslogentry.jsp.validations.med_servicestatuslog.newservicestatusidrequired = Συμπληρώστε Υποχρεωτικά Νέα Κατάσταση
+
+
+med_medicalrecbrowser.jsp.med_medicalstatus.mnemonic = Κατάσταση
+
+med_medicalrecentry.jsp.med_service.medicalstatusid = Κατάσταση
+
+med_medicalrecentry.jsp.validations.med_service.medicalstatusidrequired = Συμπληρώστε Υποχρεωτικά Κατάσταση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.pagetitle','Αλλαγή Κατάστασης Ιατρικών Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.entrydisplaybox.caption','Καταστάσεις Ιατρικής Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.med_servicestatuslog.logdate','Ημερομηνία Αλλαγής Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.med_servicestatuslog.logtime','Ωρα Αλλαγής Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.med_servicestatuslog.newservicestatusid','Νέα Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.med_servicestatuslog.logusername','Χρήστης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicestatuslogentry.jsp.validations.med_servicestatuslog.logdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Αλλαγής Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicestatuslogentry.jsp.validations.med_servicestatuslog.newservicestatusidrequired','Συμπληρώστε Υποχρεωτικά Νέα Κατάσταση');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_medicalstatus.mnemonic','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_service.medicalstatusid','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.med_service.medicalstatusidrequired','Συμπληρώστε Υποχρεωτικά Κατάσταση');

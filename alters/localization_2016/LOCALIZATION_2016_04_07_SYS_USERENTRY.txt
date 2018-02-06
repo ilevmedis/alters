@@ -1,0 +1,33 @@
+sys_userentry.jsp.isaccountlocked = Κλειδωμένος Λογαριασμός
+sys_userentry.jsp.changepasswordonfirstlogon = Αλλαγή Συνθηματικού Στην Είσοδο
+sys_userentry.jsp.passwordmaxage = Αρ, Ημερών Διάρκειας Συνθηματικού
+sys_userentry.jsp.lastpasswordchange = Τελευταία Αλλαγή Συνθηματικού
+
+sys_userentry.jsp.login.logdate = Ημ/νία - Ώρα
+sys_userentry.jsp.login.remoteaddress = Διεύθυνση
+sys_userentry.jsp.loginfailed.logdate = Ημ/νία - Ώρα
+sys_userentry.jsp.loginfailed.remoteaddress = Διεύθυνση
+sys_userentry.jsp.accountlocked.logdate = Ημ/νία - Ώρα
+sys_userentry.jsp.accountlocked.remoteaddress = Διεύθυνση
+
+sys_userentry.jsp.page1 = Ρόλοι Χρήστη
+sys_userentry.jsp.page2 = Εισαγωγή
+sys_userentry.jsp.page3 = Αποτυχία Εισαγωγής
+sys_userentry.jsp.page4 = Κλειδώματα Λογ/σμού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.isaccountlocked','Κλειδωμένος Λογαριασμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.changepasswordonfirstlogon','Αλλαγή Συνθηματικού Στην Είσοδο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.passwordmaxage','Αρ, Ημερών Διάρκειας Συνθηματικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.lastpasswordchange','Τελευταία Αλλαγή Συνθηματικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.login.logdate','Ημ/νία - Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.login.remoteaddress','Διεύθυνση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.loginfailed.logdate','Ημ/νία - Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.loginfailed.remoteaddress','Διεύθυνση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.accountlocked.logdate','Ημ/νία - Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.accountlocked.remoteaddress','Διεύθυνση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.page1','Ρόλοι Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.page2','Εισαγωγή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.page3','Αποτυχία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.page4','Κλειδώματα Λογ/σμού');

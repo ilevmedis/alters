@@ -1,0 +1,6 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_updcanceleprescription.jsp.view', 'Ενημέρωση Ακύρωσης eΔΑΠΥ Εξωτερικών (Προβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_updcanceleprescription.jsp.print', 'Ενημέρωση Ακύρωσης eΔΑΠΥ Εξωτερικών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_updcanceleprescription.jsp.update', 'Ενημέρωση Ακύρωσης eΔΑΠΥ Εξωτερικών (Αποθήκευση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_updcanceleprescription.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_updcanceleprescription.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_updcanceleprescription.jsp.update', 1);

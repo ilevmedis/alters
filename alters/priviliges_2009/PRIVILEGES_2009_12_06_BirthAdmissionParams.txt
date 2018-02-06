@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_birthadmissionparamsentry.jsp.view', 'Παράμετροι Δημιουργίας Εισαγ. Από Νεογνά (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_birthadmissionparamsentry.jsp.print', 'Παράμετροι Δημιουργίας Εισαγ. Από Νεογνά (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_birthadmissionparamsentry.jsp.insert', 'Παράμετροι Δημιουργίας Εισαγ. Από Νεογνά (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_birthadmissionparamsentry.jsp.update', 'Παράμετροι Δημιουργίας Εισαγ. Από Νεογνά (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_birthadmissionparamsentry.jsp.delete', 'Παράμετροι Δημιουργίας Εισαγ. Από Νεογνά (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_birthadmissionparamsentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_birthadmissionparamsentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_birthadmissionparamsentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_birthadmissionparamsentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_birthadmissionparamsentry.jsp.insert', 1);

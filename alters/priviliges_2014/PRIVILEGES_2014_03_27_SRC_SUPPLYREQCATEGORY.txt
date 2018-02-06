@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategorybrowser.jsp.view', 'Διαχείριση Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategorybrowser.jsp.print', 'Εκτύπωση Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategorybrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategorybrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategoryentry.jsp.view', 'Ανάγνωση Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategoryentry.jsp.print', 'Εκτύπωση Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategoryentry.jsp.insert', 'Εισαγωγή Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategoryentry.jsp.update', 'Μεταβολή Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyreqcategoryentry.jsp.delete', 'Διαγραφή Κατηγοριών Αναζητήσεων Προμήθειας');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategoryentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategoryentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategoryentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategoryentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'src_supplyreqcategoryentry.jsp.insert', 1);

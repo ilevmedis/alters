@@ -1,0 +1,13 @@
+﻿glg_reupdatejournals.jsp.validations.no_rows_found = Δεν Βρέθηκαν Εγγραφές Στο Συγκεκριμένο Διάστημα
+glg_reupdatejournals.jsp.messages.reupdate_completed = H Διαδικασία Ενημερέρωσης Ολοκληρώθηκε Επιτυχώς
+glg_reupdatejournals.jsp.validations.tilldate_required = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία
+glg_reupdatejournals.jsp.validations.sincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία
+glg_reupdatejournals.jsp.validations.atleast_one_date_required = Συμπληρώστε Υποχρεωτικά Ένα Ζεύγος Ημερομηνιών
+glg_reupdatejournals.jsp.fineventtypeid_criteria = Κωδ.Κίνησης Οικ.Υποσυστήματος
+glg_reupdatejournals.jsp.fin_sinceinternaleventdate_criteria = Από Ημ/νία Κίνησης Οικ.Υποσυστήματος
+glg_reupdatejournals.jsp.fin_tillinternaleventdate_criteria = Έως Ημ/νία Κίνησης Οικ.Υποσυστήματος
+glg_reupdatejournals.jsp.inveventtypeid_criteria = Κωδ.Κίνησης Αποθήκης
+glg_reupdatejournals.jsp.inv_sinceinternaleventdate_criteria = Από Ημ/νία Κίνησης Αποθήκης
+glg_reupdatejournals.jsp.inv_tillinternaleventdate_criteria = Έως Ημ/νία Κίνησης Αποθήκης
+glg_reupdatejournals.jsp.pagetitle = Επανενημέρωση Γενικής Λογιστικής
+glg_reupdatejournals.jsp.criteriadisplaybox.caption = Κριτήρια Επανενημέρωσης

@@ -1,0 +1,6 @@
+pbl_chargepackageentry.jsp.pbl_chargecover.isexcludedfrompackage = Εξαίρεση Από Πακέτο
+pbl_chargepackageentry.jsp.pbl_chargedetail.prepackagevaluecharge = Αξία Προ Πακέτου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargecover.isexcludedfrompackage','Εξαίρεση Από Πακέτο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargedetail.prepackagevaluecharge','Αξία Προ Πακέτου');
+

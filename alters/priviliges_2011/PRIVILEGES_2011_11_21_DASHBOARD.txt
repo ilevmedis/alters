@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardbrowser.jsp.view', 'Διαχείριση Dashoard(Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardbrowser.jsp.print', 'Διαχείριση Dashoard(Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardentry.jsp.view', 'Ανάγνωση  Dashoard');
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardentry.jsp.print', 'Εκτύπωση  Dashoard');
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardentry.jsp.insert', 'Εισαγωγή  Dashoard');
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardentry.jsp.update', 'Μεταβολή  Dashoard');
+insert into sys_privilege(privilegeid, descr) values ('med_dashboardentry.jsp.delete', 'Διαγραφή  Dashoard');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_dashboardentry.jsp.insert', 1);
+

@@ -1,0 +1,15 @@
+sys_modelcustomizationentry.jsp.sys_modelcustomization.isnewmodel = Νέο Μοντέλο?
+sys_modelcustomizationentry.jsp.sys_modelcustomization.descr = Περιγραφή
+sys_modelcustomizationentry.jsp.sys_modelcustomization.comments = Σχόλια
+sys_modelcustomizationentry.jsp.sys_modelcustomizationcolumn.autoincrement = Αυτόματη Αρίθμηση
+sys_modelcustomizationentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή Μοντέλου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationentry.jsp.sys_modelcustomization.isnewmodel','Νέο Μοντέλο?');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationentry.jsp.sys_modelcustomization.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationentry.jsp.sys_modelcustomizationcolumn.autoincrement','Αυτόματη Αρίθμηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationentry.jsp.sys_modelcustomization.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomizationentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή Μοντέλου');
+
+update sys_localization a set localizationkey = replace(localizationkey, 'sys_modelcustomization.jsp', 'sys_modelcustomizationentry.jsp')
+  where a.localizationkey like 'sys_modelcustomization.jsp%'

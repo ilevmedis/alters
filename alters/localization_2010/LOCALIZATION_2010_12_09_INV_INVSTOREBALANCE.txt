@@ -1,0 +1,6 @@
+inv_invstorebalance2.jsp.zerobalanceitemwithindates_criteria = Μόνο Κινηθ. Στο Διάστημα
+inv_invstorebalance.jsp.zerobalanceitemwithindates_criteria = Μόνο Κινηθ. Στο Διάστημα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_invstorebalance2.jsp.zerobalanceitemwithindates_criteria','Μόνο Κινηθ. Στο Διάστημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_invstorebalance.jsp.zerobalanceitemwithindates_criteria','Μόνο Κινηθ. Στο Διάστημα');
+

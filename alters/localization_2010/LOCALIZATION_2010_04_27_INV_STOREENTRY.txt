@@ -1,0 +1,7 @@
+inv_storeentry.jsp.inv_store.minquaalertindicator = Πολιτική Ειδοποίησης για Όρια Ασφαλείας
+
+inv_storeentry.jsp.validations.minquaalertindicatorrequired = Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης για Όρια Ασφαλείας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_store.minquaalertindicator','Πολιτική Ειδοποίησης για Όρια Ασφαλείας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_storeentry.jsp.validations.minquaalertindicatorrequired','Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης για Όρια Ασφαλείας');

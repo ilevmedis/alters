@@ -1,0 +1,9 @@
+med_medicalrecbrowser.jsp.med_service.servicetime = Ωρα
+med_medicalrecbrowser.jsp.med_medicalproc.medicalproctime = Ωρα
+med_medicalrecbrowser.jsp.med_observation.observationtime = Ωρα
+med_medicalrecbrowser2.jsp.med_service.servicetime = Ωρα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_service.servicetime','Ωρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_medicalproc.medicalproctime','Ωρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_observation.observationtime','Ωρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.servicetime','Ωρα');

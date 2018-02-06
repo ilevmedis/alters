@@ -1,0 +1,9 @@
+﻿fin_suppliercreditentry.jsp.tabs.page5 = Στοιχεία Ενεχυρίασης
+fin_suppliercreditentry.jsp.fin_transdetail.collateralbankid = Τράπεζα
+fin_suppliercreditentry.jsp.fin_transdetail.collateraldate = Ημ/νία Ενεχυρίασης
+fin_suppliercreditentry.jsp.fin_transdetail.collaretalcomments = Σχόλια Ενεχυρίασης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.tabs.page5','Στοιχεία Ενεχυρίασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.collateralbankid','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.collateraldate','Ημ/νία Ενεχυρίασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.collaretalcomments','Σχόλια Ενεχυρίασης');

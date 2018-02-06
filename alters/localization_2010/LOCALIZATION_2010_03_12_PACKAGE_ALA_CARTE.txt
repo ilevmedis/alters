@@ -1,0 +1,27 @@
+pbl_chargepackageentry.jsp.tabs.page6 = Εξαιρέσεις Ειδών
+pbl_chargepackageentry.jsp.tabs.page7 = Εξαιρέσεις Ομάδων
+pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.finitemid = Κωδικός Είδους/Υπηρεσίας
+pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.qualimit = Ανω Όριο Ποσότητας
+pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.quacalculationunitindicator = Μονάδα Μέτρησης
+pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.finitemgroupingcode = Κωδικός Ομαδοποίησης
+
+pbl_chargepackageentry.jsp.validations.identical_packageexcludeditem = Δεν Επιτρέπεται Η Εξαίρεση Του Ίδιου Είδους Παραπάνω Σπό Μία Φορά
+pbl_chargepackageentry.jsp.validations.identical_packageexcludeditemgroup = Δεν Επιτρέπεται Η Εξαίρεση Της Ίδιας Ομάδας Παραπάνω Από Μία Φορά
+pbl_chargepackageentry.jsp.validations.empty_packageexcludeditem_finitemid = Συμπληρώστε τον Κωδικό Είδους/Υπηρεσίας
+pbl_chargepackageentry.jsp.validations.empty_packageexcludedgroup_finitemgroupingid = Συμπληρώστε τον Κωδικό Ομάδας
+pbl_chargepackageentry.jsp.validations.empty_packageexcludeditemgroup_finitemgroupingcode = Συμπληρώστε τον Κωδικό Ομαδοποίησης
+pbl_chargepackageentry.jsp.validations.empty_packageexcludeditem_qua calculationunitindicator = Συμπληρώστε Υποχρεωτικά Μονάδα Μέτρησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.tabs.page6','Εξαιρέσεις Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.tabs.page7','Εξαιρέσεις Ομάδων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.finitemid','Κωδικός Είδους/Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.qualimit','Ανω Όριο Ποσότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.quacalculationunitindicator','Μονάδα Μέτρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargepackageexcludeditem.finitemgroupingcode','Κωδικός Ομαδοποίησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargepackageentry.jsp.validations.identical_packageexcludeditem','Δεν Επιτρέπεται Η Εξαίρεση Του Ίδιου Είδους Παραπάνω Σπό Μία Φορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargepackageentry.jsp.validations.identical_packageexcludeditemgroup','Δεν Επιτρέπεται Η Εξαίρεση Της Ίδιας Ομάδας Παραπάνω Από Μία Φορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargepackageentry.jsp.validations.empty_packageexcludeditem_finitemid','Συμπληρώστε τον Κωδικό Είδους/Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargepackageentry.jsp.validations.empty_packageexcludedgroup_finitemgroupingid','Συμπληρώστε τον Κωδικό Ομάδας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargepackageentry.jsp.validations.empty_packageexcludeditemgroup_finitemgroupingcode','Συμπληρώστε τον Κωδικό Ομαδοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargepackageentry.jsp.validations.empty_packageexcludeditem_qua calculationunitindicator','Συμπληρώστε Υποχρεωτικά Μονάδα Μέτρησης');

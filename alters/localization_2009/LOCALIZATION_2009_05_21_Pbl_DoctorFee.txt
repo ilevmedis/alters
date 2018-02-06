@@ -1,0 +1,230 @@
+﻿pbl_doctorfees.jsp.createfees = Εκκαθάριση Αμοιβών
+pbl_doctorfees.jsp.createfeesdisplaybox.caption = Στοιχεία Εκκαθάρισης Αμοιβών
+pbl_doctorfees.jsp.erp_eventtype.mnemonic = Διαδικασία
+pbl_doctorfees.jsp.pbl_eventtype.mnemonic = Κωδ.Κίνησης
+pbl_doctorfees.jsp.pbl_doctorfee.calcdate = Ημ/νία Υπολογισμού
+pbl_doctorfees.jsp.pta_visit.mnemonic = Κωδ.Περιστ.
+pbl_doctorfees.jsp.pta_visit.lastname = Επών.Ασθενή
+pbl_doctorfees.jsp.pta_visit.firstname = Ον.Ασθενή
+pbl_doctorfees.jsp.pbl_doctorfee.internaleventno = Αρ.Κίνησης
+pbl_doctorfees.jsp.pbl_doctorfee.transactiondate = Ημ.Εκκαθάρ.
+pbl_doctorfees.jsp.fin_transdetail.internaleventdate = Ημν/ία Τιμολ.
+pbl_doctorfees.jsp.pbl_doctorfee.amountcredit = Αξία Εκκαθάρ.
+pbl_doctorfees.jsp.pbl_chargedetail.chargedate = Ημν/ία Χρ.
+pbl_doctorfees.jsp.fin_costcenter.mnemonic = Κέντρο Κόστ.
+
+
+pbl_doctorfees.jsp.validations.erpeventtypeid_required = Συμπληρώστε Υποχρεωτικά Διαδικασία Δημιουργίας Αμοιβών
+pbl_doctorfees.jsp.validations.calcdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Υπολογισμού Αμοιβών
+
+pbl_doctorfeebrowser.jsp.pagetitle = Διαχείριση Αμοιβών Ιατρών
+pbl_doctorfeebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_doctorfeebrowser.jsp.griddisplaybox.caption = Αμοιβές Ιατρών
+pbl_doctorfeebrowser.jsp.doctorid_criteria = Ιατρός
+pbl_doctorfeebrowser.jsp.visitid_criteria = Περιστατικό
+pbl_doctorfeebrowser.jsp.finitemid_criteria = Χρεούμενο Είδος
+pbl_doctorfeebrowser.jsp.sincetransactiondate_criteria = Από Ημ/νία Κίνησης
+pbl_doctorfeebrowser.jsp.tilltransactiondate_criteria = Έως Ημ/νία Κίνησης
+pbl_doctorfeebrowser.jsp.sinceinvoicedate_criteria = Από Ημ/νία Τιμολόγησης
+pbl_doctorfeebrowser.jsp.tillinvoicedate_criteria = Έως Ημ/νία Τιμολόγησης
+pbl_doctorfeebrowser.jsp.isautocalculated_criteria = Αυτόματα Υπολογισμένες
+pbl_doctorfeebrowser.jsp.isonhold_criteria = Μη Εκκαθαρισμένες
+
+pbl_doctorfeebrowser.jsp.pbl_doctorfee.transactiondate = Ημ/νία Κίνησης
+pbl_doctorfeebrowser.jsp.pbl_doctorfee.internaleventno = Αρ. Κίνησης
+pbl_doctorfeebrowser.jsp.pbl_doctorfee.invoicedate = Ημ/νία Τιμολόγησης
+pbl_doctorfeebrowser.jsp.pta_doctor.lastname = Επών. Ιατρού
+pbl_doctorfeebrowser.jsp.pta_doctor.firstname = Όνομα Ιατρού
+pbl_doctorfeebrowser.jsp.pta_visit.mnemonic = Κωδ. Περ/κού
+pbl_doctorfeebrowser.jsp.pta_visit.lastname = Επών. Ασθενή
+pbl_doctorfeebrowser.jsp.pta_visit.firstname = Όνομα Ασθ.
+pbl_doctorfeebrowser.jsp.pbl_doctorfee.amountdebit = Χρέωση
+pbl_doctorfeebrowser.jsp.pbl_doctorfee.amountcredit = Πίστωση
+
+pbl_doctorfeeentry.jsp.pagetitle = Καταχώρηση Αμοιβών Ιατρών
+pbl_doctorfeeentry.jsp.entrydisplaybox.caption = Στοιχεία Αμοιβής Ιατρού
+pbl_doctorfeeentry.jsp.pbl_doctorfee.internaleventno = Αρ. Κίνησης
+pbl_doctorfeeentry.jsp.pbl_doctorfee.doctorfeeid = Κωδ.Εγγραφής
+pbl_doctorfeeentry.jsp.erp_eventtype.mnemonic = Διαδικασία
+pbl_doctorfeeentry.jsp.pbl_eventtype.mnemonic = Κωδ. Κίνησης
+pbl_doctorfeeentry.jsp.pbl_doctorfee.transactiondate = Ημ/νία Κίνησης
+pbl_doctorfeeentry.jsp.pbl_doctorfee.invoicedate = Ημ/νία Τιμολόγησης
+pbl_doctorfeeentry.jsp.pbl_doctorfee.chargedate = Ημ/νία Χρέωσης
+pbl_doctorfeeentry.jsp.pbl_doctorfee.servicedate = Ημ/νία Παροχής
+pbl_doctorfeeentry.jsp.pbl_doctorfee.calcdate = Ημ/νία Υπολογισμού
+pbl_doctorfeeentry.jsp.pbl_doctorfee.isautocalculated = Αυτόματα Υπολογισμένη
+pbl_doctorfeeentry.jsp.pbl_doctorfee.isonhold = Σε Εκκρεμοτήτα
+pbl_doctorfeeentry.jsp.pbl_doctorfee.reason = Αιτιολογία
+pbl_doctorfeeentry.jsp.pbl_doctorfee.comments = Σχόλια
+pbl_doctorfeeentry.jsp.pbl_doctorfee.doctorid = Ιατρός
+pbl_doctorfeeentry.jsp.pbl_doctorfee.visitid = Περιστατικό
+pbl_doctorfeeentry.jsp.pbl_doctorfee.finitemid = Χρεούμενο Είδος
+pbl_doctorfeeentry.jsp.pbl_doctorfee.costcenterid = Κέντρο Κόστους
+pbl_doctorfeeentry.jsp.pbl_doctorfee.amountdebit = Χρέωση
+pbl_doctorfeeentry.jsp.pbl_doctorfee.amountcredit = Πίστωση
+pbl_doctorfeeentry.jsp.pbl_doctorfee.totalamountbinded = Συνολ.Συνδεδεμένο Ποσό
+pbl_doctorfeeentry.jsp.pbl_doctorfee.amountlefttobind = Υπόλοιπο Σύνδεσης
+pbl_doctorfeeentry.jsp.pbl_doctorfeelinkdisplaybox.caption = Σύνδεδεμένες Πιστώσεις
+pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.transactiondate = Ημ/νία Κίνησης
+pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.internaleventno = Αρ. Κίνησης
+pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.invoicedate = Ημ/νία Τιμολόγησης
+pbl_doctorfeeentry.jsp.pta_relativevisit.mnemonic = Κωδ.Περιστ.
+pbl_doctorfeeentry.jsp.pta_relativevisit.lastname = Επώνυμο Ασθενή
+pbl_doctorfeeentry.jsp.pta_relativevisit.firstname = Όνομα Ασθενή
+pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.amounttobind = Αξία Προς Σύνδεση
+pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.amountlefttobind = Υπολ. Αξίας Προς Σύνδεση
+pbl_doctorfeeentry.jsp.pbl_doctorfeelink.amountbinded = Συνδεδεμένη Αξία
+pbl_doctorfeeentry.jsp.linkdoctorfees = Σύνδεση Με Πιστώσεις
+pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.transactiondate = Ημ/νία Κίνησης
+pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.internaleventno = Αρ. Κίνησης 
+pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.reason = Αιτιολογία
+pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.amountdebit = Αξία Χρέωσης
+pbl_doctorfeeentry.jsp.pbl_bindeddoctorfeelink.amountbinded = Συνδεδεμένη Αξία
+pbl_doctorfeeentry.jsp.pbl_bindeddoctorfeesdisplaybox.caption = Σύνδεδεμένες Χρεώσεις
+
+pbl_doctorfeeentry.jsp.validations.doctorid_required = Συμπληρώστε Υποχρεωτικά Ιατρό
+pbl_doctorfeeentry.jsp.validations.amountdebit_required = Συμπληρώστε Υποχρεωτικά Αξία Χρέωσης
+pbl_doctorfeeentry.jsp.validations.amountcredit_required = Συμπληρώστε Υποχρεωτικά Αξία Πίστωσης
+pbl_doctorfeeentry.jsp.validations.transactiondate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Κίνησης
+pbl_doctorfeeentry.jsp.validations.erpeventtypeid_required = Συμπληρώστε Υποχρεωτικά Διαδικασία
+pbl_doctorfeeentry.jsp.validations.totalamountbinded_gt_amountdebit = Το Σύνολο Των Συνδεδεμένων Πιστώσεων Μεγαλύτερο Από Την Αξία Χρέωσης
+pbl_doctorfeeentry.jsp.validations.amountbinded_gt_amountlefttobind = Το Ποσό Σύνδεσης Μεγαλύτερο Από Το Υπόλοιπο Προς Σύνδεση
+
+fin_supplierdebitentry.jsp.page5 = Σύνδεση Αμοιβών Ιατρού
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.transactiondate = Ημ/νία Κίνησης
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.internaleventno = Αρ. Κίνησης
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.invoicedate = Ημ/νία Τιμολόγησης
+fin_supplierdebitentry.jsp.pta_relativevisit.mnemonic = Κωδ.Περιστ.
+fin_supplierdebitentry.jsp.pta_relativevisit.lastname = Επώνυμο Ασθενή
+fin_supplierdebitentry.jsp.pta_relativevisit.firstname = Όνομα Ασθενή
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.amounttobind = Αξία Προς Σύνδεση
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.amountlefttobind = Υπολ. Αξίας Προς Σύνδεση
+fin_supplierdebitentry.jsp.pbl_doctorfeelink.amountbinded = Συνδεδεμένη Αξία
+
+fin_supplierdebitentry.jsp.validations.fin_transparty_not_related_to_doctor = Ο Προμηθευτής Δεν Είναι Συνδεδεμένος Με Ιατρό
+fin_supplierdebitentry.jsp.validations.pbleventtype_not_defined = Η Διαδικασία Δεν Υποστηρίζει Πληρωμή Αμοιβής Ιατρού
+
+pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.validsincedate = Από Ημ/νία Ισχύος
+pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.validtilldate = Έως Ημ/νία Ισχύος
+pbl_doctorrulefeemoreentry.jsp.entrydisplaybox.caption = Πρόσθετα Στοιχεία Κανόνα
+pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.relateddoctor_doctorroleid = Ρόλος Ιατρού Περιστατικού
+pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.relateddoctor_doctorid = Ιατρός Περιστατικού
+
+
+pbl_doctorruleentry.jsp.validations.fee_invalidsincedate = Η Ημερομηνία Έναρξης Ισχύος Κάποιου Κανόνα Μικρότερη Της Γενικής Ημερομηνίας Έναρξης Ισχύος
+pbl_doctorruleentry.jsp.validations.fee_invalidtilldate = Η Ημερομηνία Λήξης Ισχύος Κάποιου Κανόνα Μεγαλύτερη Της Γενικής Ημερομηνίας Λήξης Ισχύος
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.createfees','Εκκαθάριση Αμοιβών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.createfeesdisplaybox.caption','Στοιχεία Εκκαθάρισης Αμοιβών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pbl_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pbl_doctorfee.calcdate','Ημ/νία Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pta_visit.mnemonic','Κωδ.Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pta_visit.lastname','Επών.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pta_visit.firstname','Ον.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pbl_doctorfee.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pbl_doctorfee.transactiondate','Ημ.Εκκαθάρ.');
+delete from sys_localization where localizationkey='pbl_doctorfees.jsp.fin_transdetail.internaleventdate';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.fin_transdetail.internaleventdate','Ημν/ία Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pbl_doctorfee.amountcredit','Αξία Εκκαθάρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.pbl_chargedetail.chargedate','Ημν/ία Χρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfees.jsp.fin_costcenter.mnemonic','Κέντρο Κόστ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfees.jsp.validations.erpeventtypeid_required','Συμπληρώστε Υποχρεωτικά Διαδικασία Δημιουργίας Αμοιβών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfees.jsp.validations.calcdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Υπολογισμού Αμοιβών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pagetitle','Διαχείριση Αμοιβών Ιατρών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.griddisplaybox.caption','Αμοιβές Ιατρών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.doctorid_criteria','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.visitid_criteria','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.finitemid_criteria','Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.sincetransactiondate_criteria','Από Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.tilltransactiondate_criteria','Έως Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.sinceinvoicedate_criteria','Από Ημ/νία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.tillinvoicedate_criteria','Έως Ημ/νία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.isautocalculated_criteria','Αυτόματα Υπολογισμένες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.isonhold_criteria','Μη Εκκαθαρισμένες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pbl_doctorfee.transactiondate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pbl_doctorfee.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pbl_doctorfee.invoicedate','Ημ/νία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pta_doctor.lastname','Επών. Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pta_doctor.firstname','Όνομα Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pta_visit.lastname','Επών. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pta_visit.firstname','Όνομα Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pbl_doctorfee.amountdebit','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pbl_doctorfee.amountcredit','Πίστωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeebrowser.jsp.pta_visit.mnemonic','Κωδ. Περ/κού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pagetitle','Καταχώρηση Αμοιβών Ιατρών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.entrydisplaybox.caption','Στοιχεία Αμοιβής Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.doctorfeeid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_eventtype.mnemonic','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.transactiondate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.invoicedate','Ημ/νία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.chargedate','Ημ/νία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.servicedate','Ημ/νία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.calcdate','Ημ/νία Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.isautocalculated','Αυτόματα Υπολογισμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.isonhold','Σε Εκκρεμοτήτα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.reason','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.doctorid','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.visitid','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.finitemid','Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.costcenterid','Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.amountdebit','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.amountcredit','Πίστωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.totalamountbinded','Συνολ.Συνδεδεμένο Ποσό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfee.amountlefttobind','Υπόλοιπο Σύνδεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfeelinkdisplaybox.caption','Σύνδεδεμένες Πιστώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.transactiondate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.invoicedate','Ημ/νία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pta_relativevisit.mnemonic','Κωδ.Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pta_relativevisit.lastname','Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pta_relativevisit.firstname','Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.amounttobind','Αξία Προς Σύνδεση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_relativedoctorfee.amountlefttobind','Υπολ. Αξίας Προς Σύνδεση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_doctorfeelink.amountbinded','Συνδεδεμένη Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.linkdoctorfees','Σύνδεση Με Πιστώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.transactiondate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.internaleventno','Αρ. Κίνησης ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.reason','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_bindeddoctorfee.amountdebit','Αξία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_bindeddoctorfeelink.amountbinded','Συνδεδεμένη Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorfeeentry.jsp.pbl_bindeddoctorfeesdisplaybox.caption','Σύνδεδεμένες Χρεώσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.doctorid_required','Συμπληρώστε Υποχρεωτικά Ιατρό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.amountdebit_required','Συμπληρώστε Υποχρεωτικά Αξία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.amountcredit_required','Συμπληρώστε Υποχρεωτικά Αξία Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.transactiondate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.erpeventtypeid_required','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.totalamountbinded_gt_amountdebit','Το Σύνολο Των Συνδεδεμένων Πιστώσεων Μεγαλύτερο Από Την Αξία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorfeeentry.jsp.validations.amountbinded_gt_amountlefttobind','Το Ποσό Σύνδεσης Μεγαλύτερο Από Το Υπόλοιπο Προς Σύνδεση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.page5','Σύνδεση Αμοιβών Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.transactiondate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.invoicedate','Ημ/νία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pta_relativevisit.mnemonic','Κωδ.Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pta_relativevisit.lastname','Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pta_relativevisit.firstname','Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.amounttobind','Αξία Προς Σύνδεση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.amountlefttobind','Υπολ. Αξίας Προς Σύνδεση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_doctorfeelink.amountbinded','Συνδεδεμένη Αξία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.fin_transparty_not_related_to_doctor','Ο Προμηθευτής Δεν Είναι Συνδεδεμένος Με Ιατρό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.pbleventtype_not_defined','Η Διαδικασία Δεν Υποστηρίζει Πληρωμή Αμοιβής Ιατρού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.validsincedate','Από Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.validtilldate','Έως Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrulefeemoreentry.jsp.entrydisplaybox.caption','Πρόσθετα Στοιχεία Κανόνα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.relateddoctor_doctorroleid','Ρόλος Ιατρού Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrulefeeentry.jsp.pbl_doctorrulefee.relateddoctor_doctorid','Ιατρός Περιστατικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorruleentry.jsp.validations.fee_invalidsincedate','Η Ημερομηνία Έναρξης Ισχύος Κάποιου Κανόνα Μικρότερη Της Γενικής Ημερομηνίας Έναρξης Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorruleentry.jsp.validations.fee_invalidtilldate','Η Ημερομηνία Λήξης Ισχύος Κάποιου Κανόνα Μεγαλύτερη Της Γενικής Ημερομηνίας Λήξης Ισχύος');

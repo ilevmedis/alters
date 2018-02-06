@@ -1,0 +1,6 @@
+submitbuttons.excel2007 = Excel 2007
+submitbuttons.accesskeys.excel2007 = 7
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.excel2007','Excel 2007');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.accesskeys.excel2007','7');
+

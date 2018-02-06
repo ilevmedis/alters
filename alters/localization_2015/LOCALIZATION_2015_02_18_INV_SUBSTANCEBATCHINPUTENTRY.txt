@@ -1,0 +1,25 @@
+inv_substancebatchinputentry.jsp.pagetitle = Μαζική Εισαγωγή Φαρμ.Ουσιών
+inv_substancebatchinputentry.jsp.entrydisplaybox.caption = Στοιχεία Εισαγωγής
+inv_substancebatchinputentry.jsp.jsp.substance_batchinput.filename = Αρχείο Εισαγωγής
+inv_substancebatchinputentry.jsp.jsp.substance_batchinput.useitemcodes = Χρήση Εναλλλακτικής Κωδικοποίησης Για Κωδικό ΕΟΦ
+inv_substancebatchinputentry.jsp.jsp.substance_batchinput.invitemcoding = Εναλλλακτική Κωδικοποίηση
+inv_substancebatchinputentry.jsp.message.procedure_successfull = Η Αποθήκευση Ολοκληρώθηκε Με Επιτυχία
+inv_substancebatchinputentry.jsp.message.procedure_unsuccessfull = Η Αποθήκευση Δεν Ολοκληρώθηκε
+
+inv_substancebatchinputentry.jsp.validations.invitemcoding_required = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση
+inv_substancebatchinputentry.jsp.validations.invitemcoding_not_allowed = Δεν Επιτρέπεται Η Χρήση Εναλλακτικής Κωδικοποίησης
+inv_substancebatchinputentry.jsp.validations.filename_required = Επιλέξτε Υποχρεωτικά Αρχείο
+inv_substancebatchinputentry.jsp.validations.empty_excel_file = Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.pagetitle','Μαζική Εισαγωγή Φαρμ.Ουσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.entrydisplaybox.caption','Στοιχεία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.jsp.substance_batchinput.filename','Αρχείο Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.jsp.substance_batchinput.useitemcodes','Χρήση Εναλλλακτικής Κωδικοποίησης Για Κωδικό ΕΟΦ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.jsp.substance_batchinput.invitemcoding','Εναλλλακτική Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.message.procedure_successfull','Η Αποθήκευση Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebatchinputentry.jsp.message.procedure_unsuccessfull','Η Αποθήκευση Δεν Ολοκληρώθηκε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_substancebatchinputentry.jsp.validations.invitemcoding_required','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_substancebatchinputentry.jsp.validations.invitemcoding_not_allowed','Δεν Επιτρέπεται Η Χρήση Εναλλακτικής Κωδικοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_substancebatchinputentry.jsp.validations.filename_required','Επιλέξτε Υποχρεωτικά Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_substancebatchinputentry.jsp.validations.empty_excel_file','Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε');

@@ -1,0 +1,22 @@
+inv_replenishdept.jsp.fromitemgroup1_criteria = Από Ομάδα 1
+inv_replenishdept.jsp.fromitemgroup2_criteria = Από Ομάδα 2
+inv_replenishdept.jsp.fromitemgroup3_criteria = Από Ομάδα 3
+inv_replenishdept.jsp.fromitemgroup4_criteria = Από Ομάδα 4
+inv_replenishdept.jsp.toitemgroup1_criteria = Έως Ομάδα 1
+inv_replenishdept.jsp.toitemgroup2_criteria = Έως Ομάδα 2
+inv_replenishdept.jsp.toitemgroup3_criteria = Έως Ομάδα 3
+inv_replenishdept.jsp.toitemgroup4_criteria = Έως Ομάδα 4
+
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY='inv_replenishdept.jsp.itemgroup1_criteria';
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY='inv_replenishdept.jsp.itemgroup2_criteria';
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY='inv_replenishdept.jsp.itemgroup3_criteria';
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY='inv_replenishdept.jsp.itemgroup4_criteria';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.fromitemgroup1_criteria','Από Ομάδα 1');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.fromitemgroup2_criteria','Από Ομάδα 2');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.fromitemgroup3_criteria','Από Ομάδα 3');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.fromitemgroup4_criteria','Από Ομάδα 4');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.toitemgroup1_criteria','Έως Ομάδα 1');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.toitemgroup2_criteria','Έως Ομάδα 2');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.toitemgroup3_criteria','Έως Ομάδα 3');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.toitemgroup4_criteria','Έως Ομάδα 4');

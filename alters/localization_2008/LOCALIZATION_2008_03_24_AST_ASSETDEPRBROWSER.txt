@@ -1,0 +1,13 @@
+﻿ast_assetdeprbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+ast_assetdeprbrowser.jsp.pagetitle = Διαχείριση Αποσβέσεων
+ast_assetdeprbrowser.jsp.griddisplaybox.caption = Αποσβέσεις
+ast_assetdeprbrowser.jsp.fineventtypeid_criteria = Κωδ.Κίνησης
+ast_assetdeprbrowser.jsp.internaleventno_criteria = Αρ.Κίνησης
+ast_assetdeprbrowser.jsp.sinceinternaleventdate_criteria = Από Ημερομηνία
+ast_assetdeprbrowser.jsp.tillinternaleventdate_criteria = Έως Ημερομηνία
+ast_assetdeprbrowser.jsp.descr_criteria = Περιγραφή
+ast_assetdeprbrowser.jsp.fin_transheader.internaleventdate = Ημ/νία Απόσβεσης
+ast_assetdeprbrowser.jsp.fin_transheader.internaleventno = Αρ.Κίνησης
+ast_assetdeprbrowser.jsp.fin_transheader.sincedeprdate = Από Ημ/νία Υπολογ.
+ast_assetdeprbrowser.jsp.fin_transheader.tilldeprdate = Έως Ημ/νία Υπολογ.
+ast_assetdeprbrowser.jsp.fin_transheader.descr = Περιγραφή

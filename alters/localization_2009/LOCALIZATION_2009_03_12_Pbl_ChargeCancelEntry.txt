@@ -1,0 +1,82 @@
+﻿pbl_chargecancelentry.jsp.pagetitle = Καταχώρηση Ακύρωσης Χρέωσης
+pbl_chargecancelentry.jsp.entrydisplaybox.caption = Στοιχεία Ακύρωσης Χρέωσης
+pbl_chargecancelentry.jsp.griddisplaybox.caption = Επιλογή Χρεώσεων Προς Ακύρωση
+pbl_chargecancelentry.jsp.pbl_chargeheader.internaleventno = Αρ.Κίνησης Χρέωσης
+pbl_chargecancelentry.jsp.pbl_chargeheader.chargeheaderid = Κωδ.Εγγραφής Χρέωσης
+pbl_chargecancelentry.jsp.erp_eventtype.mnemonic = Διαδικασία Χρέωσης
+pbl_chargecancelentry.jsp.pbl_eventtype.mnemonic = Κωδ.Κίνησης Χρέωσης
+pbl_chargecancelentry.jsp.pbl_chargeheader.chargedate = Ημ/νία Χρέωσης
+pbl_chargecancelentry.jsp.pbl_chargeheader.servicedate = Ημ/νία Παροχής
+pbl_chargecancelentry.jsp.pbl_chargeheader.isadmissioncharge = Χρέωση Εισόδου
+pbl_chargecancelentry.jsp.pbl_chargeheader.isstaycharge = Χρέωση Νοσηλίων
+pbl_chargecancelentry.jsp.pbl_chargeheader.externaleventtype = Είδος-Αρ.Παρ/κού Χρ.
+pbl_chargecancelentry.jsp.pbl_chargeheader.externaleventdate = Ημ/νία Παρ/κού Χρ.
+pbl_chargecancelentry.jsp.pbl_chargeheader.comments = Σχόλια Χρ.
+pbl_chargecancelentry.jsp.pbl_chargeheader.costcenterid = Κέντρο Κόστους Χρ.
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.internaleventno = Αρ.Κίνησης Ακύρωσης
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.chargeheaderid = Κωδ. Ακύρωσης
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.matrix = Διαδικασία Ακύρωσης
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.pbl_eventtype.mnemonic = Κωδ.Κιν.Ακύρ.
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.chargedate = Ημ/νία Ακύρωσης
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.cancelreasonindicator = Αιτία Ακύρωσης
+pbl_chargecancelentry.jsp.pbl_chargecancelheader.comments = Σχόλια Ακύρωσης
+pbl_chargecancelentry.jsp.pbl_chargedetail.ischecked = Ακύρωση
+pbl_chargecancelentry.jsp.pbl_chargedetail.linenum = Α/Α
+pbl_chargecancelentry.jsp.pbl_chargedetail.chargedetailid = Κδ.Εγγραφής
+pbl_chargecancelentry.jsp.pbl_chargedetail.finitemid = Είδος
+pbl_chargecancelentry.jsp.pbl_chargedetail.quacharge = Ποσότητα
+pbl_chargecancelentry.jsp.pbl_chargedetail.pricecharge = Τιμή
+pbl_chargecancelentry.jsp.pbl_chargedetail.prepackagevaluecharge = Αξία Προ Πακ.
+pbl_chargecancelentry.jsp.pbl_chargedetail.prediscvaluecharge = Αξία Προ Εκπτ.
+pbl_chargecancelentry.jsp.pbl_chargedetail.discvaluecharge = Έκπτ.
+pbl_chargecancelentry.jsp.pbl_chargedetail.invoicediscvaluecharge = Αξ.Εκπ.Τιμολ
+pbl_chargecancelentry.jsp.pbl_chargedetail.valuecharge = Τελ.Αξία
+
+pbl_chargecancelentry.jsp.validations.chargedate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Ακύρωσης
+pbl_chargecancelentry.jsp.validations.cancelreasonindicator_required = Συμπληρώστε Υποχρεωτικά Αιτία Ακύρωσης
+pbl_chargecancelentry.jsp.validations.erpeventtype_required = Συμπληρώστε Υποχρεωτικά Διαδικασία
+pbl_chargecancelentry.jsp.validations.invalid_date_biblio = Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών
+pbl_chargecancelentry.jsp.validations.atleast_one_charge_required = Συμπληρώστε Τουλάχιστον Μία Χρέωση Προς Ακύρωση
+pbl_chargecancelentry.jsp.validations.no_charge_to_cancel = Δεν Υπάρχουν Χρεώσεις Προς Ακύρωση
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pagetitle','Καταχώρηση Ακύρωσης Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.entrydisplaybox.caption','Στοιχεία Ακύρωσης Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.griddisplaybox.caption','Επιλογή Χρεώσεων Προς Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.internaleventno','Αρ.Κίνησης Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.chargeheaderid','Κωδ.Εγγραφής Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.erp_eventtype.mnemonic','Διαδικασία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_eventtype.mnemonic','Κωδ.Κίνησης Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.chargedate','Ημ/νία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.servicedate','Ημ/νία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.isadmissioncharge','Χρέωση Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.isstaycharge','Χρέωση Νοσηλίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.externaleventtype','Είδος-Αρ.Παρ/κού Χρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.externaleventdate','Ημ/νία Παρ/κού Χρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.comments','Σχόλια Χρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargeheader.costcenterid','Κέντρο Κόστους Χρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.internaleventno','Αρ.Κίνησης Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.chargeheaderid','Κωδ. Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.matrix','Διαδικασία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.pbl_eventtype.mnemonic','Κωδ.Κιν.Ακύρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.chargedate','Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.cancelreasonindicator','Αιτία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargecancelheader.comments','Σχόλια Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.ischecked','Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.chargedetailid','Κδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.finitemid','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.quacharge','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.pricecharge','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.prepackagevaluecharge','Αξία Προ Πακ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.prediscvaluecharge','Αξία Προ Εκπτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.discvaluecharge','Έκπτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.invoicediscvaluecharge','Αξ.Εκπ.Τιμολ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecancelentry.jsp.pbl_chargedetail.valuecharge','Τελ.Αξία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecancelentry.jsp.validations.chargedate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecancelentry.jsp.validations.cancelreasonindicator_required','Συμπληρώστε Υποχρεωτικά Αιτία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecancelentry.jsp.validations.erpeventtype_required','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecancelentry.jsp.validations.invalid_date_biblio','Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecancelentry.jsp.validations.atleast_one_charge_required','Συμπληρώστε Τουλάχιστον Μία Χρέωση Προς Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecancelentry.jsp.validations.no_charge_to_cancel','Δεν Υπάρχουν Χρεώσεις Προς Ακύρωση');

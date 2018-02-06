@@ -1,0 +1,2 @@
+inv_buyentry.jsp.validations.relativegrantquaexceededexception = Υπέρβαση Ποσότητας Χορήγησης
+inv_buyentry.jsp.questions.relativegrant = Η Σχετική Χορήγηση

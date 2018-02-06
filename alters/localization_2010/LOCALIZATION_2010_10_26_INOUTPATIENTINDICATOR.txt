@@ -1,0 +1,10 @@
+﻿pbl_pricelistheaderentry.jsp.pbl_pricelistheader.inoutpatientindicator = Εσωτ/Εξωτ Ασθ.
+pbl_contractheaderentry.jsp.pbl_contractheader.inoutpatientindicator = Εσωτ/Εξωτ Ασθ.
+pbl_insuranceschemeheaderentry.jsp.pbl_insuranceschemeheader.inoutpatientindicator = Εσωτ/Εξωτ Ασθ.
+pbl_insuranceschemeheaderindex.jsp.inoutpatientindicator_criteria = Εσωτ/Εξωτ Ασθ.
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_pricelistheaderentry.jsp.inoutpatientindicator','Εσωτ/Εξωτ Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_contractheaderentry.jsp.inoutpatientindicator','Εσωτ/Εξωτ Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'fin_transpartyentry.jsp.pbl_insuranceschemeheader.inoutpatientindicator','Εσωτ/Εξωτ Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_insuranceschemeheaderindex.jsp.inoutpatientindicator_criteria','Εσωτ/Εξωτ Ασθ.');

@@ -1,0 +1,57 @@
+﻿insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'med_eventtypeentry.jsp.med_eventtype.medordertypeindicator', 1, 'Τύπος Παραγγελίας', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'med_eventtypeentry.jsp.validations.medordertyperequired', 2, 'Συμπληρώστε Υποχρεωτικά Τύπο Παραγγελίας (Υπηρεσίες / Φάρμακα)', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'medorderentry.jsp.med_orderdetail.invitemid', 1, 'Είδος', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'medorderentry.jsp.med_orderdetail.qua', 1, 'Ποσότητα', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'med_orderentry.jsp.med_orderheader.medordertypeindicator', 1, 'Τύπος Παραγγελίας', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'med_orderbrowser.jsp.medordertypeindicator_criteria', 1, 'Τύπος Παραγγελίας', '0');
+
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.griddisplaybox.caption',1,'Λίστα Εργασίας (Φάρμακα)','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.med_orderheader.priorityindicator',1,'Προτεραιότητα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.validations.facilityrequired',2,'Συμπληρώστε Υποχρεωτικά Τμήμα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.validations.sincedaterequired',2,'Συμπληρώστε Υποχρεωτικά Από Ημ/νία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.inv_item.displaydescr',1,'Φάρμακο','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.pta_visit.mnemonic',1,'Αρ.Νοσηλείας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.pta_visit.lastname',1,'Επώνυμο','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.pta_visit.firstname',1,'Όνομα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.med_orderperson.name',1,'Παραγγέλων','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.criteriadisplaybox.caption',1,'Κριτήρια Αναζήτησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.pagetitle',1,'Διαχείριση Λίστας Εργασίας (Φάρμακα)','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.orderreceiptfacilityid_criteria',1,'Τμήμα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.sincedate_criteria',1,'Από Ημ/νία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.tilldate_criteria',1,'Έως Ημ/νία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.med_orderdetail.orderdate',1,'Ημ/νία Παραγγ.','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.med_orderheader.internaleventno',1,'Αρ.Παραγγ.','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.med_orderdetail.scheduledate',1,'Ημ/νία Προγρ/σμού','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.invitemid_criteria',1,'Είδος','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.med_orderdetail.serviceorderstatus',1,'Κατάσταση','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.markascompleted',1,'Εκτέλεση','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_worklistitem.jsp.validations.tilldaterequired',2,'Συμπληρώστε Υποχρεωτικά Έως Ημ/νία','0');
+
+
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','med_orderrecurrencebrowser.jsp.med_recurrencepattern.mnemonic',1,'Μοντέλο Επανάληψης','0');
+
+
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'med_ordercancelentry.jsp.med_orderdetail.invitemid', 1, 'Είδος', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'med_ordercancelentry.jsp.med_orderdetail.qua', 1, 'Ποσότητα', '0');

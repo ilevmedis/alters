@@ -1,0 +1,29 @@
+ast_assetpartindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+ast_assetpartindex.jsp.griddisplaybox.caption = Τμήματα Παγίων
+
+ast_assetpartindex.jsp.mnemonic_criteria = Μνημ. Κωδ.
+ast_assetpartindex.jsp.registryno_criteria = Αρ. Μητρ.
+ast_assetpartindex.jsp.displaydescr_criteria = Περιγραφή
+ast_assetpartindex.jsp.assetparttype_criteria = Τύπος
+
+ast_assetpartindex.jsp.ast_assetpart.registryno = Αρ. Μητρ.
+ast_assetpartindex.jsp.inv_item.mnemonic = Μνημ. Κωδ.
+ast_assetpartindex.jsp.inv_item.displaydescr = Περιγραφή
+ast_assetpartindex.jsp.ast_assetpart.assetparttype = Τύπος
+
+fin_genericcreditdebitentry.jsp.fin_transcredit.assetpartid = Πάγιο
+fin_genericcreditdebitentry.jsp.fin_transdebit.assetpartid = Πάγιο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.griddisplaybox.caption','Τμήματα Παγίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.mnemonic_criteria','Μνημ. Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.registryno_criteria','Αρ. Μητρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.displaydescr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.assetparttype_criteria','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.ast_assetpart.registryno','Αρ. Μητρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.inv_item.mnemonic','Μνημ. Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.inv_item.displaydescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetpartindex.jsp.ast_assetpart.assetparttype','Τύπος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.assetpartid','Πάγιο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.assetpartid','Πάγιο');

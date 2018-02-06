@@ -1,0 +1,14 @@
+pbl_pricelistbatchinputentry.jsp.jsp.pricelist_batchinput.useitemcodes = Χρήση Εναλλακτικού Κωδ.
+pbl_pricelistbatchinputentry.jsp.jsp.pricelist_batchinput.finitemcoding = Εναλλακτική Κωδικοποίηση
+
+pbl_pricelistbatchinputentry.jsp.validations.wrong_finitemcoding = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση
+pbl_pricelistbatchinputentry.jsp.validations.finitemcoding_not_found = Δεν Βρέθηκε Χρεούμενο Είδος Με Αυτό Τον Μνημονικό Κωδικό Εναλλακτικής Κωδικοποίησης
+pbl_pricelistbatchinputentry.jsp.validations.finitemcoding_not_allowed = Δεν Επιτρέπεται Η Χρήση Εναλλακτικής Κωδικοποίησης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.jsp.pricelist_batchinput.useitemcodes','Χρήση Εναλλακτικού Κωδ.  ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.jsp.pricelist_batchinput.finitemcoding','Εναλλακτική Κωδικοποίηση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.wrong_finitemcoding','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.finitemcoding_not_found','Δεν Βρέθηκε Χρεούμενο Είδος Με Αυτό Τον Μνημονικό Κωδικό Εναλλακτικής Κωδικοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.finitemcoding_not_allowed','Δεν Επιτρέπεται Η Χρήση Εναλλακτικής Κωδικοποίησης');

@@ -1,0 +1,5 @@
+pbl_reqentry.jsp.cumulative_invoice.fin_transdebit.discamount = Αξία Έκπτωσης
+pbl_reqentry.jsp.validations.discount_greater_than_ammount = Η Αξία Έκπτωσης Μεγαλύτερη Από Την Αξία Τιμολόγησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_reqentry.jsp.cumulative_invoice.fin_transdebit.discamount','Αξία Έκπτωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pbl_reqentry.jsp.validations.discount_greater_than_ammount','Η Αξία Έκπτωσης Μεγαλύτερη Από Την Αξία Τιμολόγησης');

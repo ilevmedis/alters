@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangebrowser.jsp.view', 'Διαχείριση Αλλαγών Εκδόσεων');
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangebrowser.jsp.print', 'Εκτύπωση Αλλαγών Εκδόσεων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangeentry.jsp.view', 'Ανάγνωση Αλλαγής Έκδοσης');
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangeentry.jsp.print', 'Εκτύπωση Αλλαγής Έκδοσης');
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangeentry.jsp.insert', 'Εισαγωγή Αλλαγής Έκδοσης');
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangeentry.jsp.update', 'Μεταβολή Αλλαγής Έκδοσης');
+insert into sys_privilege(privilegeid, descr) values ('sys_verchangeentry.jsp.delete', 'Διαγραφή Αλλαγής Έκδοσης');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangeentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangeentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangeentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangeentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_verchangeentry.jsp.insert', 1);

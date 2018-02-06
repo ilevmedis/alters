@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresbrowser.jsp.view', 'Διαχείρισης Δεσμεύσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresbrowser.jsp.print', 'Διαχείρισης Δεσμεύσεων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresentry.jsp.view', 'Ανάγνωση Δεσμεύσεων');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresentry.jsp.print', 'Εκτύπωση Δεσμεύσεων');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresentry.jsp.insert', 'Εισαγωγή Δεσμεύσεων');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresentry.jsp.update', 'Μεταβολή Δεσμεύσεων');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresentry.jsp.delete', 'Διαγραφή Δεσμεύσεων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresentry.jsp.insert', 1);
+

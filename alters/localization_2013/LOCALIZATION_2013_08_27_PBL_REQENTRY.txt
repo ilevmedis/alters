@@ -1,0 +1,10 @@
+pbl_reqentry.jsp.dapy.doctortaxregistrationno = ΑΦΜ Ελεγκτή Ιατρού
+pbl_reqentry.jsp.dapy.companyikaname = Επωνυμία Οργανισμού με βάση τον ΕΟΠΥΥ
+
+pbl_reqentry.jsp.validations.dapy.companyikaname_required = Συμπληρώστε Υποχρεωτικά Επωνυμία Οργανισμού Με Βάση Τον ΕΟΠΥΥ
+
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'ΑΜΚΑ Ελεγκτή Ιατρού' WHERE LOCALIZATIONKEY = 'pbl_reqentry.jsp.dapy.doctorcode';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.doctortaxregistrationno','ΑΦΜ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.companyikaname','Επωνυμία Οργανισμού με βάση τον ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.companyikaname_required','Συμπληρώστε Υποχρεωτικά Επωνυμία Οργανισμού Με Βάση Τον ΕΟΠΥΥ');
+

@@ -1,0 +1,109 @@
+
+sys_reportschedulebrowser.jsp.pagetitle = Διαχείριση Προγραμματισμού Αναφορών
+sys_reportschedulebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_reportschedulebrowser.jsp.griddisplaybox.caption = Προγραμματισμός Αναφορών
+sys_reportschedulebrowser.jsp.page_criteria = Σελίδα
+sys_reportschedulebrowser.jsp.sys_reportschedule.page = Σελίδα
+sys_reportschedulebrowser.jsp.sys_reportschedule.event = Event
+sys_reportschedulebrowser.jsp.sys_reportschedule.appname_criteria = Εφαρμογή
+sys_reportschedulebrowser.jsp.sys_reportschedule.report_criteria = Εκτύπωση
+sys_reportschedulebrowser.jsp.sys_reportschedule.isactive_criteria = Ενεργή Εγγραφή
+sys_reportschedulebrowser.jsp.sys_reportschedule.reportscheduleid = Προγραμματισμός
+sys_reportschedulebrowser.jsp.sys_reportschedule.appname = Εφαρμογή
+sys_reportschedulebrowser.jsp.sys_reportschedule.reportdescr = Εκτύπωση
+sys_reportschedulebrowser.jsp.sys_reportschedule.triggertype = Trigger Type
+sys_reportschedulebrowser.jsp.sys_reportschedule.appserver = Application Server
+sys_reportschedulebrowser.jsp.sys_reportschedule.isactive = Ενεργή Εγγραφή
+
+sys_reportscheduleentry.jsp.pagetitle = Καταχώρηση Προγραμματισμού Αναφορών
+sys_reportscheduleentry.jsp.entrydisplaybox.caption = Στοιχεια Προγραμματισμού Αναφορών
+sys_reportscheduleentry.jsp.sys_reportschedule.reportscheduleid = Κωδ. Εγγραφής
+sys_reportscheduleentry.jsp.sys_reportschedule.appname = Εφαρμογή
+sys_reportscheduleentry.jsp.sys_reportschedule.reportid = Εκτύπωση
+sys_reportscheduleentry.jsp.sys_reportschedule.lang = Γλώσσα
+sys_reportscheduleentry.jsp.sys_reportschedule.username = Χρήστης
+sys_reportscheduleentry.jsp.sys_reportschedule.triggertype = Trigger Type
+sys_reportscheduleentry.jsp.sys_reportschedule.repeatcount = Αριθμός Επαναλήψεων
+sys_reportscheduleentry.jsp.sys_reportschedule.interval = Χρονικό Βήμα
+sys_reportscheduleentry.jsp.sys_reportschedule.croneexpression = Crone Expression
+sys_reportscheduleentry.jsp.sys_reportschedule.comments = Σχόλια
+sys_reportscheduleentry.jsp.sys_reportschedule.appserver = Application Server
+sys_reportscheduleentry.jsp.sys_reportschedule.lastupdate = Τελευταία ενημέρωση
+sys_reportscheduleentry.jsp.sys_reportschedule.isactive = Ενεργή Εγγραφή
+
+sys_reportindex.jsp.pagetitle = Αναζήτηση  Παραμετρικής Αναφοράς
+sys_reportindex.jsp.criteriadisplaybox.caption = Παραμετρικές Αναφορές
+sys_reportindex.jsp.griddisplaybox.caption = Παραμετρικές Αναφορές
+sys_reportindex.jsp.moduleid_criteria = Υποσύστημα
+sys_reportindex.jsp.descr_criteria = Περιγραφή
+sys_reportindex.jsp.sys_report.reportid = Κωδ. Εγγραφής
+sys_reportindex.jsp.sys_report.descr = Περιγραφή
+
+sys_reportscheduleentry.jsp.validations.appname_required = Συμπληρώστε Υποχρεωτικά Όνομα Εφαρμογής
+sys_reportscheduleentry.jsp.validations.report_required = Συμπληρώστε Υποχρεωτικά Εκτύπωση
+sys_reportscheduleentry.jsp.validations.lang_required = Συμπληρώστε Υποχρεωτικά Γλώσσα
+sys_reportscheduleentry.jsp.validations.triggertype_required = Συμπληρώστε Υποχρεωτικά Trigger Type
+sys_reportscheduleentry.jsp.validations.croneexpression_required = Συμπληρώστε Υποχρεωτικά Crone Expression
+sys_reportscheduleentry.jsp.validations.sampledata_required = Συμπληρώστε Υποχρεωτικά Δειγματοληπτικά Κριτήρια Αναζήτησης
+
+sys_reportscheduleentry.jsp.tabs.page1 = Βασικές Παράμετροι
+sys_reportscheduleentry.jsp.tabs.page2 = Κριτήρια Αναζήτησης
+sys_reportscheduleentry.jsp.sys_reportschedulecriteria.name =  Ονομασία Κριτηρίου
+sys_reportscheduleentry.jsp.sys_reportschedulecriteria.sampledata =  Δεδομένα Παραδείγματος
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.pagetitle','Διαχείριση Προγραμματισμού Αναφορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.griddisplaybox.caption','Προγραμματισμός Αναφορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.page_criteria','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.page','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.event','Event');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.appname_criteria','Εφαρμογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.report_criteria','Εκτύπωση');
+                                                                                                           
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.isactive_criteria','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.reportscheduleid','Προγραμματισμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.appname','Εφαρμογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.reportdescr','Εκτύπωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.triggertype','Trigger Type');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.appserver','Application Server');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportschedulebrowser.jsp.sys_reportschedule.isactive','Ενεργή Εγγραφή');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.pagetitle','Καταχώρηση Προγραμματισμού Αναφορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.entrydisplaybox.caption','Στοιχεια Προγραμματισμού Αναφορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.reportscheduleid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.appname','Εφαρμογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.reportid','Εκτύπωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.lang','Γλώσσα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.triggertype','Trigger Type');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.repeatcount','Αριθμός Επαναλήψεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.interval','Χρονικό Βήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.croneexpression','Cron Expression');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.appserver','Application Server');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.lastupdate','Τελευταία ενημέρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedule.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.pagetitle','Αναζήτηση  Παραμετρικής Αναφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.criteriadisplaybox.caption','Παραμετρικές Αναφορές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.griddisplaybox.caption','Παραμετρικές Αναφορές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.moduleid_criteria','Υποσύστημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.sys_report.reportid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportindex.jsp.sys_report.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.appname_required','Συμπληρώστε Υποχρεωτικά Όνομα Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.report_required','Συμπληρώστε Υποχρεωτικά Εκτύπωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.lang_required','Συμπληρώστε Υποχρεωτικά Γλώσσα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.triggertype_required','Συμπληρώστε Υποχρεωτικά Trigger Type');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.croneexpression_required','Συμπληρώστε Υποχρεωτικά Crone Expression');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.sampledata_required','Συμπληρώστε Υποχρεωτικά Κριτήρια Αναζήτησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.tabs.page1','Βασικές Παράμετροι');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.tabs.page2','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedulecriteria.name','Ονομασία Κριτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedulecriteria.sampledata','Δεδομένα Παραδείγματος');
+

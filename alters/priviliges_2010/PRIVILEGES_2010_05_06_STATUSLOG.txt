@@ -1,0 +1,5 @@
+insert into sys_privilege(privilegeid, descr) values ('med_servicestatuslogentry.jsp.view', 'Καταστάσεις Ιατρικής Υπηρεσίας (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicestatuslogentry.jsp.insert', 'Καταστάσεις Ιατρικής Υπηρεσίας (Εισαγωγή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicestatuslogentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicestatuslogentry.jsp.insert', 1);

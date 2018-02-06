@@ -1,0 +1,5 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('sys_entrycustomization.jsp.view', 'Παραμετροποίηση Entry');
+insert into sys_privilege(privilegeid, descr) values ('sys_entrycustomization.jsp.delete', 'Διαγραφή Παραμετροποίησης Entry');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_entrycustomization.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_entrycustomization.jsp.delete', 1);

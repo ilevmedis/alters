@@ -1,0 +1,64 @@
+﻿fin_occupationbrowser.jsp.pagetitle = Διαχείριση Κωδικών Δραστηριότητας
+fin_occupationbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_occupationbrowser.jsp.griddisplaybox.caption = Κωδικοί Δραστηριότητας
+fin_occupationbrowser.jsp.mnemonic_criteria_label = Μνημονικός Κωδ.
+fin_occupationbrowser.jsp.descr_criteria_label = Περιγραφή
+fin_occupationbrowser.jsp.isactive_criteria = Ενεργός
+fin_occupationbrowser.jsp.fin_occupation.occupationid = Κωδικός
+fin_occupationbrowser.jsp.fin_occupation.mnemonic = Μνημονικός
+fin_occupationbrowser.jsp.fin_occupation.descr = Περιγραφή
+fin_occupationbrowser.jsp.fin_occupation.isactive = Ενεργός
+
+fin_occupationentry.jsp.pagetitle = Εισαγωγή Κωδικών Δραστηριότητας
+fin_occupationentry.jsp.entrydisplaybox.caption = Στοιχεία Κωδικού Δραστηριότητας
+fin_occupationentry.jsp.fin_occupation.occupationid = Κωδικός
+fin_occupationentry.jsp.fin_occupation.mnemonic = Μνημονικός
+fin_occupationentry.jsp.fin_occupation.descr = Περιγραφή
+fin_occupationentry.jsp.fin_occupation.kepyoid = Κωδικός ΚΕΠΥΟ
+fin_occupationentry.jsp.fin_occupation.isactive = Ενεργός
+
+fin_occupationentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+fin_occupationentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημονικό
+
+fin_occupationindex.jsp.pagetitle = Διαχείριση Κωδικών Δραστηριότητας
+fin_occupationindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_occupationindex.jsp.griddisplaybox.caption = Κωδικοί Δραστηριότητας
+fin_occupationindex.jsp.mnemonic_criteria = Μνημονικός Κωδ.
+fin_occupationindex.jsp.descr_criteria = Περιγραφή
+fin_occupationindex.jsp.fin_occupation.occupationid = Κωδικός
+fin_occupationindex.jsp.fin_occupation.mnemonic = Μνημονικός
+fin_occupationindex.jsp.fin_occupation.descr = Περιγραφή
+
+fin_transpartyentry.jsp.tabs.page5 = Δραστηριότητες
+fin_transpartyentry.jsp.fin_transpartyoccupation.occupationid = Κωδικός
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.pagetitle','Διαχείριση Κωδικών Δραστηριότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.griddisplaybox.caption','Κωδικοί Δραστηριότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.mnemonic_criteria_label','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.descr_criteria_label','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.isactive_criteria','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.fin_occupation.occupationid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.fin_occupation.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.fin_occupation.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationbrowser.jsp.fin_occupation.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.pagetitle','Εισαγωγή Κωδικών Δραστηριότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.entrydisplaybox.caption','Στοιχεία Κωδικού Δραστηριότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_occupationentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_occupationentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupation.occupationid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupation.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupation.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupation.kepyoid','Κωδικός ΚΕΠΥΟ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupation.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.pagetitle','Διαχείριση Κωδικών Δραστηριότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.griddisplaybox.caption','Κωδικοί Δραστηριότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.mnemonic_criteria','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.fin_occupation.occupationid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.fin_occupation.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationindex.jsp.fin_occupation.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.tabs.page5','Δραστηριότητες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartyoccupation.occupationid','Κωδικός');

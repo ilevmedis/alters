@@ -1,0 +1,62 @@
+sys_maillistgroupbrowser.jsp.pagetitle = Διαχείριση Ομάδων Λιστών EMail
+sys_maillistgroupbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_maillistgroupbrowser.jsp.griddisplaybox.caption = Ομάδες Λιστών EMail
+sys_maillistgroupbrowser.jsp.mnemonic_criteria = Μνημ. Κωδικός
+sys_maillistgroupbrowser.jsp.descr_criteria = Περιγραφή
+sys_maillistgroupbrowser.jsp.senderemail_criteria = EMail Αποστολέα
+sys_maillistgroupbrowser.jsp.subject_criteria = Θέμα
+sys_maillistgroupbrowser.jsp.isactive_criteria = Ενεργές Εγγραφές
+
+sys_maillistgroupbrowser.jsp.sys_maillistgroup.maillistgroupid = Κωδικός
+sys_maillistgroupbrowser.jsp.sys_maillistgroup.mnemonic = Μνημ. Κωδικός
+sys_maillistgroupbrowser.jsp.sys_maillistgroup.descr = Περιγραφή
+sys_maillistgroupbrowser.jsp.sys_maillistgroup.senderemail = EMail Αποστολέα
+sys_maillistgroupbrowser.jsp.sys_maillistgroup.subject = Θέμα
+sys_maillistgroupbrowser.jsp.sys_maillistgroup.isactive = Ενεργή Εγγραφή
+
+sys_maillistgroupentry.jsp.pagetitle = Καταχώρηση Ομάδων Λιστών EMail
+sys_maillistgroupentry.jsp.entrydisplaybox.caption = Στοιχεία Ομάδας Λιστών EMail
+sys_maillistgroupentry.jsp.maillistgroupid = Κωδικός
+sys_maillistgroupentry.jsp.isactive = Ενεργή Εγγραφή
+sys_maillistgroupentry.jsp.mnemonic = Μνημ. Κωδικός
+sys_maillistgroupentry.jsp.descr = Περιγραφή
+sys_maillistgroupentry.jsp.senderemail = EMail Αποστολέα
+sys_maillistgroupentry.jsp.subject = Θέμα
+sys_maillistgroupentry.jsp.reportid = Αναφορά
+
+sys_maillistgroupentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό
+sys_maillistgroupentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+sys_maillistgroupentry.jsp.validations.senderemail_required = Συμπληρώστε Υποχρεωτικά EMail Αποστολέα
+sys_maillistgroupentry.jsp.validations.subject_required = Συμπληρώστε Υποχρεωτικά Θέμα
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.pagetitle','Διαχείριση Ομάδων Λιστών EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.griddisplaybox.caption','Ομάδες Λιστών EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.senderemail_criteria','EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.subject_criteria','Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.isactive_criteria','Ενεργές Εγγραφές');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.sys_maillistgroup.maillistgroupid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.sys_maillistgroup.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.sys_maillistgroup.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.sys_maillistgroup.senderemail','EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.sys_maillistgroup.subject','Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupbrowser.jsp.sys_maillistgroup.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.pagetitle','Καταχώρηση Ομάδων Λιστών EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.entrydisplaybox.caption','Στοιχεία Ομάδας Λιστών EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.maillistgroupid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.senderemail','EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.subject','Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistgroupentry.jsp.reportid','Αναφορά');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistgroupentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistgroupentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistgroupentry.jsp.validations.senderemail_required','Συμπληρώστε Υποχρεωτικά EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistgroupentry.jsp.validations.subject_required','Συμπληρώστε Υποχρεωτικά Θέμα');

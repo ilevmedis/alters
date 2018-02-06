@@ -1,0 +1,9 @@
+med_obsparamsearch.jsp.pagetitle = Επιλογή Παραμέτρου Μέτρησης
+med_obsparamsearch.jsp.med_obsparam.mnemonic = Μνημ.Κωδικός
+med_obsparamsearch.jsp.med_obsparam.descr = Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsearch.jsp.pagetitle','Επιλογή Παραμέτρου Μέτρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsearch.jsp.med_obsparam.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsearch.jsp.med_obsparam.descr','Περιγραφή');
+
+

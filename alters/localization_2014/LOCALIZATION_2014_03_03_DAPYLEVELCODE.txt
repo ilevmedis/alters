@@ -1,0 +1,52 @@
+pbl_dapylevelcodebrowser.jsp.pagetitle = Διαχείριση Κωδ. ΔΑΠΥ/Κλινική
+pbl_dapylevelcodebrowser.jsp.criteriadisplaybox.caption = Διαχείριση Κωδ. ΔΑΠΥ/Κλινική
+pbl_dapylevelcodebrowser.jsp.griddisplaybox.caption = Κωδ. ΔΑΠΥ/Κλινική
+pbl_dapylevelcodebrowser.jsp.dapycode_criteria = Κωδ.ΔΑΠΥ
+pbl_dapylevelcodebrowser.jsp.levelid_criteria = Θέση
+pbl_dapylevelcodebrowser.jsp.facilityid_criteria = Κλινική
+pbl_dapylevelcodebrowser.jsp.onedaystayindicator_criteria = Μονοήμερο
+
+pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.countryid = Χώρα
+pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.facilityid = Κλινική
+pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.dapycode = Κωδ. ΔΑΠΥ
+pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.onedaystayindicator = Μονοήμερο
+
+
+pbl_dapylevelcodeentry.jsp.pagetitle = Καταχώρηση Κωδ. ΔΑΠΥ/Κλινική
+pbl_dapylevelcodeentry.jsp.entrydisplaybox.caption = Στοιχεία Κωδικοποίησης
+
+pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.dapycode = Κωδ.ΔΑΠΥ
+pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.levelid = Θέση
+pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.facilityid = Κλινική
+pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.onedaystayindicator = Μονοήμερο
+
+pbl_dapylevelcodeentry.jsp.validations.dapycoderequired = Συμπληρώστε Υποχρεωτικά Κωδικό ΔΑΠΥ
+pbl_dapylevelcodeentry.jsp.validations.onedaystayindicatorrequired = Συμπληρώστε Υποχρεωτικά Μονοήμερο
+pbl_dapylevelcodeentry.jsp.validations.levelidrequired = Συμπληρώστε Υποχρεωτικά Θέση
+pbl_dapylevelcodeentry.jsp.validations.facilityidrequired = Συμπληρώστε Υποχρεωτικά Κλινική
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.pagetitle','Διαχείριση Κωδ. ΔΑΠΥ/Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.criteriadisplaybox.caption','Διαχείριση Κωδ. ΔΑΠΥ/Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.griddisplaybox.caption','Κωδ. ΔΑΠΥ/Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.dapycode_criteria','Κωδ.ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.levelid_criteria','Θέση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.facilityid_criteria','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.onedaystayindicator_criteria','Μονοήμερο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.facilityid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.dapycode','Κωδ. ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodebrowser.jsp.pbl_dapylevelcode.onedaystayindicator','Μονοήμερο');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodeentry.jsp.pagetitle','Καταχώρηση Κωδ. ΔΑΠΥ/Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodeentry.jsp.entrydisplaybox.caption','Στοιχεία Κωδικοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.dapycode','Κωδ.ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.levelid','Θέση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.facilityid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapylevelcodeentry.jsp.pbl_dapylevelcode.onedaystayindicator','Μονοήμερο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_dapylevelcodeentry.jsp.validations.dapycoderequired','Συμπληρώστε Υποχρεωτικά Κωδικό ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_dapylevelcodeentry.jsp.validations.onedaystayindicatorrequired','Συμπληρώστε Υποχρεωτικά Μονοήμερο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_dapylevelcodeentry.jsp.validations.levelidrequired','Συμπληρώστε Υποχρεωτικά Θέση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_dapylevelcodeentry.jsp.validations.facilityidrequired','Συμπληρώστε Υποχρεωτικά Κλινική ');

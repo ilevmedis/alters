@@ -1,0 +1,5 @@
+medorderentry.jsp.med_orderrecurrence.noofdays = Αρ.Ημερ.
+medorderentry.jsp.med_orderdetail.diagnosiscodeid = Διάγνωση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medorderentry.jsp.med_orderrecurrence.noofdays','Αρ.Ημερ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medorderentry.jsp.med_orderdetail.diagnosiscodeid','Διάγνωση');

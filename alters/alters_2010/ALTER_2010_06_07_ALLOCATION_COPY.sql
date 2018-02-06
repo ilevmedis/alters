@@ -1,0 +1,1 @@
+alter table MED_PARAMETERS add ALLOWEDCANCELREASONS varchar2(20);

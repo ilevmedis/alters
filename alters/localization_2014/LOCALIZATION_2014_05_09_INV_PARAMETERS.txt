@@ -1,0 +1,5 @@
+inv_parametersentry.jsp.inv_parameters.isconnectingtoekapty = Σύνδεση Με Το Web Service Του ΕΚΑΠΤΥ
+inv_parametersentry.jsp.inv_parameters.ekapty_usertoken = ΕΚΑΠΤΥ User Token
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_parametersentry.jsp.inv_parameters.isconnectingtoekapty','Σύνδεση Με Το Web Service Του ΕΚΑΠΤΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_parametersentry.jsp.inv_parameters.ekapty_usertoken','ΕΚΑΠΤΥ User Token');

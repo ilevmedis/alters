@@ -1,0 +1,26 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pta_waitlistbrowser.jsp.view', 'Διαχείριση Λίστας Αναμονής (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistbrowser.jsp.print', 'Διαχείριση Λίστας Αναμονής (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistentry.jsp.view', 'Καταχώρηση Λίστας Αναμονής (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistentry.jsp.print', 'Καταχώρηση Λίστας Αναμονής (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistentry.jsp.insert', 'Καταχώρηση Λίστας Αναμονής (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistentry.jsp.update', 'Καταχώρηση Λίστας Αναμονής (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistentry.jsp.delete', 'Καταχώρηση Λίστας Αναμονής (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistcancelentry.jsp.view', 'Ακύρωση Λίστας Αναμονής (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistcancelentry.jsp.print', 'Ακύρωση Λίστας Αναμονής (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistcancelentry.jsp.insert', 'Ακύρωση Λίστας Αναμονής (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistcancelentry.jsp.update', 'Ακύρωση Λίστας Αναμονής (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_waitlistcancelentry.jsp.delete', 'Ακύρωση Λίστας Αναμονής (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistcancelentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistcancelentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistcancelentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistcancelentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_waitlistcancelentry.jsp.insert', 1);

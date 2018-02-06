@@ -1,0 +1,91 @@
+CREATE OR REPLACE VIEW INV_LASTITEMTRANSPARTY_VIEW AS
+SELECT TRANSDETAIL.INVTRANSDETAILID,
+       TRANSDETAIL.INVITEMTRANSPARTYID,
+       TRANSDETAIL.FINTRANSPARTYID,
+       ITEMTRANSPARTY.TRANSPARTYITEMCODE,
+       ITEMTRANSPARTY.TRANSPARTYITEMDESCR,
+       TRANSDETAIL.INVITEMID,
+       TRANSDETAIL.COMPANYID,
+       TRANSDETAIL.FYEARID,
+       TRANSDETAIL.INTERNALEVENTDATE,
+       TRANSDETAIL.INVTRANSHEADERID
+FROM
+INV_TRANSDETAIL TRANSDETAIL,INV_ITEMTRANSPARTY ITEMTRANSPARTY
+WHERE
+      TRANSDETAIL.INVITEMTRANSPARTYID = ITEMTRANSPARTY.INVITEMTRANSPARTYID AND
+      ITEMTRANSPARTY.FYEARID =
+        (SELECT ERP_FYEAR.FYEARID FROM ERP_FYEAR WHERE ERP_FYEAR.COMPANYID = TRANSDETAIL.COMPANYID AND ERP_FYEAR.ISDEFAULT = '1') AND
+      TRANSDETAIL.COMPANYID = ITEMTRANSPARTY.COMPANYID AND
+      TRANSDETAIL.INVTRANSDETAILID = (SELECT MAX(TRANSDETAIL2.INVTRANSDETAILID) FROM INV_TRANSDETAIL TRANSDETAIL2 WHERE
+                                      TRANSDETAIL2.INVITEMID = ITEMTRANSPARTY.INVITEMID AND
+                                      TRANSDETAIL2.COMPANYID = ITEMTRANSPARTY.COMPANYID AND
+                                      TRANSDETAIL2.FINTRANSPARTYID IS NOT NULL AND
+                                      TRANSDETAIL2.ISDELETED = '0' AND
+                                      TRANSDETAIL2.ISDEBIT ='1' AND
+                                      TRANSDETAIL2.EVENTTYPEINDICATOR IN ('2','3') AND
+                                      TRANSDETAIL2.INTERNALEVENTDATE =
+                                     (SELECT MAX(INV_TRANSDETAIL.INTERNALEVENTDATE) FROM INV_TRANSDETAIL WHERE
+                                      INV_TRANSDETAIL.INVITEMID = ITEMTRANSPARTY.INVITEMID AND
+                                      INV_TRANSDETAIL.COMPANYID = ITEMTRANSPARTY.COMPANYID AND
+                                      INV_TRANSDETAIL.FINTRANSPARTYID IS NOT NULL AND
+                                      INV_TRANSDETAIL.ISDELETED = '0' AND
+                                      INV_TRANSDETAIL.ISDEBIT ='1' AND
+                                      INV_TRANSDETAIL.EVENTTYPEINDICATOR IN ('2','3'))) AND
+
+      ITEMTRANSPARTY.ISACTIVE = '1' AND
+      TRANSDETAIL.ISDEBIT = '1' AND
+      TRANSDETAIL.ISDELETED = '0' AND
+      TRANSDETAIL.EVENTTYPEINDICATOR IN ('2','3') AND
+      TRANSDETAIL.FINTRANSPARTYID IS NOT NULL;
+
+
+create table inv_lastitemtransparty(
+   invtransdetailid number(38) not null,
+   invitemtranspartyid number(38) not null,
+   fintranspartyid number(38) not null,
+   transpartyitemcode varchar2(40),
+   transpartyitemdescr varchar2(100),
+   invitemid number(38) not null,
+   companyid number(38) not null,
+   fyearid number(38) not null,
+   internaleventdate date not null,
+   invtransheaderid number(38) not null
+);
+
+alter table inv_lastitemtransparty
+  add constraint inv_lastitemtransparty_pk
+  primary key  (invitemid, fyearid, companyid);
+
+
+alter table inv_lastitemtransparty
+  add constraint inv_item_lastitem_fk
+  foreign key (invitemid, fyearid, companyid)
+  references inv_item(invitemid, fyearid, companyid);
+alter table inv_lastitemtransparty
+  add constraint fin_transparty_lastitem_fk
+  foreign key (fintranspartyid, fyearid, companyid)
+  references fin_transparty(fintranspartyid, fyearid, companyid);
+alter table inv_lastitemtransparty
+  add constraint inv_transdetail_lastitem_fk
+  foreign key (invtransdetailid, fyearid, companyid)
+  references inv_transdetail(invtransdetailid, fyearid, companyid);
+
+create index inv_item_lastitem_fk on inv_lastitemtransparty (invitemid, fyearid, companyid);
+create index fin_transparty_lastitem_fk on inv_lastitemtransparty (fintranspartyid, fyearid, companyid);
+create index inv_transdetail_lastitem_fk on inv_lastitemtransparty (invtransdetailid, fyearid, companyid);
+
+
+insert into inv_lastitemtransparty(invtransdetailid, invitemtranspartyid,
+       fintranspartyid, transpartyitemcode, transpartyitemdescr,
+       invitemid, companyid, fyearid, internaleventdate, invtransheaderid)
+       select invtransdetailid, invitemtranspartyid,
+       fintranspartyid, transpartyitemcode, transpartyitemdescr,
+       invitemid, companyid, fyearid, internaleventdate, invtransheaderid
+    from inv_lastitemtransparty_view;
+
+
+--update inv_lastitemtransparty a
+--  set internaleventdate = (select internaleventdate
+--    from inv_transdetail b where b.invtransdetailid = a.invtransdetailid
+--      and b.companyid = a.companyid and b.fyearid = a.fyearid);
+--alter table inv_lastitemtransparty modify internaleventdate not null;

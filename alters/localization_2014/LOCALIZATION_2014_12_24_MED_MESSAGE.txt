@@ -1,0 +1,7 @@
+messages.you_have_new_messages = Εχετε Νέα Μηνύματα
+messages.you_have_unread_messages = Εχετε Μη Αναγνωσμένα Μηνύματα
+messages.messages = Μηνύματα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'messages.you_have_new_messages','Εχετε Νέα Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'messages.you_have_unread_messages','Εχετε Μη Αναγνωσμένα Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'messages.messages','Μηνύματα');

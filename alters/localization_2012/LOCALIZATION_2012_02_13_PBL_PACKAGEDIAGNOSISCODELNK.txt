@@ -1,0 +1,9 @@
+pta_diagnosiscodeentry.jsp.pbl_packagediagnosiscodelnk.packageId = Πακέτα Συσχετισμένα Με Την Διάγνωση
+pbl_packageindex.jsp.isken_criteria = Είναι ΚΕΝ
+pbl_chargepackageentry.jsp.chargepackage_findkenfromdiagnosis = Εύρεση Πακέτου Σύμφωνα Με Διάγνωση
+pbl_chargepackageentry.jsp.additionalchargepackage_findkenfromdiagnosis = Πακέτο Σύμφωνα Με Διάγνωση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodeentry.jsp.pbl_packagediagnosiscodelnk.packageId','Πακέτα Συσχετισμένα Με Την Διάγνωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageindex.jsp.isken_criteria','Είναι ΚΕΝ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.chargepackage_findkenfromdiagnosis','Εύρεση Πακέτου Σύμφωνα Με Διάγνωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.additionalchargepackage_findkenfromdiagnosis','Πακέτο Σύμφωνα Με Διάγνωση');

@@ -1,0 +1,7 @@
+pbl_reqpayentry.jsp.pbl_reqpayheader.isclosed = Κλείστη
+pbl_reqpayentry.jsp.fin_transdebit.descr = Σχόλια
+pbl_reqpayentry.jsp.fin_transdebit.supplierbanknote = Αξιόγραφο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqpayheader.isclosed','Κλείστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.fin_transdebit.descr','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.fin_transdebit.supplierbanknote','Αξιόγραφο');

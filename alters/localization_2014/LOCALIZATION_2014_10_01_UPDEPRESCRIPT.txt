@@ -1,0 +1,10 @@
+pbl_updeprescription.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_updeprescription.jsp.sincedate_criteria = Από Ημ.Χρέωσης
+pbl_updeprescription.jsp.tilldate_criteria = Εως Ημ.Χρέωσης
+pbl_updeprescription.jsp.visitid_criteria = Περιστατικό
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.sincedate_criteria','Από Ημ.Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.tilldate_criteria','Εως Ημ.Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.visitid_criteria','Περιστατικό');
+

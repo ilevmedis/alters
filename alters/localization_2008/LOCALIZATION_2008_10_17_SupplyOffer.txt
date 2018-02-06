@@ -1,0 +1,153 @@
+﻿src_supplyofferbrowser.jsp.pagetitle = Διαχείριση Προσφορών Προμηθευτών
+src_supplyofferbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+src_supplyofferbrowser.jsp.supplyrequestdatadisplaybox.caption = Στοιχεία Αναζήτησης Προμήθειας
+src_supplyofferbrowser.jsp.griddisplaybox.caption = Προσφορές Προμηθευτών
+src_supplyofferbrowser.jsp.src_supplyrequest.mnemonic = Μνημ.Κωδικός Αναζήτησης Προμήθειας
+src_supplyofferbrowser.jsp.src_supplyrequest.requestdate = Ημ/νία Αναζήτησης
+src_supplyofferbrowser.jsp.src_supplyrequest.descr = Περιγραφή Αναζήτησης Προμήθειας
+src_supplyofferbrowser.jsp.src_supplyrequest.selectionmethodindicator = Μέθοδος Κατακύρωσης
+src_supplyofferbrowser.jsp.src_supplyrequest.statusindicator = Κατάσταση
+src_supplyofferbrowser.jsp.isrejectedcriteria = Απορρίφθηκε
+src_supplyofferbrowser.jsp.src_supplyoffer.linenum = Α/Α
+src_supplyofferbrowser.jsp.src_supplyoffer.fintranspartyname = Επωνυμία Προμηθευτή
+src_supplyofferbrowser.jsp.src_supplyoffer.offerdate = Ημ/νία Προσφοράς
+src_supplyofferbrowser.jsp.src_supplyoffer.validtilldate = Ισχύς Προσφοράς
+src_supplyofferbrowser.jsp.src_supplyoffer.comments = Σχόλια
+src_supplyofferbrowser.jsp.src_supplyoffer.isrejected = Απορρίφθηκε
+
+src_supplyofferentry.jsp.pagetitle = Καταχώρηση Προσφορών Προμηθευτών
+src_supplyofferentry.jsp.supplyrequestdatadisplaybox.caption = Στοιχεία Αναζήτησης Προμήθειας
+src_supplyofferentry.jsp.entrydisplaybox.caption = Στοιχεία Προσφοράς Προμηθευτή
+src_supplyofferentry.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+src_supplyofferentry.jsp.src_supplyrequest.mnemonic = Μνημ.Κωδικός Αναζήτησης Προμήθειας
+src_supplyofferentry.jsp.src_supplyrequest.requestdate = Ημ/νία Αναζήτησης
+src_supplyofferentry.jsp.src_supplyrequest.descr = Περιγραφή Αναζήτησης Προμήθειας
+src_supplyofferentry.jsp.src_supplyrequest.selectionmethodindicator = Μέθοδος Κατακύρωσης
+src_supplyofferentry.jsp.src_supplyrequest.statusindicator = Κατάσταση
+src_supplyofferentry.jsp.src_supplyoffer.supplyofferid = Κωδ.Εγγραφής
+src_supplyofferentry.jsp.src_supplyoffer.linenum = Α/Α Προσφοράς
+src_supplyofferentry.jsp.src_supplyoffer.fintranspartyname = Επωνυμία Προμηθευτή
+src_supplyofferentry.jsp.src_supplyoffer.fintranspartyid = Κωδ.Προμηθευτή
+src_supplyofferentry.jsp.src_supplyoffer.offerdate = Ημ/νία Προσφοράς
+src_supplyofferentry.jsp.tabs.page1 = Στοχεία Προσφοράς
+src_supplyofferentry.jsp.tabs.page2 = Προσφερόμενα Είδη
+src_supplyofferentry.jsp.tabs.page3 = Πρόσθετα Στοχεία Προσφοράς
+src_supplyofferentry.jsp.src_supplyoffer.validtilldate = Ημ/νία Ισχύος Προσφοράς
+src_supplyofferentry.jsp.src_supplyoffer.fintranspartytaxregistrationno = ΑΦΜ Προμηθευτή
+src_supplyofferentry.jsp.src_supplyoffer.fintranspartytelno = Τηλέφωνο Προμηθευτή
+src_supplyofferentry.jsp.src_supplyoffer.fintranspartyfaxno = FAX Προμηθευτή
+src_supplyofferentry.jsp.src_supplyoffer.comments = Σχόλια
+src_supplyofferentry.jsp.src_supplyoffer.isrejected = Απορρίφθηκε
+src_supplyofferentry.jsp.src_supplyoffer.rejectionreasonindicator = Αιτία Απόρριψης
+src_supplyofferentry.jsp.src_supplyoffer.rejectioncomments = Σχόλια Απόρριψης
+src_supplyofferentry.jsp.linenum_criteria = Α/Α Ζητούμενου Είδους
+src_supplyofferentry.jsp.invitemdescr_criteria = Περιγραφή Ζητούμενου Είδους
+src_supplyofferentry.jsp.src_supplyofferitem.itemlinenum = Α/Α Είδους
+src_supplyofferentry.jsp.src_supplyrequestitem.invitemdescr = Περιγρ.Ζητ.Είδους
+src_supplyofferentry.jsp.src_supplyofferitem.transpartyitemdescr = Περιγραφή Προσφερόμενου Είδους
+src_supplyofferentry.jsp.src_supplyofferitem.qua = Ποσότητα
+src_supplyofferentry.jsp.src_supplyofferitem.unitofmeasureid = ΜΜ
+src_supplyofferentry.jsp.src_supplyofferitem.quarelation = Σχέση
+src_supplyofferentry.jsp.src_supplyofferitem.price = Τιμή
+src_supplyofferentry.jsp.src_supplyofferitem.offerdate = Ημ/νία Προσφ.
+src_supplyofferentry.jsp.src_supplyofferitem.validtilldate = Ισχύς Έως
+
+src_supplyofferentry.jsp.validations.linenum_required = Συμπληρώστε Υποχρεωτικά Α/Α Προσφοράς
+src_supplyofferentry.jsp.validations.fintranspartyname_required = Συμπληρώστε Υποχρεωτικά Επωνυμία Προμηθευτή
+src_supplyofferentry.jsp.validations.offerdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Προσφοράς
+src_supplyofferentry.validations.atleast_one_criteria_required = Συμπληρώστε Υποχρεωτικά Κριτήριο Αναζητησης
+src_supplyofferentry.validations.duplicate_linenum = Ο Α/Α Προσφοράς Υπάρχει Ήδη
+src_supplyofferentry.validations.price_required = Συμπληρώστε Υποχρεωτικά Τιμή Μονάδος
+src_supplyofferentry.validations.unitofmeasureid_required = Συμπληρώστε Υποχρεωτικά Μονάδα Μέτρησης
+src_supplyofferentry.validations.quarelation_required = Συμπληρώστε Υποχρεωτικά Σχέση με Ζητούμενη Μονάδα Μέτρησης
+
+src_supplyofferitementry.jsp.griddisplaybox.caption = Στοιχεία Προσφερόμενου Είδους
+src_supplyofferitementry.jsp.src_supplyrequestitem.invitemdescr = Περιγραφή Ζητ.Είδους
+src_supplyofferitementry.jsp.src_supplyrequestitem.invitemid = Κωδ.Ζητ.Είδους
+src_supplyofferitementry.jsp.src_supplyrequestitem.qua = Ζητ.Ποσότητα
+src_supplyofferitementry.jsp.src_supplyrequestitem.budgetprice = Προϋπ.Τιμή
+src_supplyofferitementry.jsp.src_supplyrequestitem.budgetvalue = Προϋπ.Αξία 
+src_supplyofferitementry.jsp.src_supplyrequestitem.comments = Σχόλια Ζητ.Είδους
+src_supplyofferitementry.jsp.src_supplyofferitem.transpartyitemcode = Κωδ.Είδους Προμηθ.
+src_supplyofferitementry.jsp.src_supplyofferitem.invitemid = Κωδ.Προσφ.Είδους
+src_supplyofferitementry.jsp.src_supplyofferitem.comments = Σχόλια
+src_supplyofferitementry.jsp.src_supplyofferitem.isrejected = Απόρριψη
+src_supplyofferitementry.jsp.src_supplyofferitem.rejectionreasonindicator = Αιτία Απόρριψης
+src_supplyofferitementry.jsp.src_supplyofferitem.rejectioncomments = Σχόλια Απόρριψης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.pagetitle','Διαχείριση Προσφορών Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.supplyrequestdatadisplaybox.caption','Στοιχεία Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.griddisplaybox.caption','Προσφορές Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyrequest.mnemonic','Μνημ.Κωδικός Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyrequest.requestdate','Ημ/νία Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyrequest.descr','Περιγραφή Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyrequest.selectionmethodindicator','Μέθοδος Κατακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyrequest.statusindicator','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.isrejectedcriteria','Απορρίφθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyoffer.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyoffer.fintranspartyname','Επωνυμία Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyoffer.offerdate','Ημ/νία Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyoffer.validtilldate','Ισχύς Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyoffer.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferbrowser.jsp.src_supplyoffer.isrejected','Απορρίφθηκε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.pagetitle','Καταχώρηση Προσφορών Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.supplyrequestdatadisplaybox.caption','Στοιχεία Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.entrydisplaybox.caption','Στοιχεία Προσφοράς Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyrequest.mnemonic','Μνημ.Κωδικός Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyrequest.requestdate','Ημ/νία Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyrequest.descr','Περιγραφή Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyrequest.selectionmethodindicator','Μέθοδος Κατακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyrequest.statusindicator','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.supplyofferid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.linenum','Α/Α Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.fintranspartyname','Επωνυμία Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.fintranspartyid','Κωδ.Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.offerdate','Ημ/νία Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.tabs.page1','Στοχεία Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.tabs.page2','Προσφερόμενα Είδη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.tabs.page3','Πρόσθετα Στοχεία Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.validtilldate','Ημ/νία Ισχύος Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.fintranspartytaxregistrationno','ΑΦΜ Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.fintranspartytelno','Τηλέφωνο Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.fintranspartyfaxno','FAX Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.isrejected','Απορρίφθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.rejectionreasonindicator','Αιτία Απόρριψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyoffer.rejectioncomments','Σχόλια Απόρριψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.linenum_criteria','Α/Α Ζητούμενου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.invitemdescr_criteria','Περιγραφή Ζητούμενου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.itemlinenum','Α/Α Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyrequestitem.invitemdescr','Περιγρ.Ζητ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.transpartyitemdescr','Περιγραφή Προσφερόμενου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.qua','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.unitofmeasureid','ΜΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.quarelation','Σχέση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.price','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.offerdate','Ημ/νία Προσφ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferentry.jsp.src_supplyofferitem.validtilldate','Ισχύς Έως');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.linenum_required','Συμπληρώστε Υποχρεωτικά Α/Α Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.fintranspartyname_required','Συμπληρώστε Υποχρεωτικά Επωνυμία Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.offerdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.atleast_one_criteria_required','Συμπληρώστε Υποχρεωτικά Κριτήριο Αναζητησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.duplicate_linenum','Ο Α/Α Προσφοράς Υπάρχει Ήδη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.price_required','Συμπληρώστε Υποχρεωτικά Τιμή Μονάδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.unitofmeasureid_required','Συμπληρώστε Υποχρεωτικά Μονάδα Μέτρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyofferentry.jsp.validations.quarelation_required','Συμπληρώστε Υποχρεωτικά Σχέση με Ζητούμενη Μονάδα Μέτρησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.griddisplaybox.caption','Στοιχεία Προσφερόμενου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyrequestitem.invitemdescr','Περιγραφή Ζητ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyrequestitem.invitemid','Κωδ.Ζητ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyrequestitem.qua','Ζητ.Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyrequestitem.budgetprice','Προϋπ.Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyrequestitem.budgetvalue','Προϋπ.Αξία ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyrequestitem.comments','Σχόλια Ζητ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyofferitem.transpartyitemcode','Κωδ.Είδους Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyofferitem.invitemid','Κωδ.Προσφ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyofferitem.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyofferitem.isrejected','Απόρριψη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyofferitem.rejectionreasonindicator','Αιτία Απόρριψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyofferitementry.jsp.src_supplyofferitem.rejectioncomments','Σχόλια Απόρριψης');

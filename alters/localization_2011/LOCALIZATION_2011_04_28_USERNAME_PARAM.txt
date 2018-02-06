@@ -1,0 +1,5 @@
+sys_reportentry.jsp.validations.incorrect_datatype_for_username = Μόνο Ο Τύπος Δεδομένων String Επιτρέπεται Για Είδος Πεδίου Εμφάνισης USERNAME
+sys_browsercustomization.jsp.validations.incorrect_datatype_for_username = Μόνο Ο Τύπος Δεδομένων String Επιτρέπεται Για Είδος Πεδίου Εμφάνισης USERNAME
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.incorrect_datatype_for_username','Μόνο Ο Τύπος Δεδομένων String Επιτρέπεται Για Είδος Πεδίου Εμφάνισης USERNAME');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_browsercustomization.jsp.validations.incorrect_datatype_for_username','Μόνο Ο Τύπος Δεδομένων String Επιτρέπεται Για Είδος Πεδίου Εμφάνισης USERNAME');

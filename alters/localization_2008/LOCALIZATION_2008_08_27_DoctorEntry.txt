@@ -1,0 +1,9 @@
+﻿pta_doctorentry.jsp.pta_doctorexcludedrole.doctorroleid = Ρόλοι Ασύμβατοι με τον Ιατρό
+pta_doctorentry.jsp.speciality = Ειδικότητα
+pbl_chargedoctorsentry.jsp.validations.doctorexcludedrole = Ο Επιλεγμένος Ιατρος Είναι Ασύμβατος με τον Επιλεγμένο Ρόλο
+pta_visitentry.jsp.validations.doctorexcludedrole = Ο Επιλεγμένος Ιατρος Είναι Ασύμβατος με τον Επιλεγμένο Ρόλο
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctorexcludedrole.doctorroleid','Ρόλοι Ασύμβατοι με τον Ιατρό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.speciality','Ειδικότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargedoctorsentry.jsp.validations.doctorexcludedrole','Ο Επιλεγμένος Ιατρος Είναι Ασύμβατος με τον Επιλεγμένο Ρόλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.doctorexcludedrole','Ο Επιλεγμένος Ιατρος Είναι Ασύμβατος με τον Επιλεγμένο Ρόλο');
+

@@ -1,0 +1,24 @@
+﻿fin_bankaccounttransentry.jsp.fin_transdebit.descr = Σχόλια
+fin_bankaccounttransentry.jsp.fin_transdebit.banknote = Στοιχεία Αξιογράφου
+fin_bankaccounttransentry.jsp.fin_transcredit.descr = Σχόλια
+fin_bankaccounttransentry.jsp.fin_transcredit.banknote = Στοιχεία Αξιογράφου
+fin_bankaccounttransentry.jsp.validations.totaldebit_notequal_totalcredit = Το Σύνολο Χρέωσης Διαφέρει Από Το Σύνολο της Πίστωσης
+fin_bankaccounttransentry.jsp.validations.banknote_isempty = Συμπληρώστε Υποχρεωτικά Στοιχεία Αξιογράφου
+fin_bankaccounttransentry.jsp.validations.banknoteamount_not_equal_amountcredit = Η Αξία Του Αξιογράφου Διαφέρει Από Την Αξία Κίνησης.Παρακαλώ Διορθώστε
+fin_bankaccounttransentry.jsp.validations.invalid_bankaccount = Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία
+pbl_clientcreditentry.jsp.validations.invalid_bankaccount = Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία
+pbl_visitinvoiceentry.jsp.validations.invalid_bankaccount = Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία
+fin_supplierdebitentry.jsp.validations.invalid_bankaccount = Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_bankaccounttransentry.jsp.fin_transdebit.descr','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_bankaccounttransentry.jsp.fin_transdebit.banknote','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_bankaccounttransentry.jsp.fin_transcredit.descr','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_bankaccounttransentry.jsp.fin_transcredit.banknote','Στοιχεία Αξιογράφου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_bankaccounttransentry.jsp.validations.totaldebit_notequal_totalcredit','Το Σύνολο Χρέωσης Διαφέρει Από Το Σύνολο της Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_bankaccounttransentry.jsp.validations.banknote_isempty','Συμπληρώστε Υποχρεωτικά Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_bankaccounttransentry.jsp.validations.banknoteamount_not_equal_amountcredit','Η Αξία Του Αξιογράφου Διαφέρει Από Την Αξία Κίνησης.Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_bankaccounttransentry.jsp.validations.invalid_bankaccount','Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientcreditentry.jsp.validations.invalid_bankaccount','Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.invalid_bankaccount','Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.invalid_bankaccount','Ο Λογαριασμός Που Επιλέξατε Είναι Ασύμβατος Με Την Επιλεγμενη Διαδικασία');

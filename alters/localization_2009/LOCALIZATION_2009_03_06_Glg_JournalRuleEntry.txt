@@ -1,0 +1,10 @@
+﻿glg_journalruledetailentry.jsp.glg_journalruledetailaccount.amountexpression = Έκφραση Πεδίου
+glg_journalruleamountexpression.jsp.griddisplaybox.caption = Συμπλήρωση Έκφρασης Πεδίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalruledetailentry.jsp.glg_journalruledetailaccount.amountexpression','Έκφραση Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalruleamountexpression.jsp.griddisplaybox.caption','Συμπλήρωση Έκφρασης Πεδίου');
+
+
+
+
+

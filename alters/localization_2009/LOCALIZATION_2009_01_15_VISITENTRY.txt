@@ -1,0 +1,23 @@
+﻿pta_visitentry.jsp.waitlistgriddisplaybox.caption = Λίστα Αναμονής
+pta_visitentry.jsp.pta_waitlist.patientid = ΚΑ Ασθενή
+pta_visitentry.jsp.pta_waitlist.lastname = Επώνυμο
+pta_visitentry.jsp.pta_waitlist.firstname = Όνομα
+pta_visitentry.jsp.pta_waitlist.fatherfirstname = Πατρώνυμο
+pta_visitentry.jsp.pta_waitlist.mnemonic = Μνημονικός Κωδικός
+pta_visitentry.jsp.pta_waitlist.idnumber = Αρ.Δελτ.Ταυτ
+pta_visitentry.jsp.pta_waitlist.birthdate = Ημ. Γέννησης
+
+
+pta_visitentry.jsp.validations.patient_in_waitinglist = Ο Ασθενής Βρίσκεται Στην Λίστα Αναμονής Για Εισαγωγή Σήμερα. Να Συνεχίσω;
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.waitlistgriddisplaybox.caption','Λίστα Αναμονής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.fatherfirstname','Πατρώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.idnumber','Αρ.Δελτ.Ταυτ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_waitlist.birthdate','Ημ. Γέννησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.patient_in_waitinglist','Ο Ασθενής Βρίσκεται Στην Λίστα Αναμονής Για Εισαγωγή Σήμερα. Να Συνεχίσω;');

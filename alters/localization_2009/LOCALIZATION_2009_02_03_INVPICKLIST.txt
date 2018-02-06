@@ -1,0 +1,77 @@
+﻿inv_picklistformatbrowser.jsp.pagetitle = Καταχώρηση Pick Lists Ειδών Αποθηκών
+inv_picklistformatbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_picklistformatbrowser.jsp.griddisplaybox.caption = Pick Lists Ειδών Αποθηκών
+inv_picklistformatbrowser.jsp.mnemonic_criteria = Μνημ.Κωδικός
+inv_picklistformatbrowser.jsp.descr_criteria = Περιγραφή
+inv_picklistformatbrowser.jsp.isactive_criteria = Ενεργές Εγγραφές
+inv_picklistformatbrowser.jsp.inv_picklistformat.picklistformatid = Κωδ. Εγγραφής
+inv_picklistformatbrowser.jsp.inv_picklistformat.mnemonic = Μνημ.Κωδικός
+inv_picklistformatbrowser.jsp.inv_picklistformat.descr = Περιγραφή
+inv_picklistformatbrowser.jsp.inv_picklistformat.isactive = Ενεργή Εγγραφή
+
+
+inv_picklistformatentry.jsp.pagetitle = Καταχώρηση Pick List Ειδών Αποθηκών
+inv_picklistformatentry.jsp.entrydisplaybox.caption = Στοιχεία Pick List Ειδών Αποθηκών
+inv_picklistformatentry.jsp.inv_picklistformat.picklistformatid = Κωδ. Εγγραφής
+inv_picklistformatentry.jsp.inv_picklistformat.mnemonic = Μνημ.Κωδικός
+inv_picklistformatentry.jsp.inv_picklistformat.descr = Περιγραφή
+inv_picklistformatentry.jsp.inv_picklistformat.isactive = Ενεργή Εγγραφή
+inv_picklistformatentry.jsp.objectuserslink = Πρόσβαση Χρηστών
+inv_picklistformatentry.jsp.tabs.page1 = Μορφή Pick List 
+inv_picklistformatentry.jsp.tabs.page2 = Προεπισκόπηση Μορφής
+inv_picklistformatentry.jsp.tabs.page3 = Επιλογή Ειδών
+inv_picklistformatentry.jsp.inv_itemcriteriadisplaybox.caption = Κριτήρια Αναζήτησης Ειδών
+inv_picklistformatentry.jsp.inv_itemgriddisplaybox.caption = Είδη Προς Επιλογή
+inv_picklistformatentry.jsp.mnemonic_criteria = Μνημ. Κωδικός
+inv_picklistformatentry.jsp.displaydescr_criteria = Περιγραφή
+inv_picklistformatentry.jsp.inv_item.invitemid = Κωδ. Είδους
+inv_picklistformatentry.jsp.inv_item.mnemonic = Μνημ.Κωδικός
+inv_picklistformatentry.jsp.inv_item.displaydescr = Περιγραφή
+inv_picklistformatentry.jsp.inv_item.checked = Επιλογή Είδους
+
+inv_picklistformatentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+inv_picklistformatentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό
+
+inv_grantentry.jsp.tabs.page1 = Είδη Παραστατικού
+inv_grantentry.jsp.tabs.page2 = Pick List
+inv_orderstoreentry.jsp.tabs.page1 = Είδη Παραστατικού
+inv_orderstoreentry.jsp.tabs.page2 = Pick List
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.pagetitle','Καταχώρηση Pick Lists Ειδών Αποθηκών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.griddisplaybox.caption','Pick Lists Ειδών Αποθηκών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.mnemonic_criteria','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.isactive_criteria','Ενεργές Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.inv_picklistformat.picklistformatid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.inv_picklistformat.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.inv_picklistformat.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatbrowser.jsp.inv_picklistformat.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.pagetitle','Καταχώρηση Pick List Ειδών Αποθηκών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.entrydisplaybox.caption','Στοιχεία Pick List Ειδών Αποθηκών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_picklistformat.picklistformatid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_picklistformat.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_picklistformat.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_picklistformat.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.tabs.page1','Μορφή Pick List ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.tabs.page2','Προεπισκόπηση Μορφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.tabs.page3','Επιλογή Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_itemcriteriadisplaybox.caption','Κριτήρια Αναζήτησης Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_itemgriddisplaybox.caption','Είδη Προς Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.displaydescr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_item.invitemid','Κωδ. Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_item.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_item.displaydescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.inv_item.checked','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_picklistformatentry.jsp.objectuserslink','Πρόσβαση Χρηστών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_picklistformatentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_picklistformatentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantentry.jsp.tabs.page1','Είδη Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantentry.jsp.tabs.page2','Pick List');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.tabs.page1','Είδη Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.tabs.page2','Pick List');

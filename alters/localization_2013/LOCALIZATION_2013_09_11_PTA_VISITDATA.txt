@@ -1,0 +1,5 @@
+pta_visitdata.jsp.pta_visit.admissiondiagnosis = Διάγν. Εισόδου
+pta_visitdata.jsp.pta_visit.dischargediagnosis = Διαγν. Εξόδου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitdata.jsp.pta_visit.admissiondiagnosis','Διάγν. Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitdata.jsp.pta_visit.dischargediagnosis','Διαγν. Εξόδου');

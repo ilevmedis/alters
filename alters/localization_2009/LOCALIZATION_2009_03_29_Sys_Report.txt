@@ -1,0 +1,5 @@
+﻿sys_reportentry.jsp.sys_report.isrollingpages = Αυτόματη Εναλλαγή Σελίδων
+sys_reportentry.jsp.sys_report.autorefreshinterval = Ρυθμός Εναλλαγής (sec)
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.isrollingpages','Αυτόματη Εναλλαγή Σελίδων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.autorefreshinterval','Ρυθμός Εναλλαγής (sec)');

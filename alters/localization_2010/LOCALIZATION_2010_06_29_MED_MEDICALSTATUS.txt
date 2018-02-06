@@ -1,0 +1,9 @@
+med_medicalstatusentry.jsp.med_medicalstatus.isnoedit = Απαγόρευση Τροποποίησης Υπηρεσίας
+med_servicestatuslogentry.jsp.med_servicestatuslog.comments = Σχόλια
+
+med_observationcontainergenerator.validations.changesugvalue_warning = Το Πεδιο Είναι Ήδη Συμπληρωμένο, Επιθυμείτε Την Αντικατάστασή Του;
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_medicalstatusentry.jsp.med_medicalstatus.isnoedit','Απαγόρευση Τροποποίησης Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_servicestatuslogentry.jsp.med_servicestatuslog.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'med_observationcontainergenerator.validations.changesugvalue_warning','Το Πεδιο Είναι Ήδη Συμπληρωμένο, Επιθυμείτε Την Αντικατάστασή Του;');

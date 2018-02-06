@@ -1,0 +1,21 @@
+sys_changepraxistatus.jsp.pagetitle = Αλλαγή Κατάστασης Των ΧΕΠ Σε Πράξη
+sys_changepraxistatus.jsp.entrydisplaybox.caption = Στοιχεία Αλλαγης
+sys_changepraxistatus.jsp.xep2displaybox.caption = ΧΕΠ Σε Πράξη
+
+sys_changepraxistatus.jsp.successfullcompletion = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+sys_changepraxistatus.jsp.errorsfound = Βρέθηκαν Σφάλματα Κατά Τη Διαδικασία
+sys_changepraxistatus.jsp.validations.praxi_xep_not_found = Δεν Βρέθηκαν ΧΕΠ Σε Πράξη
+sys_changepraxistatus.jsp.no_xep_included = Δεν Επιλέχθηκαν ΧΕΠ Σε Πράξη Για Αλλαγή Κατάστασης
+
+sys_changepraxisstatus.jsp.liabilties_not_found = Δεν Βρέθηκαν Δαπάνες Σε Πράξη Για Αλλαγή Κατάστασης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changepraxistatus.jsp.pagetitle','Αλλαγή Κατάστασης Των ΧΕΠ Σε Πράξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changepraxistatus.jsp.entrydisplaybox.caption','Στοιχεία Αλλαγης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changepraxistatus.jsp.xep2displaybox.caption','ΧΕΠ Σε Πράξη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changepraxistatus.jsp.successfullcompletion','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changepraxistatus.jsp.errorsfound','Βρέθηκαν Σφάλματα Κατά Τη Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changepraxistatus.jsp.validations.praxi_xep_not_found','Δεν Βρέθηκαν ΧΕΠ Σε Πράξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changepraxistatus.jsp.no_xep_included','Δεν Επιλέχθηκαν ΧΕΠ Σε Πράξη Για Αλλαγή Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changepraxisstatus.jsp.liabilties_not_found','Δεν Βρέθηκαν Δαπάνες Σε Πράξη Για Αλλαγή Κατάστασης');

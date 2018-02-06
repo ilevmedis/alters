@@ -1,0 +1,21 @@
+﻿inv_itementry.jsp.inv_itemunitofmeasure.fintranspartyid = Προμηθευτής
+
+inv_itementry.jsp.validations.no_isdefault_found_to_fintransparty_buy = Δεν Βρέθηκε default Μονάδα Μέτρησης Αγοράς Για Συγκεκριμένο Προμηθευτή
+inv_itementry.jsp.validations.one_isdefault_per_buy_fintransparty_permitted = Συμπληρώστε Υποχρεωτικά Μία Μονάδα Μέτρησης Αγοράς Ως Default Ανα Προμηθευτή
+
+inv_itementry.jsp.validations.inv_itemunitofmeasure.usetypeindicatorrequired = Συμπληρώστε Υποχρεωτικά Είδος Κίνησης
+
+inv_itemunitofmeasureindex.jsp.inv_itemunitofmeasure.relation = Σχέση Με Μ.Μ
+inv_itemunitofmeasureindex.jsp.fin_transparty.mnemonic = Μνημ.Προμηθ.
+inv_itemunitofmeasureindex.jsp.fin_transparty.name = Επωνυμία Προμηθευτή
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemunitofmeasure.fintranspartyid','Προμηθευτής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemunitofmeasureindex.jsp.inv_itemunitofmeasure.relation','Σχέση Με Μ.Μ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemunitofmeasureindex.jsp.fin_transparty.mnemonic','Μνημ.Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemunitofmeasureindex.jsp.fin_transparty.name','Επωνυμία Προμηθευτή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.validations.inv_itemunitofmeasure.usetypeindicatorrequired','Συμπληρώστε Υποχρεωτικά Είδος Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.validations.no_isdefault_found_to_fintransparty_buy','Δεν Βρέθηκε default Μονάδα Μέτρησης Αγοράς Για Συγκεκριμένο Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.validations.one_isdefault_per_buy_fintransparty_permitted','Συμπληρώστε Υποχρεωτικά Μία Μονάδα Μέτρησης Αγοράς Ως Default Ανα Προμηθευτή');

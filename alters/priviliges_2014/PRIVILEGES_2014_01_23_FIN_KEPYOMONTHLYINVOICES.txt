@@ -1,0 +1,6 @@
+insert into sys_privilege(privilegeid, descr) values ('fin_kepyomonthlyinvoices.jsp.view', 'Εξαγωγή Μηνιαίου Αρχείου Συγκεντρωτικής Τιμολογίων');
+insert into sys_privilege(privilegeid, descr) values ('fin_kepyomonthlyinvoices.jsp.print', 'Εκτύπωση Μηνιαίου Αρχείου Συγκεντρωτικής Τιμολογίων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'fin_kepyomonthlyinvoices.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_kepyomonthlyinvoices.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'fin_kepyomonthlyinvoices.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_kepyomonthlyinvoices.jsp.print', 1);

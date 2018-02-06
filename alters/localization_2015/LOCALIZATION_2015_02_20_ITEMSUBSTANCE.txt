@@ -1,0 +1,8 @@
+inv_itementry.jsp.inv_itemsubstance.concentrationexpression = Έκφραση Περιεκτικότητας
+inv_itementry.jsp.inv_itemsubstance.concentrationqua = Ποσ. Περιεκτικότητας
+inv_itementry.jsp.inv_itemsubstance.concentrationunit = Μ.Μ Περιεκτικότητας
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemsubstance.concentrationexpression','Έκφραση Περιεκτικότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemsubstance.concentrationqua','Ποσ. Περιεκτικότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemsubstance.concentrationunit','Μ.Μ Περιεκτικότητας');

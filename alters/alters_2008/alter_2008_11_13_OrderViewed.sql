@@ -1,0 +1,1 @@
+﻿alter table MED_ORDERHEADER add ORDERTIME TIMESTAMP;

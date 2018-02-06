@@ -1,0 +1,6 @@
+insert into sys_privilege(privilegeid, descr) values ('license.jsp.view', 'Προβολή Δεδομένων Άδειας Χρήσης');
+insert into sys_privilege(privilegeid, descr) values ('license.jsp.insert', 'Εγκατάσταση Άδειας Χρήσης');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'license.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'license.jsp.insert', 1);
+

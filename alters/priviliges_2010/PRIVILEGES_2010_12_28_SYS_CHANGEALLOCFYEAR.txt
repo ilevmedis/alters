@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_changeallocationfyear.jsp.view', 'Ανάγνωση Μεταφοράς Ραντεβού Εξώτ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeallocationfyear.jsp.print', 'Εκτύπωση Μεταφοράς Ραντεβού Εξώτ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeallocationfyear.jsp.insert', 'Εισαγωγή Μεταφοράς Ραντεβού Εξώτ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeallocationfyear.jsp.update', 'Μεταβολή Μεταφοράς Ραντεβού Εξώτ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeallocationfyear.jsp.delete', 'Διαγραφή Μεταφοράς Ραντεβού Εξώτ.');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeallocationfyear.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeallocationfyear.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeallocationfyear.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeallocationfyear.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeallocationfyear.jsp.insert', 1);

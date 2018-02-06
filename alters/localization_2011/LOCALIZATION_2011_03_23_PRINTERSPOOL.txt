@@ -1,0 +1,9 @@
+sys_printerspoolentry.jsp.sys_userpageprinterspool.ipaddress = Δ/νση ΙΡ
+
+sys_printerspoolentry.jsp.validations.wrong_ip_entered = Η Διεύθυνση ΙΡ Είναι Λάθος. Παρακαλώ Διορθώστε
+sys_printerspoolentry.jsp.validations.user_or_usergroup_notallowed = Δεν Επιτρέπεται Η Συμπλήρωση Χρήστη ή Ομάδας Χρηστών. Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolentry.jsp.sys_userpageprinterspool.ipaddress','Δ/νση ΙΡ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_printerspoolentry.jsp.validations.wrong_ip_entered','Η Διεύθυνση ΙΡ Είναι Λάθος. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_printerspoolentry.jsp.validations.user_or_usergroup_notallowed','Δεν Επιτρέπεται Η Συμπλήρωση Χρήστη ή Ομάδας Χρηστών. Παρακαλώ Διορθώστε');

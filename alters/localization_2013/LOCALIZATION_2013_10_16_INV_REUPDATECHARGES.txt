@@ -1,0 +1,5 @@
+inv_reupdatecharges.jsp.messages.noofrows = Αρ. Εγγραφών
+inv_reupdatecharges.jsp.validations.error_occurred = Παρουσιάστηκε Σφάλμα Κατά Τη Διαδικασία Ενημερέρωσης Του Λογιστηριου Ασθενών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_reupdatecharges.jsp.messages.noofrows','Αρ. Εγγραφών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_reupdatecharges.jsp.validations.error_occurred','Παρουσιάστηκε Σφάλμα Κατά Τη Διαδικασία Ενημερέρωσης Του Λογιστηριου Ασθενών');

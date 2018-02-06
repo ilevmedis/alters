@@ -1,0 +1,9 @@
+sys_modelcustomizationbrowser.jsp.descr_criteria_label = Περιγραφή
+sys_modelcustomizationbrowser.jsp.isnewmodel_criteria_label = Νέο Μοντέλο?
+sys_modelcustomizationbrowser.jsp.sys_modelcustomization.descr = Περιγραφή
+sys_modelcustomizationbrowser.jsp.sys_modelcustomization.isnewmodel = Νέο Μοντέλο?
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.descr_criteria_label','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.isnewmodel_criteria_label','Νέο Μοντέλο?');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.sys_modelcustomization.descr','Περιγραφή ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.sys_modelcustomization.isnewmodel','Νέο Μοντέλο?');

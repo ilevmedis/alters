@@ -1,0 +1,15 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('fin_banknotebrowser.jsp.view', 'Διαχείριση Αξιογράφου (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_banknotebrowser.jsp.print', 'Διαχείριση Αξιογράφου (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknotebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknotebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('fin_banknoteentry.jsp.view', 'Καταχώρηση Αξιογράφων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_banknoteentry.jsp.print', 'Καταχώρηση Αξιογράφων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_banknoteentry.jsp.insert', 'Καταχώρηση Αξιογράφων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_banknoteentry.jsp.update', 'Καταχώρηση Αξιογράφων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_banknoteentry.jsp.delete', 'Καταχώρηση Αξιογράφων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknoteentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknoteentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknoteentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknoteentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_banknoteentry.jsp.insert', 1);

@@ -1,0 +1,21 @@
+license.jsp.pagetitle = Εγκατάσταση Αδειας Χρήσης
+license.jsp.criteriadisplaybox.caption = Εγκατάσταση Αδειας Χρήσης
+license.jsp.license_filename = Αρχείο Αδειας Χρήσης
+license.jsp.installlicense = Εγκατάσταση Αδειας
+
+license.jsp.validations.filenamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου
+license.jsp.validations.emptyfile = Το Αρχείο Που Επιλέξατε Είναι Κενό
+license.jsp.validations.invalid_license = Η Αδεια Χρήσης Δεν Είναι Έγκυρη
+login.jsp.validations.invalid_license = Η Αδεια Χρήσης Δεν Είναι Έγκυρη
+login.jsp.validations.license_error = Υπέρβαση Αδειών Χρήσης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'license.jsp.pagetitle','Εγκατάσταση Αδειας Χρήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'license.jsp.criteriadisplaybox.caption','Εγκατάσταση Αδειας Χρήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'license.jsp.license_filename','Αρχείο Αδειας Χρήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'license.jsp.installlicense','Εγκατάσταση Αδειας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'license.jsp.validations.filenamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'license.jsp.validations.emptyfile','Το Αρχείο Που Επιλέξατε Είναι Κενό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'license.jsp.validations.invalid_license','Η Αδεια Χρήσης Δεν Είναι Έγκυρη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'login.jsp.validations.invalid_license','Η Αδεια Χρήσης Δεν Είναι Έγκυρη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'login.jsp.validations.license_error','Υπέρβαση Αδειών Χρήσης');

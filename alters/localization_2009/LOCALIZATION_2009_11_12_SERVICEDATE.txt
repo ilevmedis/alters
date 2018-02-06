@@ -1,0 +1,20 @@
+pbl_chargebrowser.jsp.sinceservicedate_criteria = Από Ημ/νία Παροχής
+pbl_chargebrowser.jsp.tillservicedate_criteria = Έως Ημ/νία Παροχής
+pbl_chargebrowser.jsp.finitemgroupingcodeservice_criteria = Ομαδοποίηση
+
+pbl_chargebrowser.jsp.validations.tilldate_criteria_required = Συμπληρώστε Υποχρεωτικά Εως Ημερομηνία Παροχής
+pbl_chargebrowser.jsp.validations.sincedate_criteria_required = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Παροχής
+pbl_chargebrowser.jsp.validations.tilldate_criteria_lessthan_sincedate = Η Από Ημερομηνία Παροχής Είναι Μεγαλύτερη Της Εως!!! Παρακαλώ Διορθώστε
+pbl_chargebrowser.jsp.validations.finitemgroupingcodeservice_criteria_required = Συμπληρώστε Υποχρεωτικά Στατιστική Ομαδοποίηση
+
+delete FROM SYS_LOCALIZATION A
+  WHERE A.LOCALIZATIONKEY LIKE 'pbl_chargebrowser.jsp.currentservicedate_criteria';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.sinceservicedate_criteria','Από Ημ/νία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.tillservicedate_criteria','Έως Ημ/νία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.finitemgroupingcodeservice_criteria','Ομαδοποίηση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.tilldate_criteria_required','Συμπληρώστε Υποχρεωτικά Εως Ημερομηνία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.sincedate_criteria_required','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.tilldate_criteria_lessthan_sincedate','Η Από Ημερομηνία Παροχής Είναι Μεγαλύτερη Της Εως!!! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.finitemgroupingcodeservice_criteria_required','Συμπληρώστε Υποχρεωτικά Στατιστική Ομαδοποίηση');

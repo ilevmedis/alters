@@ -1,0 +1,5 @@
+pta_visitdata.jsp.pta_visit.transferdata = Τρέχουσα Διαμονή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitdata.jsp.pta_visit.transferdata','Τρέχουσα Διαμονή');
+
+

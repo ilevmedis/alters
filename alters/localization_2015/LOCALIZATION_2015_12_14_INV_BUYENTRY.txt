@@ -1,0 +1,5 @@
+inv_buyentry.jsp.relativedocs_criteria.allstores = Αναζήτηση Ανεξαρτήτως Αποθήκης
+inv_buyentry.jsp.validations.grantdate_less_than_buydate = Η Ημερομηνία Χορήγησης Δεν Μπορεί Να Είναι Μικρότερη Της Ημερομηνίας Αγοράς
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_buyentry.jsp.relativedocs_criteria.allstores','Αναζήτηση Ανεξαρτήτως Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'inv_buyentry.jsp.validations.grantdate_less_than_buydate','Η Ημερομηνία Χορήγησης Δεν Μπορεί Να Είναι Μικρότερη Της Ημερομηνίας Αγοράς');

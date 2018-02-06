@@ -1,0 +1,82 @@
+sys_modelcustomizationbrowser.jsp.pagetitle = Διαχείριση Παραμετροποίησης Μοντέλων Δεδομένων
+sys_modelcustomizationbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_modelcustomizationbrowser.jsp.griddisplaybox.caption = Παραμετροποιημένα Μοντέλα Δεδομένων
+sys_modelcustomizationbrowser.jsp.classname_criteria_label = Class File Μοντέλου
+sys_modelcustomizationbrowser.jsp.sys_modelcustomization.modelcustomizationid = Κωδικός
+sys_modelcustomizationbrowser.jsp.sys_modelcustomization.classname = Class File Μοντέλου
+
+sys_modelcustomizationentry.jsp.pagetitle = Καταχώρηση Παραμετροποίησης Μοντέλων Δεδομένων
+sys_modelcustomizationentry.jsp.entrydisplaybox.caption = Στοιχεια Παραμετροποίησης Μοντέλου Δεδομένων
+sys_modelcustomization.jsp.sys_modelcustomization.modelcustomizationid = Κωδικός
+sys_modelcustomization.jsp.sys_modelcustomization.classname = Class File Μοντέλου
+sys_modelcustomization.jsp.sys_modelcustomization.isactive = Ενεργή Εγγραφή
+sys_modelcustomization.jsp.tabs.page1 = Προσθετοι Πίνακες
+sys_modelcustomization.jsp.tabs.page2 = Πρόσθετα Πεδία
+sys_modelcustomization.jsp.tabs.page3 = Πρόσθετα Joins
+sys_modelcustomization.jsp.sys_modelcustomizationalias.table = Πίνακας
+sys_modelcustomization.jsp.sys_modelcustomizationalias.alias = Alias Πίνακα
+sys_modelcustomization.jsp.sys_modelcustomizationcolumn.table = Πίνακας
+sys_modelcustomization.jsp.sys_modelcustomizationcolumn.column = Πεδιο
+sys_modelcustomization.jsp.sys_modelcustomizationcolumn.type = Τύπος Δεδομένων
+sys_modelcustomization.jsp.sys_modelcustomizationcolumn.updateable = Ενημερώνεται
+sys_modelcustomization.jsp.sys_modelcustomizationcolumn.primarykey = Πρωτεύον Κλειδι
+sys_modelcustomization.jsp.sys_modelcustomizationcolumn.internalname = Κωδικός Πεδιου
+sys_modelcustomization.jsp.sys_modelcustomizationjoin.leftcolstr = Αριστερό Τμήμα Join
+sys_modelcustomization.jsp.sys_modelcustomizationjoin.rightcolstr = Δεξιό Τμήμα Join
+sys_modelcustomization.jsp.sys_modelcustomizationjoin.outer = Outer Join
+
+sys_modelcustomization.jsp.validations.classname_required = Συμπληρώστε Υποχρεωτικά Class File Μοντέλου
+sys_modelcustomization.jsp.validaions.class_not_found = Δεν Βρέθηκε Το Μοντέλο
+sys_modelcustomization.jsp.validaions.column_table_required = Ο Πίνακας Πεδίου Δεν Είναι Συμπληρωμένος
+sys_modelcustomization.jsp.validaions.column_table_not_found = Ο Πίνακας Πεδίου Δεν Βρέθηκε
+sys_modelcustomization.jsp.validaions.column_column_required = Συμπληρώστε Υποχρεωτικά Όνομα Πεδίου
+sys_modelcustomization.jsp.validaions.column_column_not_found = Το Πεδιο Δεν Βρέθηκε
+sys_modelcustomization.jsp.validaions.column_internalname_required = Συμπληρώστε Υποχρεωτικά Κωδικό Πεδίου
+sys_modelcustomization.jsp.validaions.alias_table_required = Ο Πίνακας Alias Δεν Είναι Συμπληρωμένος
+sys_modelcustomization.jsp.validaions.alias_table_not_found = Ο Πίνακας Alias Δεν Βρέθηκε
+sys_modelcustomization.jsp.validaions.join_leftcolstr_required = Συμπληρώστε Υποχρεωτικά Αριστερό Τμήμα Join
+sys_modelcustomization.jsp.validaions.join_rightcolstr_required = Συμπληρώστε Υποχρεωτικά Δεξιό Τμήμα Join
+sys_modelcustomization.jsp.validaions.join_table_not_found = Ο Πίνακας Του Join Δεν Βρέθηκε
+sys_modelcustomization.jsp.validaions.join_column_not_found = Το Πεδιο Του Join Δεν Βρέθηκε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.pagetitle','Διαχείριση Παραμετροποίησης Μοντέλων Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.griddisplaybox.caption','Παραμετροποιημένα Μοντέλα Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.classname_criteria_label','Class File');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.sys_modelcustomization.modelcustomizationid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationbrowser.jsp.sys_modelcustomization.classname','Class File ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationentry.jsp.pagetitle','Καταχώρηση Παραμετροποίησης Μοντέλων Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomizationentry.jsp.entrydisplaybox.caption','Στοιχεια Παραμετροποίησης Μοντέλου Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomization.modelcustomizationid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomization.classname','Class File Μοντέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomization.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.tabs.page1','Προσθετοι Πίνακες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.tabs.page2','Πρόσθετα Πεδία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.tabs.page3','Πρόσθετα Joins');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationalias.table','Πίνακας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationalias.alias','Alias Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationcolumn.table','Πίνακας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationcolumn.column','Πεδιο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationcolumn.type','Τύπος Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationcolumn.updateable','Ενημερώνεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationcolumn.primarykey','Πρωτεύον Κλειδι');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationcolumn.internalname','Κωδικός Πεδιου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationjoin.leftcolstr','Αριστερό Τμήμα Join');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationjoin.rightcolstr','Δεξιό Τμήμα Join');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_modelcustomization.jsp.sys_modelcustomizationjoin.outer','Outer Join');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validations.classname_required','Συμπληρώστε Υποχρεωτικά Class File Μοντέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.class_not_found','Δεν Βρέθηκε Το Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.column_table_required','Ο Πίνακας Πεδίου Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.column_table_not_found','Ο Πίνακας Πεδίου Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.column_column_required','Συμπληρώστε Υποχρεωτικά Όνομα Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.column_column_not_found','Το Πεδιο Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.column_internalname_required','Συμπληρώστε Υποχρεωτικά Κωδικό Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.alias_table_required','Ο Πίνακας Alias Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.alias_table_not_found','Ο Πίνακας Alias Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.join_leftcolstr_required','Συμπληρώστε Υποχρεωτικά Αριστερό Τμήμα Join');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.join_rightcolstr_required','Συμπληρώστε Υποχρεωτικά Δεξιό Τμήμα Join');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.join_table_not_found','Ο Πίνακας Του Join Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_modelcustomization.jsp.validaions.join_column_not_found','Το Πεδιο Του Join Δεν Βρέθηκε');
+

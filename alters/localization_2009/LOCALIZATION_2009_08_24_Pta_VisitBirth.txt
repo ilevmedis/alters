@@ -1,0 +1,53 @@
+pta_visitentry.jsp.tabs.page12 = Νεογνά
+pta_visitentry.jsp.pta_visitbirth.birthno = Α/Α
+pta_visitentry.jsp.pta_visitbirth.lastname = Επώνυμο
+pta_visitentry.jsp.pta_visitbirth.firstname = Όνομα
+pta_visitentry.jsp.pta_visitbirth.genderid = Φύλο
+pta_visitentry.jsp.pta_visitbirth.dateofbirth = Ημ/νία Γέν.
+pta_visitentry.jsp.pta_visitbirth.timeofbirth = Ώρα Γέν.
+pta_visitentry.jsp.pta_visitbirth.deliverymethodindicator = Μέθοδος Τοκετού
+pta_visitentry.jsp.pta_visitbirth.birthoutcomeindicator = Έκβαση Τοκετού
+pta_visitentry.jsp.pta_visitbirth.fatherlastname = Επών. Πατρός
+pta_visitentry.jsp.pta_visitbirth.fatherfirstname = Όν.Πατρός
+pta_visitentry.jsp.pta_visitbirth.lookup = Πρόσθετα Στοιχεία Νεογνού
+
+pta_visitbirthentry.jsp.entrydisplaybox.caption = Πρόσθετα Στοιχεία Νεογνού
+pta_visitbirthentry.jsp.pta_visitbirth.gestationweeks = Εβδομάδες Κήυσης
+pta_visitbirthentry.jsp.pta_visitbirth.gestationdays = Ημέρες Κήυσης
+pta_visitbirthentry.jsp.pta_visitbirth.weight = Βάρος
+pta_visitbirthentry.jsp.pta_visitbirth.height = Ύψος
+
+pta_visitentry.jsp.validations.birth_lastname_required = Συμπληρώστε Υποχρεωτικά Επώνυμο Νεογνού
+pta_visitentry.jsp.validations.birth_genderid_required = Συμπληρώστε Υποχρεωτικά Φύλο Νεογνού
+pta_visitentry.jsp.validations.birth_dateofbirth_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Νεογνού
+pta_visitentry.jsp.validations.birth_timeofbirth_required = Συμπληρώστε Υποχρεωτικά Ώρα Γέννησης Νεογνού
+pta_visitentry.jsp.validations.birth_deliverymethod_required = Συμπληρώστε Υποχρεωτικά Μέθοδο Τοκετού
+pta_visitentry.jsp.validations.birth_birthoutcomeindicator_required = Συμπληρώστε Υποχρεωτικά Έκβαση Τοκετού
+pta_visitentry.jsp.validations.birth_birthno_required = Συμπληρώστε Υποχρεωτικά Α/Α Νεογνού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.tabs.page12','Νεογνά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.birthno','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.genderid','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.dateofbirth','Ημ/νία Γέν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.timeofbirth','Ώρα Γέν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.deliverymethodindicator','Μέθοδος Τοκετού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.birthoutcomeindicator','Έκβαση Τοκετού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.fatherlastname','Επών. Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.fatherfirstname','Όν.Πατρός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_lastname_required','Συμπληρώστε Υποχρεωτικά Επώνυμο Νεογνού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_genderid_required','Συμπληρώστε Υποχρεωτικά Φύλο Νεογνού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_dateofbirth_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Νεογνού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_timeofbirth_required','Συμπληρώστε Υποχρεωτικά Ώρα Γέννησης Νεογνού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_deliverymethod_required','Συμπληρώστε Υποχρεωτικά Μέθοδο Τοκετού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_birthoutcomeindicator_required','Συμπληρώστε Υποχρεωτικά Έκβαση Τοκετού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.birth_birthno_required','Συμπληρώστε Υποχρεωτικά Α/Α Νεογνού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitbirth.lookup','Πρόσθετα Στοιχεία Νεογνού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitbirthentry.jsp.entrydisplaybox.caption','Πρόσθετα Στοιχεία Νεογνού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitbirthentry.jsp.pta_visitbirth.gestationweeks','Εβδομάδες Κήυσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitbirthentry.jsp.pta_visitbirth.gestationdays','Ημέρες Κήυσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitbirthentry.jsp.pta_visitbirth.weight','Βάρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitbirthentry.jsp.pta_visitbirth.height','Ύψος ');

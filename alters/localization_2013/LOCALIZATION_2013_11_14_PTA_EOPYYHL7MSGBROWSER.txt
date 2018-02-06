@@ -1,0 +1,46 @@
+pta_eopyyhl7msgbrowser.jsp.pagetitle = Διαχείριση HL7 Μηνυμάτων ΕΟΠΥΥ
+pta_eopyyhl7msgbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_eopyyhl7msgbrowser.jsp.griddisplaybox.caption = HL7 Μηνύματα
+
+pta_eopyyhl7msgbrowser.jsp.sincemessagedate_criteria = Από Ημ/νία Αποστολής
+pta_eopyyhl7msgbrowser.jsp.tillmessagedate_criteria = Έως Ημ/νία Αποστολής
+pta_eopyyhl7msgbrowser.jsp.visitid_criteria = Νοσηλεία
+pta_eopyyhl7msgbrowser.jsp.eventno_criteria = Αριθμός Κίνησης
+pta_eopyyhl7msgbrowser.jsp.eventindicator_criteria = Είδος Μηνύματος
+pta_eopyyhl7msgbrowser.jsp.sendstatus_criteria = Κατάσταση
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msg.eopyyhl7msgid = Κωδ. Μηνύματος
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.messagedate = Ημ/νία Αποστολής
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.messagetime = Ώρα
+pta_eopyyhl7msgbrowser.jsp.pta_visit.mnemonic = Μν.Κωδ.Νοσ.
+pta_eopyyhl7msgbrowser.jsp.pta_visit.lastname = Επώνυμο
+pta_eopyyhl7msgbrowser.jsp.pta_visit.firstname = Όνομα
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.eventindicator = Είδος Μηνύματος
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msg.eventno = Αρ. Κίνησης
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.sendstatus = Κατάσταση
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.message = Μήνυμα
+pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.response = Απάντηση
+pta_eopyyhl7msgbrowser.jsp.cancelsend = Ακύρωση Αποστολής
+pta_eopyyhl7msgbrowser.jsp.enablesend = Ενεργοποίηση Αποστολής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pagetitle','Διαχείριση HL7 Μηνυμάτων ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.griddisplaybox.caption','HL7 Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.sincemessagedate_criteria','Από Ημ/νία Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.tillmessagedate_criteria','Έως Ημ/νία Αποστολής ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.visitid_criteria','Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.eventno_criteria','Αριθμός Κίνησης ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.eventindicator_criteria','Είδος Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.sendstatus_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msg.eopyyhl7msgid','Κωδ. Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.messagedate','Ημ/νία Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.messagetime','Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_visit.mnemonic','Μν.Κωδ.Νοσ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.eventindicator','Είδος Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msg.eventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.sendstatus','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.message','Μήνυμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.pta_eopyyhl7msgheader.response','Απάντηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.cancelsend','Ακύρωση Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyhl7msgbrowser.jsp.enablesend','Ενεργοποίηση Αποστολής');

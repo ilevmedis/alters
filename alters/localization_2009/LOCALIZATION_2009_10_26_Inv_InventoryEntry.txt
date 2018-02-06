@@ -1,0 +1,11 @@
+inv_inventoryentry.jsp.from_inv_itemgrouping.mnemonic = Από Ομάδα
+inv_inventoryentry.jsp.to_inv_itemgrouping.mnemonic = Έως Ομάδα
+
+inv_inventoryentry.jsp.validations.inv_transheader.togroup_required = Συμπληρώστε Υποχρεωτικά Έως Ομάδα
+
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY='inv_inventoryentry.jsp.inv_itemgrouping.mnemonic';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_inventoryentry.jsp.from_inv_itemgrouping.mnemonic','Από Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_inventoryentry.jsp.to_inv_itemgrouping.mnemonic','Έως Ομάδα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_inventoryentry.jsp.validations.inv_transheader.togroup_required','Συμπληρώστε Υποχρεωτικά Έως Ομάδα');

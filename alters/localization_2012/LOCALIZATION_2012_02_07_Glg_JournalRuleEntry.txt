@@ -1,0 +1,10 @@
+﻿glg_journalruledetailentry.jsp.glg_journalruledetailaccount.applyexpression = Έκφρ. Εφαρμ. Κανόνα
+glg_journalruleapplyexpression.jsp.griddisplaybox.caption = Συμπλήρωση Έκφρασης Εφαρμογής Κανόνα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalruledetailentry.jsp.glg_journalruledetailaccount.applyexpression','Έκφρ. Εφαρμ. Κανόνα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalruleapplyexpression.jsp.griddisplaybox.caption','Συμπλήρωση Έκφρασης Εφαρμογής Κανόνα');
+
+
+
+
+

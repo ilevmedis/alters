@@ -1,0 +1,14 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('inv_tempinventorybrowser.jsp.view', 'Ανάγνωση Προσωρινών Απογραφων');
+insert into sys_privilege(privilegeid, descr) values ('inv_tempinventorybrowser.jsp.print', 'Εκτύπωση Προσωρινών Απογραφων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventorybrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventorybrowser.jsp.print', 1);
+insert into sys_privilege(privilegeid, descr) values ('inv_tempinventoryentry.jsp.view', 'Ανάγνωση Προσωρινών Απογραφων');
+insert into sys_privilege(privilegeid, descr) values ('inv_tempinventoryentry.jsp.print', 'Εκτύπωση Προσωρινών Απογραφων');
+insert into sys_privilege(privilegeid, descr) values ('inv_tempinventoryentry.jsp.insert', 'Εισαγωγή Προσωρινών Απογραφων');
+insert into sys_privilege(privilegeid, descr) values ('inv_tempinventoryentry.jsp.update', 'Μεταβολή Προσωρινών Απογραφων');
+insert into sys_privilege(privilegeid, descr) values ('inv_tempinventoryentry.jsp.delete', 'Διαγραφή Προσωρινών Απογραφων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventoryentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventoryentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventoryentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventoryentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_tempinventoryentry.jsp.insert', 1);

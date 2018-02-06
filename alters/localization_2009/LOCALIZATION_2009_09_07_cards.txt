@@ -1,0 +1,23 @@
+update sys_localization set message = 'Ασφ. Φορέας' where localizationkey = 'pbl_cardcontractentry.jsp.pbl_cardcontract.fintranspartyid';
+update sys_localization set message = 'Συμπληρωστε Υποχρεωτικά Ασφ. Φορέα' where localizationkey = 'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.fintranspartyidrequired';
+update sys_localization set message = 'Ασφ. Φορέας' where localizationkey = 'pbl_cardcontractbrowser.jsp.fin_transparty.name';
+
+pbl_cardcontractentry.jsp.pbl_cardcontract.insuranceschemeheaderid = Ασφ. Πρόγραμμα
+pbl_chargedetailentry.jsp.pbl_chargecover.quacover = Ποσ.Καλ.
+
+pbl_cardcontractentry.jsp.validations.pbl_cardcontract.insuranceschemeheaderidrequired = Συμπληρωστε Υποχρεωτικά Ασφ. Πρόγραμμα
+fin_itemindex.jsp.validations.quaplafon_exceeded = Προσοχή!!! Υπέρβαση Πλαφόν Ποσότητας
+pta_oupvisitentry.jsp.validations.quaplafon_exceeded = Προσοχή!!! Υπέρβαση Πλαφόν Ποσότητας
+pbl_chargeentry.jsp.validations.quaplafon_exceeded = Προσοχή!!! Υπέρβαση Πλαφόν Ποσότητας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.insuranceschemeheaderid','Ασφ. Πρόγραμμα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargedetailentry.jsp.pbl_chargecover.quacover','Ποσοτ. Καλ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.insuranceschemeheaderidrequired','Συμπληρωστε Υποχρεωτικά Ασφ. Πρόγραμμα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_itemindex.jsp.validations.quaplafon_exceeded','Προσοχή!!! Υπέρβαση Πλαφόν Ποσότητας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.quaplafon_exceeded','Προσοχή!!! Υπέρβαση Πλαφόν Ποσότητας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.quaplafon_exceeded','Προσοχή!!! Υπέρβαση Πλαφόν Ποσότητας');

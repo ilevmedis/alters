@@ -1,0 +1,47 @@
+﻿pbl_ikaclinicbrowser.jsp.pagetitle = Διαχείριση Κωδικοποίησης Κλινικών ΙΚΑ
+pbl_ikaclinicbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_ikaclinicbrowser.jsp.griddisplaybox.caption = Κωδικοποίηση Κλινικών ΙΚΑ
+pbl_ikaclinicbrowser.jsp.mnemonic_criteria = Μνημ.Κωδικός
+pbl_ikaclinicbrowser.jsp.descr_criteria = Περιγραφή
+pbl_ikaclinicbrowser.jsp.isactive_criteria_label = Ενεργές Εγγραφές
+pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.ikaclinicid = Κωδ.Εγγραφής
+pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.mnemonic = Μνημ.Κωδικός
+pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.descr = Περιγραφή
+pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.isactive = Ενεργή Εγγραφή
+
+pbl_ikaclinicentry.jsp.pagetitle = Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ
+pbl_ikaclinicentry.jsp.entrydisplaybox.caption = Στοιχεία Κωδικοποίησης Κλινικών ΙΚΑ
+pbl_ikaclinicentry.jsp.ikaclinicid = Κωδ.Εγγραφής
+pbl_ikaclinicentry.jsp.pbl_ikaclinic.mnemonic = Μνημ.Κωδικός
+pbl_ikaclinicentry.jsp.pbl_ikaclinic.descr = Περιγραφή
+pbl_ikaclinicentry.jsp.pbl_ikaclinic.isactive = Ενεργή Εγγραφή
+
+pbl_ikaclinicentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημ.Κωδικό
+pbl_ikaclinicentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+'pta_facilityentry.jsp.pta_facility.ikaclinicid = Κωδ. Κλινικής ΙΚΑ
+pbl_visitbillingruleentry.jsp.pbl_visitbillingrule.ikaclinicid = Κωδ. Κλινικής ΙΚΑ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.pagetitle','Διαχείριση Κωδικοποίησης Κλινικών ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.griddisplaybox.caption','Κωδικοποίηση Κλινικών ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.mnemonic_criteria','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.isactive_criteria_label','Ενεργές Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.ikaclinicid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicbrowser.jsp.pbl_ikaclinic.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicentry.jsp.pagetitle','Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicentry.jsp.entrydisplaybox.caption','Στοιχεία Κωδικοποίησης Κλινικών ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicentry.jsp.ikaclinicid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicentry.jsp.pbl_ikaclinic.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicentry.jsp.pbl_ikaclinic.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_ikaclinicentry.jsp.pbl_ikaclinic.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_ikaclinicentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημ.Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_ikaclinicentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facility.ikaclinicid','Κωδ. Κλινικής ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitbillingruleentry.jsp.pbl_visitbillingrule.ikaclinicid','Κωδ. Κλινικής ΙΚΑ');

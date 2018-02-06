@@ -1,0 +1,4 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_cacheditemsviewer.jsp.view', 'Προβολή Αντικειμένων Στην Cache');
+insert into sys_privilege(privilegeid, descr) values ('sys_cacheditemsviewer.jsp.print', 'Εκτύπωση Αντικειμένων Στην Cache');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cacheditemsviewer.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cacheditemsviewer.jsp.print', 1);

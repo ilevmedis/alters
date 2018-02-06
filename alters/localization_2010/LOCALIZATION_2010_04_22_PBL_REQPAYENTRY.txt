@@ -1,0 +1,8 @@
+pbl_reqpayentry.jsp.pbl_reqheader.include = Επιλογή
+pbl_reqpayentry.jsp.pbl_reqdetailhosp.tempamtrejected = Προσ. Περικοπ.
+pbl_reqpayentry.jsp.fin_transdebit.comments = Σχόλια
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.include','Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqpaydetaildoctor.tempamtrejected','Προσ. Περικοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.fin_transdebit.comments','Σχόλια');
+

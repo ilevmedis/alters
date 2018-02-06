@@ -1,0 +1,18 @@
+﻿pbl_chargebrowser.jsp.changeservicedate = Αλλαγή Ημ/νίας Παροχής
+pbl_chargebrowser.jsp.currentservicedate_criteria = Προηγούμενη Ημερομηνία Παροχής
+pbl_chargebrowser.jsp.newservicedate_criteria = Νέα Ημερομηνία Παροχής
+pbl_chargebrowser.jsp.changeservicedatedisplaybox.caption = Στοχεία Μαζικής Μεταβολής Ημ/νίας Παροχής
+pbl_chargebrowser.jsp.pbl_chargedetail.iscanceled = Ακυρ.
+
+pbl_chargebrowser.jsp.validations.currentdate_required = Συμπληρώστε Υποχρεωτικά Επιθυμητή Ημερομηνία Τροποποίησης
+pbl_chargebrowser.jsp.validations.newdate_required = Συμπληρώστε Υποχρεωτικά Νέα Ημερομηνία
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.changeservicedate','Αλλαγή Ημ/νίας Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.currentservicedate_criteria','Προηγούμενη Ημερομηνία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.newservicedate_criteria','Νέα Ημερομηνία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.changeservicedatedisplaybox.caption','Στοχεία Μαζικής Μεταβολής Ημ/νίας Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.pbl_chargedetail.iscanceled','Ακυρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.currentdate_required','Συμπληρώστε Υποχρεωτικά Επιθυμητή Ημερομηνία Τροποποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.newdate_required','Συμπληρώστε Υποχρεωτικά Νέα Ημερομηνία');

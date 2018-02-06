@@ -1,0 +1,17 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatbrowser.jsp.view', 'Διαχείριση Pick Lists Ειδών Αποθήκης (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatbrowser.jsp.print', 'Διαχείριση Pick Lists Ειδών Αποθήκης (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatentry.jsp.view', 'Καταχώρηση Pick Lists Ειδών Αποθήκης (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatentry.jsp.print', 'Καταχώρηση Pick Lists Ειδών Αποθήκης (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatentry.jsp.insert', 'Καταχώρηση Pick Lists Ειδών Αποθήκης (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatentry.jsp.update', 'Καταχώρηση Pick Lists Ειδών Αποθήκης (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_picklistformatentry.jsp.delete', 'Καταχώρηση Pick Lists Ειδών Αποθήκης (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_picklistformatentry.jsp.insert', 1);
+
+

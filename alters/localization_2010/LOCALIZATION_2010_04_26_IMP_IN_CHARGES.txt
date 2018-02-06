@@ -1,0 +1,16 @@
+pbl_chargebrowser.jsp.inpatienttransferchargesbutton = Εισ.Χρεώσεων Εσωτ.
+pbl_chargebrowser.jsp.inpatient_transfercharge_visitid_criteria = Νοσηλεία
+pbl_chargebrowser.jsp.inpatient_transfercharge_newchargedate_criteria = Ημ.Μεταφοράς
+pbl_chargebrowser.jsp.inpatienttransferchargesdisplaybox.caption = Μεταφορά Χρεώσεων Εσωτερικού Περιστατικού
+
+pbl_chargebrowser.jsp.validations.transfer_inpatient_visitid_required = Συμπληρώστε Υποχρεωτικά Εσωτερικό Περιστατικό Από Το Οποίο Θα Γίνει Η Μεταφορά Χρεώσεων
+pbl_chargebrowser.jsp.validations.charges_from_inpatient_already_invoiced = Οι Χρεώσεις Του Εσωτερικού Ασθενή Έχουν Τιμολογηθεί! Η Διαδικασια Μεταφοράς Τους Σταματά
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.inpatienttransferchargesbutton','Εισ.Χρεώσεων Εσωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.inpatient_transfercharge_visitid_criteria','Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.inpatient_transfercharge_newchargedate_criteria','Ημ.Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.inpatienttransferchargesdisplaybox.caption','Μεταφορά Χρεώσεων Εσωτερικού Περιστατικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.transfer_inpatient_visitid_required','Συμπληρώστε Υποχρεωτικά Εσωτερικό Περιστατικό Από Το Οποίο Θα Γίνει Η Μεταφορά Χρεώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.charges_from_inpatient_already_invoiced','Οι Χρεώσεις Του Εσωτερικού Ασθενή Έχουν Τιμολογηθεί! Η Διαδικασια Μεταφοράς Τους Σταματά');

@@ -1,0 +1,9 @@
+﻿glg_journalentry.jsp.glg_journal.creationmoduleid = Προέλευση
+glg_journalentry.jsp.generator.internaleventno = Αρ.Κίνησης Προέλευσης
+glg_journalentry.jsp.viewgenerator = Άνοιγμα Εγγραφής Προέλευσης
+glg_journalentry.jsp.glg_journalaccount.costcenterid = Κέντρο Κόστους
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journal.creationmoduleid','Προέλευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.generator.internaleventno','Αρ.Κίνησης Προέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.viewgenerator','Άνοιγμα Εγγραφής Προέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journalaccount.costcenterid','Κέντρο Κόστους');

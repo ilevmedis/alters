@@ -1,0 +1,524 @@
+﻿pbl_cardparametersentry.jsp.pagetitle = Διαχείριση Παραμέτρων Κατρών
+pbl_cardparametersentry.jsp.entrydisplaybox.caption = Παράμετροι Καρτών
+pbl_cardparametersentry.jsp.pbl_cardparameters.finitemid = Χρεούμενο Είδος Τιμολόγησης Καρτών
+
+pbl_cardparametersentry.jsp.validations.finitemidrequired = Συμπληρώστε Υποχρεωτικά Χρεούμενο Είδος Τιμολόγησης Καρτών
+
+pbl_cardcontractbrowser.jsp.pagetitle = Διαχείριση Συμβάσεων Κατρών
+pbl_cardcontractbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_cardcontractbrowser.jsp.griddisplaybox.caption = Συμβάσεις
+pbl_cardcontractbrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+pbl_cardcontractbrowser.jsp.descr_criteria = Περιγραφή
+pbl_cardcontractbrowser.jsp.isactive_criteria = Ενεργή
+pbl_cardcontractbrowser.jsp.pbl_cardcontract.cardcontractid = Κωδικός
+pbl_cardcontractbrowser.jsp.pbl_cardcontract.mnemonic = Μνημονικός Κωδ.
+pbl_cardcontractbrowser.jsp.pbl_cardcontract.descr = Περιγραφή
+pbl_cardcontractbrowser.jsp.pbl_cardcontract.validsincedate = Από Ημ.Ισχύος
+pbl_cardcontractbrowser.jsp.pbl_cardcontract.validtilldate = Εως Ημ.Ισχύος
+pbl_cardcontractbrowser.jsp.fin_transparty.name = Πελάτης
+pbl_cardcontractbrowser.jsp.pbl_cardcontract.isactive = Ενεργή
+
+
+pbl_cardcontractentry.jsp.pagetitle = Καταχώρηση Συμβάσεων Καρτών
+pbl_cardcontractentry.jsp.entrydisplaybox.caption = Στοιχεία Σύμβασης
+pbl_cardcontractentry.jsp.pbl_cardcontract.cardcontractid = Κωδικός
+pbl_cardcontractentry.jsp.pbl_cardcontract.mnemonic = Μνημονικός Κωδ.
+pbl_cardcontractentry.jsp.pbl_cardcontract.descr = Περιγραφή
+pbl_cardcontractentry.jsp.pbl_cardcontract.contractheaderid = Σύμβαση
+pbl_cardcontractentry.jsp.pbl_cardcontract.fintranspartyid = Πελάτης
+pbl_cardcontractentry.jsp.pbl_cardcontract.validsincedate = Από Ημ/νία Ισχύος
+pbl_cardcontractentry.jsp.pbl_cardcontract.validtilldate = Εως Ημ/νία Ισχύος
+pbl_cardcontractentry.jsp.pbl_cardcontract.isactive = Ενεργή
+
+pbl_cardcontractentry.jsp.validations.pbl_cardcontract.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+pbl_cardcontractentry.jsp.validations.pbl_cardcontract.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+pbl_cardcontractentry.jsp.validations.pbl_cardcontract.contractheaderidrequired = Συμπληρώστε Υποχρεωτικά Σύμβαση
+pbl_cardcontractentry.jsp.validations.pbl_cardcontract.fintranspartyidrequired = Συμπληρώστε Υποχρεωτικά Πελάτη
+pbl_cardcontractentry.jsp.validations.pbl_cardcontract.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+
+pbl_cardbrowser.jsp.pagetitle = Διαχείριση Καρτών
+pbl_cardbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_cardbrowser.jsp.griddisplaybox.caption = Κάρτες
+pbl_cardbrowser.jsp.cardno_criteria = Αριθ.Κάρτας
+pbl_cardbrowser.jsp.inoutpatient_criteria = Είδος Ασθενή
+pbl_cardbrowser.jsp.contractheaderid_criteria = Σύμβαση
+pbl_cardbrowser.jsp.sinceapplicationdate_criteria = Από Ημ.Αίτησης
+pbl_cardbrowser.jsp.tilladmissiondate_criteria = Έως Ημ. Αίτησης
+pbl_cardbrowser.jsp.isactive_criteria = Ενεργή
+pbl_cardbrowser.jsp.sincecanceldate_criteria = Από Ημ.Ακύρωσης
+pbl_cardbrowser.jsp.tillcanceldate_criteria = Έως Ημ.Ακύρωσης
+pbl_cardbrowser.jsp.iscanceled_criteria = Ακυρωμένη
+pbl_cardbrowser.jsp.sinceissuedate_criteria = Από Ημ.Έκδοσης
+pbl_cardbrowser.jsp.tillissuedate_criteria = Έως Ημ.Έκδοσης
+pbl_cardbrowser.jsp.iscardissued_criteria = Έκδοση Κάρτας
+pbl_cardbrowser.jsp.pbl_card.cardid = Κωδικός
+pbl_cardbrowser.jsp.pbl_card.cardno = Αρ.Κάρτας
+pbl_cardbrowser.jsp.pbl_cardcontract.mnemonic = Σύμβαση
+pbl_cardbrowser.jsp.pbl_card.inoutpatient = Είδος Ασθ.
+pbl_cardbrowser.jsp.pbl_card.applicationdate = Ημ.Αίτησης
+pbl_cardbrowser.jsp.pbl_card.issuedate = Ημ.Έκδοσης
+pbl_cardbrowser.jsp.pbl_card.validsincedate = Από Ημ.Ισχύος
+pbl_cardbrowser.jsp.pbl_card.validtilldate = Έως Ημ.Ισχύος
+pbl_cardbrowser.jsp.pbl_card.isactive = Ενεργή
+pbl_cardbrowser.jsp.pbl_card.iscanceled = Ακυρη
+
+pbl_cardentry.jsp.pagetitle = Καταχώρηση Καρτών
+pbl_cardentry.jsp.entrydisplaybox.caption = Στοιχεία Κάρτας
+pbl_cardentry.jsp.pbl_card.cardid = Κωδικός
+pbl_cardentry.jsp.pbl_card.cardno = Αρ.Κάρτας
+pbl_cardentry.jsp.pbl_card.isactive = Ενεργή
+pbl_cardentry.jsp.pbl_card.cardcontractid = Σύμβαση Κάρτας
+pbl_cardentry.jsp.pbl_card.inoutpatient = Εσωτ./Εξωτ
+pbl_cardentry.jsp.pbl_card.fintranspartyid = Πελάτης
+pbl_cardentry.jsp.pbl_card.contractheaderid = Σύμβαση
+pbl_cardentry.jsp.pbl_card.validsincedate = Από Ημ.Ισχύος
+pbl_cardentry.jsp.pbl_card.validtilldate = Έως Ημ.Ισχύος
+pbl_cardentry.jsp.pbl_card.applicationdate = Ημ.Αίτησης
+pbl_cardentry.jsp.pbl_card.issuedate = Ημ.Έκδοσης
+pbl_cardentry.jsp.pbl_card.iscardissued = Εκτύπωση Κάρτας;
+pbl_cardentry.jsp.pbl_card.marketingindicator = Τύπος Πώλησης
+pbl_cardentry.jsp.pbl_card.purchaseindicator = Τρόπος Κτήσης
+pbl_cardentry.jsp.pbl_card.comments = Σχόλια
+pbl_cardentry.jsp.pbl_card.iscanceled = Ακυρωμένη
+pbl_cardentry.jsp.pbl_card.canceldate = Ημ.Ακύρωσης
+pbl_cardentry.jsp.pbl_card.cancelreason = Αιτία Ακύρωσης
+pbl_cardentry.jsp.tabs.page1 = Δικαιούχος
+pbl_cardentry.jsp.tabs.page2 = Έμμεσα Μέλη
+pbl_cardentry.jsp.tabs.page3 = Στοιχεία Ακύρωσης
+pbl_cardentry.jsp.beneficiary.lastname = Επώνυμο
+pbl_cardentry.jsp.beneficiary.firstname = Όνομα
+pbl_cardentry.jsp.beneficiary.birthdate = Ημ.Γέννησης
+pbl_cardentry.jsp.beneficiary.fatherfirstname = Όν.Πατρός
+pbl_cardentry.jsp.beneficiary.fatherlastname = Επών.Πατρός
+pbl_cardentry.jsp.beneficiary.genderid = Φύλο
+pbl_cardentry.jsp.beneficiary.motherfirstname = Ον.Μητρός
+pbl_cardentry.jsp.beneficiary.motherlastname = Επών.Μητρός
+pbl_cardentry.jsp.beneficiary.patientid = Κωδ.Ασθενή
+pbl_cardentry.jsp.beneficiary.idnumber = Α.Δ.Τ
+pbl_cardentry.jsp.beneficiary.iddate = Ημ.Εκδοσης
+pbl_cardentry.jsp.beneficiary.idissuer = Εκδούσα Αρχή 
+pbl_cardentry.jsp.beneficiary.passportnumber = Αρ.Διαβατηρίου
+pbl_cardentry.jsp.beneficiary.passportdate = Ημ.Λήξης Διαβατηρ.
+pbl_cardentry.jsp.beneficiary.passportcountryid = Χώρα Έκδ.Διαβατηρίου
+pbl_cardentry.jsp.beneficiary.maritalstatusid = Οικογενειακή Κατ/ση
+pbl_cardentry.jsp.beneficiary.partnerfirstname = Όνομα Συντρόφου
+pbl_cardentry.jsp.beneficiary.partnerlastname = Επώνυμο Συντρόφου
+pbl_cardentry.jsp.beneficiary.taxregistrationno = Α.Φ.Μ
+pbl_cardentry.jsp.beneficiary.taxbranchid = ΔΟΥ
+pbl_cardentry.jsp.benef_address.street1 = Οδός
+pbl_cardentry.jsp.benef_address.street1num = Αρ.
+pbl_cardentry.jsp.benef_address.countryid = Χώρα
+pbl_cardentry.jsp.benef_address.cityid = Πόλη
+pbl_cardentry.jsp.benef_address.district = Περιοχή
+pbl_cardentry.jsp.benef_address.zip = Τ.Κ
+pbl_cardentry.jsp.benef_address.ismainaddress = Κύρια
+pbl_cardentry.jsp.benef_phone.companyphone = Τηλέφωνο
+pbl_cardentry.jsp.benef_phone.phonetype = Είδος
+pbl_cardentry.jsp.benef_phone.phonenumber = Αριθμός
+pbl_cardentry.jsp.benef_phone.accessphone = Επικοινωνίας
+pbl_cardentry.jsp.other_cardholder.cardmebmerid = Αρ.Εμμ.Μέλους
+pbl_cardentry.jsp.other_cardholder.lastname = Επώνυμο
+pbl_cardentry.jsp.other_cardholder.firstname = Όνομα
+pbl_cardentry.jsp.other_cardholder.relationshipindicator = Συγγ/κή Σχέση
+pbl_cardentry.jsp.othercardholdersdisplaybox.caption = Στοιχεία Μελών
+
+pbl_cardentry.jsp.validations.pbl_card.cardnorequired = Συμπληρώστε Υποχρεωτικά Αριθμό Κάρτας
+pbl_cardentry.jsp.validations.pbl_card.cardcontractidrequired = Συμπληρώστε Υποχρεωτικά Σύμβαση Κάρτας
+pbl_cardentry.jsp.validations.pbl_card.contractheaderidrequired = Συμπληρώστε Υποχρεωτικά Σύμβαση
+pbl_cardentry.jsp.validations.pbl_card.issuedaterequired = Συμπληρώστε Υποχρεωτικά Ημ. Έκδοσης Κάρτας
+pbl_cardentry.jsp.validations.pbl_card.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημ. Ισχύος
+pbl_cardentry.jsp.validations.pbl_card.marketingindicatorrequired = Συμπληρώστε Υποχρεωτικά Τύπο Πώλησης
+pbl_cardentry.jsp.validations.pbl_card.purchaseindicatorrequired = Συμπληρώστε Υποχρεωτικά Τρόπο Κτήσης
+pbl_cardentry.jsp.validations.pbl_cardholder.firstnamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Δικαιούχου
+pbl_cardentry.jsp.validations.pbl_cardholder.lastnamerequired = Συμπληρώστε Υποχρεωτικά Επώνυμο Δικαιούχου
+pbl_cardentry.jsp.validations.pbl_cardholder.genderidrequired = Συμπληρώστε Υποχρεωτικά Φύλο Δικαιούχου
+pbl_cardentry.jsp.validations.pbl_cardholder.birthdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Δικαιούχου
+pbl_cardentry.jsp.validations.pbl_cardholder.maritalstatusidrequired = Συμπληρώστε Υποχρεωτικά Οικογ. Κατάσταση Δικαιούχου
+pbl_cardentry.jsp.validations.sys_address.street1numrequired = Συμπληρώστε Υποχρεωτικά Διεύθυνση Δικαιούχου
+pbl_cardentry.jsp.validations.sys_address.many_addresses_default = Σημειώθηκαν Περισσότερες Από Μια Διευθύνσεις Ως Κύριες
+pbl_cardentry.jsp.validations.sys_address.countryidrequired = Συμπληρώστε Υποχρεωτικά Χώρα Διεύθυνσης Δικαιούχου
+pbl_cardentry.jsp.validations.sys_address.cityidrequired = Συμπληρώστε Υποχρεωτικά Πόλη Στην Διεύθυνση Δικαιούχου
+pbl_cardentry.jsp.validations.sys_address.sys_address.districtrequired = Συμπληρώστε Υποχρεωτικά Περιοχή Στην Διεύθυνση Δικαιούχου
+pbl_cardentry.jsp.validations.sys_address.nomainaddress = Δεν Σημειώθηκε Η Κύρια Διεύθυνση Δικαιούχου
+pbl_cardentry.jsp.validations.sys_phone.noaccessphone = Συμπληρώστε Υποχρεωτικά Ένα Τηλεφωνο Ως Βασικό Τηλέφωνο Επικοινωνίας
+pbl_cardentry.jsp.validations.sys_phone.phonenumberrequired = Συμπληρώστε Υποχρεωτικά Αριθμό Τηλεφώνου
+pbl_cardentry.jsp.validations.sys_phone.onlyoneaccessphone = Μόνο Ένα Τηλέφωνο Μπορεί Να Είναι Το Βασικό Τηλεφωνο Επικοινωνίας
+pbl_cardentry.jsp.validations.sys_phone.phonetyperequired = Συμπληρώστε Υποχρεωτικά Είδος Τηλεφώνου
+pbl_cardentry.jsp.validations.pbl_cardholder.relationshipindicatorrequired = Συμπληρώστε Υποχρεωτικά Συγγενική Σχέση
+
+pbl_cardholderentry.jsp.pagetitle = Καταχώρηση Δικαιούχων
+pbl_cardholderentry.jsp.entrydisplaybox.caption = Στοιχεία Δικαιούχων
+pbl_cardholderentry.jsp.beneficiary.birthdate = Ημ.Γέννησης
+pbl_cardholderentry.jsp.beneficiary.genderid = Φύλο
+pbl_cardholderentry.jsp.beneficiary.fatherfirstname = Ον.Πατρός
+pbl_cardholderentry.jsp.beneficiary.fatherlastname = Επών.Πατρός
+pbl_cardholderentry.jsp.beneficiary.motherfirstname = Ον.Μητρός
+pbl_cardholderentry.jsp.beneficiary.motherlastname = Επών.Μητρός
+pbl_cardholderentry.jsp.beneficiary.patientid = Κωδ.Ασθενή
+pbl_cardholderentry.jsp.beneficiary.idnumber = Α.Δ.Τ
+pbl_cardholderentry.jsp.beneficiary.iddate = Ημ.Εκδοσης
+pbl_cardholderentry.jsp.beneficiary.idissuer = Εκδούσα Αρχή
+pbl_cardholderentry.jsp.beneficiary.passportnumber = Αρ.Διαβατηρίου
+pbl_cardholderentry.jsp.beneficiary.passportdate = Ημ.Λήξης Διαβατηρ.
+pbl_cardholderentry.jsp.beneficiary.passportcountryid = Χώρα Έκδ.Διαβατηρίου
+pbl_cardholderentry.jsp.beneficiary.maritalstatusid = Οικογενειακή Κατ/ση
+pbl_cardholderentry.jsp.beneficiary.partnerfirstname = Ον.Συντρόφου
+pbl_cardholderentry.jsp.beneficiary.partnerlastname = Επώνυμο Συντρόφου
+pbl_cardholderentry.jsp.beneficiary.taxregistrationno = Α.Φ.Μ
+pbl_cardholderentry.jsp.beneficiary.taxbranchid = ΔΟΥ
+pbl_cardholderentry.jsp.benef_address.street1 = Οδός
+pbl_cardholderentry.jsp.benef_address.street1num = Αρ.
+pbl_cardholderentry.jsp.benef_address.countryid = Χώρα
+pbl_cardholderentry.jsp.benef_address.cityid = Πόλη
+pbl_cardholderentry.jsp.benef_address.district = Περιοχή
+pbl_cardholderentry.jsp.benef_address.zip = Τ.Κ
+pbl_cardholderentry.jsp.benef_address.ismainaddress = Κύρια
+pbl_cardholderentry.jsp.benef_phone.companyphone = Τηλέφωνο
+pbl_cardholderentry.jsp.benef_phone.phonetype = Είδος
+pbl_cardholderentry.jsp.benef_phone.phonenumber = Αριθμός
+pbl_cardholderentry.jsp.benef_phone.accessphone = Επικοινωνίας
+
+pbl_cardcontractindex.jsp.pagetitle = Επιλογή Συμβάεων Καρτών
+pbl_cardcontractindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_cardcontractindex.jsp.griddisplaybox.caption = Συμβάσεις Καρτών
+pbl_cardcontractindex.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+pbl_cardcontractindex.jsp.descr_criteria = Περιγραφή
+pbl_cardcontractindex.jsp.pbl_cardcontract.cardcontractid = Κωδικός
+pbl_cardcontractindex.jsp.pbl_cardcontract.mnemonic = Μνημονικός
+pbl_cardcontractindex.jsp.pbl_cardcontract.descr = Περιγραφή
+pbl_cardcontractindex.jsp.pbl_cardcontract.validsincedate = Από Ημ/νία Ισχύος
+pbl_cardcontractindex.jsp.pbl_cardcontract.validtilldate = Έως Ημ/νία Ισχύος
+pbl_cardcontractindex.jsp.fin_transparty.name = Πελάτης
+
+pta_visitentry.jsp.criteria.findcard = Αναζ.Καρτούχου
+pta_visitentry.jsp.pbl_card.cardno_display = Αριθ.Κάρτας
+pta_visitentry.jsp.card_criteria.cardno = Αρ.Κάρτας
+pta_visitentry.jsp.criteria.card_criteria_name = Επών.-Όνομα
+pta_visitentry.jsp.card_criteria.fatherfirstname = Όν.Πατρός
+pta_visitentry.jsp.card_criteria.patientid = ΚΑ Ασθενή
+pta_visitentry.jsp.card_criteria.idno = Α.Δ.Τ
+pta_visitentry.jsp.card_criteria.passportno = Αρ.Διαβάτ.
+pta_visitentry.jsp.card_criteria.searchcardpatient = Εύρεση Κάρτας
+pta_visitentry.jsp.card_criteria.nextpatient = Ανάζ Ασθ. >>
+pta_visitentry.jsp.card_criteria.nextwaitlist = Ανάζ Λιστ.Αναμ. >>
+pta_visitentry.jsp.cardgriddisplaybox.caption = Κάρτες
+pta_visitentry.jsp.pbl_card.cardno = Αρ.Κάρτας
+pta_visitentry.jsp.pbl_cardholder.lastname = Επώνυμο
+pta_visitentry.jsp.pbl_cardholder.firstname = Όνομα
+pta_visitentry.jsp.pbl_cardholder.fatherfirstname = Ον.Πατρός
+pta_visitentry.jsp.pbl_cardholder.patientid = Κ.Α Ασθενή
+pta_visitentry.jsp.pbl_cardholder.idnumber = Α.Δ.Τ
+pta_visitentry.jsp.pbl_card.validsincedate = Από Ημ.Ισχύος
+pta_visitentry.jsp.pbl_card.validtilldate = Έως Ημ.Ισχύος
+pta_visitentry.jsp.pbl_cardholder.birthdate = Ημ.Γεννήσεως
+
+pta_visitentry.jsp.validations.no_cardholder_row_selected = Δεν Επιλέχθηκε Δικαιούχος Κάρτας.Παρακαλώ Διορθώστε
+pta_visitentry.jsp.validations.outpatient_card_selected = Η Κάρτα Που Επιλέχθηκε Αφορά Εξωτερικούς Ασθενείς.Παρακαλώ Διορθώστε
+pta_visitentry.jsp.validations.invalidcard = ΑΚΥΡΗ ΚΑΡΤΑ!!! Η Ημ/νία Εισόδου Είναι Εκτός Ορίων Ισχύος Της Κάρτας
+
+pta_oupvisitentry.jsp.criteria.findcard = Αναζ.Κάρτας
+pta_oupvisitentry.jsp.card_criteria.searchcardpatient = Εύρεση Κάρτας
+pta_oupvisitentry.jsp.card_criteria.nextpatient = Αναζ.Ασθενή >>
+pta_oupvisitentry.jsp.card_criteria.nextwaitlist = Αναζ.Ραντεβου >>
+pta_oupvisitentry.jsp.sincedate_criteria = Από Ημ/νία Ραντεβού
+pta_oupvisitentry.jsp.tilldate_criteria = Έως Ημ/νία
+pta_oupvisitentry.jsp.lastname_criteria = Επώνυμο
+pta_oupvisitentry.jsp.firstname_criteria = Όνομα
+pta_oupvisitentry.jsp.patientid_criteria = ΚΑ Ασθενή
+pta_oupvisitentry.jsp.resourceid_criteria = Πόρος
+pta_oupvisitentry.jsp.resourcegroupid_criteria = Ομάδα Πόρων
+pta_oupvisitentry.jsp.card_criteria.cardno = Αρ.Κάρτας
+pta_oupvisitentry.jsp.criteria.card_criteria_name = Επών.-Όνομα
+pta_oupvisitentry.jsp.card_criteria.fatherfirstname = Όν.Πατρός
+pta_oupvisitentry.jsp.card_criteria.patientid = ΚΑ Ασθενή
+pta_oupvisitentry.jsp.card_criteria.idno = Α.Δ.Τ
+pta_oupvisitentry.jsp.card_criteria.passportno = Αρ.Διαβατηρίου
+pta_oupvisitentry.jsp.cardgriddisplaybox.caption = Κάρτες
+pta_oupvisitentry.jsp.pbl_card.cardno = Αρ.Κάρτας
+pta_oupvisitentry.jsp.pbl_cardholder.lastname = Επώνυμο
+pta_oupvisitentry.jsp.pbl_cardholder.firstname = Όνομα
+pta_oupvisitentry.jsp.pbl_cardholder.fatherfirstname = Ον.Πατρός
+pta_oupvisitentry.jsp.pbl_cardholder.patientid = ΚΑ Ασθενή
+pta_oupvisitentry.jsp.pbl_cardholder.idnumber = Α.Δ.Τ
+pta_oupvisitentry.jsp.pbl_card.validsincedate = Από Ημ.Ισχύος
+pta_oupvisitentry.jsp.pbl_card.validtilldate = Εως Ημ.Ισχύος
+pta_oupvisitentry.jsp.pbl_cardholder.birthdate = Η.Γεννήσεως
+pta_oupvisitentry.jsp.appointmentgriddisplaybox.caption = Ραντεβού
+pta_oupvisitentry.jsp.appointment.pta_visit.lastname = Επώνυμο
+pta_oupvisitentry.jsp.appointment.pta_visit.firstname = Όνομα
+pta_oupvisitentry.jsp.appointment.pta_visit.fatherfirstname = Ον.Πατρός
+pta_oupvisitentry.jsp.appointment.pta_visit.birthdate = Ημ.Γεννήσεως
+pta_oupvisitentry.jsp.appointment.pta_visit.patientid = ΚΑ Ασθενή
+pta_oupvisitentry.jsp.rsc_resourceallocation.sinceallocationdate = Από Ημ.Ραβτεβού
+pta_oupvisitentry.jsp.rsc_resourceallocation.tillallocationdate = Έως Ημ.Ραντεβού
+pta_oupvisitentry.jsp.rsc_resource.descr = Πόρος
+pta_oupvisitentry.jsp.med_servicemaster.displaydescr = Πράξη
+pta_oupvisitentry.jsp.pbl_card.cardno_display = Αρ.Κάρτας
+
+pta_oupvisitentry.jsp.validations.inpatient_card_selected = Η Κάρτα Που Επιλέχθηκε Αφορά Εσωτερικούς Ασθενείς.Παρακαλώ Διορθώστε
+pta_oupvisitentry.jsp.validations.invalidcard = ΑΚΥΡΗ ΚΑΡΤΑ!!! Η Ημ/νία Εισόδου Είναι Εκτός Ορίων Ισχύος Της Κάρτας
+
+
+--SQL STMNTS ---
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardparametersentry.jsp.pagetitle','Διαχείριση Παραμέτρων Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardparametersentry.jsp.entrydisplaybox.caption','Παράμετροι Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardparametersentry.jsp.pbl_cardparameters.finitemid','Χρεούμενο Είδος Τιμολόγησης Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pagetitle','Διαχείριση Συμβάσεων Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.griddisplaybox.caption','Συμβάσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pbl_cardcontract.cardcontractid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pbl_cardcontract.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pbl_cardcontract.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pbl_cardcontract.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pbl_cardcontract.validtilldate','Εως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.fin_transparty.name','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractbrowser.jsp.pbl_cardcontract.isactive','Ενεργή');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardparametersentry.jsp.validations.finitemidrequired','Συμπληρώστε Υποχρεωτικά Χρεούμενο Είδος Τιμολόγησης Καρτών');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pagetitle','Καταχώρηση Συμβάσεων Κατρών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.entrydisplaybox.caption','Στοιχεία Σύμβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.cardcontractid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.contractheaderid','Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.fintranspartyid','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.validsincedate','Από Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.validtilldate','Εως Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractentry.jsp.pbl_cardcontract.isactive','Ενεργή');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.contractheaderidrequired','Συμπληρώστε Υποχρεωτικά Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.fintranspartyidrequired','Συμπληρώστε Υποχρεωτικά Πελάτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardcontractentry.jsp.validations.pbl_cardcontract.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pagetitle','Διαχείριση Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.griddisplaybox.caption','Κάρτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.cardno_criteria','Αριθ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.inoutpatient_criteria','Είδος Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.contractheaderid_criteria','Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.sinceapplicationdate_criteria','Από Ημ.Αίτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.tilladmissiondate_criteria','Έως Ημ. Αίτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.sincecanceldate_criteria','Από Ημ.Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.tillcanceldate_criteria','Έως Ημ.Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.iscanceled_criteria','Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.sinceissuedate_criteria','Από Ημ.Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.tillissuedate_criteria','Έως Ημ.Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.iscardissued_criteria','Έκδοση Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.cardid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.cardno','Αρ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_cardcontract.mnemonic','Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.inoutpatient','Είδος Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.applicationdate','Ημ.Αίτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.issuedate','Ημ.Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.validtilldate','Έως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_card.iscanceled','Ακυρη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pagetitle','Καταχώρηση Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.entrydisplaybox.caption','Στοιχεία Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.cardid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.cardno','Αρ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.cardcontractid','Σύμβαση Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.inoutpatient','Εσωτ./Εξωτ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.fintranspartyid','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.contractheaderid','Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.validtilldate','Έως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.applicationdate','Ημ.Αίτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.issuedate','Ημ.Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.iscardissued','Εκτύπωση Κάρτας;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.marketingindicator','Τύπος Πώλησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.purchaseindicator','Τρόπος Κτήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.iscanceled','Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.canceldate','Ημ.Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.pbl_card.cancelreason','Αιτία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.tabs.page1','Δικαιούχος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.tabs.page2','Έμμεσα Μέλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.tabs.page3','Στοιχεία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.birthdate','Ημ.Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.fatherfirstname','Όν.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.fatherlastname','Επών.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.genderid','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.motherfirstname','Ον.Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.motherlastname','Επών.Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.patientid','Κωδ.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.idnumber','Α.Δ.Τ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.iddate','Ημ.Εκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.idissuer','Εκδούσα Αρχή ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.passportnumber','Αρ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.passportdate','Ημ.Λήξης Διαβατηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.passportcountryid','Χώρα Έκδ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.maritalstatusid','Οικογενειακή Κατ/ση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.partnerfirstname','Όνομα Συντρόφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.partnerlastname','Επώνυμο Συντρόφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.taxregistrationno','Α.Φ.Μ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.beneficiary.taxbranchid','ΔΟΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.street1','Οδός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.street1num','Αρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.cityid','Πόλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.district','Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.zip','Τ.Κ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_address.ismainaddress','Κύρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_phone.companyphone','Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_phone.phonetype','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_phone.phonenumber','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.benef_phone.accessphone','Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.other_cardholder.cardmebmerid','Αρ.Εμμ.Μέλους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.other_cardholder.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.other_cardholder.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.other_cardholder.relationshipindicator','Συγγ/κή Σχέση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.othercardholdersdisplaybox.caption','Στοιχεία Μελών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.cardnorequired','Συμπληρώστε Υποχρεωτικά Αριθμό Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.cardcontractidrequired','Συμπληρώστε Υποχρεωτικά Σύμβαση Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.contractheaderidrequired','Συμπληρώστε Υποχρεωτικά Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.issuedaterequired','Συμπληρώστε Υποχρεωτικά Ημ. Έκδοσης Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.marketingindicatorrequired','Συμπληρώστε Υποχρεωτικά Τύπο Πώλησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_card.purchaseindicatorrequired','Συμπληρώστε Υποχρεωτικά Τρόπο Κτήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_cardholder.firstnamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_cardholder.lastnamerequired','Συμπληρώστε Υποχρεωτικά Επώνυμο Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_cardholder.genderidrequired','Συμπληρώστε Υποχρεωτικά Φύλο Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_cardholder.birthdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_cardholder.maritalstatusidrequired','Συμπληρώστε Υποχρεωτικά Οικογ. Κατάσταση Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_address.street1numrequired','Συμπληρώστε Υποχρεωτικά Διεύθυνση Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_address.many_addresses_default','Σημειώθηκαν Περισσότερες Από Μια Διευθύνσεις Ως Κύριες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_address.countryidrequired','Συμπληρώστε Υποχρεωτικά Χώρα Διεύθυνσης Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_address.cityidrequired','Συμπληρώστε Υποχρεωτικά Πόλη Στην Διεύθυνση Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_address.sys_address.districtrequired','Συμπληρώστε Υποχρεωτικά Περιοχή Στην Διεύθυνση Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_address.nomainaddress','Δεν Σημειώθηκε Η Κύρια Διεύθυνση Δικαιούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_phone.noaccessphone','Συμπληρώστε Υποχρεωτικά Ένα Τηλεφωνο Ως Βασικό Τηλέφωνο Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_phone.phonenumberrequired','Συμπληρώστε Υποχρεωτικά Αριθμό Τηλεφώνου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_phone.onlyoneaccessphone','Μόνο Ένα Τηλέφωνο Μπορεί Να Είναι Το Βασικό Τηλεφωνο Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.sys_phone.phonetyperequired','Συμπληρώστε Υποχρεωτικά Είδος Τηλεφώνου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_cardentry.jsp.validations.pbl_cardholder.relationshipindicatorrequired','Συμπληρώστε Υποχρεωτικά Συγγενική Σχέση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.pagetitle','Καταχώρηση Δικαιούχων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.entrydisplaybox.caption','Στοιχεία Δικαιούχων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.birthdate','Ημ.Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.genderid','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.fatherlastname','Επών.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.motherfirstname','Ον.Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.motherlastname','Επών.Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.patientid','Κωδ.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.idnumber','Α.Δ.Τ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.iddate','Ημ.Εκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.idissuer','Εκδούσα Αρχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.passportnumber','Αρ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.passportdate','Ημ.Λήξης Διαβατηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.passportcountryid','Χώρα Έκδ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.maritalstatusid','Οικογενειακή Κατ/ση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.partnerfirstname','Ον.Συντρόφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.partnerlastname','Επώνυμο Συντρόφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.taxregistrationno','Α.Φ.Μ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.beneficiary.taxbranchid','ΔΟΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.street1','Οδός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.street1num','Αρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.cityid','Πόλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.district','Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.zip','Τ.Κ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_address.ismainaddress','Κύρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_phone.companyphone','Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_phone.phonetype','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_phone.phonenumber','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardholderentry.jsp.benef_phone.accessphone','Επικοινωνίας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.pagetitle','Επιλογή Συμβάεων Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.griddisplaybox.caption','Συμβάσεις Καρτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.pbl_cardcontract.cardcontractid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.pbl_cardcontract.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.pbl_cardcontract.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.pbl_cardcontract.validsincedate','Από Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.pbl_cardcontract.validtilldate','Έως Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardcontractindex.jsp.fin_transparty.name','Πελάτης');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.criteria.findcard','Αναζ.Καρτούχου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_card.cardno_display','Αριθ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.cardno','Αρ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.criteria.card_criteria_name','Επών.-Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.fatherfirstname','Όν.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.idno','Α.Δ.Τ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.passportno','Αρ.Διαβάτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.searchcardpatient','Εύρεση Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.nextpatient','Ανάζ Ασθ. >>');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.card_criteria.nextwaitlist','Ανάζ Λιστ.Αναμ. >>');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.cardgriddisplaybox.caption','Κάρτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_card.cardno','Αρ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_cardholder.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_cardholder.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_cardholder.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_cardholder.patientid','Κ.Α Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_cardholder.idnumber','Α.Δ.Τ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_card.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_card.validtilldate','Έως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_cardholder.birthdate','Ημ.Γεννήσεως');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.no_cardholder_row_selected','Δεν Επιλέχθηκε Δικαιούχος Κάρτας.Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.outpatient_card_selected','Η Κάρτα Που Επιλέχθηκε Αφορά Εξωτερικούς Ασθενείς.Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.invalidcard','ΑΚΥΡΗ ΚΑΡΤΑ!!! Η Ημ/νία Εισόδου Είναι Εκτός Ορίων Ισχύος Της Κάρτας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.criteria.findcard','Αναζ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.searchcardpatient','Εύρεση Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.nextpatient','Αναζ.Ασθενή >>');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.nextwaitlist','Αναζ.Ραντεβου >>');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.sincedate_criteria','Από Ημ/νία Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.tilldate_criteria','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.lastname_criteria','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.firstname_criteria','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.patientid_criteria','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.resourceid_criteria','Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.resourcegroupid_criteria','Ομάδα Πόρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.cardno','Αρ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.criteria.card_criteria_name','Επών.-Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.fatherfirstname','Όν.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.idno','Α.Δ.Τ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.card_criteria.passportno','Αρ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.cardgriddisplaybox.caption','Κάρτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_card.cardno','Αρ.Κάρτας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_cardholder.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_cardholder.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_cardholder.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_cardholder.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_cardholder.idnumber','Α.Δ.Τ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_card.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_card.validtilldate','Εως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_cardholder.birthdate','Η.Γεννήσεως');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.appointmentgriddisplaybox.caption','Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.appointment.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.appointment.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.appointment.pta_visit.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.appointment.pta_visit.birthdate','Ημ.Γεννήσεως');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.appointment.pta_visit.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.rsc_resourceallocation.sinceallocationdate','Από Ημ.Ραβτεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.rsc_resourceallocation.tillallocationdate','Έως Ημ.Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.rsc_resource.descr','Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.med_servicemaster.displaydescr','Πράξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_card.cardno_display','Αρ.Κάρτας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.inpatient_card_selected','Η Κάρτα Που Επιλέχθηκε Αφορά Εσωτερικούς Ασθενείς.Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.invalidcard','ΑΚΥΡΗ ΚΑΡΤΑ!!! Η Ημ/νία Εισόδου Είναι Εκτός Ορίων Ισχύος Της Κάρτας');

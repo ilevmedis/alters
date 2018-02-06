@@ -1,0 +1,6 @@
+med_daypartentry.jsp.med_daypart.ordersequence = Σειρά Εμφάνισης
+
+med_daypartentry.jsp.validations.ordersequencerequired = Συμπληρώστε Υποχρεωτικά Σειρά Εμφάνισης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_daypartentry.jsp.med_daypart.ordersequence','Σειρά Εμφάνισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'med_daypartentry.jsp.validations.ordersequencerequired','Συμπληρώστε Υποχρεωτικά Σειρά Εμφάνισης');

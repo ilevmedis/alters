@@ -1,0 +1,12 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_chargecancelentry.jsp.view', 'Καταχώρηση Ακύρωσης Χρέωσης (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_chargecancelentry.jsp.print', 'Καταχώρηση Ακύρωσης Χρέωσης (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_chargecancelentry.jsp.insert', 'Καταχώρηση Ακύρωσης Χρέωσης (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_chargecancelentry.jsp.update', 'Καταχώρηση Ακύρωσης Χρέωσης (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_chargecancelentry.jsp.delete', 'Καταχώρηση Ακύρωσης Χρέωσης (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecancelentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecancelentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecancelentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecancelentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_chargecancelentry.jsp.insert', 1);
+
+

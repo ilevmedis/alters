@@ -1,0 +1,14 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationbrowser.jsp.view', 'Ανάγνωση Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationbrowser.jsp.print', 'Εκτύπωση Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationbrowser.jsp.print', 1);
+insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationentry.jsp.view', 'Ανάγνωση Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationentry.jsp.print', 'Εκτύπωση Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationentry.jsp.insert', 'Εισαγωγή Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationentry.jsp.update', 'Μεταβολή Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_privilege(privilegeid, descr) values ('sys_codecustomizationentry.jsp.delete', 'Διαγραφή Παραμετροποίησης Πηγαίου Κώδικα');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_codecustomizationentry.jsp.insert', 1);

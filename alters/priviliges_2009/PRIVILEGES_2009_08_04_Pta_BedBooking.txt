@@ -1,0 +1,19 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingbrowser.jsp.view', 'Διαχείριση Κρατήσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingbrowser.jsp.print', 'Διαχείριση Κρατήσεων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingentry.jsp.view', 'Καταχώρηση Κρατήσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingentry.jsp.print', 'Καταχώρηση Κρατήσεων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingentry.jsp.insert', 'Καταχώρηση Κρατήσεων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingentry.jsp.update', 'Καταχώρηση Κρατήσεων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_bedbookingentry.jsp.delete', 'Καταχώρηση Κρατήσεων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_bedbookingentry.jsp.insert', 1);
+
+
+
+

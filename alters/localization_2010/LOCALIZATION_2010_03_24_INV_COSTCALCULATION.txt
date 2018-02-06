@@ -1,0 +1,5 @@
+inv_costcalculation.jsp.pricecalcdate_criteria = Ημερομηνία Υπολογισμού ΜΤΚ
+inv_costcalculation.jsp.validations.pricecalcdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Υπολογισμού ΜΤΚ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_costcalculation.jsp.pricecalcdate_criteria','Ημερομηνία Υπολογισμού ΜΤΚ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_costcalculation.jsp.validations.pricecalcdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Υπολογισμού ΜΤΚ');

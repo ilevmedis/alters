@@ -1,0 +1,44 @@
+﻿pbl_reqpayentry.jsp.pbl_reqpaydetailhosp.tempamtrejected = Προσ.Περικ.
+pbl_reqpayentry.jsp.pbl_reqdetailhosp.tempamtrejected = Αξ.Προσ.Περικ
+
+pbl_reqpayentry.jsp.criteriareqheaderdisplaybox.caption = Κριτήρια Αναζήτησης Υποβολής
+pbl_reqpayentry.jsp.reqhd_sincereqdate_criteria = Από Ημ.Υποβολής
+pbl_reqpayentry.jsp.reqhd_tillreqdate_criteria = Έως Ημ.Υποβολής
+pbl_reqpayentry.jsp.reqhd_perc_criteria = Ποσοστό Εξόφλησης
+pbl_reqpayentry.jsp.pbl_reqheader.reqdate = Ημ.Υποβολής
+pbl_reqpayentry.jsp.pbl_reqheader.internaleventno = Αρ.Υποβολής
+pbl_reqpayentry.jsp.pbl_reqheader.mnemonic = Μνημονικός Κωδ
+pbl_reqpayentry.jsp.pbl_reqheader.descr = Περιγραφή
+pbl_reqpayentry.jsp.pbl_reqheader.sinceinvoicedate = Από Ημ.Τιμολ
+pbl_reqpayentry.jsp.pbl_reqheader.tillinvoicedate = Έως Ημ.Τιμόλ
+pbl_reqpayentry.jsp.pbl_reqheader.sincedischargedate = Από Ημ.Εξιτ
+pbl_reqpayentry.jsp.pbl_reqheader.tilldischargedate = Εως Ημ.Εξιτ
+pbl_reqpayentry.jsp.percreqpay = Ποσοστιαία Εξοφλ
+
+pbl_reqpayentry.jsp.validations.criteria_payperc_required = Συμπληρώστε Υποχρεωτικά Ποσοστό Εξόφλησης Υποβολής
+pbl_reqpayentry.jsp.validations.no_reqheader_rows_selected = Επιλέξτε Υποχρεωτικά Μία Υποβολή
+pbl_reqpayentry.jsp.validations.invalid_zero_percentage = Το Ποσοστό Εξόφλησης Της Υποβολής Δεν Μπορει Να Είναι Μηδέν!!! Παρακαλώ Διορθώστε
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqpaydetailhosp.tempamtrejected','Προσ.Περικ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqdetailhosp.tempamtrejected','Αξ.Προσ.Περικ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.criteriareqheaderdisplaybox.caption','Κριτήρια Αναζήτησης Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.reqhd_sincereqdate_criteria','Από Ημ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.reqhd_tillreqdate_criteria','Έως Ημ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.reqhd_perc_criteria','Ποσοστό Εξόφλησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.reqdate','Ημ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.internaleventno','Αρ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.mnemonic','Μνημονικός Κωδ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.sinceinvoicedate','Από Ημ.Τιμολ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.tillinvoicedate','Έως Ημ.Τιμόλ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.sincedischargedate','Από Ημ.Εξιτ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqheader.tilldischargedate','Εως Ημ.Εξιτ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.percreqpay','Ποσοστιαία Εξοφλ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqpayentry.jsp.validations.no_reqheader_rows_selected','Επιλέξτε Υποχρεωτικά Μία Υποβολή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqpayentry.jsp.validations.invalid_zero_percentage','Το Ποσοστό Εξόφλησης Της Υποβολής Δεν Μπορει Να Είναι Μηδέν!!! Παρακαλώ Διορθώστε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqpayentry.jsp.validations.criteria_payperc_required','Συμπληρώστε Υποχρεωτικά Ποσοστό Εξόφλησης Υποβολής');

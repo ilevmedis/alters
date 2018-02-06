@@ -1,0 +1,5 @@
+medisservicedisplaybox.jsp.med_service.servicetime = Ωρα
+medisobservationdisplaybox.jsp.med_observation.observationtime = Ωρα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisservicedisplaybox.jsp.med_service.servicetime','Ωρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisobservationdisplaybox.jsp.med_observation.observationtime','Ωρα');

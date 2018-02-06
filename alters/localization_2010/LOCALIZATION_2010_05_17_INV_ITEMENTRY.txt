@@ -1,0 +1,32 @@
+inv_itementry.jsp.inv_item.ispublictoallstores = Συμβατο Με Όλες Τις Αποθήκες
+inv_itementry.jsp.tabs.page13 = Συμβ. Αποθ.
+inv_itementry.jsp.inv_store.mnemonic = Κωδ. Αποθ.
+inv_itementry.jsp.inv_store.descr = Περιγρ. Αποθ.
+inv_itementry.jsp.inv_itemstoreaccess.selected = Επιλογή
+inv_itementry.jsp.itemstoreaccessdisplaybox.caption = Συμβατότητα με Αποθήκες
+
+inv_itementry.jsp.validations.inv_itemunitofmeasure.itemstoreacessrequired = Συμπληρώστε Υποχρεωτικά Συμβατότητα Με Μία Τουλάχιστον Αποθήκη
+inv_itementry.jsp.validations.inv_itemunitofmeasure.itemeventtyperequired = Συμπληρώστε Υποχρεωτικά Συμβατότητα Με Ένα Τουλάχιστον Παραστατικό
+
+inv_buyentry.jsp.validations.invitemid_not_compatible_with_store = Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη
+inv_grantentry.jsp.validations.invitemid_not_compatible_with_store = Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη
+inv_orderstoreentry.jsp.validations.invitemid_not_compatible_with_store = Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη
+inv_orderbuyentry.jsp.validations.invitemid_not_compatible_with_store = Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη
+inv_orderbuyentry.jsp.validations.invitemid_not_compatible_with_inv_eventtype = Το Είδος Δεν Είναι Συμβατό Με Την Διαδικασία Αποθήκης!
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.tabs.page13','Συμβ. Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_store.mnemonic','Κωδ. Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_store.descr','Περιγρ. Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemstoreaccess.selected','Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.itemstoreaccessdisplaybox.caption','Συμβατότητα με Αποθήκες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_item.ispublictoallstores','Συμβατο Με Όλες Τις Αποθήκες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.validations.inv_itemunitofmeasure.itemstoreacessrequired','Συμπληρώστε Υποχρεωτικά Συμβατότητα Με Μία Τουλάχιστον Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.validations.inv_itemunitofmeasure.itemeventtyperequired','Συμπληρώστε Υποχρεωτικά Συμβατότητα Με Ένα Τουλάχιστον Παραστατικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.invitemid_not_compatible_with_store','Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.invitemid_not_compatible_with_store','Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderstoreentry.jsp.validations.invitemid_not_compatible_with_store','Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.invitemid_not_compatible_with_store','Το Είδος Δεν Είναι Συμβατό Με Την Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.invitemid_not_compatible_with_inv_eventtype','Το Είδος Δεν Είναι Συμβατό Με Την Διαδικασία Αποθήκης! ');

@@ -1,0 +1,8 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_patientdebtbrowser.jsp.view', 'Διαχείριση Υπολοίπων Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientdebtbrowser.jsp.print', 'Διαχείριση Υπολοίπων Ασθενών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientdebtbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientdebtbrowser.jsp.print', 1);
+
+
+
+

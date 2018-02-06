@@ -1,0 +1,19 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicbrowser.jsp.view', 'Διαχείριση Κωδικοποίησης Κλινικών ΙΚΑ (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicbrowser.jsp.print', 'Διαχείριση Κωδικοποίησης Κλινικών ΙΚΑ (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicentry.jsp.view', 'Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicentry.jsp.print', 'Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicentry.jsp.insert', 'Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicentry.jsp.update', 'Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_ikaclinicentry.jsp.delete', 'Καταχώρηση Κωδικοποίησης Κλινικών ΙΚΑ (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_ikaclinicentry.jsp.insert', 1);
+
+
+
+

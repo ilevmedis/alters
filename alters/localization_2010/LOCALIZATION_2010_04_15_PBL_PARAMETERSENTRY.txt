@@ -1,0 +1,12 @@
+pbl_parametersentry.jsp.pbl_parameters.costcenterpolicyinpatients = Πολιτική Ενημ. Κέντρου Κόστους (Εσωτ.Ασθ.)
+pbl_parametersentry.jsp.pbl_parameters.costcenterpolicyoutpatients = Πολιτική Ενημ. Κέντρου Κόστους (Εξωτ.Ασθ.)
+
+pbl_parametersentry.jsp.validations.costcenterpolicyinpatientsrequired = Συμπληρώστε Υποχρεωτικά Πολιτική Ενημ. Κέντρου Κόστους (Εσωτ.Ασθ.)
+pbl_parametersentry.jsp.validations.costcenterpolicyoutpatientsrequired = Συμπληρώστε Υποχρεωτικά Πολιτική Ενημ. Κέντρου Κόστους (Εξωτ.Ασθ.)
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.costcenterpolicyinpatients','Πολιτική Ενημ. Κέντρου Κόστους (Εσωτ.Ασθ.)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.costcenterpolicyoutpatients','Πολιτική Ενημ. Κέντρου Κόστους (Εξωτ.Ασθ.)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_parametersentry.jsp.validations.costcenterpolicyinpatientsrequired','Συμπληρώστε Υποχρεωτικά Πολιτική Ενημ. Κέντρου Κόστους (Εσωτ.Ασθ.)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_parametersentry.jsp.validations.costcenterpolicyoutpatientsrequired','Συμπληρώστε Υποχρεωτικά Πολιτική Ενημ. Κέντρου Κόστους (Εξωτ.Ασθ.)');
+

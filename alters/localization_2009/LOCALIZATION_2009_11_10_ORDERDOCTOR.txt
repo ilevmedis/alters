@@ -1,0 +1,7 @@
+pta_oupparametersentry.jsp.pta_oupparameters.orderdoctorroleid = Ρόλος Παραγγέλοντα Ιατρού
+pta_oupvisitentry.jsp.chargedetailentrytable.pbl_chargeheader.orderpersonid = Παραγγέλων
+pbl_chargeentry.jsp.pbl_chargeheader.orderpersonid = Παραγγέλων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupparametersentry.jsp.pta_oupparameters.orderdoctorroleid','Ρόλος Παραγγέλοντα Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.chargedetailentrytable.pbl_chargeheader.orderpersonid','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargeheader.orderpersonid','Παραγγέλων');

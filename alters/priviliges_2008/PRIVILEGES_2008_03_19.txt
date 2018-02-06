@@ -1,0 +1,26 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_invoicepartialcancelentry.jsp.update', 'Μερικό Πιστωτικό Τιμολογίου (Μεταβολή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoicepartialcancelentry.jsp.update', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_invoicecancelentry.jsp.update', 'Ακύρωση Τιμολογίου (Μεταβολή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_invoicecancelentry.jsp.update', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('rsc_resourceallocationvisitentry.jsp.view', 'Καταχώρηση Δεσμευσης Πόρου (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('rsc_resourceallocationvisitentry.jsp.insert', 'Καταχώρηση Δεσμευσης Πόρου (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('rsc_resourceallocationvisitentry.jsp.delete', 'Καταχώρηση Δεσμευσης Πόρου (Διαγραφή)');
+insert into sys_privilege(privilegeid, descr) values ('rsc_resourceallocationvisitentry.jsp.update', 'Καταχώρηση Δεσμευσης Πόρου (Μεταβολή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'rsc_resourceallocationvisitentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'rsc_resourceallocationvisitentry.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'rsc_resourceallocationvisitentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'rsc_resourceallocationvisitentry.jsp.update', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_visitdischargecancelentry.jsp.view', 'Διαγραφή Εξιτηρίου (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_visitdischargecancelentry.jsp.insert', 'Διαγραφή Εξιτηρίου (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_visitdischargecancelentry.jsp.update', 'Διαγραφή Εξιτηρίου (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_visitdischargecancelentry.jsp.delete', 'Διαγραφή Εξιτηρίου (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_visitdischargecancelentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_visitdischargecancelentry.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_visitdischargecancelentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_visitdischargecancelentry.jsp.delete', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_orderstoreconverter.jsp.print', 'Μετασχηματισμός Παραγγελιών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_orderstoreconverter.jsp.print', 1);

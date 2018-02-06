@@ -1,0 +1,6 @@
+﻿inv_calccheckprice.jsp.pagetitle = Αποτίμηση Ειδών Αποθήκης
+inv_calccheckprice.jsp.criteriadisplaybox.caption = Στοιχεία Αποτίμησης
+inv_calccheckprice.jsp.calculateddate_criteria = Ημερομηνία Υπολογισμού Τιμής
+inv_calccheckprice.jsp.since_itemmnemonic_criteria = Μνημονικός Κωδικός
+inv_calccheckprice.jsp.jsp.priceused_criteria = Τιμή Αποτίμησης
+inv_calccheckprice.jsp.validations.calcdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Υπολογισμού Τιμής

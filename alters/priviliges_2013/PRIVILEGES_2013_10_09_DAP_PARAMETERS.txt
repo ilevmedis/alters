@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('dap_parametersentry.jsp.view', 'Προβολή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_parametersentry.jsp.print', 'Εκτύπωση Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_parametersentry.jsp.insert', 'Εισαγωγή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_parametersentry.jsp.update', 'Μεταβολή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_parametersentry.jsp.delete', 'Διαγραφή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_parametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_parametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_parametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_parametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_parametersentry.jsp.insert', 1);

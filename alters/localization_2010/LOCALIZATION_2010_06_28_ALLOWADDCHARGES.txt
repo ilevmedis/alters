@@ -1,0 +1,9 @@
+pbl_allowaddchargechecker.jsp.validations.visit_has_issued_invoice = Προσοχή! Η Νοσηλεία Ειναι Τιμολογημένη!!!
+pbl_allowaddchargechecker.jsp.validations.notallowed_toadd_charge_after_invoice = Δεν Εχετε Δικαιοδοσία Να Καταχωρήσετε Χρέωση Μετά Την Έκδοση Τιμολογίου
+pbl_allowaddchargechecker.jsp.validations.patient_hasbeen_discharged = Προσοχή! Ο Ασθενής Έχει Πάρει Εξιτήριο!!!
+pbl_allowaddchargechecker.jsp.validations.notallowed_toadd_charge_after_discharge = Δεν Εχετε Δικαιοδοσία Να Καταχωρήσετε Χρέωση Μετά Την Έκδοση Εξιτηρίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_allowaddchargechecker.jsp.validations.visit_has_issued_invoice','Προσοχή! Η Νοσηλεία Ειναι Τιμολογημένη!!!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_allowaddchargechecker.jsp.validations.notallowed_toadd_charge_after_invoice','Δεν Εχετε Δικαιοδοσία Να Καταχωρήσετε Χρέωση Μετά Την Έκδοση Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_allowaddchargechecker.jsp.validations.patient_hasbeen_discharged','Προσοχή! Ο Ασθενής Έχει Πάρει Εξιτήριο!!!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_allowaddchargechecker.jsp.validations.notallowed_toadd_charge_after_discharge','Δεν Εχετε Δικαιοδοσία Να Καταχωρήσετε Χρέωση Μετά Την Έκδοση Εξιτηρίου');

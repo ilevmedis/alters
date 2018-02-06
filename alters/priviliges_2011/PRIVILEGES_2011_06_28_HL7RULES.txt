@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7rulebrowser.jsp.view', 'Διαχείρισης Κανόνων HL7(Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7rulebrowser.jsp.print', 'Διαχείρισης Κανόνων HL7(Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7rulebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7rulebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7ruleentry.jsp.view', 'Ανάγνωση Κανόνων HL7');
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7ruleentry.jsp.print', 'Εκτύπωση Κανόνων HL7');
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7ruleentry.jsp.insert', 'Εισαγωγή Κανόνων HL7');
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7ruleentry.jsp.update', 'Μεταβολή Κανόνων HL7');
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7ruleentry.jsp.delete', 'Διαγραφή Κανόνων HL7');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7ruleentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7ruleentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7ruleentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7ruleentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7ruleentry.jsp.insert', 1);
+

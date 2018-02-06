@@ -1,0 +1,3 @@
+pbl_reqpayentry.jsp.validations.creditdoc_alreadyissued = Έχει Ήδη Εκδοθεί Πιστωτικό Για Τις Περικοπές
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pbl_reqpayentry.jsp.validations.creditdoc_alreadyissued','Έχει Ήδη Εκδοθεί Πιστωτικό Για Τις Περικοπές');

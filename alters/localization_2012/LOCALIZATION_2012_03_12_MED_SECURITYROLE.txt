@@ -1,0 +1,47 @@
+med_securityrolebrowser.jsp.pagetitle = Διαχείριση Ρόλων Ασφάλειας Ιατρ.
+med_securityrolebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_securityrolebrowser.jsp.griddisplaybox.caption = Ρόλοι Ασφάλειας Ιατρ.
+
+med_securityrolebrowser.jsp.mnemonic_criteria = Μνημ. Κωδικός
+med_securityrolebrowser.jsp.descr_criteria = Περιγραφή
+med_securityrolebrowser.jsp.isactive_criteria = Ενεργός
+med_securityrolebrowser.jsp.med_securityrole.securityroleid = Κωδικός
+med_securityrolebrowser.jsp.med_securityrole.mnemonic = Μνημ. Κωδικός
+med_securityrolebrowser.jsp.med_securityrole.descr = Περιγραφή
+med_securityrolebrowser.jsp.med_securityrole.isactive = Ενεργός
+
+med_securityroleentry.jsp.pagetitle = Καταχώρηση Ρόλων Ασφάλειας Ιατρ.
+med_securityroleentry.jsp.entrydisplaybox.caption = Στοιχεία Ρόλου Ασφάλειας Ιατρ.
+
+med_securityroleentry.jsp.med_securityrole.securityroleid = Κωδικός
+med_securityroleentry.jsp.med_securityrole.mnemonic = Μνημ. Κωδικός
+med_securityroleentry.jsp.med_securityrole.descr = Περιγραφή
+med_securityroleentry.jsp.med_securityrole.comments = Σχόλια
+med_securityroleentry.jsp.med_securityrole.isactive = Ενεργός
+
+med_securityroleentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό
+med_securityroleentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.pagetitle','Διαχείριση Ρόλων Ασφάλειας Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.griddisplaybox.caption','Ρόλοι Ασφάλειας Ιατρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.isactive_criteria','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.med_securityrole.securityroleid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.med_securityrole.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.med_securityrole.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityrolebrowser.jsp.med_securityrole.isactive','Ενεργός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.pagetitle','Καταχώρηση Ρόλων Ασφάλειας Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.entrydisplaybox.caption','Στοιχεία Ρόλου Ασφάλειας Ιατρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.med_securityrole.securityroleid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.med_securityrole.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.med_securityrole.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.med_securityrole.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_securityroleentry.jsp.med_securityrole.isactive','Ενεργός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_securityroleentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_securityroleentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');

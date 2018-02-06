@@ -1,0 +1,43 @@
+fin_kepyomonthlyinvoices.jsp.pagetitle = Μηνιαία Συγκεντρωτική Κατάσταση Τιμολογίων
+fin_kepyomonthlyinvoices.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_kepyomonthlyinvoices.jsp.revenuesgriddisplaybox.caption = Πωλήσεις
+fin_kepyomonthlyinvoices.jsp.expensesgriddisplaybox.caption = Αγορές/Δαπάνες
+fin_kepyomonthlyinvoices.jsp.exporttoxml = Εξαγωγή Σε Αρχείο (XML)
+fin_kepyomonthlyinvoices.jsp.year_criteria = Έτος
+fin_kepyomonthlyinvoices.jsp.month_criteria = Μήνας
+fin_kepyomonthlyinvoices.jsp.includerevenues_criteria = Να Περιληφθούν Πωλήσεις
+fin_kepyomonthlyinvoices.jsp.includeexpenses_criteria = Να Περιληφθούν Αγορές/Δαπάνες
+fin_kepyomonthlyinvoices.jsp.taxregistrationno = ΑΦΜ
+fin_kepyomonthlyinvoices.jsp.name = Επωνυμία
+fin_kepyomonthlyinvoices.jsp.kepyostatus = Υποχ.Υποβολής
+fin_kepyomonthlyinvoices.jsp.netamount = Καθ.Αξία
+fin_kepyomonthlyinvoices.jsp.vatamount = Αξία ΦΠΑ
+fin_kepyomonthlyinvoices.jsp.noofinvoices = Αρ.Τιμολογίων
+fin_kepyomonthlyinvoices.jsp.note = Normal/Credit
+fin_kepyomonthlyinvoices.jsp.maxdate = Τελ.Ημ.Συναλλαγής
+
+fin_kepyomonthlyinvoices.jsp.validations.year_required = Συμπληρώστε Υποχρεωτικά Έτος
+fin_kepyomonthlyinvoices.jsp.validations.month_required = Συμπληρώστε Υποχρεωτικά Μήνα
+fin_kepyomonthlyinvoices.jsp.validations.revenues_or_expenses_required = Επιλέξτε Υποχρεωτικά Πωλήσεις ή Αγορές/Δαπάνες
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.pagetitle','Μηνιαία Συγκεντρωτική Κατάσταση Τιμολογίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.revenuesgriddisplaybox.caption','Πωλήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.expensesgriddisplaybox.caption','Αγορές/Δαπάνες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.exporttoxml','Εξαγωγή Σε Αρχείο (XML)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.year_criteria','Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.month_criteria','Μήνας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.includerevenues_criteria','Να Περιληφθούν Πωλήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.includeexpenses_criteria','Να Περιληφθούν Αγορές/Δαπάνες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.taxregistrationno','ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.name','Επωνυμία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.kepyostatus','Υποχ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.netamount','Καθ.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.vatamount','Αξία ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.noofinvoices','Αρ.Τιμολογίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.note','Normal/Credit');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_kepyomonthlyinvoices.jsp.maxdate','Τελ.Ημ.Συναλλαγής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_kepyomonthlyinvoices.jsp.validations.year_required','Συμπληρώστε Υποχρεωτικά Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_kepyomonthlyinvoices.jsp.validations.month_required','Συμπληρώστε Υποχρεωτικά Μήνα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_kepyomonthlyinvoices.jsp.validations.revenues_or_expenses_required','Επιλέξτε Υποχρεωτικά Πωλήσεις ή Αγορές/Δαπάνες');

@@ -1,0 +1,28 @@
+fin_banknoteindex.jsp.issuerfintranspartyid_criteria = Εκδότης
+fin_banknoteindex.jsp.fin_banknote.issuername = Εκδότης
+
+fin_banknotedata.jsp.fin_transdetail.internaleventdate = Ημ. Κίνησης
+fin_banknotedata.jsp.fin_transdetail.internaleventno = Αρ.Κίνησης
+fin_banknotedata.jsp.fin_eventtype.mnemonic = Διαδικασία
+fin_banknotedata.jsp.fin_transdetail.newbanknotestatusid = Νέα Κατ/ση
+fin_banknotedata.jsp.fin_transdetail.amountdebit = Χρέωση
+fin_banknotedata.jsp.fin_transdetail.amountcredit = Πίστωση
+
+fin_banknotedata.jsp.pta_visit.mnemonic = Αρ.Εισιτ.
+fin_banknotedata.jsp.pta_visit.lastname = Επώνυμο
+fin_banknotedata.jsp.pta_visit.firstname = Όνομα
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteindex.jsp.issuerfintranspartyid_criteria','Εκδότης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteindex.jsp.fin_banknote.issuername','Εκδότης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.fin_transdetail.internaleventdate','Ημ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.fin_transdetail.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.fin_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.fin_transdetail.newbanknotestatusid','Νέα Κατ/ση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.fin_transdetail.amountdebit','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.fin_transdetail.amountcredit','Πίστωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.pta_visit.mnemonic','Αρ.Εισιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotedata.jsp.pta_visit.firstname','Όνομα');

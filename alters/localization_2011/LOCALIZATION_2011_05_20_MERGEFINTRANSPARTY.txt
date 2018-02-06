@@ -1,0 +1,22 @@
+sys_mergefintransparty.jsp.pagetitle = Ενοποίηση Στοιχείων Πελάτη
+sys_mergefintransparty.jsp.entrydisplaybox.caption = Στοιχεία Ενοποίησης
+sys_mergefintransparty.jsp.sys_mergefintransparty.sourcefintranspartyid = Οικ. Υπόχεος Προς Απενεργοποίηση
+sys_mergefintransparty.jsp.sys_mergefintransparty.targetfintranspartyid = Ενεργός Υπόχρεος
+
+sys_mergefintransparty.jsp.validations.different_taxregistrationno = Δεν Μπορούν να Ενοποιηθούν Συναλασσόμενοι Με Διαφορετικό ΑΦΜ
+sys_mergefintransparty.jsp.validations.sourcefintranspartyidrequired = Συμπληρώστε Υποχρεωτικά Οικ. Υπόχρεο Προς Απενεργοποίηση
+sys_mergefintransparty.jsp.validations.targetfintranspartyidrequired = Συμπληρώστε Υποχρεωτικά Ενεργό Οικ. Υπόχρεο
+sys_mergefintransparty.jsp.validations.update_completed = Η Διαδικασία Ενοποίησης Ολοκληρώθηκε Επιτυχώς!
+sys_mergefintransparty.jsp.validations.update_not_completed = Η Διαδικασία Ενοποίησης Παρουσίασε Σφάλμα Και Δεν Ολοκληρώθηκε!
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mergefintransparty.jsp.pagetitle','Ενοποίηση Στοιχείων Πελάτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mergefintransparty.jsp.entrydisplaybox.caption','Στοιχεία Ενοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mergefintransparty.jsp.sys_mergefintransparty.sourcefintranspartyid','Οικ. Υπόχεος Προς Απενεργοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mergefintransparty.jsp.sys_mergefintransparty.targetfintranspartyid','Ενεργός Υπόχρεος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mergefintransparty.jsp.validations.different_taxregistrationno','Δεν Μπορούν να Ενοποιηθούν Συναλασσόμενοι Με Διαφορετικό ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mergefintransparty.jsp.validations.sourcefintranspartyidrequired','Συμπληρώστε Υποχρεωτικά Οικ. Υπόχρεο Προς Απενεργοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mergefintransparty.jsp.validations.targetfintranspartyidrequired','Συμπληρώστε Υποχρεωτικά Ενεργό Οικ. Υπόχρεο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mergefintransparty.jsp.validations.update_completed','Η Διαδικασία Ενοποίησης Ολοκληρώθηκε Επιτυχώς!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mergefintransparty.jsp.validations.update_not_completed','Η Διαδικασία Ενοποίησης Παρουσίασε Σφάλμα Και Δεν Ολοκληρώθηκε!');

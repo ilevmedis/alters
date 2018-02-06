@@ -1,0 +1,9 @@
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.issueopiniondate = Ημ.Εκδ.Γνωματ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.opinionvalidsincedate = Ημ.Εναρξ.Ισχύος
+
+pbl_reqentry.jsp.dapy.mtnrequest = ΔΑΠΥ Αιμοκαθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.issueopiniondate','Ημ.Εκδ.Γνωματ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.opinionvalidsincedate','Ημ.Εναρξ.Ισχύος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.mtnrequest','ΔΑΠΥ Αιμοκαθ.');

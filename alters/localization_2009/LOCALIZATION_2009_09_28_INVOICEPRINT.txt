@@ -1,0 +1,13 @@
+pbl_visitinvoiceentry.jsp.isprinted_status = Κατάσταση Εκτύπωσης
+pbl_invoicechangeprintstatus.jsp.pagetitle = Αλλαγή Κατάστασης Εκτύπωσης Τιμολογίου
+pbl_invoicechangeprintstatus.jsp.entrydisplaybox.caption = Κατάσταση Εκτύπωσης
+pbl_invoicechangeprintstatus.jsp.fin_transheader.isprinted = Εκτύπωση Προτοτύπου
+
+pbl_invoiceentry.jsp.isprinted_status = Κατάσταση Εκτύπωσης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.isprinted_status','Κατάσταση Εκτύπωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoicechangeprintstatus.jsp.pagetitle','Αλλαγή Κατάστασης Εκτύπωσης Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoicechangeprintstatus.jsp.entrydisplaybox.caption','Κατάσταση Εκτύπωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoicechangeprintstatus.jsp.fin_transheader.isprinted','Εκτύπωση Προτοτύπου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.isprinted_status','Κατάσταση Εκτύπωσης');

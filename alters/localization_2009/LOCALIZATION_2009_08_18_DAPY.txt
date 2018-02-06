@@ -1,0 +1,66 @@
+pbl_reqentry.jsp.dapydisplaybox.caption = Δημιουργία Αρχείου ΔΑΠΥ (ΙΚΑ)
+pbl_reqentry.jsp.createdapy = ΔΑΠΥ
+pbl_reqentry.jsp.dapy.doctorsurname = Επώνυμο Ελεγκτή Ιατρού
+pbl_reqentry.jsp.dapy.doctorfirstname = Όνομα Ελεγκτή Ιατρού
+pbl_reqentry.jsp.dapy.doctorcode = Κωδ. ΤΣΑΥ Ελεγκτή Ιατρού
+pbl_reqentry.jsp.dapy.companyikacode = Κωδ. Οργανισμού με βάση το ΙΚΑ
+pbl_reqentry.jsp.dapy.ikacontractno = Αρ. Σύμβασης με βάση το ΙΚΑ
+pbl_reqentry.jsp.dapy.finitemcoding_main = Εναλλακτική Κωδικοποίηση ΙΚΑ
+pbl_reqentry.jsp.dapy.finitemcoding_itemtype = Εναλλακτική Κωδικοποίηση Ομαδοποίησης ΙΚΑ
+pbl_reqentry.jsp.dapy.isnormalrequest = Κατηγορία Υποβολής
+
+pbl_reqentry.jsp.validations.dapy.doctorcode_required = Συμπληρώστε Υποχρεωτικά Κωδικό Ιατρού
+pbl_reqentry.jsp.validations.dapy.doctorsurname_required = Συμπληρώστε Υποχρεωτικά Επώνυμο Ιατρού
+pbl_reqentry.jsp.validations.dapy.doctorfirstname_required = Συμπληρώστε Υποχρεωτικά Όνομα Ιατρού
+pbl_reqentry.jsp.validations.dapy.companyikacode_required = Συμπληρώστε Υποχρεωτικά Κωδικό Οργανισμού Με Βάση Το ΙΚΑ
+pbl_reqentry.jsp.validations.dapy.ikacontractno_required = Συμπληρώστε Υποχρεωτικά Αριθμό Σύμβασης Με Βάση Το ΙΚΑ
+pbl_reqentry.jsp.validations.dapy.finitemcoding_main_required = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση ΙΚΑ
+pbl_reqentry.jsp.validations.dapy.finitemcoding_itemtype_required = Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση Ομαδοποίησης ΙΚΑ
+
+pbl_visitcoverdetailentry.jsp.expanddapydata = Στοιχεία ΔΑΠΥ
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.isjobdisease = Επαγγελματική Νόσος
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.isjobaccident = Εργατικό Ατύχημα
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.ismultiplesurgeries = Πολλαπλές Επεμβάσεις
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.deathindicator = Ένδειξη Θανάτου
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.dapyvisittypeindicator = Τύπος Παραπεμπτικού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderorganisationcode = Κδ.Μον.Υγ.Παραπεμπτικού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorsurname = Επων.Συνταγ.Ιατρού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorfirstname = Όν.Συνταγ.Ιατρού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorcode = Κδ.ΤΣΑΥ Συνταγ.Ιατρού
+
+pbl_levelentry.jsp.pbl_level.ikacode = Κωδ. ΙΚΑ
+pta_facilityentry.jsp.pta_facility.ikacode = Κωδ. ΙΚΑ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapydisplaybox.caption','Δημιουργία Αρχείου ΔΑΠΥ (ΙΚΑ)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.createdapy','ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.doctorsurname','Επώνυμο Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.doctorfirstname','Όνομα Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.doctorcode','Κωδ. ΤΣΑΥ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.companyikacode','Κωδ. Οργανισμού με βάση το ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.ikacontractno','Αρ. Σύμβασης με βάση το ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.finitemcoding_main','Εναλλακτική Κωδικοποίηση ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.finitemcoding_itemtype','Εναλλακτική Κωδικοποίηση Ομαδοποίησης ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.isnormalrequest','Κατηγορία Υποβολής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.doctorcode_required','Συμπληρώστε Υποχρεωτικά Κωδικό Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.doctorsurname_required','Συμπληρώστε Υποχρεωτικά Επώνυμο Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.doctorfirstname_required','Συμπληρώστε Υποχρεωτικά Όνομα Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.companyikacode_required','Συμπληρώστε Υποχρεωτικά Κωδικό Οργανισμού Με Βάση Το ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.ikacontractno_required','Συμπληρώστε Υποχρεωτικά Αριθμό Σύμβασης Με Βάση Το ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.finitemcoding_main_required','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση ΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.dapy.finitemcoding_itemtype_required','Συμπληρώστε Υποχρεωτικά Εναλλακτική Κωδικοποίηση Ομαδοποίησης ΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.expanddapydata','Στοιχεία ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.isjobdisease','Επαγγελματική Νόσος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.isjobaccident','Εργατικό Ατύχημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.ismultiplesurgeries','Πολλαπλές Επεμβάσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.deathindicator','Ένδειξη Θανάτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.dapyvisittypeindicator','Τύπος Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderorganisationcode','Κδ.Μον.Υγ.Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorsurname','Επων.Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorfirstname','Όν.Συνταγ.Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorcode','Κδ.ΤΣΑΥ Συνταγ.Ιατρού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_levelentry.jsp.pbl_level.ikacode','Κωδ. ΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facility.ikacode','Κωδ. ΙΚΑ');

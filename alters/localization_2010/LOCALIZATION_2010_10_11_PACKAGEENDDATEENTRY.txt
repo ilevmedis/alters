@@ -1,0 +1,16 @@
+pbl_chargepackagebrowser.jsp.pbl_chargepackage.packageenddateentry = Ημ. Λήξης Πακέτου
+
+pbl_packageenddateentry.jsp.pagetitle = Εισαγωγή Ημ. Λήξης Πακέτου
+pbl_packageenddateentry.jsp.entrydisplaybox.caption = Εισαγωγή Ημ/νίας Λήξης Πακέτου
+pbl_packageenddateentry.jsp.pbl_chargepackage.packageenddate = Ημ/νία Λήξης Πακέτου
+
+pbl_packageenddateentry.jsp.validations.packageenddate_lessthan_lastinvoiceddate = Υπάρχουν Τιμολογημένες Χρεώσεις Που Ανήκουν Στο Πακέτο Μετά Την Ημερομηνία Λήξης! Παρακαλώ Διορθώστε
+pbl_packageenddateentry.jsp.validations.packageenddate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Λήξης Πακέτου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackagebrowser.jsp.pbl_chargepackage.packageenddateentry','Ημ. Λήξης Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageenddateentry.jsp.pagetitle','Εισαγωγή Ημ. Λήξης Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageenddateentry.jsp.entrydisplaybox.caption','Εισαγωγή Ημ/νίας Λήξης Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageenddateentry.jsp.pbl_chargepackage.packageenddate','Ημ/νία Λήξης Πακέτου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packageenddateentry.jsp.validations.packageenddate_lessthan_lastinvoiceddate','Υπάρχουν Τιμολογημένες Χρεώσεις Που Ανήκουν Στο Πακέτο Μετά Την Ημερομηνία Λήξης! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packageenddateentry.jsp.validations.packageenddate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Λήξης Πακέτου');

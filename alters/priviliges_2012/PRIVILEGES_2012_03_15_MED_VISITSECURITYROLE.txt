@@ -1,0 +1,12 @@
+insert into sys_privilege(privilegeid, descr) values ('med_visitsecurity.jsp.view', 'Διαχείριση Ασφάλειας Περιστατικού');
+insert into sys_privilege(privilegeid, descr) values ('med_visitsecurity.jsp.insert', 'Εισαγωγή Ασφάλειας Περιστατικού');
+insert into sys_privilege(privilegeid, descr) values ('med_visitsecurity.jsp.update', 'Μεταβολή Ασφάλειας Περιστατικού');
+insert into sys_privilege(privilegeid, descr) values ('med_visitsecurity.jsp.delete', 'Διαγραφή Ασφάλειας Περιστατικού');
+insert into sys_privilege(privilegeid, descr) values ('med_visitsecurity.jsp.print', 'Εκτύπωση Ασφάλειας Περιστατικού');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_visitsecurity.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_visitsecurity.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_visitsecurity.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_visitsecurity.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_visitsecurity.jsp.print', 1);
+

@@ -1,0 +1,31 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_substancebrowser.jsp.view', 'Διαχείριση Δραστκών Ουσιών');
+insert into sys_privilege(privilegeid, descr) values ('inv_substancebrowser.jsp.print', 'Εκτύπωση Δραστκών Ουσιών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substancebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substancebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_substanceentry.jsp.view', 'Ανάγνωση Δραστκών Ουσιών');
+insert into sys_privilege(privilegeid, descr) values ('inv_substanceentry.jsp.print', 'Εκτύπωση Δραστκών Ουσιών');
+insert into sys_privilege(privilegeid, descr) values ('inv_substanceentry.jsp.insert', 'Εισαγωγή Δραστκών Ουσιών');
+insert into sys_privilege(privilegeid, descr) values ('inv_substanceentry.jsp.update', 'Μεταβολή Δραστκών Ουσιών');
+insert into sys_privilege(privilegeid, descr) values ('inv_substanceentry.jsp.delete', 'Διαγραφή Δραστκών Ουσιών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substanceentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substanceentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substanceentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substanceentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_substanceentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcbrowser.jsp.view', 'Διαχείριση Ομαδοποίησης ATC');
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcbrowser.jsp.print', 'Εκτύπωση Ομαδοποίησης ATC');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcentry.jsp.view', 'Ανάγνωση Ομαδοποίησης ATC');
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcentry.jsp.print', 'Εκτύπωση Ομαδοποίησης ATC');
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcentry.jsp.insert', 'Εισαγωγή Ομαδοποίησης ATC');
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcentry.jsp.update', 'Μεταβολή Ομαδοποίησης ATC');
+insert into sys_privilege(privilegeid, descr) values ('inv_groupatcentry.jsp.delete', 'Διαγραφή Ομαδοποίησης ATC');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'inv_groupatcentry.jsp.insert', 1);

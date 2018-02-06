@@ -1,0 +1,30 @@
+pbl_updeprescription.jsp.tabs.page1 = Παραπεμπτικά
+pbl_updeprescription.jsp.tabs.page2 = Σφάλματα
+
+pbl_updeprescription.jsp.errorgriddisplaybox.caption = Λάθη Σύμβατότητας
+pbl_updeprescription.jsp.pbl_errorchargedetail.chargedate = Ημ/νία
+pbl_updeprescription.jsp.pbl_errorchargedetail.refno = Αρ.Παραπ.
+pbl_updeprescription.jsp.pbl_errorchargedetail.patname = Ον/νυμο Ασθ.
+pbl_updeprescription.jsp.pbl_errorchargedetail.dapycode = Κωδ.ΔΑΠΥ Παραπ.
+pbl_updeprescription.jsp.fin_item.mnemonic = Μνημονικός
+pbl_updeprescription.jsp.fin_item.displaydescr = Περιγραφή
+pbl_updeprescription.jsp.pbl_errorchargedetail.finitemdapycode = Κωδ.ΔΑΠΥ
+
+pbl_updeprescription.jsp.referenceno_criteria = Αρ.Ηλ.Παραπ.
+pbl_updeprescription.jsp.patientid_criteria = Ασθενής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.tabs.page1','Παραπεμπτικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.tabs.page2','Σφάλματα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.errorgriddisplaybox.caption','Λάθη Συμβατότητας;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_errorchargedetail.chargedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_errorchargedetail.refno','Αρ.Παραπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_errorchargedetail.patname','Ον/νυμο Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_errorchargedetail.dapycode','Κωδ.ΔΑΠΥ Παραπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.fin_item.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.fin_item.displaydescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_errorchargedetail.finitemdapycode','Κωδ.ΔΑΠΥ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.referenceno_criteria','Αρ.Ηλ.Παραπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.patientid_criteria','Ασθενής');
+

@@ -1,0 +1,87 @@
+sys_connectionmonitor.jsp.servername = Server Name:
+sys_connectionmonitor.jsp.startreset = Start/Reset:
+sys_connectionmonitor.jsp.pagetitle = Connection Monitor
+sys_connectionmonitor.jsp.headerdisplaybox.caption = Statistics
+sys_connectionmonitor.jsp.pagehits = page Hits:
+sys_connectionmonitor.jsp.avghits = Average Hits/Minute:
+sys_connectionmonitor.jsp.avgsecperpagereq = Average Seconds/Page Request:
+sys_connectionmonitor.jsp.freememory = Free Memory:
+sys_connectionmonitor.jsp.tabs.page1 = Form Timers
+sys_connectionmonitor.jsp.tabs.page2 = Sql Timers
+sys_connectionmonitor.jsp.tabs.page3 = Dbms Stats
+sys_connectionmonitor.jsp.timerformsgriddisplaybox.caption = Form Stats
+sys_connectionmonitor.jsp.sys_timerforms.formname = Formname
+sys_connectionmonitor.jsp.sys_timerforms.count = Count
+sys_connectionmonitor.jsp.sys_timerforms.avgtime = Avg Time
+
+sys_connectionmonitor.jsp.resetstatsbutton = Reset Stats
+sys_connectionmonitor.jsp.tabs.page4 = Quartz
+sys_connectionmonitor.jsp.quartzgriddisplaybox.caption = Scheduled Tasks
+sys_connectionmonitor.jsp.sys_timerquartz.startbutton = start
+sys_connectionmonitor.jsp.sys_timerquartz.stopbutton = stop
+sys_connectionmonitor.jsp.sys_timerquartz.group = Group Schedule
+sys_connectionmonitor.jsp.sys_timerquartz.name = Name
+sys_connectionmonitor.jsp.sys_timerquartz.prevfiredate = Previous Fire Date
+sys_connectionmonitor.jsp.sys_timerquartz.nextfiredate = Next Fire Date
+
+sys_connectionmonitor.jsp.timersqlgriddisplaybox.caption = Sql Stats
+sys_connectionmonitor.jsp.sys_timersql.formname = Sql Statement
+sys_connectionmonitor.jsp.sys_timersql.count = Count
+sys_connectionmonitor.jsp.sys_timersql.avgtime = Avg Time
+
+sys_connectionmonitor.jsp.timerdbmsgriddisplaybox.caption = DBMS Stats
+sys_connectionmonitor.jsp.sys_timerdbms.dbms_name = DBMS Name
+sys_connectionmonitor.jsp.sys_timerdbms.url = url
+sys_connectionmonitor.jsp.sys_timerdbms.driver = driver
+sys_connectionmonitor.jsp.sys_timerdbms.userid = Userid
+sys_connectionmonitor.jsp.sys_timerdbms.connectionsinuse = Conn In Use
+sys_connectionmonitor.jsp.sys_timerdbms.idle = Idle
+
+sys_connectionmonitor.jsp.sys_timerdbms.statement = Sql Statement
+sys_connectionmonitor.jsp.sys_timerdbms.inuse = In Use
+sys_connectionmonitor.jsp.sys_timerdbms.lastused = Last Used
+sys_connectionmonitor.jsp.sys_timerdbms.lastduration = Last Duration
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.servername','Server Name:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.startreset','Start/Reset:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.pagetitle','Connection Monitor');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.headerdisplaybox.caption','Statistics');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.pagehits','page Hits:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.avghits','Average Hits/Minute:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.avgsecperpagereq','Average Seconds/Page Request:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.freememory','Free Memory:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.tabs.page1','Form Timers');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.tabs.page2','Sql Timers');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.tabs.page3','Dbms Stats');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.timerformsgriddisplaybox.caption','Form Stats');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerforms.formname','Formname');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerforms.count','Count');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerforms.avgtime','Avg Time');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.resetstatsbutton','Reset Stats');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.tabs.page4','Quartz');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.quartzgriddisplaybox.caption','Scheduled Tasks');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerquartz.startbutton','start');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerquartz.stopbutton','stop');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerquartz.group','Group Schedule');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerquartz.name','Name');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerquartz.prevfiredate','Previous Fire Date');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerquartz.nextfiredate','Next Fire Date');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.timersqlgriddisplaybox.caption','Sql Stats');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timersql.formname','Sql Statement');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timersql.count','Count');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timersql.avgtime','Avg Time');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.timerdbmsgriddisplaybox.caption','DBMS Stats');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.dbms_name','DBMS Name:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.url','url:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.driver','driver:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.userid','Userid:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.connectionsinuse','Conn In Use:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.idle','Idle:');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.statement','Sql Statement');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.inuse','In Use');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.lastused','Last Used');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_connectionmonitor.jsp.sys_timerdbms.lastduration','Last Duration');

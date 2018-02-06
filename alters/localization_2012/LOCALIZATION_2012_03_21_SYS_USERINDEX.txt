@@ -1,0 +1,25 @@
+sys_userindex.jsp.pagetitle = Επιλογή Χρήστη
+sys_userindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_userindex.jsp.griddisplaybox.caption = Χρήστες
+
+sys_userindex.jsp.username_criteria = Κωδ. Χρήστη
+sys_userindex.jsp.groupid_criteria = Ομάδα Χρηστών
+sys_userindex.jsp.surname_criteria = Επώνυμο
+sys_userindex.jsp.sys_user.username = Κωδ. Χρήστη
+sys_userindex.jsp.sys_user.surname = Επώνυμο
+sys_userindex.jsp.sys_user.firstname = Όνομα
+sys_userindex.jsp.sys_user.middlename = Ον. Πατρός
+sys_userindex.jsp.sys_user.groupname = Ομάδα Χρηστών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.pagetitle','Επιλογή Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.griddisplaybox.caption','Χρήστες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.username_criteria','Κωδ. Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.groupid_criteria','Ομάδα Χρηστών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.surname_criteria','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.sys_user.username','Κωδ. Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.sys_user.surname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.sys_user.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.sys_user.middlename','Ον. Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userindex.jsp.sys_user.groupname','Ομάδα Χρηστών');

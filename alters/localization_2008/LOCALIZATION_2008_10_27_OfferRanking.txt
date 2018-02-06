@@ -1,0 +1,150 @@
+﻿src_offerrankingbrowser.jsp.pagetitle = Διαχείριση Κατάταξης Προσφορών
+src_offerrankingbrowser.jsp.entrydisplaybox.caption = Στοιχεία Αναζήτησης Προμήθειας
+src_offerrankingbrowser.jsp.src_supplyrequest.mnemonic = Μνημ.Κωδικός Αναζήτησης Προμήθειας
+src_offerrankingbrowser.jsp.src_supplyrequest.requestdate = Ημ/νία Αναζήτησης
+src_offerrankingbrowser.jsp.src_supplyrequest.descr = Περιγραφή Αναζήτησης Προμήθειας
+src_offerrankingbrowser.jsp.src_supplyrequest.selectionmethodindicator = Μέθοδος Κατακύρωσης
+src_offerrankingbrowser.jsp.src_supplyrequest.statusindicator = Κατάσταση
+src_offerrankingbrowser.jsp.tabs.page1 = Ζητούμενα Είδη
+src_offerrankingbrowser.jsp.tabs.page2 = Παραγγελίες
+src_offerrankingbrowser.jsp.tabs.page3 = Συμβάσεις
+src_offerrankingbrowser.jsp.tabs.page4 = Ανάδοχοι
+src_offerrankingbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+src_offerrankingbrowser.jsp.linenum_criteria = Α/Α Ζητούμενου Είδους
+src_offerrankingbrowser.jsp.invitemdescr_criteria = Περιγραφή Ζητούμενου Είδους
+src_offerrankingbrowser.jsp.src_supplyrequestitem.linenum = Α/Α
+src_offerrankingbrowser.jsp.src_supplyrequestitem.invitemdescr = Περιγραφή Είδους
+src_offerrankingbrowser.jsp.src_supplyrequestitem.invitemid = Είδος
+src_offerrankingbrowser.jsp.src_supplyrequestitem.qua = Ποσότητα
+src_offerrankingbrowser.jsp.src_supplyrequestitem.unitofmeasureid = MM
+src_offerrankingbrowser.jsp.createcontracts = Δημιουργία Συμβάσεων
+src_offerrankingbrowser.jsp.createorders = Δημιουργία Παραγγελιών
+src_offerrankingbrowser.jsp.orderdatadisplaybox.caption = Στοιχεία Δημιουργίας Παραγγελιών
+src_offerrankingbrowser.jsp.erp_eventtype.mnemonic = Διαδικασία
+src_offerrankingbrowser.jsp.inv_eventtype.mnemonic = Κωδ.Κίνησης
+src_offerrankingbrowser.jsp.inv_transheader.invstoreid = Αποθήκη
+src_offerrankingbrowser.jsp.inv_transheader.internaleventdate = Ημ/νία Παραγγελίας
+src_offerrankingbrowser.jsp.inv_contractheader.validsincedate= Από Ημ/νία Ισχύος Συμβάσεων
+src_offerrankingbrowser.jsp.inv_contractheader.validrilldate = Εως Ημ/νία Ισχύος Συμβάσεων
+src_offerrankingbrowser.jsp.contractdatadisplaybox.caption = Στοιχεία Δημιουργίας Συμβάσεων
+src_offerrankingbrowser.jsp.src_supplyofferitem.itemlinenum = Α/Α Ζητούμενου
+src_offerrankingbrowser.jsp.src_supplyoffer.fintranspartyname = Προμηθευτής
+src_offerrankingbrowser.jsp.src_supplyofferitem.transpartyitemdescr = Περιγρ. Προσφ. Είδους
+src_offerrankingbrowser.jsp.inv_item.mnemonic = Κωδ. Είδους Ανάθεσης
+src_offerrankingbrowser.jsp.inv_item.displaydescr = Περιγρ. Είδους Ανάθεσης
+src_offerrankingbrowser.jsp.src_offerranking.quaassigned = Ποσότητα
+src_offerrankingbrowser.jsp.src_offerranking.unitofmeasureid = ΜΜ
+src_offerrankingbrowser.jsp.src_offerranking.price = Τιμή
+src_offerrankingbrowser.jsp.inv_contractheader.contractnum = Αρ.Σύμβασης
+src_offerrankingbrowser.jsp.inv_contractheader.displaydescr = Περιγραφή
+src_offerrankingbrowser.jsp.inv_contractheader.validsincedate = Από Ημ. Ισχύος
+src_offerrankingbrowser.jsp.inv_contractheader.validtilldate = Έως Ημ. Ισχύος
+src_offerrankingbrowser.jsp.inv_contractheader.isactive = Ενεργή
+src_offerrankingbrowser.jsp.inv_transheader.internaleventno = Αρ. Παραγγ.
+src_offerrankingbrowser.jsp.fin_transparty.mnemonic = Κωδ. Προμηθ.
+src_offerrankingbrowser.jsp.fin_transparty.name = Επων. Προμηθ.
+src_offerrankingbrowser.jsp.inv_transheader.netamount = Καθ. Αξία
+src_offerrankingbrowser.jsp.inv_transheader.totalamount = Συνολ. Αξία
+src_offerrankingbrowser.jsp.inv_openitemheader.closed = Κλειστή
+
+src_offerrankingbrowser.jsp.validations.atleast_one_criteria_required = Συμπληρώστε Υποχρεωτικά Κριτήριο Αναζητησης
+src_offerrankingbrowser.jsp.validations.not_ranked = Δεν Έχει Γίνει Κατάταξη Προσφορών
+src_offerrankingbrowser.jsp.validations.not_assigned = Δεν Έχει Γίνει Κατακύρωση Σε Προμηθευτή
+src_offerrankingbrowser.jsp.validations.quaassigned_required = Δεν Έχετε Συμπληρώσει Ποσότητα Ανάθεσης
+src_offerrankingbrowser.jsp.validations.invitemid_required = Δεν Έχετε Συμπληρώσει Είδος Ανάθεσης
+src_offerrankingbrowser.jsp.validations.fintranspartyid_required = Δεν Έχετε Συμπληρώσει Κωδικό Προμηθευτή Προσφοράς
+src_offerrankingbrowser.jsp.validations.wrong_unitofmeasure = Η Μονάδα Μέτρησης Δεν Είναι Ορισμένη Στο Είδος
+src_offerrankingbrowser.jsp.validations.eventtype_required = Συμπληρώστε Υποχρεωτικά Διαδικασια
+src_offerrankingbrowser.jsp.validations.internaleventdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Παραγγελίας
+src_offerrankingbrowser.jsp.validations.invstoreid_required = Συμπληρώστε Υποχρεωτικά Αποθήκη
+src_offerrankingbrowser.jsp.validations.validsincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Ισχυος Συμβάσεων
+
+src_offerrankingentry.jsp.griddisplaybox.caption = Κατάταξη Προσφερόμενων Ειδών
+src_offerrankingentry.jsp.src_offerranking.ranking = Κατάταξη
+src_offerrankingentry.jsp.src_supplyoffer.fintranspartyname = Προμηθευτής
+src_offerrankingentry.jsp.src_supplyofferitem.transpartyitemdescr = Περιγρ.Προσφ.Είδους
+src_offerrankingentry.jsp.src_supplyofferitem.price = Τιμή
+src_offerrankingentry.jsp.src_supplyofferitem.unitofmeasureid = ΜΜ
+src_offerrankingentry.jsp.src_supplyofferitem.quarelation = Σχέση ΜΜ
+src_offerrankingentry.jsp.src_supplyofferitem.relativeprice = Τιμή Συγκρ.
+src_offerrankingentry.jsp.src_offerranking.isassigned = Ανάθεση
+src_offerrankingentry.jsp.src_offerranking.invitemid = Είδος Ανάθεσης
+src_offerrankingentry.jsp.src_offerranking.quaassigned = Ποσ. Ανάθεσης
+src_offerrankingentry.jsp.src_offerranking.unitofmeasureid = ΜΜ Ανάθεσης
+src_offerrankingentry.jsp.src_οfferρanking.price = Τιμή Ανάθεσης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.pagetitle','Διαχείριση Κατάταξης Προσφορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.entrydisplaybox.caption','Στοιχεία Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequest.mnemonic','Μνημ.Κωδικός Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequest.requestdate','Ημ/νία Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequest.descr','Περιγραφή Αναζήτησης Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequest.selectionmethodindicator','Μέθοδος Κατακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequest.statusindicator','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.tabs.page1','Ζητούμενα Είδη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.tabs.page2','Παραγγελίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.tabs.page3','Συμβάσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.tabs.page4','Ανάδοχοι');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.linenum_criteria','Α/Α Ζητούμενου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.invitemdescr_criteria','Περιγραφή Ζητούμενου Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequestitem.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequestitem.invitemdescr','Περιγραφή Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequestitem.invitemid','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequestitem.qua','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyrequestitem.unitofmeasureid','MM');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.createcontracts','Δημιουργία Συμβάσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.createorders','Δημιουργία Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.orderdatadisplaybox.caption','Στοιχεία Δημιουργίας Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_transheader.invstoreid','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_transheader.internaleventdate','Ημ/νία Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.validsincedat','Από Ημ/νία Ισχύος Συμβάσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.validrilldate','Εως Ημ/νία Ισχύος Συμβάσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.contractdatadisplaybox.caption','Στοιχεία Δημιουργίας Συμβάσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyofferitem.itemlinenum','Α/Α Ζητούμενου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyoffer.fintranspartyname','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_supplyofferitem.transpartyitemdescr','Περιγρ. Προσφ. Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_item.mnemonic','Κωδ. Είδους Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_item.displaydescr','Περιγρ. Είδους Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_offerranking.quaassigned','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_offerranking.unitofmeasureid','ΜΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.src_offerranking.price','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.contractnum','Αρ.Σύμβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.displaydescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.fin_transparty.mnemonic','Κωδ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.fin_transparty.name','Επων. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.validsincedate','Από Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.validtilldate','Έως Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_contractheader.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_transheader.internaleventno','Αρ. Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_transheader.netamount','Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_transheader.totalamount','Συνολ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingbrowser.jsp.inv_openitemheader.closed','Κλειστή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.atleast_one_criteria_required','Συμπληρώστε Υποχρεωτικά Κριτήριο Αναζητησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.not_ranked','Δεν Έχει Γίνει Κατάταξη Προσφορών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.not_assigned','Δεν Έχει Γίνει Κατακύρωση Σε Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.quaassigned_required','Δεν Έχετε Συμπληρώσει Ποσότητα Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.invitemid_required','Δεν Έχετε Συμπληρώσει Είδος Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.fintranspartyid_required','Δεν Έχετε Συμπληρώσει Κωδικό Προμηθευτή Προσφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.wrong_unitofmeasure','Η Μονάδα Μέτρησης Δεν Είναι Ορισμένη Στο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.eventtype_required','Συμπληρώστε Υποχρεωτικά Διαδικασια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.internaleventdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.invstoreid_required','Συμπληρώστε Υποχρεωτικά Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_offerrankingbrowser.jsp.validations.validsincedate_required','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Ισχυος Συμβάσεων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.griddisplaybox.caption','Κατάταξη Προσφερόμενων Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_offerranking.ranking','Κατάταξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_supplyoffer.fintranspartyname','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_supplyofferitem.transpartyitemdescr','Περιγρ.Προσφ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_supplyofferitem.price','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_supplyofferitem.unitofmeasureid','ΜΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_supplyofferitem.quarelation','Σχέση ΜΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_supplyofferitem.relativeprice','Τιμή Συγκρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_offerranking.isassigned','Ανάθεση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_offerranking.invitemid','Είδος Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_offerranking.quaassigned','Ποσ. Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_offerranking.unitofmeasureid','ΜΜ Ανάθεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_offerrankingentry.jsp.src_οfferρanking.price','Τιμή Ανάθεσης');

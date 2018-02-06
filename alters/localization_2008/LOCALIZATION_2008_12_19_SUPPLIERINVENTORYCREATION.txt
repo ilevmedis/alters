@@ -1,0 +1,35 @@
+﻿fin_supplierinventorycreationentry.jsp.pagetitle = Δημιουργία Απογραφής Προμηθευτών Σε Νέο Έτος
+fin_supplierinventorycreationentry.jsp.entrydisplaybox.caption = Στοιχεία Απογραφής Προμηθευτών
+fin_supplierinventorycreationentry.jsp.fin_transheader.fyearid = Ετος Δημιουργίας Απογραφής
+fin_supplierinventorycreationentry.jsp.fin_event.erpeventtypeid = Διαδικασία
+fin_supplierinventorycreationentry.jsp.fin_transheader.descr = Περιγραφή
+fin_supplierinventorycreationentry.jsp.fin_transheader.fineventtypeid = Κωδ.Κίν.Οικ.Υ/Σ
+fin_supplierinventorycreationentry.jsp.fin_transheader.fintransheaderid = Κωδικός
+fin_supplierinventorycreationentry.jsp.fin_transheader.internaleventdate = Ημερομηνία
+fin_supplierinventorycreationentry.jsp.fin_transheader.internaleventno = Αριθμός Κίνησης
+
+fin_supplierinventorycreationentry.jsp.validations.erpeventtypeidrequired = Συμπληρώστε Υποχρεωτικά Διαδικασία
+fin_supplierinventorycreationentry.jsp.validations.internaleventdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία
+fin_supplierinventorycreationentry.jsp.validations.fyearidrequired = Συμπληρώστε Υποχρεωτικά Οικονομικό Έτος Δημιουργίας Απογραφής
+fin_supplierinventorycreationentry.jsp.validations.inventory_already_exists = Η Απογραφή Έχει Ήδη Δημιουργηθεί Στο Δηλωθέν Οικονομικό Έτος. Παρακαλώ Διορθώστε
+fin_supplierinventorycreationentry.jsp.validations.fyear_notfound = Δεν Βρέθηκε Το Οικονομικό Έτος Απογραφής! Παρακαλώ Διορθώστε
+fin_supplierinventorycreationentry.jsp.message.procedure_successfull = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+fin_supplierinventorycreationentry.jsp.message.procedure_unsuccessfull = Η Διαδικασία Δεν Ολοκληρώθηκε!! Προσπαθήστε Πάλι
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.pagetitle','Δημιουργία Απογραφής Προμηθευτών Σε Νέο Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.entrydisplaybox.caption','Στοιχεία Απογραφής Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_transheader.fyearid','Ετος Δημιουργίας Απογραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_event.erpeventtypeid','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_transheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_transheader.fineventtypeid','Κωδ.Κίν.Οικ.Υ/Σ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_transheader.fintransheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_transheader.internaleventdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventorycreationentry.jsp.fin_transheader.internaleventno','Αριθμός Κίνησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.validations.erpeventtypeidrequired','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.validations.internaleventdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.validations.fyearidrequired','Συμπληρώστε Υποχρεωτικά Οικονομικό Έτος Δημιουργίας Απογραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.validations.inventory_already_exists','Η Απογραφή Έχει Ήδη Δημιουργηθεί Στο Δηλωθέν Οικονομικό Έτος. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.validations.fyear_notfound','Δεν Βρέθηκε Το Οικονομικό Έτος Απογραφής! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.message.procedure_successfull','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventorycreationentry.jsp.message.procedure_unsuccessfull','Η Διαδικασία Δεν Ολοκληρώθηκε!! Προσπαθήστε Πάλι');

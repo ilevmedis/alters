@@ -1,0 +1,4 @@
+pta_oupvisitentry.jsp.validations.dischargedate_lessthan_admissiondate = Η Ημερομηνια Εξόδου Είναι Μικρότερη Της Ημερομηνιας Εισοδου! Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.dischargedate_lessthan_admissiondate','Η Ημερομηνια Εξόδου Είναι Μικρότερη Της Ημερομηνιας Εισοδου! Παρακαλώ Διορθώστε');
+

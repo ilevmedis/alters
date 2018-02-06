@@ -1,0 +1,7 @@
+﻿fin_transpartyentry.jsp.fin_transparty.isbank = Τράπεζα
+fin_transpartybrowser.jsp.isbank_criteria = Τράπεζα
+fin_transpartyindex.jsp.isbank_criteria = Τράπεζα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.isbank','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartybrowser.jsp.isbank_criteria','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyindex.jsp.isbank_criteria','Τράπεζα');

@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderbrowser.jsp.view', 'Διαχειριση Δυναμικών Pick List (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderbrowser.jsp.print', 'Διαχειριση Δυναμικών Pick List (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderentry.jsp.view', 'Καταχώρηση Δυναμκών Pick List (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderentry.jsp.print', 'Καταχώρηση Δυναμκών Pick List (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderentry.jsp.insert', 'Καταχώρηση Δυναμκών Pick List (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderentry.jsp.update', 'Καταχώρηση Δυναμκών Pick List (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistheaderentry.jsp.delete', 'Καταχώρηση Δυναμκών Pick List (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistheaderentry.jsp.insert', 1);

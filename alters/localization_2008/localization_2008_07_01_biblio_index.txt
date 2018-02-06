@@ -1,0 +1,12 @@
+﻿insert into sys_localization(localizationkey, lang, category, message, isuserchanged)
+  values('pbl_chargeentry.jsp.validations.invalid_date_biblio', 'el', 2, 'Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών', '0');
+
+insert into sys_localization(localizationkey, lang, category, message, isuserchanged)
+  values('med_orderentry.jsp.validations.invalid_date_biblio', 'el', 2, 'Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών', '0');
+
+insert into sys_localization(localizationkey, lang, category, message, isuserchanged)
+  values('inv_grantentry.jsp.validations.invalid_date_biblio', 'el', 2, 'Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών', '0');
+
+
+
+

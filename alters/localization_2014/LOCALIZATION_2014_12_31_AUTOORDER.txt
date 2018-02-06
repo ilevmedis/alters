@@ -1,0 +1,19 @@
+pta_parametersentry.jsp.pta_parameters.orderpersonid = Παραγγέλων
+pta_parametersentry.jsp.pta_parameters.orderfacilityid = Τμήμα Παράγγ.
+pta_parametersentry.jsp.pta_parameters.ordermatrixid = Διαδικασία
+
+pta_visitentry.jsp.pta_visitadmission.servicemastergroupingcode = Ομ.Εξετάσεων
+
+pta_parametersentry.jsp.validations.pta_parameters.fill_all_order_parameters = Δε Μπορείτε Να Συμπληρώσετε Μόνο Μια Παράμετρο Αυτόματης Παραγγελίας. Παρακαλώ Διορθώστε
+
+pta_visitentry.jsp.validations.error_dischargetime = Η Ωρα Εξιτηρίου Είναι Μικρότερη ή Ίση Της Ωρας Εισόδου! Παρακαλω Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.orderpersonid','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.orderfacilityid','Τμήμα Παράγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.ordermatrixid','Διαδικασία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitadmission.servicemastergroupingcode','Ομ.Εξετάσεων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_parametersentry.jsp.validations.pta_parameters.fill_all_order_parameters','Δε Μπορείτε Να Συμπληρώσετε Μόνο Μια Παράμετρο Αυτόματης Παραγγελίας. Παρακαλώ Διορθώστε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.error_dischargetime','Η Ωρα Εξιτηρίου Είναι Μικρότερη ή Ίση Της Ωρας Εισόδου! Παρακαλω Διορθώστε');

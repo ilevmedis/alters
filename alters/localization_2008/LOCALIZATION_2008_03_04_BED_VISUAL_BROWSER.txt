@@ -1,0 +1,5 @@
+﻿pta_bedvisualbrowser.jsp.availablebeds_criteria = Ελεύθερες Κλίνες Μόνο
+pta_bedvisualbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_bedvisualbrowser.jsp.levelid_criteria = Θέση
+pta_bedvisualbrowser.jsp.nursedept_criteria = Νοσηλευτικός Σταθμός
+pta_bedvisualbrowser.jsp.pagetitle = Γραφική Απεικόνιση Κάλυψης Κλινών

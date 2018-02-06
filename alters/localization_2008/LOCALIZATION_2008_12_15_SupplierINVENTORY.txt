@@ -1,0 +1,44 @@
+﻿fin_supplierinventoryentry.jsp.entrydisplaybox.caption = Στοιχεία Απογραφής Υπολοίπων Προμηθευτών
+fin_supplierinventoryentry.jsp.fin_event.erpeventtypeid = Διαδικασία
+fin_supplierinventoryentry.jsp.fin_transcredit.amountcredit = Πιστωτικό Υπόλοιπο
+fin_supplierinventoryentry.jsp.fin_transcredit.fintranspartyid = Προμηθευτής
+fin_supplierinventoryentry.jsp.fin_transdebit.amountdebit = Χρεωστικό Υπόλοιπο
+fin_supplierinventoryentry.jsp.fin_transdebit.fintranspartyid = Προμηθευτής
+fin_supplierinventoryentry.jsp.fin_transdetail.comments = Σχόλια
+fin_supplierinventoryentry.jsp.fin_transheader.descr = Περιγραφή
+fin_supplierinventoryentry.jsp.fin_transheader.fineventtypeid = Κωδ.Κίν.Οικ.Υ/Σ
+fin_supplierinventoryentry.jsp.fin_transheader.fintransheaderid = Προμηθευτής
+fin_supplierinventoryentry.jsp.fin_transheader.internaleventdate = Ημερομηνία
+fin_supplierinventoryentry.jsp.fin_transheader.internaleventno = Αριθμός Κίνησης
+fin_supplierinventoryentry.jsp.pagetitle = Καταχώρηση Απογραφής Προμηθευτών
+fin_supplierinventoryentry.jsp.tabs.page1 = Χρεωστικά Υπόλοιπα Προμηθευτών
+fin_supplierinventoryentry.jsp.tabs.page2 = Πιστωτικά Υπόλοιπα Προμηθευτών
+
+fin_supplierinventoryentry.jsp.validations.amountcreditrequired = Συμπληρώστε Υποχρεωτικά Πιστωτικό Υπόλοιπο
+fin_supplierinventoryentry.jsp.validations.amountdebitrequired = Συμπληρώστε Υποχρεωτικά Χρεωστικό Υπόλοιπο
+fin_supplierinventoryentry.jsp.validations.atleastonetransrequired = Συμπληρώστε Υποχρεωτικά Τουλάχιστο 1 Χρέωση ή 1 Πίστωση
+fin_supplierinventoryentry.jsp.validations.erpeventtypeidrequired = Συμπληρώστε Υποχρεωτικά Διαδικασία
+fin_supplierinventoryentry.jsp.validations.internaleventdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.entrydisplaybox.caption','Στοιχεία Απογραφής Υπολοίπων Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_event.erpeventtypeid','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transcredit.amountcredit','Πιστωτικό Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transcredit.fintranspartyid','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transdebit.amountdebit','Χρεωστικό Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transdebit.fintranspartyid','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transdetail.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transheader.fineventtypeid','Κωδ.Κίν.Οικ.Υ/Σ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transheader.fintransheaderid','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transheader.internaleventdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.fin_transheader.internaleventno','Αριθμός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.pagetitle','Καταχώρηση Απογραφής Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.tabs.page1','Χρεωστικά Υπόλοιπα Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierinventoryentry.jsp.tabs.page2','Πιστωτικά Υπόλοιπα Προμηθευτών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventoryentry.jsp.validations.amountcreditrequired','Συμπληρώστε Υποχρεωτικά Πιστωτικό Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventoryentry.jsp.validations.amountdebitrequired','Συμπληρώστε Υποχρεωτικά Χρεωστικό Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventoryentry.jsp.validations.atleastonetransrequired','Συμπληρώστε Υποχρεωτικά Τουλάχιστο 1 Χρέωση ή 1 Πίστωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventoryentry.jsp.validations.erpeventtypeidrequired','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierinventoryentry.jsp.validations.internaleventdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία');

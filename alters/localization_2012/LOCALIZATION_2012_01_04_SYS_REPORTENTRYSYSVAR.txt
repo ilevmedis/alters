@@ -1,0 +1,5 @@
+sys_reportentrysysvar.jsp.pagetitle = Επιλογή Μεταβλητής
+sys_reportentrysysvar.jsp.reportsysvardisplaybox.caption = Μεταβλητές
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysysvar.jsp.pagetitle','Επιλογή Μεταβλητής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrysysvar.jsp.reportsysvardisplaybox.caption','Μεταβλητές');

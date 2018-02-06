@@ -1,0 +1,9 @@
+rsc_resourceallocationvisitentry.jsp.rsc_resourceallocation.protocolindicator = Τύπος Πρωτοκ/λου
+rsc_resourceallocationvisitentry.jsp.rsc_resourceallocation.protocolcomments = Σχόλια Πρωτοκ/λου
+
+rsc_resourcegroupentry.jsp.objectuserslink = Πρόσβαση Χρηστών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationvisitentry.jsp.rsc_resourceallocation.protocolindicator','Τύπος Πρωτοκ/λου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationvisitentry.jsp.rsc_resourceallocation.protocolcomments','Σχόλια Πρωτοκ/λου ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourcegroupentry.jsp.objectuserslink','Πρόσβαση Χρηστών');

@@ -1,0 +1,2 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_replenishgrant.jsp.view', 'Αναπλήρωση Χορήγησης (Ανάγνωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_replenishgrant.jsp.view', 1);

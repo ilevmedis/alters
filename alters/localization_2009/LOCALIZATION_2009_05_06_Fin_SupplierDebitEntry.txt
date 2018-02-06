@@ -1,0 +1,83 @@
+﻿fin_supplierdebitentry.jsp.page1 = Ταμειακοί Λογαριασμοί
+fin_supplierdebitentry.jsp.page2 = Κρατήσεις
+fin_supplierdebitentry.jsp.page3 = Επιλογή Κατάστασης Δαπάνης
+fin_supplierdebitentry.jsp.page4 = Πιστώσεις Κατ. Δαπάνης
+fin_supplierdebitentry.jsp.fin_transcredittaxes.taxid = Κράτηση
+fin_supplierdebitentry.jsp.fin_transcredittaxes.descr = Σχόλια
+fin_supplierdebitentry.jsp.fin_transcredittaxes.amountcredit = Αξία Πίστωσης
+fin_supplierdebitentry.jsp.fin_transcredit.amountcredit = Αξία Πίστωσης
+fin_supplierdebitentry.jsp.plg_xep1criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_supplierdebitentry.jsp.plg_xep1griddisplaybox.caption = Καταστάσεις Δαπάνης
+fin_supplierdebitentry.jsp.plg_xep1.internaleventno_criteria = Αρ. Κατάστασης
+fin_supplierdebitentry.jsp.plg_xep1.sincexep1date_criteria = Από Ημ/νία
+fin_supplierdebitentry.jsp.plg_xep1.tillxep1date_criteria = Έως Ημ/νία
+fin_supplierdebitentry.jsp.plg_xep1.xep1id = Κωδ. Κατ. Δαπ.
+fin_supplierdebitentry.jsp.plg_xep1.xep1date = Ημ/νία Κατ.Δαπ.
+fin_supplierdebitentry.jsp.plg_xep1.internaleventno = Αρ. Κατ.Δαπ.
+fin_supplierdebitentry.jsp.plg_xep1.fin_transheader.externaleventtype = Είδος Παρ.
+fin_supplierdebitentry.jsp.plg_xep1.fin_transheader.externaleventno = Αρ. Παρ.
+fin_supplierdebitentry.jsp.plg_xep1.fin_transheader.externaleventdate = Ημ. Παρ.
+fin_supplierdebitentry.jsp.plg_xep1.fin_transdetail.netamount = Καθ. Αξία 
+fin_supplierdebitentry.jsp.plg_xep1.fin_transdetail.vatamount = ΦΠΑ
+fin_supplierdebitentry.jsp.plg_xep1.fin_transdetail.totalamount = Συνολ. Αξία
+fin_supplierdebitentry.jsp.xep1_fin_transheader.internaleventdate = Ημ/νία Κίνησης
+fin_supplierdebitentry.jsp.xep1_fin_transheader.internaleventno = Αρ. Κίνησης
+fin_supplierdebitentry.jsp.xep1_fin_transheader_externaleventtype = Είδος Παρ.
+fin_supplierdebitentry.jsp.xep1_fin_transheader_externaleventno = Αρ. Παρ.
+fin_supplierdebitentry.jsp.xep1_fin_transheader_externaleventdate = Ημ. Παρ.
+fin_supplierdebitentry.jsp.collateralbank.name = Εκχώρηση
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_netamount = Καθ. Αξία
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_vatamount = ΦΠΑ
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_totalamount = Συνολ. Αξία
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_orgtaxamount = Κρατ. Οργ.
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_budgetamount = Συνολ. Επιβάρυνση
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_transpartytaxamount = Κρατ. Προμηθ.
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_payamount = Πληρωτέο
+fin_supplierdebitentry.jsp.xep1_fin_transdetail_descr = Αιτιολογία
+fin_supplierdebitentry.jsp.plg_xep1.internaleventno = Αρ. Κατ. Δαπάνης
+
+fin_supplierdebitentry.jsp.validations.fin_transcredit.amountcredit_required = Συμπληρώστε Υποχρεωτικά Αξία Πίστωσης
+fin_supplierdebitentry.jsp.validations.fin_transcredit.taxid_required = Συμπληρώστε Υποχρεωτικά Κράτηση
+fin_supplierdebitentry.jsp.validations.fin_transparty_not_selected = Επιλέξτε Πρώτα Προμηθευτή
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.page1','Ταμειακοί Λογαριασμοί');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.page2','Κρατήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.page3','Επιλογή Κατάστασης Δαπάνης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.page4','Πιστώσεις Κατ. Δαπάνης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.fin_transcredittaxes.taxid','Κράτηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.fin_transcredittaxes.descr','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.fin_transcredittaxes.amountcredit','Αξία Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.fin_transcredit.amountcredit','Αξία Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1griddisplaybox.caption','Καταστάσεις Δαπάνης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.internaleventno_criteria','Αρ. Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.sincexep1date_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.tillxep1date_criteria','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.xep1id','Κωδ. Κατ. Δαπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.xep1date','Ημ/νία Κατ.Δαπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.internaleventno','Αρ. Κατ.Δαπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.fin_transheader.externaleventtype','Είδος Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.fin_transheader.externaleventno','Αρ. Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.fin_transheader.externaleventdate','Ημ. Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.fin_transdetail.netamount','Καθ. Αξία ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.fin_transdetail.vatamount','ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.plg_xep1.fin_transdetail.totalamount','Συνολ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transheader.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transheader.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transheader_externaleventtype','Είδος Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transheader_externaleventno','Αρ. Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transheader_externaleventdate','Ημ. Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.collateralbank.name','Εκχώρηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_netamount','Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_vatamount','ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_totalamount','Συνολ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_orgtaxamount','Κρατ. Οργ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_budgetamount','Συνολ. Επιβάρυνση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_transpartytaxamount','Κρατ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_payamount','Πληρωτέο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.xep1_fin_transdetail_descr','Αιτιολογία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.fin_transcredit.amountcredit_required','Συμπληρώστε Υποχρεωτικά Αξία Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.fin_transcredit.taxid_required','Συμπληρώστε Υποχρεωτικά Κράτηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.fin_transparty_not_selected','Επιλέξτε Πρώτα Προμηθευτή');

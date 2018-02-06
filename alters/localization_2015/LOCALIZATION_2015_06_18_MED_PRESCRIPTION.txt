@@ -1,0 +1,5 @@
+pta_bedbrowser.jsp.menuitems.medprescriptionbrowser = Συνταγές
+pta_visitadmissionbrowser.jsp.menuitems.medprescriptionbrowser = Συνταγές
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.menuitems.medprescriptionbrowser','Συνταγές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitadmissionbrowser.jsp.menuitems.medprescriptionbrowser','Συνταγές');

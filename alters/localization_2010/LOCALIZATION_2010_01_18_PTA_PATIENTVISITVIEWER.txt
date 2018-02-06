@@ -1,0 +1,20 @@
+pta_patientvisitviewer.jsp.pta_visitdoctordetailgriddisplaybox.caption = Περιστατικά Ασθενή
+pta_patientvisitviewer.jsp.pagetitle = Προβολή Περιστατικών Ασθενή
+pta_patientvisitviewer.jsp.pta_visit.mnemonic = Κωδ. Περιστ.
+pta_patientvisitviewer.jsp.pta_visit.admissiondate = Ημ/νία Εισ.
+pta_patientvisitviewer.jsp.pta_visit.dischargedate = Ημ/νία Εξιτ.
+pta_patientvisitviewer.jsp.pta_visitdoctordetail.doctorroleid = Ρόλος
+pta_patientvisitviewer.jsp.pta_doctor.lastname = Επών.Ιατρ.
+pta_patientvisitviewer.jsp.pta_doctor.firstname = Όνομ. Ιατρ.
+pta_visitentry.jsp.patientvisits = Περιστατικά Ασθενή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visitdoctordetailgriddisplaybox.caption','Περιστατικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pagetitle','Προβολή Περιστατικών Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visit.mnemonic','Κωδ. Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visit.admissiondate','Ημ/νία Εισ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visit.dischargedate','Ημ/νία Εξιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visitdoctordetail.doctorroleid','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_doctor.lastname','Επών.Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_doctor.firstname','Όνομ. Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.patientvisits','Περιστατικά Ασθενή');
+

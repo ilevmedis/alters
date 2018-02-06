@@ -1,0 +1,14 @@
+pta_diagnosiscodesearch.jsp.pagetitle = Αναζήτηση Διάγνωσης
+pta_diagnosiscodesearch.jsp.pta_diagnosiscode.mnemonic = Κωδικός
+pta_diagnosiscodesearch.jsp.pta_diagnosiscode.descr = Περιγραφή
+pta_diagnosiscodesearch.jsp.pta_diagnosisgrouping.mnemonic = Σύστημα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pagetitle','Αναζήτηση Διάγνωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pta_diagnosiscode.mnemonic','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pta_diagnosiscode.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pta_diagnosisgrouping.mnemonic','Σύστημα');
+                                                                                                                                                                                 INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pagetitle','Αναζήτηση Διάγνωσης');
+                                                                                                                                                                                 INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pta_diagnosiscode.mnemonic','Κωδικός');
+                                                                                                                                                                                 INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pta_diagnosiscode.descr','Περιγραφή');
+                                                                                                                                                                                 INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosiscodesearch.jsp.pta_diagnosisgrouping.mnemonic','Σύστημα');
+

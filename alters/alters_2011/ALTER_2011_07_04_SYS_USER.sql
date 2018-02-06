@@ -1,0 +1,1 @@
+alter table sys_user add osusername varchar2(100);

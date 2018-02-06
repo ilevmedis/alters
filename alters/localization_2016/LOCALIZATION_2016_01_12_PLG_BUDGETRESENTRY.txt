@@ -1,0 +1,52 @@
+plg_budgetresentry.jsp.uploaddiavgia = Ανάρτηση Διαύγεια
+plg_budgetresentry.jsp.reuploaddiavgia = Ορθή Επαν. Διαύγεια
+plg_budgetresentry.jsp.canceluploaddiavgia = Ανάρτηση Ακύρωσης Διαύγεια
+plg_budgetresentry.jsp.cancelreuploaddiavgia = Ορθή Επαν. Ακύρωσης Διαύγεια
+plg_budgetresentry.jsp.plg_budgetresheader.cancelprotocolno = Αρ.Πρωτ. Ακύρωσης
+plg_budgetresentry.jsp.plg_budgetresheader.cancelprotocoldate = Ημ.Πρωτ. Ακύρωσης
+plg_budgetresentry.jsp.plg_budgetresheader.isuploadedtodiavgia = Ανάρτηση Διαύγεια
+plg_budgetresentry.jsp.plg_budgetresheader.iscanceluploadedtodiavgia = Ανάρτηση Ακύρωσης Διαύγεια
+plg_budgetresentry.jsp.diavgia_reportid = Αναφορά Για Διαύγεια
+plg_budgetresentry.jsp.diavgia_signer1 = Υπογράφων 1
+plg_budgetresentry.jsp.diavgia_signer2 = Υπογράφων 2
+plg_budgetresentry.jsp.diavgia_signer3 = Υπογράφων 3
+plg_budgetresentry.jsp.plg_budgetresstatuslog.protocolno = Αρ.Πρωτ.
+plg_budgetresentry.jsp.plg_budgetresstatuslog.protocoldate = Hμ.Πρωτ.
+plg_budgetresentry.jsp.plg_budgetresstatuslog.diavgiano = ΑΔΑ
+plg_budgetresentry.jsp.plg_budgetresstatuslog.isuploadedtodiavgia = Ενημ.Διαύγ.
+plg_budgetresentry.jsp.statuslog_uploaddiavgia = Ανάρτηση Διαύγεια
+plg_budgetresentry.jsp.statuslog_reuploaddiavgia = Ορθή Επαν. Διαύγεια
+plg_budgetresentry.jsp.validations.protocolno_required = Συμπληρώστε Υποχρεωτικά Αριθμό Πρωτοκόλλου
+plg_budgetresentry.jsp.validations.protocoldate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Πρωτοκόλλου
+plg_budgetresentry.jsp.validations.statusapproved_required = Η Δέσμευση Πρεπει Να Είναι Εγκεκριμένη
+plg_budgetresentry.jsp.validations.statuscancelled_required = Η Δέσμευση Πρεπει Να Είναι Ακυρωμένη
+plg_budgetresentry.jsp.validations.reportid_required = Επιλέξτε Υποχρεωτικά Αναφορά
+plg_budgetresentry.jsp.validations.signer1_required = Επιλέξτε Υποχρεωτικά Εναν Υπόγράφοντα
+plg_budgetresentry.jsp.messages.upload_successful = Η Ενημέρωση Της Διαύγειας Είναι Επιτυχής, Αρ. ΑΔΑ:
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.uploaddiavgia','Ανάρτηση Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.reuploaddiavgia','Ορθή Επαν. Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.canceluploaddiavgia','Ανάρτηση Ακύρωσης Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.cancelreuploaddiavgia','Ορθή Επαν. Ακύρωσης Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresheader.cancelprotocolno','Αρ.Πρωτ. Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresheader.cancelprotocoldate','Ημ.Πρωτ. Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresheader.isuploadedtodiavgia','Ανάρτηση Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresheader.iscanceluploadedtodiavgia','Ανάρτηση Ακύρωσης Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.diavgia_reportid','Αναφορά Για Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.diavgia_signer1','Υπογράφων 1');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.diavgia_signer2','Υπογράφων 2');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.diavgia_signer3','Υπογράφων 3');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresstatuslog.protocolno','Αρ.Πρωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresstatuslog.protocoldate','Hμ.Πρωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresstatuslog.diavgiano','ΑΔΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresstatuslog.isuploadedtodiavgia','Ενημ.Διαύγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.statuslog_uploaddiavgia','Ανάρτηση Διαύγεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.statuslog_reuploaddiavgia','Ορθή Επαν. Διαύγεια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.protocolno_required','Συμπληρώστε Υποχρεωτικά Αριθμό Πρωτοκόλλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.protocoldate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Πρωτοκόλλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.statusapproved_required','Η Δέσμευση Πρέπει Να Είναι Εγκεκριμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.statuscancelled_required','Η Δέσμευση Πρέπει Να Είναι Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.reportid_required','Επιλέξτε Υποχρεωτικά Αναφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.signer1_required','Επιλέξτε Υποχρεωτικά Εναν Υπόγράφοντα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.messages.upload_successful','Η Ενημέρωση Της Διαύγειας Είναι Επιτυχής, Αρ. ΑΔΑ:');

@@ -1,0 +1,19 @@
+inv_dynpicklistutil.jsp.pagetitle = Μαζική Ενημέρωση Δυναμικών Pick Lists
+inv_dynpicklistutil.jsp.criteriadisplaybox.caption = Κριτήρια Ενημέρωσης
+inv_dynpicklistutil.jsp.itemtofind_criteria = Είδος Προς Αντικατάσταση ή Προσθήκη
+inv_dynpicklistutil.jsp.replacewithitem_criteria = Αντικατάσταση με Είδος
+inv_dynpicklistutil.jsp.appenditem_criteria = Προσθήκη Είδους
+inv_dynpicklistutil.jsp.noofupdates = Αριθμός Ενημερώσεων:
+
+inv_dynpicklistutil.jsp.validations.atleast_one_item_required = Συμπληρώστε Υποχρεωτικά Είδος Αντικατάστασης ή Προσθήκης
+inv_dynpicklistutil.jsp.validations.itemtofind_required = Συμπληρώστε Υποχρεωτικά Είδος Εύρεσης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistutil.jsp.pagetitle','Μαζική Ενημέρωση Δυναμικών Pick Lists');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistutil.jsp.criteriadisplaybox.caption','Κριτήρια Ενημέρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistutil.jsp.itemtofind_criteria','Είδος Προς Αντικατάσταση ή Προσθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistutil.jsp.replacewithitem_criteria','Αντικατάσταση με Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistutil.jsp.appenditem_criteria','Προσθήκη Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistutil.jsp.noofupdates','Αριθμός Ενημερώσεων:');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistutil.jsp.validations.atleast_one_item_required','Συμπληρώστε Υποχρεωτικά Είδος Αντικατάστασης ή Προσθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistutil.jsp.validations.itemtofind_required','Συμπληρώστε Υποχρεωτικά Είδος Εύρεσης');

@@ -1,0 +1,17 @@
+﻿pbl_chargeentry.jsp.pbl_chargeheader.costcenterid = Κέντρο Κόστους
+pbl_chargeentry.jsp.pbl_chargeheader.servicedate = Ημ/νία Παροχής
+pbl_chargeentry.jsp.cancelcharge = Ακύρωση Χρέωσης
+pbl_chargeentry.jsp.expandcancellations = Προβολή Ακυρώσεων
+pbl_chargeentry.jsp.pbl_chargecancelheader.chargedate = Ημ/νία Ακύρωσης
+pbl_chargeentry.jsp.pbl_chargecancelheader.internaleventno = Αρ.Κίν.Ακύρ.
+pbl_chargeentry.jsp.pbl_chargecancelheader.cancelreasonindicator = Αιτία Ακύρωσης
+pbl_chargeentry.jsp.pbl_chargecancelheader.comments = Σχόλια
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargeheader.costcenterid','Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargeheader.servicedate','Ημ/νία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.cancelcharge','Ακύρωση Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.expandcancellations','Προβολή Ακυρώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargecancelheader.chargedate','Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargecancelheader.internaleventno','Αρ.Κίν.Ακύρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargecancelheader.cancelreasonindicator','Αιτία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargecancelheader.comments','Σχόλια');

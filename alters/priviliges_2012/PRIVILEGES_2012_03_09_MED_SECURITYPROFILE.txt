@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofilebrowser.jsp.view', 'Διαχείριση Προφίλ Ασφάλειας Ιατρών');
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofilebrowser.jsp.print', 'Εκτύπωση Προφίλ Ασφάλειας Ιατρών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofilebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofilebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofileentry.jsp.view', 'Ανάγνωση Προφίλ Ασφάλειας Ιατρών');
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofileentry.jsp.print', 'Εκτύπωση Προφίλ Ασφάλειας Ιατρών');
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofileentry.jsp.insert', 'Εισαγωγή Προφίλ Ασφάλειας Ιατρών');
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofileentry.jsp.update', 'Μεταβολή Προφίλ Ασφάλειας Ιατρών');
+insert into sys_privilege(privilegeid, descr) values ('med_securityprofileentry.jsp.delete', 'Διαγραφή Προφίλ Ασφάλειας Ιατρών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofileentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofileentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofileentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofileentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (5, 'med_securityprofileentry.jsp.insert', 1);

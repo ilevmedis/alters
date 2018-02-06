@@ -1,0 +1,2 @@
+﻿fin_taxentry.jsp.accountlink = Σύνδεση Με Λογιστική
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_taxentry.jsp.accountlink','Σύνδεση Με Λογιστική');

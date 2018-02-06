@@ -1,0 +1,7 @@
+fin_suppliercreditentry.jsp.tabs.page7 = Τύπος Προϋπολ.
+fin_suppliercreditentry.jsp.erp_fyear.mnemonic = Έτος
+fin_suppliercreditentry.jsp.plg_fintransbudget.budgetindicator = Τύπος Προϋπολογισμού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.tabs.page7','Τύπος Προϋπολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.erp_fyear.mnemonic','Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.plg_fintransbudget.budgetindicator','Τύπος Προϋπολογισμού');

@@ -1,0 +1,7 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_creditinvoicecancelentry.jsp.insert', 'Ακύρωση Πιστωτικού (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_creditinvoicecancelentry.jsp.view', 'Ακύρωση Πιστωτικού (Προβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_creditinvoicecancelentry.jsp.update', 'Ακύρωση Πιστωτικού (Μεταβολή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_creditinvoicecancelentry.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_creditinvoicecancelentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_creditinvoicecancelentry.jsp.update', 1);

@@ -1,0 +1,1 @@
+alter table med_message modify (messagecomment varchar2(1000));

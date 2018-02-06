@@ -1,0 +1,16 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pta_emergencydata1entry.jsp.view', 'Διαχείριση Στοιχείων Διαλογής (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_emergencydata1entry.jsp.print', 'Διαχείριση Στοιχείων Διαλογής (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_emergencydata1entry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_emergencydata1entry.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_emergencywaitlist.jsp.view', 'Εκτύπωση Λίστας Αναμονής ΤΕΠ (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_emergencywaitlist.jsp.print', 'Εκτύπωση Λίστας Αναμονής ΤΕΠ (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_emergencywaitlist.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_emergencywaitlist.jsp.print', 1);
+
+
+insert into sys_privilege(privilegeid, descr) values ('pta_emergencydata2entry.jsp.view', 'Διαχείριση Στοιχείων Συντονιστή (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_emergencydata2entry.jsp.print', 'Διαχείριση Στοιχείων Συντονιστή (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_emergencydata2entry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_emergencydata2entry.jsp.print', 1);
+

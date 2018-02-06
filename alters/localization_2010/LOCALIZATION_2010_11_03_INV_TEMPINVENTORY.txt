@@ -1,0 +1,90 @@
+inv_tempinventorybrowser.jsp.pagetitle = Διαχείριση Προσωρινών Απογραφών
+inv_tempinventorybrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_tempinventorybrowser.jsp.griddisplaybox.caption = Προσωρινές Απογραφές
+inv_tempinventorybrowser.jsp.invstoreid_criteria = Αποθήκη
+inv_tempinventorybrowser.jsp.inventoryheaderid_criteria = Κωδ. Απογραφής
+inv_tempinventorybrowser.jsp.mobileunitid_criteria = Κωδ. Φορ. Τερμ.
+inv_tempinventorybrowser.jsp.sincedate_criteria = Από Ημερ. Απογραφης
+inv_tempinventorybrowser.jsp.tilldate_criteria = Έως Ημερ. Απογραφης
+inv_tempinventorybrowser.jsp.internaleventno_criteria = Αρ. Κίν. Απογρ.
+inv_tempinventorybrowser.jsp.inv_tempinventoryhd.mobileunitid = Κωδ. Φορ. Τερμ.
+inv_tempinventorybrowser.jsp.inv_tempinventoryhd.inventoryheaderid = Κωδ. Απογρ.
+inv_tempinventorybrowser.jsp.inv_inventoryheader.internaleventdate = Ημ/νία Απογρ.
+inv_tempinventorybrowser.jsp.inv_inventoryheader.internaleventno = Αρ. Κίν. Απογρ.
+inv_tempinventorybrowser.jsp.inv_inventoryheader.comments = Σχόλια
+inv_tempinventorybrowser.jsp.inv_store.mnemonic = Μν. Κδ. Αποθ.
+inv_tempinventorybrowser.jsp.inv_store.descr = Περ. Αποθ.
+
+inv_tempinventoryentry.jsp.pagetitle = Καταχώρηση Προσωρινών Απογραφών
+inv_tempinventoryentry.jsp.entrydisplaybox.caption = Στοιχεία Προσωρινής Απογραφής
+inv_tempinventoryentry.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης Είδους
+inv_tempinventoryentry.jsp.inv_tempinventoryhd.inventoryheaderid = Κωδ. Απογραφης
+inv_tempinventoryentry.jsp.inv_inventoryheader.internaleventno = Αρ. Κίνησης
+inv_tempinventoryentry.jsp.inv_inventoryheader.invstoreid = Αποθήκη
+inv_tempinventoryentry.jsp.inv_inventoryheader.internaleventdate = Ημ/νία Απογρ.
+inv_tempinventoryentry.jsp.from_inv_itemgrouping.mnemonic = Από Ομάδα
+inv_tempinventoryentry.jsp.to_inv_itemgrouping.mnemonic = Έως Ομάδα
+inv_tempinventoryentry.jsp.inv_inventoryheader.comments = Σχόλια
+inv_tempinventoryentry.jsp.inv_tempinventoryhd.mobileunitid = Κωδ. Φορ. Τερμ.
+inv_tempinventoryentry.jsp.uploadfromfile.filename = Αρχείο
+inv_tempinventoryentry.jsp.uploadfromfile = Εισαγ. Από Αρχείο
+inv_tempinventoryentry.jsp.mnemonic_criteria = Μνημ. Κωδικός
+inv_tempinventoryentry.jsp.descr_criteria = Περιγραφή
+inv_tempinventoryentry.jsp.inv_tempinventorydt.invitemid = Είδος
+inv_tempinventoryentry.jsp.inv_tempinventorydt.invqua = Ποσ. Λογιστ. Απογρ.
+inv_tempinventoryentry.jsp.inv_tempinventorydt.quainbuyunit = Ποσ. ΜΜ Αγοράς
+inv_tempinventoryentry.jsp.inv_tempinventorydt.quainsendtostoreunit = Ποσ. ΜΜ Χορ.
+inv_tempinventoryentry.jsp.row = Γραμμή
+inv_tempinventoryentry.jsp.column = Στήλη
+inv_tempinventoryentry.jsp.updateinventory = Ενημέρωση Απογραφής
+
+inv_tempinventoryentry.jsp.validations.filenamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου
+inv_tempinventoryentry.jsp.validations.emptyfile = Το Αρχείο Που Επιλέξατε Είναι Κενό
+inv_tempinventoryentry.jsp.validations.inventory_not_found = Η Απογραφή Δεν Βρέθηκε - Κωδικός Απογραφης:
+inv_tempinventoryentry.jsp.validations.item_not_found = Το Είδος Δεν Βρέθηκε - Κωδικός Είδους:
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.pagetitle','Διαχείριση Προσωρινών Απογραφών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.griddisplaybox.caption','Προσωρινές Απογραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.invstoreid_criteria','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inventoryheaderid_criteria','Κωδ. Απογραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.mobileunitid_criteria','Κωδ. Φορ. Τερμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.sincedate_criteria','Από Ημερ. Απογραφης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.tilldate_criteria','Έως Ημερ. Απογραφης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.internaleventno_criteria','Αρ. Κίν. Απογρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_tempinventoryhd.mobileunitid','Κωδ. Φορ. Τερμ. ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_tempinventoryhd.inventoryheaderid','Κωδ. Απογρ. ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_inventoryheader.internaleventdate','Ημ/νία Απογρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_inventoryheader.internaleventno','Αρ. Κίν. Απογρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_inventoryheader.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_store.mnemonic','Μν. Κδ. Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventorybrowser.jsp.inv_store.descr','Περ. Αποθ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.pagetitle','Καταχώρηση Προσωρινών Απογραφών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.entrydisplaybox.caption','Στοιχεία Προσωρινής Απογραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_tempinventoryhd.inventoryheaderid','Κωδ. Απογραφης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_inventoryheader.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_inventoryheader.invstoreid','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_inventoryheader.internaleventdate','Ημ/νία Απογρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.from_inv_itemgrouping.mnemonic','Από Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.to_inv_itemgrouping.mnemonic','Έως Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_inventoryheader.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_tempinventoryhd.mobileunitid','Κωδ. Φορ. Τερμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.uploadfromfile.filename','Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.uploadfromfile','Εισαγ. Από Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_tempinventorydt.invitemid','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_tempinventorydt.invqua','Ποσ. Λογιστ. Απογρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_tempinventorydt.quainbuyunit','Ποσ. ΜΜ Αγοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.inv_tempinventorydt.quainsendtostoreunit','Ποσ. ΜΜ Χορ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.row','Γραμμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.column','Στήλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_tempinventoryentry.jsp.updateinventory','Ενημέρωση Απογραφής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_tempinventoryentry.jsp.validations.filenamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_tempinventoryentry.jsp.validations.emptyfile','Το Αρχείο Που Επιλέξατε Είναι Κενό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_tempinventoryentry.jsp.validations.inventory_not_found','Η Απογραφή Δεν Βρέθηκε - Κωδικός Απογραφης:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_tempinventoryentry.jsp.validations.item_not_found','Το Είδος Δεν Βρέθηκε - Κωδικός Είδους:');

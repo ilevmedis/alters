@@ -1,0 +1,25 @@
+med_visitsecurity.jsp.pagetitle = Διαχείριση Ασφάλειας Περιστατικού
+med_visitsecurity.jsp.visitdatadisplaybox.caption = Στοιχεία Περιστατικου
+med_visitsecurity.jsp.med_visitsecurityroledisplaybox.caption = Ρόλοι Χρηστών Ως Προς Το Περιστατικό
+
+med_visitsecurity.jsp.pta_visit.ownerusername = Ιδιοκτήτης Περιστατικού
+med_visitsecurity.jsp.pta_visit.securityprofileid = Προφίλ Ασφάλειας Περιστατικού
+med_visitsecurity.jsp.med_visitsecurityrole.securityroleid = Ρόλος Ασφάλειας
+med_visitsecurity.jsp.med_visitsecurityrole.username = Χρήστης
+med_visitsecurity.jsp.med_visitsecurityrole.roleid = Ρόλός Χρηστών
+
+med_visitsecurity.jsp.validations.ownerusername_equired = Συμπληρώστε Υποχρεωτικά Ιδιοκτήτη Περιστατικού
+med_visitsecurity.jsp.validations.securityprofileid_required = Συμπληρώστε Υποχρεωτικά Προφίλ Ασφάλειας Περιστατικού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.pagetitle','Διαχείριση Ασφάλειας Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.visitdatadisplaybox.caption','Στοιχεία Περιστατικου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.med_visitsecurityroledisplaybox.caption','Ρόλοι Χρηστών Ως Προς Το Περιστατικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.pta_visit.ownerusername','Ιδιοκτήτης Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.pta_visit.securityprofileid','Προφίλ Ασφάλειας Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.med_visitsecurityrole.securityroleid','Ρόλος Ασφάλειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.med_visitsecurityrole.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_visitsecurity.jsp.med_visitsecurityrole.roleid','Ρόλός Χρηστών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_visitsecurity.jsp.validations.ownerusername_equired','Συμπληρώστε Υποχρεωτικά Ιδιοκτήτη Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_visitsecurity.jsp.validations.securityprofileid_required','Συμπληρώστε Υποχρεωτικά Προφίλ Ασφάλειας Περιστατικού');

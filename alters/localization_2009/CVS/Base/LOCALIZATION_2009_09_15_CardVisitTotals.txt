@@ -1,0 +1,9 @@
+pta_visitentry.jsp.cardvisittotalslink = Χρεώσεις Κάρτας
+pbl_cardvisittotalsviewer.jsp.pbl_cardvisittotalsgriddisplaybox.caption = Χρεώσεις Κάρτας Ανά Νοσηλεία
+pbl_cardvisittotalsviewer.jsp.erp_fyear.mnemonic = Έτος
+pbl_cardvisittotalsviewer.jsp.pta_visit.mnemonic = Κωδ.Νοσηλείας
+pbl_cardvisittotalsviewer.jsp.pta_visit.admissiondate = Ημ/νία Εισόδου
+pbl_cardvisittotalsviewer.jsp.pta_visit.dischargedate = Ημ/νία Εξιτηριου
+pbl_cardvisittotalsviewer.jsp.prediscvaluecharge = Αξία Χρεώσεων Προ Έκπτωσης
+pbl_cardvisittotalsviewer.jsp.discvaluecharge = Εκπτώσεις
+pbl_cardvisittotalsviewer.jsp.valuecharge = Τελική Αξία Χρεώσεων

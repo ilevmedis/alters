@@ -1,0 +1,7 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('sys_objectinspector.jsp.view', 'Διαμόρφωση Ιδιοτήτων Αντικειμένων Σελίδας');
+insert into sys_privilege(privilegeid, descr) values ('sys_browsercustomization.jsp.view', 'Παραμετροποίηση Browser');
+insert into sys_privilege(privilegeid, descr) values ('sys_browsercustomization.jsp.delete', 'Διαγραφή Παραμετροποίησης Browser');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_objectinspector.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_browsercustomization.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_browsercustomization.jsp.delete', 1);

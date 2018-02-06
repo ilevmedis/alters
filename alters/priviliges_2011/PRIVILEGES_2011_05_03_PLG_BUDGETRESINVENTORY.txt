@@ -1,0 +1,7 @@
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresinventory.jsp.view', 'Μεταφορά Υπολοίπου Δεσμεύσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetresinventory.jsp.print', 'Μεταφορά Υπολοίπου Δεσμεύσεων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresinventory.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetresinventory.jsp.print', 1);
+
+
+

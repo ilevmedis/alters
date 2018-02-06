@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfilebrowser.jsp.view', 'Διαχείριση Αρχείων CSS');
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfilebrowser.jsp.print', 'Εκτύπωση Αρχείων CSS');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfilebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfilebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfileentry.jsp.view', 'Ανάγνωση Αρχείου CSS');
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfileentry.jsp.print', 'Εκτύπωση Αρχείου CSS');
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfileentry.jsp.insert', 'Εισαγωγή Αρχείου CSS');
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfileentry.jsp.update', 'Μεταβολή Αρχείου CSS');
+insert into sys_privilege(privilegeid, descr) values ('sys_cssfileentry.jsp.delete', 'Διαγραφή Αρχείου CSS');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfileentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfileentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfileentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfileentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_cssfileentry.jsp.insert', 1);

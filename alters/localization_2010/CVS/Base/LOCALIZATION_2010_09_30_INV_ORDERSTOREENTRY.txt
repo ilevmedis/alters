@@ -1,0 +1,5 @@
+fin_transpartyindex.jsp.sys_phone.phonenumber = Τηλέφωνο
+fin_transpartybrowser.jsp.sys_phone.phonenumber = Τηλέφωνο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyindex.jsp.sys_phone.phonenumber','Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartybrowser.jsp.sys_phone.phonenumber','Τηλέφωνο');

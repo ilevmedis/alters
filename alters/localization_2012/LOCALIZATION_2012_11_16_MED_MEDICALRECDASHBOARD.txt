@@ -1,0 +1,9 @@
+med_medicalrecdashboard.jsp.patientid_criteria = Ασθενής
+
+med_medicalrecdashboard.jsp.validations.patientid_required = Συμπληρώστε Υποχρεωτικά Ασθενή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.patientid_criteria','Ασθενής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecdashboard.jsp.validations.patientid_required','Συμπληρώστε Υποχρεωτικά Ασθενή');
+
+

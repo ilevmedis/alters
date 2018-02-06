@@ -1,0 +1,112 @@
+med_prescriptionentry.jsp.pagetitle = Καταχώρηση Συνταγής
+med_prescriptionentry.jsp.entrydisplaybox.caption = Στοιχεία Συνταγής
+med_prescriptionentry.jsp.med_prescriptiondisplaybox.caption = Φαρμακα Συνταγής
+
+med_prescriptionentry.jsp.med_orderheader.internaleventno = Αρ.Παραγγελίας
+med_prescriptionentry.jsp.med_orderheader.orderheaderid = Κωδικός Παραγγελίας
+med_prescriptionentry.jsp.med_orderheader.erpeventtypeid = Διαδικασία
+med_prescriptionentry.jsp.med_eventtype.mnemonic = Κωδ.Κίνησης
+med_prescriptionentry.jsp.med_orderheader.visitid = Νοσηλεία
+med_prescriptionentry.jsp.med_orderheader.orderdate = Ημ/νία Παραγγ.
+med_prescriptionentry.jsp.med_orderheader.orderpersonid = Παραγγέλων
+med_prescriptionentry.jsp.med_orderheader.orderfacilityid = Τμήμα Παραγγ.
+med_prescriptionentry.jsp.med_orderheader.orderreceiptfacility = Τμήμα Εκτέλεσης
+med_prescriptionentry.jsp.med_orderheader.priorityindicator = Προτεραιότητα
+med_prescriptionentry.jsp.med_orderheader.orderstatus = Κατάσταση
+med_prescriptionentry.jsp.med_orderheader.comments = Σχόλια
+med_prescriptionentry.jsp.med_orderheader.clinicalinfo = Κλινικές Πληροφορίες
+
+med_prescriptionentry.jsp.med_prescription.substanceid = Δραστική Ουσία
+med_prescriptionentry.jsp.med_prescription.substancequa = Ποσ.Δραστ.
+med_prescriptionentry.jsp.med_prescription.substanceunitofmeasure = ΜΜ Δραστ.
+med_prescriptionentry.jsp.med_orderdetail.invitemid = Σκεύασμα
+med_prescriptionentry.jsp.med_orderdetail.qua = Ποσότ.
+med_prescriptionentry.jsp.med_orderrecurrence.recurrencepatternid = Μοντέλο Επαν.
+med_prescriptionentry.jsp.med_orderrecurrence.startdate = Έναρξη
+med_prescriptionentry.jsp.med_orderrecurrence.noofdays = Αρ.Ημερ.
+med_prescriptionentry.jsp.med_orderrecurrence.enddate = Λήξη
+
+med_prescriptionentry.jsp.orderrecurrence = Στοιχεία Επανάληψης
+med_prescriptionentry.jsp.prescriptiondetails = Πληροφορίες Συνταγής
+
+med_prescriptionentry.jsp.changeitem = Αλλ.Σκευασ.
+
+med_prescriptiondetailentry.jsp.entrydisplaybox.caption = Πληροφορίες Συνταγής
+med_prescriptiondetailentry.jsp.med_prescription.diagnosiscodeid = Διάγνωση
+med_prescriptiondetailentry.jsp.med_prescription.comments = Σχόλια
+med_prescriptiondetailentry.jsp.inv_item.displaydescr = Σκεύασμα
+med_prescriptiondetailentry.jsp.med_orderdetail.qua = Ποσότητα
+med_prescriptiondetailentry.jsp.med_recurrencepattern.mnemonic = Μοντέλο Επαν.
+med_prescriptiondetailentry.jsp.med_orderrecurrence.startdate = Έναρξη
+med_prescriptiondetailentry.jsp.med_orderrecurrence.enddate = Λήξη
+
+med_prescriptionentry.jsp.validations.atleast_one_drug_required = Συμπληρώστε Τουλάχιστον Ένα Σκεύασμα
+med_prescriptionentry.jsp.validations.invaliddate = Ημερομηνία Εκτός Ημερομηνιών Νοσηλείας
+med_prescriptionentry.jsp.message.line =
+med_prescriptionentry.jsp.validations.detail_orderrecurrence_startdate_before_orderdate = Η Ημερομηνία Έναρξης Επαναληψιμότητας Της Υπηρεσίας Είναι Μικρότερη Της Ημ/νίας Παραγγελίας
+med_prescriptionentry.jsp.validations.visitid_required = Συμπληρώστε Υποχρεωτικά Νοσηλεία
+med_prescriptionentry.jsp.validations.orderperson_required = Συμπληρώστε Υποχρεωτικά Παραγγέλοντα
+med_prescriptionentry.jsp.validations.orderdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Συνταγής
+med_prescriptionentry.jsp.validations.recurrencepatternid_required = Συμπληρώστε Πρώτα Μοντέλο Επανάληψης
+med_prescriptionentry.jsp.validations.priorityindicator_required = Συμπληρώστε Υποχρεωτικά Προτεραιότητα
+med_prescriptionentry.jsp.validations.orderfacility_required = Συμπληρώστε Υποχρεωτικά Τμήμα Παραγγελίας
+med_prescriptionentry.jsp.validations.invitemid_required = Συμπληρώστε Υποχρεωτικά Σκεύασμα
+med_prescriptionentry.jsp.validations.erpeventtype_required = Συμπληρώστε Υποχρεωτικά Δισδικασία
+med_prescriptionentry.jsp.validations.recurrencepattern_required = Συμπληρώστε Υποχρεωτικά Μοντέλο Επανάληψης
+med_prescriptionentry.jsp.validations.invitemqua_required = Συμπληρώστε Υποχρεωτικά Ποσότητα Σκευάσματος
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.pagetitle','Καταχώρηση Συνταγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.entrydisplaybox.caption','Στοιχεία Συνταγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_prescriptiondisplaybox.caption','Φαρμακα Συνταγής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.internaleventno','Αρ.Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.orderheaderid','Κωδικός Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.erpeventtypeid','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.visitid','Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.orderdate','Ημ/νία Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.orderpersonid','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.orderfacilityid','Τμήμα Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.orderreceiptfacility','Τμήμα Εκτέλεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.priorityindicator','Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.orderstatus','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderheader.clinicalinfo','Κλινικές Πληροφορίες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_prescription.substanceid','Δραστική Ουσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_prescription.substancequa','Ποσ.Δραστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_prescription.substanceunitofmeasure','ΜΜ Δραστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderdetail.invitemid','Σκεύασμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderdetail.qua','Ποσότ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderrecurrence.recurrencepatternid','Μοντέλο Επαν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderrecurrence.startdate','Έναρξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderrecurrence.noofdays','Αρ.Ημερ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.med_orderrecurrence.enddate','Λήξη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.orderrecurrence','Στοιχεία Επανάληψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.prescriptiondetails','Πληροφορίες Συνταγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionentry.jsp.changeitem','Αλλ.Σκευασ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.atleast_one_drug_required','Συμπληρώστε Τουλάχιστον Ένα Σκεύασμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.invaliddate','Ημερομηνία Εκτός Ημερομηνιών Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.message.line','');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.detail_orderrecurrence_startdate_before_orderdate','Η Ημερομηνία Έναρξης Επαναληψιμότητας Της Υπηρεσίας Είναι Μικρότερη Της Ημ/νίας Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.visitid_required','Συμπληρώστε Υποχρεωτικά Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.orderperson_required','Συμπληρώστε Υποχρεωτικά Παραγγέλοντα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.orderdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Συνταγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.recurrencepatternid_required','Συμπληρώστε Πρώτα Μοντέλο Επανάληψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.priorityindicator_required','Συμπληρώστε Υποχρεωτικά Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.orderfacility_required','Συμπληρώστε Υποχρεωτικά Τμήμα Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.invitemid_required','Συμπληρώστε Υποχρεωτικά Σκεύασμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.erpeventtype_required','Συμπληρώστε Υποχρεωτικά Δισδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.recurrencepattern_required','Συμπληρώστε Υποχρεωτικά Μοντέλο Επανάληψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_prescriptionentry.jsp.validations.invitemqua_required','Συμπληρώστε Υποχρεωτικά Ποσότητα Σκευάσματος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.entrydisplaybox.caption','Πληροφορίες Συνταγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.med_prescription.diagnosiscodeid','Διάγνωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.med_prescription.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.inv_item.displaydescr','Σκεύασμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.med_orderdetail.qua','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.med_recurrencepattern.mnemonic','Μοντέλο Επαν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.med_orderrecurrence.startdate','Έναρξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptiondetailentry.jsp.med_orderrecurrence.enddate','Λήξη');

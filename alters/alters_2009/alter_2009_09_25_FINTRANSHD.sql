@@ -1,0 +1,5 @@
+alter table FIN_TRANSHEADER add ISPRINTED varchar2(1);
+UPDATE FIN_TRANSHEADER
+  SET ISPRINTED = '1';
+COMMIT;
+alter table FIN_TRANSHEADER modify ISPRINTED not null;

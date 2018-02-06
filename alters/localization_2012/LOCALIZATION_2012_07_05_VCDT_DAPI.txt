@@ -1,0 +1,17 @@
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvalayeno = Αριθμ. ΑΥΕ
+pbl_visitcoverdetailentry.jsp.pbl_visictoverdetail.approvalenddate = Ημ/νία Λήξης Έγκρισης
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.protocolnoexpopinion = Αρ. Πρωτ. Γνωμ/σης
+
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.referenceno = Αριθμός Παραπεμπτικού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.refapprovaldate = Ημερομηνία έγκρισης
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.issuedate = Ημερομηνία έκδοσης
+pta_visitentry.jsp.pbl_visitcoverdetail.insurcountryid = Χώρα Ασφάλισης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvalayeno','Αριθμ. ΑΥΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visictoverdetail.approvalenddate','Ημ/νία Λήξης Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.protocolnoexpopinion','Αρ. Πρωτ. Γνωμ/σης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.referenceno','Αριθμός Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.refapprovaldate','Ημερομηνία έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.issuedate','Ημερομηνία έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_visitcoverdetail.insurcountryid','Χώρα Ασφάλισης');

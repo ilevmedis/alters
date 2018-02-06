@@ -1,0 +1,31 @@
+pta_facilityentry.jsp.page1 = Πρόσβαση Χρηστών
+pta_facilityentry.jsp.page2 = Συσχετισμένοι Νοσηλ. Σταθμοί
+pta_facilityentry.jsp.page3 = Κατάσταση Χρήσης
+pta_facilityentry.jsp.page4 = Δημιουρ. Ρόλων Ασφάλειας
+
+pta_facilityentry.jsp.med_facilitysecurityrole.securityroleid = Ρόλος Ασφάλειας
+pta_facilityentry.jsp.med_facilitysecurityrole.validsincedate = Από Ημερομηνία
+pta_facilityentry.jsp.med_facilitysecurityrole.validtilldate = Έως Ημερομηνία
+pta_facilityentry.jsp.med_facilitysecurityrole.username = Χρήστης
+pta_facilityentry.jsp.med_facilitysecurityrole.roleid = Ρόλος
+
+pta_facilityentry.jsp.validations.validsincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+pta_facilityentry.jsp.validations.incorrect_security_dates = Τα Ημερολογιακά Διαστήματα Δεν Είναι Συνεχή
+pta_facilityentry.jsp.validations.userorrole_required = Συμπληρώστε Υποχρεωτικά Χρήστη ή Ρόλο
+pta_facilityentry.jsp.validations.securityroleid_required = Συμπληρώστε Υποχρεωτικά Ρόλο Ασφάλειας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.page1','Πρόσβαση Χρηστών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.page2','Συσχετισμένοι Νοσηλ. Σταθμοί');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.page3','Κατάσταση Χρήσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.page4','Δημιουρ. Ρόλων Ασφάλειας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.med_facilitysecurityrole.securityroleid','Ρόλος Ασφάλειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.med_facilitysecurityrole.validsincedate','Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.med_facilitysecurityrole.validtilldate','Έως Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.med_facilitysecurityrole.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.med_facilitysecurityrole.roleid','Ρόλος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilityentry.jsp.validations.validsincedate_required','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilityentry.jsp.validations.incorrect_security_dates','Τα Ημερολογιακά Διαστήματα Δεν Είναι Συνεχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilityentry.jsp.validations.userorrole_required','Συμπληρώστε Υποχρεωτικά Χρήστη ή Ρόλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilityentry.jsp.validations.securityroleid_required','Συμπληρώστε Υποχρεωτικά Ρόλο Ασφάλειας');

@@ -1,0 +1,18 @@
+﻿pbl_pricelistdetailentry.jsp.pbl_pricelistitem.relpricelistheaderid = Τιμοκ/γος
+pbl_pricelistdetailentry.jsp.pbl_pricelistgroup.relpricelistheaderid = Τιμοκ/γος
+
+pbl_pricelistdetailentry.jsp.validations.pbl_pricelistdetail.relative_pricelist_not_required = Ο Συγκεκριμένος Τρόπος Χρέωσης Δεν Επιτρέπει Τιμή Από Τιμοκατάλογο. Παρακαλώ Διορθώστε
+
+
+fin_itementry.jsp.pbl_pricelistitem.relpricelistheaderid = Τιμή Από Τιμοκ.
+
+fin_itementry.jsp.validations.pbl_pricelistdetail.relative_pricelist_not_required = Ο Συγκεκριμένος Τρόπος Χρέωσης Δεν Επιτρέπει Τιμή Από Τιμοκατάλογο. Παρακαλώ Διορθώστε
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistdetailentry.jsp.pbl_pricelistitem.relpricelistheaderid','Τιμοκ/γος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistdetailentry.jsp.pbl_pricelistgroup.relpricelistheaderid','Τιμοκ/γος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.pbl_pricelistitem.relpricelistheaderid','Τιμή Από Τιμοκ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistdetailentry.jsp.validations.pbl_pricelistdetail.relative_pricelist_not_required','Ο Συγκεκριμένος Τρόπος Χρέωσης Δεν Επιτρέπει Τιμή Από Τιμοκατάλογο. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_itementry.jsp.validations.pbl_pricelistdetail.relative_pricelist_not_required','Ο Συγκεκριμένος Τρόπος Χρέωσης Δεν Επιτρέπει Τιμή Από Τιμοκατάλογο. Παρακαλώ Διορθώστε');

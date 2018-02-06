@@ -1,0 +1,63 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusbrowser.jsp.view', 'Διαχείριση Καταστασεων Φακέλων Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusbrowser.jsp.print', 'Διαχείριση Καταστασεων Φακέλων Ασθενών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusentry.jsp.view', 'Καταχώρηση Καταστασεων Φακέλων Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusentry.jsp.print', 'Καταχώρηση Καταστασεων Φακέλων Ασθενών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusentry.jsp.insert', 'Καταχώρηση Καταστασεων Φακέλων Ασθενών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusentry.jsp.update', 'Καταχώρηση Καταστασεων Φακέλων Ασθενών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilestatusentry.jsp.delete', 'Καταχώρηση Καταστασεων Φακέλων Ασθενών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilestatusentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypebrowser.jsp.view', 'Διαχείριση Κωδικών Κινήσεων Φακέλων Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypebrowser.jsp.print', 'Διαχείριση Κωδικών Κινήσεων Φακέλων Ασθενών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypeentry.jsp.view', 'Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypeentry.jsp.print', 'Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypeentry.jsp.insert', 'Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypeentry.jsp.update', 'Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileeventtypeentry.jsp.delete', 'Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypeentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypeentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypeentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypeentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileeventtypeentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilebrowser.jsp.view', 'Διαχείριση Φακέλων  Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfilebrowser.jsp.print', 'Διαχείριση Φακέλων  Ασθενών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfilebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileentry.jsp.view', 'Καταχώρηση Φακέλων  Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileentry.jsp.print', 'Καταχώρηση Φακέλων  Ασθενών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileentry.jsp.insert', 'Καταχώρηση Φακέλων  Ασθενών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileentry.jsp.update', 'Καταχώρηση Φακέλων  Ασθενών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfileentry.jsp.delete', 'Καταχώρηση Φακέλων  Ασθενών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfileentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransbrowser.jsp.view', 'Διαχείριση Κινήσεων Φακέλων  Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransbrowser.jsp.print', 'Διαχείριση Κινήσεων Φακέλων  Ασθενών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransentry.jsp.view', 'Καταχώρηση Κινήσεων Φακέλων Ασθενών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransentry.jsp.print', 'Καταχώρηση Κινήσεων Φακέλων Ασθενών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransentry.jsp.insert', 'Καταχώρηση Κινήσεων Φακέλων Ασθενών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransentry.jsp.update', 'Καταχώρηση Κινήσεων Φακέλων Ασθενών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_patientfiletransentry.jsp.delete', 'Καταχώρηση Κινήσεων Φακέλων Ασθενών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_patientfiletransentry.jsp.insert', 1);

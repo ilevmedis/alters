@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('plg_diavgiaparamsentry.jsp.view', 'Ανάγνωση Παραμέτρων Διαύγειας');
+insert into sys_privilege(privilegeid, descr) values ('plg_diavgiaparamsentry.jsp.update', 'Μεταβολή Παραμέτρων Διαύγειας');
+insert into sys_privilege(privilegeid, descr) values ('plg_diavgiaparamsentry.jsp.delete', 'Διαγραφή Παραμέτρων Διαύγειας');
+insert into sys_privilege(privilegeid, descr) values ('plg_diavgiaparamsentry.jsp.insert', 'Εισαγωγή Παραμέτρων Διαύγειας');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_diavgiaparamsentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_diavgiaparamsentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_diavgiaparamsentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_diavgiaparamsentry.jsp.insert', 1);
+

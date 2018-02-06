@@ -1,0 +1,6 @@
+inv_storeentry.jsp.inv_store.zeroquaalertindicator = Πολιτική Ειδοποίησης για Πτώση Αποθέματος Κάτω από 0
+
+inv_storeentry.jsp.validations.zeroquaalertindicatorrequired = Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης για Πτώση Αποθέματος Κάτω από 0
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_store.zeroquaalertindicator','Πολιτική Ειδοποίησης για Πτώση Αποθέματος Κάτω από 0');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_storeentry.jsp.validations.zeroquaalertindicatorrequired','Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης για Πτώση Αποθέματος Κάτω από 0');

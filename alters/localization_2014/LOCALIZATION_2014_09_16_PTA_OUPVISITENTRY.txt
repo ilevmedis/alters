@@ -1,0 +1,15 @@
+pta_oupvisitentry.jsp.fin_itemchoicedisplaybox.caption = Επιλογή Υπηρεσίας Ανά Κωδικό ΕΟΠΥΥ
+pta_oupvisitentry.jsp.fin_itemchoicedatatable.fin_itemcode.code = Κωδ. ΕΟΠΥΥ
+pta_oupvisitentry.jsp.fin_itemchoicedatatable.fin_item.mnemonic = Μνημ. Κωδ. Υπηρ.
+pta_oupvisitentry.jsp.fin_itemchoicedatatable.fin_item.displaydescr = Περιγρ. Υπηρεσίας
+
+pta_oupvisitentry.jsp.validations.different_ssn = Ο ΑΜΚΑ Του Ασθενή Διαφέρει Από Αυτόν Του Ηλεκτρονικού Παραπεμπτικού
+pta_oupvisitentry.jsp.validations.finitem_notchosen_foreopyycode = Επιλέξτε Υποχρεωτικά Υπηρεσία Για Όλους Τους Κωδικούς ΕΟΠΥΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.fin_itemchoicedisplaybox.caption','Επιλογή Υπηρεσίας Ανά Κωδικό ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.fin_itemchoicedatatable.fin_itemcode.code','Κωδ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.fin_itemchoicedatatable.fin_item.mnemonic','Μνημ. Κωδ. Υπηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.fin_itemchoicedatatable.fin_item.displaydescr','Περιγρ. Υπηρεσίας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.different_ssn','Ο ΑΜΚΑ Του Ασθενή Διαφέρει Από Αυτόν Του Ηλεκτρονικού Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.finitem_notchosen_foreopyycode','Επιλέξτε Υποχρεωτικά Υπηρεσία Για Όλους Τους Κωδικούς ΕΟΠΥΥ');

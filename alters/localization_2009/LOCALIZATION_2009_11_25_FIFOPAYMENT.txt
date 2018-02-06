@@ -1,0 +1,25 @@
+fin_supplierdebitentry.jsp.fifobutton = Εξοφλ.FIFO
+fin_supplierdebitentry.jsp.criteriadoctorfeelinkdisplaybox.caption = Κριτήρια Εξόφλησης FIFO
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.doctorfeelink_sincetransdate_criteria = Από Ημ/νία Κίνησης
+fin_supplierdebitentry.jsp.pbl_relativedoctorfee.doctorfeelink_tilltransdate_criteria = Έως Ημ/νία Κίνησης
+
+fin_supplierdebitentry.jsp.validations.already_binded = Δεν Μπορεί Να Γίνει Εξόφληση FIFO Όταν Υπάρχουν Ήδη Πληρωμές
+fin_supplierdebitentry.jsp.messages.fifo_finished_successfully = Η Διαδικασία FIFO Ολοκληρώθηκε Επιτυχώς.
+fin_supplierdebitentry.jsp.messages.fifo_amount_left = Υπόλοιπο Ποσού Σύνδεσης:
+fin_supplierdebitentry.jsp.messages.fifo_finished_unsuccessfully = Η Διαδικασία FIFO Ολοκληρώθηκε Ανεπιτυχώς!!
+fin_supplierdebitentry.jsp.validations.sincetransactiondate_required = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Κίνησης
+fin_supplierdebitentry.jsp.validations.tilltransactiondate_required = Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Κίνησης
+fin_supplierdebitentry.jsp.validations.fin_transdebit.netamountrequired = Συμπληρώστε Υποχρεωτικά Αξία Εξόφλησης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.fifobutton','Εξοφλ.FIFO');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.criteriadoctorfeelinkdisplaybox.caption','Κριτήρια Εξόφλησης FIFO');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.doctorfeelink_sincetransdate_criteria','Από Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.pbl_relativedoctorfee.doctorfeelink_tilltransdate_criteria','Έως Ημ/νία Κίνησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.already_binded','Δεν Μπορεί Να Γίνει Εξόφληση FIFO Όταν Υπάρχουν Ήδη Πληρωμές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.messages.fifo_finished_successfully','Η Διαδικασία FIFO Ολοκληρώθηκε Επιτυχώς.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.messages.fifo_amount_left','Υπόλοιπο Ποσού Σύνδεσης:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.messages.fifo_finished_unsuccessfully','Η Διαδικασία FIFO Ολοκληρώθηκε Ανεπιτυχώς!!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.sincetransactiondate_required','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.tilltransactiondate_required','Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Κίνησης');

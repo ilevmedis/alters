@@ -1,0 +1,2 @@
+alter table MED_ORDERHEADER add ENDPRESCRIPTIONDATE date;
+

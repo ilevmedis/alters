@@ -1,0 +1,49 @@
+sys_codecustomizationbrowser.jsp.pagetitle = Διαχείριση Παραμετροποιήσεων Κώδικα
+sys_codecustomizationbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_codecustomizationbrowser.jsp.griddisplaybox.caption = Παραμετροποιήσεις Κώδικα
+sys_codecustomizationbrowser.jsp.page_criteria = Σελίδα
+sys_codecustomizationbrowser.jsp.sys_codecustomization.page = Σελίδα
+sys_codecustomizationbrowser.jsp.sys_codecustomization.event = Event
+sys_codecustomizationbrowser.jsp.sys_codecustomization.descr = Περιγραφή
+sys_codecustomizationbrowser.jsp.sys_codecustomization.isactive = Ενεργή Εγγραφή
+
+sys_codecustomizationentry.jsp.pagetitle = Καταχώρηση Παραμετροποίησης Κώδικα
+sys_codecustomizationentry.jsp.entrydisplaybox.caption = Στοιχεια Παραμετροποίησης Κώδικα
+sys_codecustomizationentry.jsp.sys_codecustomization.descr = Περιγραφή
+sys_codecustomizationentry.jsp.sys_codecustomization.event = Event
+sys_codecustomizationentry.jsp.sys_codecustomization.page = Σελίδα
+sys_codecustomizationentry.jsp.sys_codecustomization.isactive = Ενεργή Εγγραφή
+sys_codecustomizationentry.jsp.sys_codecustomization.codecustomizationid = Κωδ. Εγγραφής
+sys_codecustomizationentry.jsp.sys_codecustomization.developer = Τεχνικός
+sys_codecustomizationentry.jsp.sys_codecustomization.comments = Σχόλια
+
+sys_codecustomizationentry.jsp.validations.page_required = Συμπληρώστε Υποχρεωτικά Σελίδα
+sys_codecustomizationentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+sys_codecustomizationentry.jsp.validations.event_required = Συμπληρώστε Υποχρεωτικά Event
+sys_codecustomizationentry.jsp.validations.developer_required = Συμπληρώστε Υποχρεωτικά Τεχνικό
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.pagetitle','Διαχείριση Παραμετροποιήσεων Κώδικα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.griddisplaybox.caption','Παραμετροποιήσεις Κώδικα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.page_criteria','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.sys_codecustomization.page','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.sys_codecustomization.event','Event');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.sys_codecustomization.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationbrowser.jsp.sys_codecustomization.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.pagetitle','Καταχώρηση Παραμετροποίησης Κώδικα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.entrydisplaybox.caption','Στοιχεια Παραμετροποίησης Κώδικα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.event','Event');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.page','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.codecustomizationid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.developer','Τεχνικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_codecustomizationentry.jsp.sys_codecustomization.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_codecustomizationentry.jsp.validations.page_required','Συμπληρώστε Υποχρεωτικά Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_codecustomizationentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_codecustomizationentry.jsp.validations.event_required','Συμπληρώστε Υποχρεωτικά Event');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_codecustomizationentry.jsp.validations.developer_required','Συμπληρώστε Υποχρεωτικά Τεχνικό');
+
+

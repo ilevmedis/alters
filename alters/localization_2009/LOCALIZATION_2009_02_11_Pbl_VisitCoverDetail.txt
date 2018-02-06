@@ -1,0 +1,27 @@
+﻿pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.contractheaderid = Σύμβαση
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.discperc = Έκπτωση
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.discruleheaderid = Σεναρ.Έκπτ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.levelcoverid = Θέση Κάλ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.pricelistcoverid = Τιμοκ/γος Κάλ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.validsincedate = Ισχύει Από
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.validtilldate = Ισχύει Έως
+
+pbl_visitcoverdetailentry.jsp.validations.dates_validsincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Ισχύος
+pbl_visitcoverdetailentry.jsp.validations.invalid_date_sequence = Υπάρχει Επικάλυψη Ημερομηνιών Στην Ισχύ Των Κανόνων Ασφάλισης
+
+delete from sys_localization where localizationkey = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.contractheaderid';
+delete from sys_localization where localizationkey = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.discperc';
+delete from sys_localization where localizationkey = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.discruleheaderid';
+delete from sys_localization where localizationkey = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.levelcoverid';
+delete from sys_localization where localizationkey = 'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.pricelistcoverid';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.contractheaderid','Σύμβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.discperc','Έκπτωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.discruleheaderid','Σεναρ.Έκπτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.levelcoverid','Θέση Κάλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.pricelistcoverid','Τιμοκ/γος Κάλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.validsincedate','Ισχύει Από');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.validtilldate','Ισχύει Έως');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitcoverdetailentry.jsp.validations.dates_validsincedate_required','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitcoverdetailentry.jsp.validations.invalid_date_sequence','Υπάρχει Επικάλυψη Ημερομηνιών Στην Ισχύ Των Κανόνων Ασφάλισης');

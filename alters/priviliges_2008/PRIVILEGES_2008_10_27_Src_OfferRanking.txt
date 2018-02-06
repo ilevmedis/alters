@@ -1,0 +1,16 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('src_offerrankingbrowser.jsp.view', 'Διαχείριση Κατάταξης Προσφορών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_offerrankingbrowser.jsp.print', 'Διαχείριση Κατάταξης Προσφορών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('src_offerrankingentry.jsp.view', 'Καταχώρηση Κατάταξης Προσφορών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_offerrankingentry.jsp.print', 'Καταχώρηση Κατάταξης Προσφορών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_offerrankingentry.jsp.insert', 'Καταχώρηση Κατάταξης Προσφορών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('src_offerrankingentry.jsp.update', 'Καταχώρηση Κατάταξης Προσφορών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('src_offerrankingentry.jsp.delete', 'Καταχώρηση Κατάταξης Προσφορών (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_offerrankingentry.jsp.insert', 1);

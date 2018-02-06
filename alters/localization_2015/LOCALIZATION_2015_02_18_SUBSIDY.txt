@@ -1,0 +1,35 @@
+plg_xep1entry.jsp.tabs.page6 = Επιχορηγήσεις
+plg_xep1entry.jsp.plg_subsidydisplaybox.caption = Στοιχεία Επιχορηγήσεων
+plg_xep1entry.jsp.plg_subsidy.fundingsourceid = Επιχορήγηση
+plg_xep1entry.jsp.plg_subsidy.totalamount = Ποσό
+
+plg_xep1entry.jsp.validations.subsidy_exceeded = Το Συνολικό Ποσό Επιχορηγήσεων Είναι Διαφορετικό Του Ποσού Του Εντάλματος
+plg_xep1entry.jsp.validations.fundingsource_exceeded = Υπέρβαση Ποσού Επιχορήγησης
+plg_xep1entry.jsp.validations.multiple_fundingsourceid_found = Επιχορηγήση Εμφανίζεται Περισσότερες Από 1 Φορά.
+
+plg_xep2entry.jsp.tabs.page5 = Επιχορηγήσεις
+plg_xep2entry.jsp.plg_subsidydisplaybox.caption = Στοιχεία Επιχορηγήσεων
+plg_xep2entry.jsp.plg_subsidy.fundingsourceid = Επιχορήγηση
+plg_xep2entry.jsp.plg_subsidy.totalamount = Ποσό
+
+plg_xep2entry.jsp.validations.subsidy_exceeded = Το Συνολικό Ποσό Επιχορηγήσεων Είναι Διαφορετικό Του Ποσού Του Εντάλματος
+plg_xep1entry.jsp.validations.fundingsource_exceeded = Υπέρβαση Ποσού Επιχορήγησης
+plg_xep1entry.jsp.validations.multiple_fundingsourceid_found = Επιχορηγήση Εμφανίζεται Περισσότερες Από 1 Φορά.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep1entry.jsp.tabs.page6','Επιχορηγήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep1entry.jsp.plg_subsidydisplaybox.caption','Στοιχεία Επιχορηγήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep1entry.jsp.plg_subsidy.fundingsourceid','Επιχορήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep1entry.jsp.plg_subsidy.totalamount','Ποσό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_xep1entry.jsp.validations.subsidy_exceeded','Το Συνολικό Ποσό Επιχορηγήσεων Είναι Διαφορετικό Του Ποσού Του Εντάλματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_xep1entry.jsp.validations.fundingsource_exceeded','Υπέρβαση Ποσού Επιχορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_xep1entry.jsp.validations.multiple_fundingsourceid_found','Επιχορηγήση Εμφανίζεται Περισσότερες Από 1 Φορά.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep2entry.jsp.tabs.page5','Επιχορηγήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep2entry.jsp.plg_subsidydisplaybox.caption','Στοιχεία Επιχορηγήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep2entry.jsp.plg_subsidy.fundingsourceid','Επιχορήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_xep2entry.jsp.plg_subsidy.totalamount','Ποσό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_xep2entry.jsp.validations.subsidy_exceeded','Το Συνολικό Ποσό Επιχορηγήσεων Είναι Διαφορετικό Του Ποσού Του Εντάλματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_xep2entry.jsp.validations.fundingsource_exceeded','Υπέρβαση Ποσού Επιχορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_xep2entry.jsp.validations.multiple_fundingsourceid_found','Επιχορηγήση Εμφανίζεται Περισσότερες Από 1 Φορά.');

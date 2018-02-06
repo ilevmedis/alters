@@ -1,0 +1,9 @@
+inv_replenishstore.jsp.displaycalculatedconsumption_criteria = Εμφάν. Προυπολ. Ανάλ.
+inv_replenishstore.jsp.centralstoredecimals_criteria = Δεκαδικά Κεν. Αποθ.
+inv_replenishstore.jsp.otherstoredecimals_criteria = Δεκαδικά Λοιπών Αποθ.
+inv_replenishstore.jsp.calculatedconsumption = Προΰπ. Ανάλ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.displaycalculatedconsumption_criteria','Εμφάν. Προυπολ. Ανάλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.centralstoredecimals_criteria','Δεκαδικά Κεν. Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.otherstoredecimals_criteria','Δεκαδικά Λοιπών Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.calculatedconsumption','Προΰπ. Ανάλ.');

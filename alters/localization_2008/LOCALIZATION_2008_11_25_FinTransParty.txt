@@ -1,0 +1,14 @@
+﻿fin_transpartyentry.jsp.fin_transparty.ordersrecipient = Υπεύθυνος Παραγγελιών
+fin_transpartyentry.jsp.fin_transparty.commercialname = Διακριτικός Τίτλος
+fin_transpartybrowser.jsp.commercialname_criteria = Διακριτικός Τίτλος
+fin_transpartybrowser.jsp.fin_transparty.commercialname = Διακριτικός Τίτλος
+
+fin_transpartyindex.jsp.commercialname_criteria = Διακριτικός Τίτλος
+fin_transpartyindex.jsp.fin_transparty.commercialname = Διακριτικός Τίτλος
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.ordersrecipient','Υπεύθυνος Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.commercialname','Διακριτικός Τίτλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartybrowser.jsp.commercialname_criteria','Διακριτικός Τίτλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartybrowser.jsp.fin_transparty.commercialname','Διακριτικός Τίτλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyindex.jsp.commercialname_criteria','Διακριτικός Τίτλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyindex.jsp.fin_transparty.commercialname','Διακριτικός Τίτλος');

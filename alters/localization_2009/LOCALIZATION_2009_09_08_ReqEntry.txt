@@ -1,0 +1,5 @@
+pbl_reqentry.jsp.pbl_reqheader_finitemgroupingcode_criteria = Στατιστική Ομαδοποίηση
+pbl_reqentry.jsp.validations.finitemgroupingcode_criteria_required = Συμπληρώστε Υποχρεωτικά Στατιστική Ομαδοποίηση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheader_finitemgroupingcode_criteria','Στατιστική Ομαδοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.finitemgroupingcode_criteria_required','Συμπληρώστε Υποχρεωτικά Στατιστική Ομαδοποίηση');

@@ -1,0 +1,33 @@
+--Med_ParametersEntry
+med_parametersentry.jsp.usergriddisplaybox.caption = Αποδέκτες Μηνυμάτων Για Αλλαγές Στο Πακέτο
+med_parametersentry.jsp.med_msgusers.username = Χρήστης
+med_parametersentry.jsp.med_msgusers.selected = Επιλογή
+
+--Med_MessageBrowser
+med_messagebrowser.jsp.pagetitle = Μηνύματα
+med_messagebrowser.jsp.griddisplaybox.caption = Μηνύματα
+med_messagebrowser.jsp.med_message.messagedate = Ημ. Δημιουργίας Μηνύματος
+med_messagebrowser.jsp.med_message.messagecomment = Θέμα
+
+--Pbl_ChargePackageEntry
+pbl_chargepackageentry.jsp.pbl_chargepackage.comments = Σχόλια
+
+pbl_chargepackageentry.jsp.message.package_inserted = Εισαγωγή Νέου Πακέτου
+pbl_chargepackageentry.jsp.message.package_deleted = Διαγραφή Πακέτου
+pbl_chargepackageentry.jsp.package_update = Μεταβολή Πακέτου
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_parametersentry.jsp.usergriddisplaybox.caption','Αποδέκτες Μηνυμάτων Για Αλλαγές Στο Πακέτο ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_parametersentry.jsp.med_msgusers.username','Χρήστης ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_parametersentry.jsp.med_msgusers.selected','Επιλογή ');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.pagetitle','Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.griddisplaybox.caption','Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.med_message.messagedate','Ημ. Δημιουργίας Μηνύματος ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_messagebrowser.jsp.med_message.messagecomment','Θέμα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.pbl_chargepackage.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.message.package_inserted','Εισαγωγή Νέου Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.message.package_deleted','Διαγραφή Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargepackageentry.jsp.package_update','Μεταβολή Πακέτου ');

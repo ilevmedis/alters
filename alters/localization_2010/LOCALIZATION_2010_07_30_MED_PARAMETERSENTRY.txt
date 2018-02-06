@@ -1,0 +1,6 @@
+med_parametersentry.jsp.med_parameters.defaultvatsalesidoutpatients = Φ.Π.Α. Πωλήσεων Εξωτερ. Ασθ.
+
+med_parametersentry.jsp.validations.med_parameters.defaultvatsalesidoutpatientsrequired = Συμπληρώστε Υποχρεωτικά Φ.Π.Α. Πωλήσεων Εξωτερ. Ασθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_parametersentry.jsp.med_parameters.defaultvatsalesidoutpatients','Φ.Π.Α. Πωλήσεων Εξωτερ. Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'med_parametersentry.jsp.validations.med_parameters.defaultvatsalesidoutpatientsrequired','Συμπληρώστε Υποχρεωτικά Φ.Π.Α. Πωλήσεων Εξωτερ. Ασθ.');

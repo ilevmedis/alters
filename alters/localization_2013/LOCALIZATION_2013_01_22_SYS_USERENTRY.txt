@@ -1,0 +1,5 @@
+sys_userentry.jsp.lang = Γλώσσα
+sys_userentry.jsp.cssfilename = Αρχείο CSS
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.lang','Γλώσσα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_userentry.jsp.cssfilename','Αρχείο CSS');

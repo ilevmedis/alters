@@ -1,0 +1,10 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('glg_prototypebatchinputentry.jsp.view', 'Καταχώρηση Πρότυπων Αρθρων Από Excel (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('glg_prototypebatchinputentry.jsp.print', 'Καταχώρηση Πρότυπων Αρθρων Από Excel (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('glg_prototypebatchinputentry.jsp.insert', 'Καταχώρηση Πρότυπων Αρθρων Από Excel (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('glg_prototypebatchinputentry.jsp.update', 'Καταχώρηση Πρότυπων Αρθρων Από Excel (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('glg_prototypebatchinputentry.jsp.delete', 'Καταχώρηση Πρότυπων Αρθρων Από Excel (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'glg_prototypebatchinputentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'glg_prototypebatchinputentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'glg_prototypebatchinputentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'glg_prototypebatchinputentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'glg_prototypebatchinputentry.jsp.insert', 1);

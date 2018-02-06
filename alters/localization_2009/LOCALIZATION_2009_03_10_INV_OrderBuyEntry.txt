@@ -1,0 +1,32 @@
+﻿inv_orderbuyentry.jsp.inv_transheader.orderstatus = Κατάσταση Παραγγελίας
+inv_orderbuyentry.jsp.inv_transheader.approvepersonid = Υπεύθυνος Έγκρισης
+inv_orderbuyentry.jsp.inv_transheader.approvedate = Ημ/νία Έγκρισης
+
+inv_orderstoreentry.jsp.tabs.page3 = Λοιπά Στοιχεία Παραγγελίας
+inv_orderstoreentry.jsp.inv_transheader.orderstatus = Κατάσταση Παραγγελίας
+inv_orderstoreentry.jsp.inv_transheader.approvepersonid = Υπεύθυνος Έγκρισης
+inv_orderstoreentry.jsp.inv_transheader.approvedate = Ημ/νία Έγκρισης
+
+inv_orderbuyentry.jsp.validations.inv_transheader.approvepersonidrequired = Συμπληρώστε Υποχρεωτικά Υπεύθυνο Έγκρισης
+inv_orderbuyentry.jsp.validations.inv_transheader.approvedate = Συμπληρώστε Υποχρεωτικά Ημερομηνία Έγκρισης
+inv_orderbuyentry.jsp.validations.inv_transheader.approvepersonid_not_allowed = Δεν Επιτρέπετε Η Συμπλήρωση Υπεύθυνου Έγκρισης Για Μη Εγκεκριμένη Παραγγελία
+
+inv_orderstoreentry.jsp.validations.inv_transheader.approvepersonidrequired = Συμπληρώστε Υποχρεωτικά Υπεύθυνο Έγκρισης
+inv_orderstoreentry.jsp.validations.inv_transheader.approvedate = Συμπληρώστε Υποχρεωτικά Ημερομηνία Έγκρισης
+inv_orderstoreentry.jsp.validations.inv_transheader.approvepersonid_not_allowed = Δεν Επιτρέπετε Η Συμπλήρωση Υπεύθυνου Έγκρισης Για Μη Εγκεκριμένη Παραγγελία
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderstatus','Κατάσταση Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.approvepersonid','Υπεύθυνος Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.approvedate','Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.tabs.page3','Λοιπά Στοιχεία Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transheader.orderstatus','Κατάσταση Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transheader.approvepersonid','Υπεύθυνος Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transheader.approvedate','Ημ/νία Έγκρισης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.inv_transheader.approvepersonidrequired','Συμπληρώστε Υποχρεωτικά Υπεύθυνο Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.inv_transheader.approvedate','Συμπληρώστε Υποχρεωτικά Ημερομηνία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.inv_transheader.approvepersonid_not_allowed','Δεν Επιτρέπετε Η Συμπλήρωση Υπεύθυνου Έγκρισης Για Μη Εγκεκριμένη Παραγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderstoreentry.jsp.validations.inv_transheader.approvepersonidrequired','Συμπληρώστε Υποχρεωτικά Υπεύθυνο Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderstoreentry.jsp.validations.inv_transheader.approvedate','Συμπληρώστε Υποχρεωτικά Ημερομηνία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderstoreentry.jsp.validations.inv_transheader.approvepersonid_not_allowed','Δεν Επιτρέπετε Η Συμπλήρωση Υπεύθυνου Έγκρισης Για Μη Εγκεκριμένη Παραγγελία');

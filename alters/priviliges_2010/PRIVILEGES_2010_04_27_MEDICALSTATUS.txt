@@ -1,0 +1,34 @@
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusbrowser.jsp.view', 'Διαχείρισης Καταστάσεων Ιατρ. Αποτελεσμάτων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusbrowser.jsp.print', 'Διαχείρισης Καταστάσεων Ιατρ. Αποτελεσμάτων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusentry.jsp.view', 'Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusentry.jsp.print', 'Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusentry.jsp.insert', 'Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusentry.jsp.update', 'Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('med_medicalstatusentry.jsp.delete', 'Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalstatusentry.jsp.insert', 1);
+
+-- Status Pattern
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternbrowser.jsp.view', 'Διαχείρισης Προτύπων Ιατρ. Αποτελεσμάτων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternbrowser.jsp.print', 'Διαχείρισης Προτύπων Ιατρ. Αποτελεσμάτων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternentry.jsp.view', 'Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternentry.jsp.print', 'Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternentry.jsp.insert', 'Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternentry.jsp.update', 'Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('med_statuspatternentry.jsp.delete', 'Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_statuspatternentry.jsp.insert', 1);

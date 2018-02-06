@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_securityparamsentry.jsp.view', 'Ανάγνωση Παραμέτρων Ασφάλειας');
+insert into sys_privilege(privilegeid, descr) values ('sys_securityparamsentry.jsp.update', 'Μεταβολή Παραμέτρων Ασφάλειας');
+insert into sys_privilege(privilegeid, descr) values ('sys_securityparamsentry.jsp.delete', 'Διαγραφή Παραμέτρων Ασφάλειας');
+insert into sys_privilege(privilegeid, descr) values ('sys_securityparamsentry.jsp.insert', 'Εισαγωγή Παραμέτρων Ασφάλειας');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_securityparamsentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_securityparamsentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_securityparamsentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_securityparamsentry.jsp.insert', 1);
+

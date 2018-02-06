@@ -1,0 +1,105 @@
+pbl_reqentry.jsp.tabs.page6 = Αρχείο ΔΑΠΥ
+pbl_reqentry.jsp.tabs.page7 = Γραμμές ΔΑΠΥ
+pbl_reqentry.jsp.tabs.page8 = Λάθη ΔΑΠΥ
+pbl_reqentry.jsp.criterialinesdisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_reqentry.jsp.lineno_criteria = Αναζήτηση Αρ. Γραμμής
+pbl_reqentry.jsp.linedata_criteria = Αναζήτηση Λέξης
+pbl_reqentry.jsp.pbl_dapyline.lineno = Αρ.Γρ.
+pbl_reqentry.jsp.pbl_dapyline.linedata = Δεδομένα
+pbl_reqentry.jsp.pbl_dapyline.visitmnemonic = Μν.Κωδ.Περ.
+pbl_reqentry.jsp.pbl_dapyline.visitlastname = Επώνυμο
+pbl_reqentry.jsp.pbl_dapyline.visitfirstname = Όνομα
+pbl_reqentry.jsp.pbl_dapyline.fintransheaderinternaleventno = Αρ.Τιμ.
+pbl_reqentry.jsp.openascii = Άνοιγμα Αρχείου Σε Νέο Παράθυρο
+pbl_reqentry.jsp.exporttoascii = Αποθήκευση Σε Αρχείο
+pbl_reqentry.jsp.messages.file_successfully_saved = Το Αρχείο Αποθηκεύτηκε Επιτυχώς
+
+pbl_reqentry.jsp.criteriadapyerrorsdisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_reqentry.jsp.errortypeindicator_criteria = Είδος Λάθους
+pbl_reqentry.jsp.pbl_reqheaderdapyerror.errortypeindicator = Είδος Λάθους
+pbl_reqentry.jsp.pbl_reqheaderdapyerror.errordescr = Περιγραφή
+pbl_reqentry.jsp.pbl_reqheaderdapyerror.visitmnemonic = Μν.Κωδ.Περ.
+pbl_reqentry.jsp.pbl_reqheaderdapyerror.visitlastname = Επώνυμο
+pbl_reqentry.jsp.pbl_reqheaderdapyerror.visitfirstname = Όνομα
+pbl_reqentry.jsp.pbl_reqheaderdapyerror.fintransheaderinternaleventno = Αρ.Τιμ.
+pbl_reqentry.jsp.dapyerrordetails = Στοιχεία Λάθους
+
+pbl_reqentry.jsp.validations.filename_required = Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου
+
+pbl_dapyerrordetails.jsp.entrydisplaybox.caption = Στοιχεία Λάθους
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.errordescr = Περιγραφή
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.visitid = Περιστατικό
+pbl_dapyerrordetails.jsp.gotovisitid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.fintransheaderid = Τιμ/γιο
+pbl_dapyerrordetails.jsp.gotofintransheaderid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.dapyline = Αρ.Γραμμής
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.dapylinedata = Δεδομένα
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.finitemid = Είδος
+pbl_dapyerrordetails.jsp.gotofinitemid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.facilityid = Τμήμα
+pbl_dapyerrordetails.jsp.gotofacilityid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.doctorid = Ιατρός
+pbl_dapyerrordetails.jsp.gotodoctorid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.levelid = Θέση
+pbl_dapyerrordetails.jsp.gotolevelid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.outcomeid = Έκβαση Νοσ.
+pbl_dapyerrordetails.jsp.gotooutcomeid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.insuranceschemeheaderid = Ασφ.Προγρ.
+pbl_dapyerrordetails.jsp.gotoinsuranceschemeheaderid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.chargeheaderid = Χρέωση
+pbl_dapyerrordetails.jsp.gotochargeheaderid = Πλοήγηση
+pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.metadatavalueid = VisitPartIndicator
+pbl_dapyerrordetails.jsp.gotometadatavalueid = Πλοήγηση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.criterialinesdisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.tabs.page6','Αρχείο ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.tabs.page7','Γραμμές ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.tabs.page8','Λάθη ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.lineno_criteria','Αναζήτηση Αρ. Γραμμής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.linedata_criteria','Αναζήτηση Λέξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_dapyline.lineno','Αρ.Γρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_dapyline.linedata','Δεδομένα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_dapyline.visitmnemonic','Μν.Κωδ.Περ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_dapyline.visitlastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_dapyline.visitfirstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_dapyline.fintransheaderinternaleventno','Αρ.Τιμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.exporttoascii','Αποθήκευση Σε Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.openascii','Άνοιγμα Αρχείου Σε Νέο Παράθυρο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.messages.file_successfully_saved','Το Αρχείο Αποθηκεύτηκε Επιτυχώς');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.criteriadapyerrorsdisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.errortypeindicator_criteria','Είδος Λάθους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheaderdapyerror.errortypeindicator','Είδος Λάθους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheaderdapyerror.errordescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheaderdapyerror.visitmnemonic','Μν.Κωδ.Περ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheaderdapyerror.visitlastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheaderdapyerror.visitfirstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheaderdapyerror.fintransheaderinternaleventno','Αρ.Τιμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapyerrordetails','Στοιχεία Λάθους');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.filename_required','Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.entrydisplaybox.caption','Στοιχεία Λάθους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.errordescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.visitid','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotovisitid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.fintransheaderid','Τιμ/γιο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotofintransheaderid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.dapyline','Αρ.Γραμμής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.dapylinedata','Δεδομένα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.finitemid','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotofinitemid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.facilityid','Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotofacilityid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.doctorid','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotodoctorid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.levelid','Θέση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotolevelid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.outcomeid','Έκβαση Νοσ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotooutcomeid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.insuranceschemeheaderid','Ασφ.Προγρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotoinsuranceschemeheaderid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.chargeheaderid','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotochargeheaderid','Πλοήγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.pbl_reqheaderdapyerror.metadatavalueid','VisitPartIndicator');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapyerrordetails.jsp.gotometadatavalueid','Πλοήγηση');

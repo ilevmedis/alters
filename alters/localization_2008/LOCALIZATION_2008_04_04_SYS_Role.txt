@@ -1,0 +1,3 @@
+﻿sys_roleentry.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_roleentry.jsp.sys_privilege.privilegeid_criteria = Κωδικός
+sys_roleentry.jsp.sys_privilege.privilegedescr_criteria = Περιγραφή

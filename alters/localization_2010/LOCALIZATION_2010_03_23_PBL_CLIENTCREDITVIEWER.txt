@@ -1,0 +1,21 @@
+pbl_clientcreditviewer.jsp.griddisplaybox.caption = Εισπράξεις
+pbl_clientcreditviewer.jsp.fin_transheader.internaleventdate = Ημ.Κίνησης
+pbl_clientcreditviewer.jsp.fin_transheader.internaleventno = Αρ.Κίνησης
+pbl_clientcreditviewer.jsp.fin_transparty.mnemonic = Μν.Κωδ.Πελ.
+pbl_clientcreditviewer.jsp.fin_transparty.name = Πελάτης
+pbl_clientcreditviewer.jsp.fin_transheader.externaleventtype = Είδος Παρ.
+pbl_clientcreditviewer.jsp.fin_transheader.externaleventno = Αρ.Παρ.
+pbl_clientcreditviewer.jsp.fin_transheader.externaleventdate = Ημ.Παρ.
+pbl_clientcreditviewer.jsp.fin_transdetail.descr = Ατιολογία
+pbl_clientcreditviewer.jsp.fin_transdetail.amountcredit = Πίστωση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.griddisplaybox.caption','Εισπράξεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transheader.internaleventdate','Ημ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transheader.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transparty.mnemonic','Μν.Κωδ.Πελ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transparty.name','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transheader.externaleventtype','Είδος Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transheader.externaleventno','Αρ.Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transheader.externaleventdate','Ημ.Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transdetail.descr','Ατιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditviewer.jsp.fin_transdetail.amountcredit','Πίστωση');

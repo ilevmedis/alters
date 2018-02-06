@@ -1,0 +1,10 @@
+inv_itementry.jsp.storemnemonic_criteria = Μνημ.Κωδ.Αποθ.
+inv_itementry.jsp.storedescr_criteria = Περιγρ.Αποθήκης
+
+inv_itementry.jsp.validations.atleast_one_criteria_required = Συμπληρώστε Υποχρεωτικά Κριτήριο Αναζητησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.storemnemonic_criteria','Μνημ.Κωδ.Αποθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.storedescr_criteria','Περιγρ.Αποθήκης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.validations.atleast_one_criteria_required','Συμπληρώστε Υποχρεωτικά Κριτήριο Αναζητησης');
+

@@ -1,0 +1,5 @@
+﻿fin_clientfintranspartybalancereport.jsp.withbalanceindicator_criteria = Μόνο Πελάτες Με Υπόλοιπο
+fin_supplierfintranspartybalancereport.jsp.withbalanceindicator_criteria = Μόνο Προμηθευτές Με Υπόλοιπο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_clientfintranspartybalancereport.jsp.withbalanceindicator_criteria','Μόνο Πελάτες Με Υπόλοιπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierfintranspartybalancereport.jsp.withbalanceindicator_criteria','Μόνο Προμηθευτές Με Υπόλοιπο');

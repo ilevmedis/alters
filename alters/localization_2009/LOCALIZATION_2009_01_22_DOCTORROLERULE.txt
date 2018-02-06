@@ -1,0 +1,119 @@
+﻿pbl_doctorrolerulebrowser.jsp.pagetitle = Διαχείριση Βαρδιών
+pbl_doctorrolerulebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_doctorrolerulebrowser.jsp.sincestartdate_criteria = Από Ημ/νία Έναρξης
+pbl_doctorrolerulebrowser.jsp.tillstartdate_criteria = Έως Ημ/νία Έναρξης
+pbl_doctorrolerulebrowser.jsp.sinceenddate_criteria = Από Ημ/νία Λήξης
+pbl_doctorrolerulebrowser.jsp.tillenddate_criteria = Έως Ημ/νία Λήξης
+pbl_doctorrolerulebrowser.jsp.doctorid_criteria = Ιατρός
+pbl_doctorrolerulebrowser.jsp.doctorroleid_criteria = Ρόλος
+
+pbl_doctorrolerulebrowser.jsp.pbl_doctorrolerule.doctorroleruleid = Κωδικός
+pbl_doctorrolerulebrowser.jsp.pbl_doctorrolerule.startdate = Ημ.Έναρξης
+pbl_doctorrolerulebrowser.jsp.pbl_doctorrolerule.enddate = Ημ.Λήξης
+pbl_doctorrolerulebrowser.jsp.pta_doctor.lastname = Επώνυμο
+pbl_doctorrolerulebrowser.jsp.pta_doctor.firstname = Όνομα
+pbl_doctorrolerulebrowser.jsp.fin_itemgrouping.mnemonic = Κωδ.Ομαδ/σης
+pbl_doctorrolerulebrowser.jsp.fin_itemgroupingcode.descr = Ομάδα
+pbl_doctorrolerulebrowser.jsp.griddisplaybox.caption = Βάρδιες
+
+
+pbl_doctorroleruleentry.jsp.pagetitle = Καταχώρηση Βάρδιας
+pbl_doctorroleruleentry.jsp.entrydisplaybox.caption = Στοιχεία Βάρδιας
+pbl_doctorroleruleentry.jsp.doctorroleruleid = Κωδικός
+pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.startdate = Ημ. Έναρξης
+pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.enddate = Ημ. Λήξης
+pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.doctorid = Ιατρός
+pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.doctorroleid = Ρόλος
+pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.finitemgroupingcode = Ομαδοποίηση
+
+pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.startdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Έναρξης
+pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.doctoridrequired = Συμπληρώστε Υποχρεωτικά Ιατρό
+pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.doctorroleidrequired = Συμπληρώστε Υποχρεωτικά Ρόλο Ιατρού
+pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.finitemgrouprequired = Συμπληρώστε Υποχρεωτικά Ομαδοποίηση
+
+pbl_copydoctorrolerule.jsp.pagetitle = Αντιγραφή Βαρδιών
+pbl_copydoctorrolerule.jsp.entrydisplaybox.caption = Στοιχεία Αντιγραφής
+pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.from_startdate = Ημ.Κανόνα Έναρξης Εβδομάδας Αντιγραφής
+pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.doctorid = Ιατρός
+pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.doctorroleid = Ρόλος
+pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.to_startdate = Ημ/νία Έναρξης Αντιγραφής
+pbl_copydoctorrolerule.jsp.message.procedure_successfull = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+pbl_copydoctorrolerule.jsp.message.procedure_unsuccessfull = Η Διαδικασία Απέτυχε!!
+
+
+pbl_copydoctorrolerule.jsp.validations.from_startdaterequired = Συμπληρώστε Υποχρεωτικά Ημ.Κανόνα Έναρξης Εβδομάδας Αντιγραφής
+pbl_copydoctorrolerule.jsp.validations.to_startdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Έναρξης Εβδομάδας Αντιγραφής
+pbl_copydoctorrolerule.jsp.vlidations.rules_already_exist = Υπάρχουν Ήδη Κανόνες Με Αυτά Τα Κριτήρια Στο Διάστημα Αντιγραφής. Παρακαλώ Διορθώστε
+
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.requirements.facilityid = Κλινική
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.requirements.doctorroleid = Ρόλος
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.facilityid = Κλινική
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.doctorid = Ιατρός
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.doctorroleid = Ρόλος
+
+fin_itementry.jsp.tabs.page5 = Κανόνες Υποχρ.Συμπληρ.Ιατρών
+fin_itementry.jsp.tabs.page6 = Συμβατότητες
+
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.validations.doctorrolerequired = Συμπληρώστε Υποχρεωτικά Συμβατότητα Ρόλου Ιατρού
+fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.validations.doctoridrequired = Συμπληρώστε Υποχρεωτικά Συμβατούς Ιατρούς
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.pagetitle','Διαχείριση Βαρδιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.sincestartdate_criteria','ΑΠό Ημ/νία Έναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.tillstartdate_criteria','Έως Ημ/νία Έναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.sinceenddate_criteria','Από Ημ/νία Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.tillenddate_criteria','Έως Ημ/νία Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.doctorid_criteria','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.pbl_doctorrolerule.doctorroleruleid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.pbl_doctorrolerule.startdate','Ημ.Έναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.pbl_doctorrolerule.enddate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.pta_doctor.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.pta_doctor.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.fin_itemgrouping.mnemonic','Κωδ.Ομαδ/σης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.fin_itemgroupingcode.descr','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.griddisplaybox.caption','Βάρδιες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorrolerulebrowser.jsp.doctorroleid_criteria','Ρόλος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.pagetitle','Καταχώρηση Βάρδιας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.entrydisplaybox.caption','Στοιχεία Βάρδειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.doctorroleruleid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.startdate','Ημ. Έναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.enddate','Ημ. Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.doctorid','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.doctorroleid','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleruleentry.jsp.pbl_doctorrolerule.finitemgroupingcode','Ομαδοποίηση');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.startdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Έναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.doctoridrequired','Συμπληρώστε Υποχρεωτικά Ιατρό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.doctorroleidrequired','Συμπληρώστε Υποχρεωτικά Ρόλο Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_doctorroleruleentry.jsp.validations.pbl_doctorrolerule.finitemgrouprequired','Συμπληρώστε Υποχρεωτικά Ομαδοποίηση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.pagetitle','Αντιγραφή Βαρδιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.entrydisplaybox.caption','Στοιχεία Αντιγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.from_startdate','Ημ.Κανόνα Έναρξης Εβδομάδας Αντιγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.doctorid','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.doctorroleid','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.pbl_doctorrolerule.to_startdate','Ημ/νία Έναρξης Αντιγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.message.procedure_successfull','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_copydoctorrolerule.jsp.message.procedure_unsuccessfull','Η Διαδικασία Απέτυχε!!');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_copydoctorrolerule.jsp.vlidations.rules_already_exist','Υπάρχουν Ήδη Κανόνες Με Αυτά Τα Κριτήρια Στο Διάστημα Αντιγραφής. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_copydoctorrolerule.jsp.validations.from_startdaterequired','Συμπληρώστε Υποχρεωτικά Ημ.Κανόνα Έναρξης Εβδομάδας Αντιγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_copydoctorrolerule.jsp.validations.to_startdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Έναρξης Εβδομάδας Αντιγραφής');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.requirements.facilityid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.requirements.doctorroleid','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.facilityid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.doctorid','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.doctorroleid','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.tabs.page5','Κανόνες Υποχρ.Συμπληρ.Ιατρών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_itementry.jsp.tabs.page6','Συμβατότητες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.validations.doctorrolerequired','Συμπληρώστε Υποχρεωτικά Συμβατότητα Ρόλου Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_itementry.jsp.jsp.fin_itemfacilitydoctorrule.compatibility.validations.doctoridrequired','Συμπληρώστε Υποχρεωτικά Συμβατούς Ιατρούς');
+

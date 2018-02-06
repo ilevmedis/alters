@@ -1,0 +1,31 @@
+inv_itementry.jsp.tabs.page11 = Παρ/κά
+
+inv_itementry.jsp.itemeventtypedisplaybox.caption = Συμβατότητα Με Παραστατικά
+inv_itementry.jsp.inv_item.ispublictoalleventtypes = Συμβατό Με Ολα Τα Παραστατικά
+inv_itementry.jsp.inv_itemeventtype.mnemonic = Μνημονικός
+inv_itementry.jsp.inv_itemeventtype.descr = Περιγραφή
+inv_itementry.jsp.inv_itemeventtype.selected = Επιλογή
+
+inv_grantentry.jsp.validations.invitemid_not_compatible_with_inv_eventtype = Το Είδος Δεν Είναι Συμβατό Με Την Διαδικασία Αποθήκης!
+
+update sys_localization set message = 'Στοιχ.Ειδ.' where localizationkey = 'inv_itementry.jsp.tabs.page1';
+update sys_localization set message = 'Ομαδ/ση' where localizationkey = 'inv_itementry.jsp.tabs.page2';
+update sys_localization set message = 'Μον.Μετρ.' where localizationkey = 'inv_itementry.jsp.tabs.page3';
+update sys_localization set message = 'Στοιχ.ΑΠοθ.' where localizationkey = 'inv_itementry.jsp.tabs.page4';
+update sys_localization set message = 'Προμηθ' where localizationkey = 'inv_itementry.jsp.tabs.page5';
+update sys_localization set message = 'Παρτιδ.' where localizationkey = 'inv_itementry.jsp.tabs.page6';
+update sys_localization set message = 'Κινήσεις' where localizationkey = 'inv_itementry.jsp.tabs.page7';
+update sys_localization set message = 'Εικόν.Συμβ.' where localizationkey = 'inv_itementry.jsp.tabs.page8';
+update sys_localization set message = 'Συμβ.' where localizationkey = 'inv_itementry.jsp.tabs.page9';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.tabs.page11','Παρ/κά');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.itemeventtypedisplaybox.caption','Συμβατότητα Με Παραστατικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_item.ispublictoalleventtypes','Συμβατό Με Ολα Τα Παραστατικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemeventtype.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemeventtype.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemeventtype.selected','Επιλογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.invitemid_not_compatible_with_inv_eventtype','Το Είδος Δεν Είναι Συμβατό Με Την Διαδικασία Αποθήκης!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.invitemid_not_compatible_with_inv_eventtype','Το Είδος Δεν Είναι Συμβατό Με Την Διαδικασία Αποθήκης!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderstoreentry.jsp.validations.invitemid_not_compatible_with_inv_eventtype','Το Είδος Δεν Είναι Συμβατό Με Την Διαδικασία Αποθήκης!');

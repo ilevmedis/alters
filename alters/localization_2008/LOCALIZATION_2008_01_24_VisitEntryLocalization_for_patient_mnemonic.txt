@@ -1,0 +1,2 @@
+﻿το pta_visitentry.jsp.pta_patient.mnemonic υπάρχει ήδη. Να μικρύνει η περιγραφή σε
+"Μνημ.Κωδ."

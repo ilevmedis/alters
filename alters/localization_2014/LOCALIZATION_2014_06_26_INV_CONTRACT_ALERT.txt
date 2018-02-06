@@ -1,0 +1,11 @@
+inv_storeentry.jsp.inv_store.contractquaalertindicator = Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Ποσότητας
+inv_storeentry.jsp.validations.contractquaalertindicatorrequired = Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Ποσότητας
+
+inv_storeentry.jsp.inv_store.contractpricealertindicator = Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Τιμής
+inv_storeentry.jsp.validations.contractpricealertindicatorrequired = Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Τιμής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_store.contractquaalertindicator','Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Ποσότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_storeentry.jsp.validations.contractquaalertindicatorrequired','Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Ποσότητας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_store.contractpricealertindicator','Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Τιμής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_storeentry.jsp.validations.contractpricealertindicatorrequired','Συμπληρώστε Υποχρεωτικά Πολιτική Ειδοποίησης Συμβάσεων για Υπέρβαση Τιμής');

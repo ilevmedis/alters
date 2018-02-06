@@ -1,0 +1,26 @@
+﻿pta_visitcommentsentry.jsp.pagetitle = Καχώρηση Σημειώσεων Νοσηλείας
+pta_visitcommentsentry.jsp.entrydisplaybox.caption = Σημειώσεις Νοσηλείας
+pta_visitcommentsentry.jsp.pta_visitcomments.commentsdate = Ημερομηνία
+pta_visitcommentsentry.jsp.pta_visitcomments.comments = Σημείωση
+
+pta_visitcommentsentry.jsp.validations.commentsdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία
+pta_visitcommentsentry.jsp.validations.comments_required = Συμπληρώστε Υποχρεωτικά Σημείωση
+
+pta_visitadmissionbrowser.jsp.visitcomments = Σημειώσεις
+pta_bedbrowser.jsp.visitcomments = Σημειώσεις
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.pagetitle','Καχώρηση Σημειώσεων Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.entrydisplaybox.caption','Σημειώσεις Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.pta_visitcomments.commentsdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.pta_visitcomments.comments','Σημείωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitcommentsentry.jsp.validations.commentsdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitcommentsentry.jsp.validations.comments_required','Συμπληρώστε Υποχρεωτικά Σημείωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.pagetitle','Καχώρηση Σημειώσεων Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.entrydisplaybox.caption','Σημειώσεις Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.pta_visitcomments.commentsdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitcommentsentry.jsp.pta_visitcomments.comments','Σημείωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitadmissionbrowser.jsp.visitcomments','Σημειώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.visitcomments','Σημειώσεις');

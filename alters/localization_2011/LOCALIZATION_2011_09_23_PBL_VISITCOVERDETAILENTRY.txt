@@ -1,0 +1,7 @@
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorsurname = Επων.Ελεγκτή Ιατρού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorfirstname = Όν.Ελεγκτή Ιατρού
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.orderdoctorcode = Κδ.ΤΣΑΥ Ελεγκτή Ιατρού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctorsurname','Επων.Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctorfirstname','Όν.Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdetail.approvaldoctorcode','Κδ.ΤΣΑΥ Ελεγκτή Ιατρού');

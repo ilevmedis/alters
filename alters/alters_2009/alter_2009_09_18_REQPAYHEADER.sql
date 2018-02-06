@@ -1,0 +1,5 @@
+alter table PBL_REQPAYHEADER add ISCLOSED varchar2(1);
+UPDATE PBL_REQPAYHEADER SET ISCLOSED = '0';
+COMMIT;
+
+alter table PBL_REQPAYHEADER modify ISCLOSED not null;

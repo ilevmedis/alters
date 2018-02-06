@@ -1,0 +1,11 @@
+pbl_cardbrowser.jsp.pbl_cardholder.lastname = Επώνυμο
+pbl_cardbrowser.jsp.pbl_cardholder.firstname = Όνομα
+pbl_cardbrowser.jsp.cardholderlastname_criteria = Επώνυμο
+pbl_cardbrowser.jsp.cardholderfirstname_criteria = Όνομα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_cardholder.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.pbl_cardholder.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.cardholderlastname_criteria','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardbrowser.jsp.cardholderfirstname_criteria','Όνομα');
+
+

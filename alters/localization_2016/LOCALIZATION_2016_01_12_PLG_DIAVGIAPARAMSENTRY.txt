@@ -1,0 +1,24 @@
+plg_diavgiaparamsentry.jsp.pagetitle = Καταχώρηση Παραμέτρων Σύνδεσης Διαύγειας
+plg_diavgiaparamsentry.jsp.entrydisplaybox.caption = Στοιχεία Σύνδεσης Διαύγειας
+
+plg_diavgiaparamsentry.jsp.plg_diavgiaparams.organizationid = Κωδ. Οργανισμού
+plg_diavgiaparamsentry.jsp.plg_diavgiaparams.financedeptIdid = Κωδ. Διοικητικής / Οικονομικής Υπηρεσίας
+plg_diavgiaparamsentry.jsp.plg_diavgiaparams.budgetresusername = Χρήστης Διαύγειας
+plg_diavgiaparamsentry.jsp.plg_diavgiaparams.budgetrespassword = Συνθηματικό Διαύγειας
+
+plg_diavgiaparamsentry.jsp.validations.organizationid_required = Συμπληρώστε Υποχρεωτικά Κωδ. Οργανισμού
+plg_diavgiaparamsentry.jsp.validations.financedeptid_required = Συμπληρώστε Υποχρεωτικά Κωδ. Διοικητικής / Οικονομικής Υπηρεσίας
+plg_diavgiaparamsentry.jsp.validations.budgetresusername_required = Συμπληρώστε Υποχρεωτικά Χρήστη Διαύγειας
+plg_diavgiaparamsentry.jsp.validations.budgetrespassword_required = Συμπληρώστε Υποχρεωτικά Συνθηματικό Διαύγειας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_diavgiaparamsentry.jsp.pagetitle','Καταχώρηση Παραμέτρων Σύνδεσης Διαύγειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_diavgiaparamsentry.jsp.entrydisplaybox.caption','Στοιχεία Σύνδεσης Διαύγειας  ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_diavgiaparamsentry.jsp.plg_diavgiaparams.organizationid','Κωδ. Οργανισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_diavgiaparamsentry.jsp.plg_diavgiaparams.financedeptIdid','Κωδ. Διοικητικής / Οικονομικής Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_diavgiaparamsentry.jsp.plg_diavgiaparams.budgetresusername','Χρήστης Διαύγειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_diavgiaparamsentry.jsp.plg_diavgiaparams.budgetrespassword','Συνθηματικό Διαύγειας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_diavgiaparamsentry.jsp.validations.organizationid_required','Συμπληρώστε Υποχρεωτικά Κωδ. Οργανισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_diavgiaparamsentry.jsp.validations.financedeptid_required','Συμπληρώστε Υποχρεωτικά Κωδ. Διοικητικής / Οικονομικής Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_diavgiaparamsentry.jsp.validations.budgetresusername_required','Συμπληρώστε Υποχρεωτικά Χρήστη Διαύγειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_diavgiaparamsentry.jsp.validations.budgetrespassword_required','Συμπληρώστε Υποχρεωτικά Συνθηματικό Διαύγειας');

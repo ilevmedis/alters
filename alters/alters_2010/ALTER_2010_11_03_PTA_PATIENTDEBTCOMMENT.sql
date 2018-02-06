@@ -1,0 +1,1 @@
+alter table pta_patientdebtcomment modify comments varchar2(250);

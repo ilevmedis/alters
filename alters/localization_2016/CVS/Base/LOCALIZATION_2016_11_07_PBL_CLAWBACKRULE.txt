@@ -1,0 +1,29 @@
+pbl_clawbackrulebrowser.jsp.pagetitle = Διαχείριση Ποσοστών Claw Back / Rebate
+pbl_clawbackrulebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_clawbackrulebrowser.jsp.griddisplaybox.caption = Ποσοστά Claw Back / Rebate
+pbl_clawbackrulebrowser.jsp.sincedate_criteria = Από Ημερομηνία Ισχύος
+pbl_clawbackrulebrowser.jsp.tilldate_criteria = Έως Ημερομηνία Ισχύος
+pbl_clawbackrulebrowser.jsp.pbl_clawbackrule.clawbackruleid = Κωδικός
+pbl_clawbackrulebrowser.jsp.pbl_clawbackrule.sincedate = Ημερομηνία Ισχύος
+pbl_clawbackrulebrowser.jsp.pbl_clawbackrule.clawbackperccalc = Ποσοστό
+
+pbl_clawbackruleentry.jsp.pagetitle = Καταχώρηση Ποσοστών Claw Back / Rebate
+pbl_clawbackrulebrowser.jsp.εντρυdisplaybox.caption = Στοιχεία Ποσοστού Claw Back / Rebate
+pbl_clawbackruleentry.jsp.pbl_clawbackrule.clawbackruleid = Κωδικός
+pbl_clawbackruleentry.jsp.pbl_clawbackrule.sincedate = Ημερομηνία Ισχύος
+pbl_clawbackruleentry.jsp.pbl_clawbackrule.clawbackperccalc = Ποσοστό
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.pagetitle','Διαχείριση Ποσοστών Claw Back / Rebate');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.griddisplaybox.caption','Ποσοστά Claw Back / Rebate');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.sincedate_criteria','Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.tilldate_criteria','Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.pbl_clawbackrule.clawbackruleid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.pbl_clawbackrule.sincedate','Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.pbl_clawbackrule.clawbackperccalc','Ποσοστό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackruleentry.jsp.pagetitle','Καταχώρηση Ποσοστών Claw Back / Rebate');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackrulebrowser.jsp.εντρυdisplaybox.caption','Στοιχεία Ποσοστού Claw Back / Rebate');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackruleentry.jsp.pbl_clawbackrule.clawbackruleid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackruleentry.jsp.pbl_clawbackrule.sincedate','Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clawbackruleentry.jsp.pbl_clawbackrule.clawbackperccalc','Ποσοστό');

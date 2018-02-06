@@ -1,0 +1,4 @@
+﻿inv_eventtypeentry.jsp.inv_eventtype.calculatedpricecheckmode = Έλεγχος Χορηγήσεων
+inv_eventtypeentry.jsp.inv_eventtype.calculatedpricethreshold = Τιμή Μονάδος Για Έλεγχο Χορηγήσεων
+inv_eventtypeentry.jsp.validations.calculatedpricecheckmoderequired = Συμπληρώστε Υποχρεωτικά Έλεγχο Χορηγήσεων
+inv_eventtypeentry.jsp.validations.calculatedpricethresholdrequired = Συμπληρώστε Υποχρεωτικά Τιμή Μονάδος Για Έλεγχο Χορηγήσεων

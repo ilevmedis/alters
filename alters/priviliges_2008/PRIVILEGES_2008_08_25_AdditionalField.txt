@@ -1,0 +1,15 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldbrowser.jsp.view', 'Διαχείριση Πρόσθ.Πεδίων Φορμών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldbrowser.jsp.print', 'Διαχείριση Πρόσθ.Πεδίων Φορμών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldentry.jsp.view', 'Καταχώρηση Πρόσθ.Πεδίων Φορμών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldentry.jsp.print', 'Καταχώρηση Πρόσθ.Πεδίων Φορμών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldentry.jsp.insert', 'Καταχώρηση Πρόσθ.Πεδίων Φορμών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldentry.jsp.update', 'Καταχώρηση Πρόσθ.Πεδίων Φορμών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('sys_additionalfieldentry.jsp.delete', 'Καταχώρηση Πρόσθ.Πεδίων Φορμών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_additionalfieldentry.jsp.insert', 1);

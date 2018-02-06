@@ -1,0 +1,5 @@
+med_orderentry.jsp.validations.visit_invoiced = Προσοχή!!!Η Επιλεγμένη Νοσηλεία Έχει Τιμολογηθεί
+inv_grantentry.jsp.validations.visit_invoiced = Προσοχή!!!Η Επιλεγμένη Νοσηλεία Έχει Τιμολογηθεί
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.visit_invoiced','Προσοχή!!!Η Επιλεγμένη Νοσηλεία Έχει Τιμολογηθεί');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.visit_invoiced','Προσοχή!!!Η Επιλεγμένη Νοσηλεία Έχει Τιμολογηθεί');

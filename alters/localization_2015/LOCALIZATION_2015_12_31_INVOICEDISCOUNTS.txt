@@ -1,0 +1,4 @@
+pbl_parametersentry.jsp.pbl_parameters.isinvoicingdiscounts = Τιμολόγηση Χρεώσεων με 100% Εκπτωση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.isinvoicingdiscounts','Τιμολόγηση Χρεώσεων με 100% Εκπτωση');
+

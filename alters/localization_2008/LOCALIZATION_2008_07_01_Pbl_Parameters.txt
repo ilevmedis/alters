@@ -1,0 +1,3 @@
+﻿insert into sys_localization(localizationkey, lang, message, isuserchanged) 
+  values ('pbl_parametersentry.jsp.pbl_parameters.allowchargesafterdischarge', 'el',
+'Καταχ.Χρεώσεων με Ημ/νία Μεγαλύτερη του Εξιτηρίου', '0')

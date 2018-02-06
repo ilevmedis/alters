@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('dap_itembrowser.jsp.view', 'Διαχείριση Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_itembrowser.jsp.print', 'Εκτύπωση Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itembrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itembrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('dap_itementry.jsp.view', 'Ανάγνωση Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_itementry.jsp.print', 'Εκτύπωση Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_itementry.jsp.insert', 'Εισαγωγή Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_itementry.jsp.update', 'Μεταβολή Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_privilege(privilegeid, descr) values ('dap_itementry.jsp.delete', 'Διαγραφή Χρεούμενων Ειδών ΔΑΠΥ');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itementry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itementry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itementry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itementry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'dap_itementry.jsp.insert', 1);

@@ -1,0 +1,1 @@
+alter table MED_SERVICE add PROTOCOLDATE DATE;

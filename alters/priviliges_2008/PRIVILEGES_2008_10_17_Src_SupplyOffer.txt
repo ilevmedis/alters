@@ -1,0 +1,16 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('src_supplyofferbrowser.jsp.view', 'Διαχείριση Προσφορών Προμηθευτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyofferbrowser.jsp.print', 'Διαχείριση Προσφορών Προμηθευτών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('src_supplyofferentry.jsp.view', 'Καταχώρηση Προσφορών Προμηθευτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyofferentry.jsp.print', 'Καταχώρηση Προσφορών Προμηθευτών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyofferentry.jsp.insert', 'Καταχώρηση Προσφορών Προμηθευτών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyofferentry.jsp.update', 'Καταχώρηση Προσφορών Προμηθευτών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyofferentry.jsp.delete', 'Καταχώρηση Προσφορών Προμηθευτών (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyofferentry.jsp.insert', 1);

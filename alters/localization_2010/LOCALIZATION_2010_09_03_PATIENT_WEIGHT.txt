@@ -1,0 +1,5 @@
+pta_visitentry.jsp.pta_visit.patientweight = Βάρος
+pta_oupvisitentry.jsp.pta_visit.patientweight = Βάρος
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visit.patientweight','Βάρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_visit.patientweight','Βάρος');

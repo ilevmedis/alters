@@ -1,0 +1,5 @@
+src_supplyrequestbrowser.jsp.supplyreqstatusid_criteria = Κατάσταση
+src_supplyrequestbrowser.jsp.src_supplyreqstatus.mnemonic = Κατάσταση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestbrowser.jsp.supplyreqstatusid_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestbrowser.jsp.src_supplyreqstatus.mnemonic','Κατάσταση');

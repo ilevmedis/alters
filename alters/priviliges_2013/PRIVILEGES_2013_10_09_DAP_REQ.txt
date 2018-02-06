@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('dap_reqbrowser.jsp.view', 'Διαχείριση Υποβολών');
+insert into sys_privilege(privilegeid, descr) values ('dap_reqbrowser.jsp.print', 'Εκτύπωση Υποβολών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('dap_reqentry.jsp.view', 'Ανάγνωση Υποβολής');
+insert into sys_privilege(privilegeid, descr) values ('dap_reqentry.jsp.print', 'Εκτύπωση Υποβολής');
+insert into sys_privilege(privilegeid, descr) values ('dap_reqentry.jsp.insert', 'Εισαγωγή Υποβολής');
+insert into sys_privilege(privilegeid, descr) values ('dap_reqentry.jsp.update', 'Μεταβολή Υποβολής');
+insert into sys_privilege(privilegeid, descr) values ('dap_reqentry.jsp.delete', 'Διαγραφή Υποβολής');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'dap_reqentry.jsp.insert', 1);

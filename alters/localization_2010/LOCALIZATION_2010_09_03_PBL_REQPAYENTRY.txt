@@ -1,0 +1,5 @@
+pbl_reqpayentry.jsp.paytransheader.internaleventtno = Αρ.Παρ/κού Εξοφλ.
+pbl_reqpayentry.jsp.paytransheader.internaleventdate = Ημ/νία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.paytransheader.internaleventtno','Αρ.Παρ/κού Εξοφλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.paytransheader.internaleventdate','Ημ/νία');

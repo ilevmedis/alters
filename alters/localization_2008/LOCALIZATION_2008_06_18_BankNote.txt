@@ -1,0 +1,224 @@
+﻿fin_bankaccountentry.jsp.pagetitle = Εισαγωγή Ταμειακού Λογ/σμού
+
+fin_banknotebrowser.jsp.pagetitle = Διαχείριση Αξιογράφων
+fin_banknotebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_banknotebrowser.jsp.banknotekind_criteria = Είδος
+fin_banknotebrowser.jsp.banknotecode_criteria = Αριθμός
+fin_banknotebrowser.jsp.banknotetype_criteria = Τύπος
+fin_banknotebrowser.jsp.amount_criteria = Αξία
+fin_banknotebrowser.jsp.banknoteorigin_criteria = Προέλευση
+fin_banknotebrowser.jsp.banknotestatusid_criteria = Κατάσταση
+fin_banknotebrowser.jsp.sinceissuedate_criteria = Από Ημ/νία Έκδοσης
+fin_banknotebrowser.jsp.tillissuedate_criteria = Έως Ημ/νία Έκδοσης
+fin_banknotebrowser.jsp.sinceexpdate_criteria = Από Ημ/νία Λήξης
+fin_banknotebrowser.jsp.tillexpdate_criteria = Εως Ημ/νία Λήξης
+fin_banknotebrowser.jsp.bankaccountid_criteria = Ταμειακός Λογ/σμός
+fin_banknotebrowser.jsp.bankdescr_criteria = Τράπεζα
+fin_banknotebrowser.jsp.issuername_criteria = Εκδότης
+
+fin_banknotebrowser.jsp.griddisplaybox.caption = Αξιόγραφα
+fin_banknotebrowser.jsp.fin_banknote.banknoteid = Κωδικός
+fin_banknotebrowser.jsp.fin_banknote.banknotekind = Είδος
+fin_banknotebrowser.jsp.fin_banknote.banknotetype = Τύπος
+fin_banknotebrowser.jsp.fin_banknote.banknotecode = Αριθμός
+fin_banknotebrowser.jsp.fin_banknote.banknoteorigin = Προέλευση
+fin_banknotebrowser.jsp.fin_banknote.banknoteissuedate = Ημ.Έκδοσης
+fin_banknotebrowser.jsp.fin_banknote.banknoteexpdate = Ημ.Λήξης
+fin_banknotebrowser.jsp.fin_banknote.bankdescr = Τράπεζα
+fin_banknotebrowser.jsp.fin_banknote.banknotestatusid = Κατάσταση
+fin_banknotebrowser.jsp.fin_banknote.amount = Αξία
+
+fin_banknoteentry.jsp.pagetitle = Εισαγωγή Αξιογράφου
+fin_banknoteentry.jsp.entrydisplaybox.caption = Στοιχεία Αξιογράφου
+fin_banknoteentry.jsp.fin_banknote.banknoteid = Κωδικός
+fin_banknoteentry.jsp.fin_banknote.banknotekind = Είδος
+fin_banknoteentry.jsp.fin_banknote.banknotecode = Αρ.Αξιογράφου
+fin_banknoteentry.jsp.fin_banknote.banknotetype = Τύπος
+fin_banknoteentry.jsp.fin_banknote.banknoteorigin = Προέλευση
+fin_banknoteentry.jsp.fin_banknote.amount = Αξία
+fin_banknoteentry.jsp.fin_banknote.banknoteissuedate = Ημ.Εκδοσης
+fin_banknoteentry.jsp.fin_banknote.banknoteissueplace = Τόπος Εκδοσης
+fin_banknoteentry.jsp.fin_banknote.bankdescr = Τράπεζα
+fin_banknoteentry.jsp.fin_banknote.bankbranch = Υποκατάστημα
+fin_banknoteentry.jsp.fin_banknote.bankaccountid = Ταμειακός Λογ/σμός
+fin_banknoteentry.jsp.fin_banknote.bankaccountno = Αρ.Λογ/σμού
+fin_banknoteentry.jsp.fin_banknote.issuerfintranspartyid = Εκδότης
+fin_banknoteentry.jsp.fin_banknote.issuername = Επωνυμία Εκδότη
+fin_banknoteentry.jsp.fin_banknote.issuertaxregistrationno = ΑΦΜ Εκδότη
+fin_banknoteentry.jsp.fin_banknote.issueraddress = Δ/νση Εκδότη
+fin_banknoteentry.jsp.fin_banknote.guarantorname = Ονομα Τριτεγγυητή
+fin_banknoteentry.jsp.fin_banknote.banknotestatusid = Κατάσταση
+fin_banknoteentry.jsp.fin_banknote.banknoteexpdate = Ημ.Λήξης
+fin_banknoteentry.jsp.fin_banknote.comments = Σχόλια
+
+pbl_visitinvoiceentry.jsp.paymentanalysis.clientbanknote = Στοιχεία Αξιογράφου
+pbl_visitinvoiceentry.jsp.clientbanknote = Στοιχεία Αξιογράφου
+pbl_visitinvoiceentry.jsp.paymentanalysis.descr = Σχόλια
+
+pbl_clientbanknoteentry.jsp.pagetitle = Εισαγωγή Αξιογράφου
+pbl_clientbanknoteentry.jsp.entrydisplaybox.caption = Στοιχεία Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteid = Κωδικός
+pbl_clientbanknoteentry.jsp.fin_banknote.banknotekind = Είδος
+pbl_clientbanknoteentry.jsp.fin_banknote.banknotecode = Αρ.Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.banknotetype = Τύπος
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteorigin = Προέλευση
+pbl_clientbanknoteentry.jsp.fin_banknote.amount = Αξία
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteissuedate = Ημ.Εκδοσης
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteissueplace = Τόπος Εκδοσης
+pbl_clientbanknoteentry.jsp.fin_banknote.bankdescr = Τράπεζα
+pbl_clientbanknoteentry.jsp.fin_banknote.bankbranch = Υποκατάστημα
+pbl_clientbanknoteentry.jsp.fin_banknote.bankaccountno = Αρ.Λογ/σμού
+pbl_clientbanknoteentry.jsp.fin_banknote.issuerfintranspartyid = Εκδότης
+pbl_clientbanknoteentry.jsp.fin_banknote.issuername = Επωνυμία Εκδότη
+pbl_clientbanknoteentry.jsp.fin_banknote.issuertaxregistrationno = ΑΦΜ Εκδότη
+pbl_clientbanknoteentry.jsp.fin_banknote.issueraddress = Δ/νση Εκδότη
+pbl_clientbanknoteentry.jsp.fin_banknote.guarantorname = Ονομα Τριτεγγυητή
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteexpdate = Ημ.Λήξης
+pbl_clientbanknoteentry.jsp.fin_banknote.comments = Σχόλια
+
+pbl_clientcreditentry.jsp.fin_transdebit.descr = Σχόλια
+pbl_clientcreditentry.jsp.fin_transdebit.clientbanknote = Στοιχεία Αξιογράφου
+pbl_clientcreditentry.jsp.clientbanknote = Στοιχεία Αξιογράφου
+
+fin_banknoteentry.jsp.validations.fin_banknote.banknotekindrequired = Συμπληρώστε Υποχρεωτικά Είδος Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.banknotecoderequired = Συμπληρώστε Υποχρεωτικά Αριθμό Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.banknotetyperequired = Συμπληρώστε Υποχρεωτικά Τύπο Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.banknoteoriginrequired = Συμπληρώστε Υποχρεωτικά Προέλευση Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.amountrequired = Συμπληρώστε Υποχρεωτικά Αξία Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.banknoteissuedaterequired = Συμπληρώστε Υποχρεωτικά Ημ. Έκδοσης Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.issuernamerequired = Συμπληρώστε Υποχρεωτικά Επωνυμία Εκδότη
+fin_banknoteentry.jsp.validations.fin_banknote.banknotestatusidrequired = Συμπληρώστε Υποχρεωτικά Κατάσταση Αξιογράφου
+fin_banknoteentry.jsp.validations.fin_banknote.banknoteexpdaterequired = Συμπληρώστε Υποχρεωτικά Ημ.Λήξης Αξιογράφου
+
+pbl_clientbanknoteentry.jsp.fin_banknote.banknotekindrequired = Συμπληρώστε Υποχρεωτικά Είδος Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.banknotecoderequired = Συμπληρώστε Υποχρεωτικά Αριθμό Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.amountrequired = Συμπληρώστε Υποχρεωτικά Αξία Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteissuedaterequired = Συμπληρώστε Υποχρεωτικά Ημ. Έκδοσης Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.banknoteexpdaterequired = Συμπληρώστε Υποχρεωτικά Ημ.Λήξης Αξιογράφου
+pbl_clientbanknoteentry.jsp.fin_banknote.issuernamerequired = Συμπληρώστε Υποχρεωτικά Επωνυμία Εκδότη
+
+pbl_visitinvoiceentry.jsp.validations.banknote_isempty = Συμπληρώστε Υποχρεωτικά Στοιχεία Αξιογράφου
+pbl_visitinvoiceentry.jsp.validations.banknoteamount_not_equal_amountdebit = Η Αξία Του Αξιογράφου Διαφέρει Από Την Ποσό Εξόφλησης.Παρακαλώ Διορθώστε
+
+pbl_clientcreditentry.jsp.validations.amountdebitrequired = Συμπληρώστε Υποχρεωτικά Ποσό Είσπραξης
+pbl_clientcreditentry.jsp.validations.banknote_isempty = Συμπληρώστε Υποχρεωτικά Στοιχεία Αξιογράφου
+pbl_clientcreditentry.jsp.validations.banknoteamount_not_equal_amountdebit = Η Αξία Του Αξιογράφου Διαφέρει Από Την Ποσό Εξόφλησης.Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_bankaccountentry.jsp.pagetitle','Εισαγωγή Ταμειακού Λογ/σμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.pagetitle','Διαχείριση Αξιογράφων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.banknotekind_criteria','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.banknotecode_criteria','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.banknotetype_criteria','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.amount_criteria','Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.banknoteorigin_criteria','Προέλευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.banknotestatusid_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.sinceissuedate_criteria','Από Ημ/νία Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.tillissuedate_criteria','Έως Ημ/νία Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.sinceexpdate_criteria','Από Ημ/νία Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.tillexpdate_criteria','Εως Ημ/νία Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.bankaccountid_criteria','Ταμειακός Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.bankdescr_criteria','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.issuername_criteria','Εκδότης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.griddisplaybox.caption','Αξιόγραφα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknoteid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknotekind','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknotetype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknotecode','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknoteorigin','Προέλευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknoteissuedate','Ημ.Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknoteexpdate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.bankdescr','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.banknotestatusid','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotebrowser.jsp.fin_banknote.amount','Αξία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.pagetitle','Εισαγωγή Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.entrydisplaybox.caption','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknoteid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknotekind','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknotecode','Αρ.Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknotetype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknoteorigin','Προέλευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.amount','Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknoteissuedate','Ημ.Εκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknoteissueplace','Τόπος Εκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.bankdescr','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.bankbranch','Υποκατάστημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.bankaccountid','Ταμειακός Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.bankaccountno','Αρ.Λογ/σμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.issuerfintranspartyid','Εκδότης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.issuername','Επωνυμία Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.issuertaxregistrationno','ΑΦΜ Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.issueraddress','Δ/νση Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.guarantorname','Ονομα Τριτεγγυητή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknotestatusid','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.banknoteexpdate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknoteentry.jsp.fin_banknote.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.paymentanalysis.clientbanknote','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.clientbanknote','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.paymentanalysis.descr','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.pagetitle','Εισαγωγή Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.entrydisplaybox.caption','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknotekind','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknotecode','Αρ.Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknotetype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteorigin','Προέλευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.amount','Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteissuedate','Ημ.Εκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteissueplace','Τόπος Εκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.bankdescr','Τράπεζα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.bankbranch','Υποκατάστημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.bankaccountno','Αρ.Λογ/σμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.issuerfintranspartyid','Εκδότης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.issuername','Επωνυμία Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.issuertaxregistrationno','ΑΦΜ Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.issueraddress','Δ/νση Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.guarantorname','Ονομα Τριτεγγυητή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteexpdate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientbanknoteentry.jsp.fin_banknote.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditentry.jsp.clientbanknote','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditentry.jsp.fin_transdebit.clientbanknote','Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditentry.jsp.fin_transdebit.descr','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknotekindrequired','Συμπληρώστε Υποχρεωτικά Είδος Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknotecoderequired','Συμπληρώστε Υποχρεωτικά Αριθμό Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknotetyperequired','Συμπληρώστε Υποχρεωτικά Τύπο Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknoteoriginrequired','Συμπληρώστε Υποχρεωτικά Προέλευση Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.amountrequired','Συμπληρώστε Υποχρεωτικά Αξία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknoteissuedaterequired','Συμπληρώστε Υποχρεωτικά Ημ. Έκδοσης Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.issuernamerequired','Συμπληρώστε Υποχρεωτικά Επωνυμία Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknotestatusidrequired','Συμπληρώστε Υποχρεωτικά Κατάσταση Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknoteentry.jsp.validations.fin_banknote.banknoteexpdaterequired','Συμπληρώστε Υποχρεωτικά Ημ.Λήξης Αξιογράφου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientbanknoteentry.jsp.fin_banknote.banknotekindrequired','Συμπληρώστε Υποχρεωτικά Είδος Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientbanknoteentry.jsp.fin_banknote.banknotecoderequired','Συμπληρώστε Υποχρεωτικά Αριθμό Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientbanknoteentry.jsp.fin_banknote.amountrequired','Συμπληρώστε Υποχρεωτικά Αξία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteissuedaterequired','Συμπληρώστε Υποχρεωτικά Ημ. Έκδοσης Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientbanknoteentry.jsp.fin_banknote.banknoteexpdaterequired','Συμπληρώστε Υποχρεωτικά Ημ.Λήξης Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientbanknoteentry.jsp.fin_banknote.issuernamerequired','Συμπληρώστε Υποχρεωτικά Επωνυμία Εκδότη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.banknote_isempty','Συμπληρώστε Υποχρεωτικά Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.banknoteamount_not_equal_amountdebit','Η Αξία Του Αξιογράφου Διαφέρει Από Την Ποσό Εξόφλησης.Παρακαλώ Διορθώστε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.netamount.inproper_negative_value','Η Καθαρή Αξία Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.vatamount.inproper_negative_value','Η Αξία ΦΠΑ Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.totalamount.inproper_negative_value','Η Συνολική Αξία Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.prediscamount.inproper_positive_value','Η Αξία Προ Έκπτωσης Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.discamount.inproper_positive_value','Η Αξία Έκπτωσης Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.netamount.inproper_positive_value','Η Καθαρή Αξία Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.vatamount.inproper_positive_value','Η Αξία ΦΠΑ Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.totalamount.inproper_positive_value','Η Συνολική Αξία Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.internaleventno_exists','Υπάρχει Ήδη Παραστατικό Καταχωρημένο Με Τον Ίδιο Αριθμό!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.messages.no_charges_to_invoice','Δεν Υπάρχουν Χρεώσεις Προς Τιμολόγηση!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.internaleventdate_greater_last_isuued_invoice_date','Η Ημερομηνία Τιμολόγησης Είναι Μικρότερη Από Την Τελευταία Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.erpeventtyperequired','Συμπληρώστε Υποχρεωτικά Διαδικασία Συστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.emptyitemexception','Συμπληρώστε Πρώτα Το Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.emptyfintranspartyexception','Συμπληρώστε Πρώτα Πελάτη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientcreditentry.jsp.validations.amountdebitrequired','Συμπληρώστε Υποχρεωτικά Ποσό Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientcreditentry.jsp.validations.banknote_isempty','Συμπληρώστε Υποχρεωτικά Στοιχεία Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clientcreditentry.jsp.validations.banknoteamount_not_equal_amountdebit','Η Αξία Του Αξιογράφου Διαφέρει Από Την Ποσό Εξόφλησης.Παρακαλώ Διορθώστε');

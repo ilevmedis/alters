@@ -1,0 +1,29 @@
+med_orderentry.jsp.med_orderheader.referenceno = Αρ. Ηλεκ. Παραπ. ΕΟΠΥΥ
+med_orderentry.jsp.useeprescription = Αναζήτηση Ηλεκ. Παραπ. ΕΟΠΥΥ
+med_orderentry.jsp.med_servicemasterchoicedisplaybox.caption = Επιλογή Υπηρεσίας Ανά Κωδικό ΕΟΠΥΥ
+med_orderentry.jsp.med_servicemasterchoicedatatable.fin_itemcode.code = Κωδ. ΕΟΠΥΥ
+med_orderentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.mnemonic = Μνημ. Κωδ. Υπηρ.
+med_orderentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.displaydescr = Περιγρ. Υπηρεσίας
+
+med_orderentry.jsp.validations.eprescription_canceled = Το Ηλεκτρονικό Παραπεμπτικό Είναι Ακυρωμένο
+med_orderentry.jsp.validations.eprescription_not_found = Το Ηλεκτρονικό Παραπεμπτικό Δεν Βρέθηκε
+med_orderentry.jsp.validations.prescriptionno_required = Συμπληρώστε Υποχρεωτικά Αριθμό Ηλεκτρονικού Παραπεμπτικού
+med_orderentry.jsp.validations.dapycode_not_found = Δεν Βρέθηκε Η Υπηρεσία Με Κωδικό ΔΑΠΥ
+med_orderentry.jsp.validations.order_must_be_empty = Η Παραγγελία Πρέπει Να Είναι Κενη
+med_orderentry.jsp.validations.medservicemaster_notchosen_foreopyycode = Επιλέξτε Υποχρεωτικά Υπηρεσία Για Όλους Τους Κωδικούς ΕΟΠΥΥ
+med_orderentry.jsp.validations.different_ssn = Ο ΑΜΚΑ Του Ασθενή Διαφέρει Από Αυτόν Του Ηλεκτρονικού Παραπεμπτικού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_orderheader.referenceno','Αρ. Ηλεκ. Παραπ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.useeprescription','Αναζήτηση Ηλεκ. Παραπ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_servicemasterchoicedisplaybox.caption','Επιλογή Υπηρεσίας Ανά Κωδικό ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_servicemasterchoicedatatable.fin_itemcode.code','Κωδ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.mnemonic','Μνημ. Κωδ. Υπηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.displaydescr','Περιγρ. Υπηρεσίας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.eprescription_canceled','Το Ηλεκτρονικό Παραπεμπτικό Είναι Ακυρωμένο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.eprescription_not_found','Το Ηλεκτρονικό Παραπεμπτικό Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.prescriptionno_required','Συμπληρώστε Υποχρεωτικά Αριθμό Ηλεκτρονικού Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.dapycode_not_found','Δεν Βρέθηκε Η Υπηρεσία Με Κωδικό ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.order_must_be_empty','Η Παραγγελία Πρέπει Να Είναι Κενη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.medservicemaster_notchosen_foreopyycode','Επιλέξτε Υποχρεωτικά Υπηρεσία Για Όλους Τους Κωδικούς ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.different_ssn','Ο ΑΜΚΑ Του Ασθενή Διαφέρει Από Αυτόν Του Ηλεκτρονικού Παραπεμπτικού');

@@ -1,0 +1,204 @@
+inv_sellpercheaderbrowser.jsp.pagetitle = Διαχείριση Κατηγοριών Προσαύξησης
+inv_sellpercheaderbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_sellpercheaderbrowser.jsp.griddisplaybox.caption = Κατηγορίες Προσαύξησης
+
+inv_sellpercheaderbrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+inv_sellpercheaderbrowser.jsp.descr_criteria = Περιγραφή
+inv_sellpercheaderbrowser.jsp.isactive_criteria = Ενεργό
+inv_sellpercheaderbrowser.jsp.inv_sellpercheader.sellpercheaderid = Α/Α Προσαύξησης
+inv_sellpercheaderbrowser.jsp.inv_sellpercheader.mnemonic = Μνημονικός Κωδικός
+inv_sellpercheaderbrowser.jsp.inv_sellpercheader.descr = Περιγραφή
+inv_sellpercheaderbrowser.jsp.inv_sellpercheader.isactive = Ενεργή
+
+
+inv_sellpercheaderentry.jsp.pagetitle = Καταχώρηση Κατηγορίας Προσαύξησης
+inv_sellpercheaderentry.jsp.entrydisplaybox.caption = Στοιχεία Κατηγορίας Προσαύξησης
+inv_sellpercheaderentry.jsp.griddisplaybox.caption = Στοιχεία Περιόδων Κατηγοριών Προσαυξήσεων
+
+inv_sellpercheaderentry.jsp.inv_sellpercheader.sellpercheaderid = Α/Α Προσαύξησης
+inv_sellpercheaderentry.jsp.inv_sellpercheader.mnemonic = Μνημονικός Κωδικός
+inv_sellpercheaderentry.jsp.inv_sellpercheader.descr = Περιγραφή
+inv_sellpercheaderentry.jsp.inv_sellpercheader.isactive = Ενεργή
+inv_sellpercheaderentry.jsp.validsincedate_criteria = Ημ.Έναρξης Προσσύξησης
+inv_sellpercheaderentry.jsp.validtilldate_criteria = Ημ.Λήξης Προσσύξησης
+inv_sellpercheaderentry.jsp.inv_sellpercdetail.perc = Πσοστό Προσαύξησης
+
+inv_sellpercheaderentry.jsp.validations.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Ημ.Έναρξης Προσσύξησης
+inv_sellpercheaderentry.jsp.validations.percrequired = Συμπληρώστε Υποχρεωτικά Ημ.Λήξης Προσσύξησης
+inv_sellpercheaderentry.jsp.validations.wrongperctype = Συμπληρώστε Υποχρεωτικά Πσοστό Προσαύξησης
+
+inv_pricelistheaderbrowser.jsp.pagetitle = Διαχείριση Τιμοκαταλόγων
+inv_pricelistheaderbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_pricelistheaderbrowser.jsp.griddisplaybox.caption = Τιμοκατάλογοι
+
+inv_pricelistheaderbrowser.jsp.mnemonic_criteria = Κωδικός
+inv_pricelistheaderbrowser.jsp.descr_criteria = Περιγραφή
+inv_pricelistheaderbrowser.jsp.isactive_criteria = Ενεργό
+inv_pricelistheaderbrowser.jsp.inv_pricelistheader.pricelistheaderid = Κωδικός
+inv_pricelistheaderbrowser.jsp.inv_pricelistheader.pricelistdetail = Τιμές Τιμοκαταλόγου
+inv_pricelistheaderbrowser.jsp.inv_pricelistheader.mnemonic = Μνημονικός Κωδικός
+inv_pricelistheaderbrowser.jsp.inv_pricelistheader.descr = Περιγραφή
+inv_pricelistheaderbrowser.jsp.inv_pricelistheader.isactive = Ενεργός
+
+inv_pricelistheaderentry.jsp.pagetitle = Καταχώρηση Τιμοκαταλόγων
+inv_pricelistheaderentry.jsp.entrydisplaybox.caption = Στοιχεία Τιμοκαταλόγων
+
+inv_pricelistheaderentry.jsp.pricelistheaderid = Κωδικός
+inv_pricelistheaderentry.jsp.mnemonic = Μνημονικό
+inv_pricelistheaderentry.jsp.descr = Περιγραφή
+inv_pricelistheaderentry.jsp.validsincedate
+inv_pricelistheaderentry.jsp.isactive = Ενεργός
+inv_pricelistheaderentry.jsp.pricelisttypeindicator = Είδος Τιμ/γου
+
+inv_pricelistheaderentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+inv_pricelistheaderentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+inv_pricelistheaderentry.jsp.validations.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Ημ. Ισχύος
+
+inv_pricelistdetailentry.jsp.pagetitle = Καταχώρηση Τιμοκαταλόγων
+inv_pricelistdetailentry.jsp.entrydisplaybox.caption = Στοιχεία Τιμοκαταλόγων
+
+inv_pricelistdetailentry.jsp.criteriadisplaybox.caption = Κριτήρια Εύρεσης Τιμών
+inv_pricelistdetailentry.jsp.pricelistitemdisplaybox.caption = Τιμοκατάλογος Ειδών
+inv_pricelistdetailentry.jsp.pricelistgroupdisplaybox.caption = Τιμοκατάλογος Ομάδων
+
+inv_pricelistdetailentry.jsp.pricelistheaderid = Κωδ.Τιμοκαταλόγου
+inv_pricelistdetailentry.jsp.mnemonic = Μνημονικός
+inv_pricelistdetailentry.jsp.descr = Περιγραφή
+inv_pricelistdetailentry.jsp.validsincedate = Από Ημ.Ισχύος
+inv_pricelistdetailentry.jsp.isactive = Ενεργός
+inv_pricelistdetailentry.jsp.criteriadisplaybox.finditem = Εύρεση Ειδών
+inv_pricelistdetailentry.jsp.criteriadisplaybox.findgroup = Εύρεση Ομάδων
+inv_pricelistdetailentry.jsp.invitemgroupingcode_criteria = Ομάδα
+inv_pricelistdetailentry.jsp.invitemid_criteria = Είδος
+inv_pricelistdetailentry.jsp.inv_pricelistitem.invitemid = Είδος
+inv_pricelistdetailentry.jsp.inv_pricelistitem.validsincedate = Από Ημ.Ισχύος
+inv_pricelistdetailentry.jsp.inv_pricelistitem.validtilldate = Εως Ημ.Ισχύος
+inv_pricelistdetailentry.jsp.inv_pricelistitem.pricingpolicyindicator = Είδος Τιμοκ.
+inv_pricelistdetailentry.jsp.inv_pricelistitem.price = Τιμή
+inv_pricelistdetailentry.jsp.inv_pricelistitem.relpricelistheaderid = Σχετ.Τιμοκ.
+inv_pricelistdetailentry.jsp.inv_pricelistitem.sellperc = Προσαυξ.
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.invitemgroupingcode = Ομάδα
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.validsincedate = Από Ημ.Ισχύος
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.validtilldate = Εως Ημ.Ισχύος
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.pricingpolicyindicator = Είδος Τιμοκ.
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.price = Τιμή
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.relpricelistheaderid = Σχετ.Τιμοκ.
+inv_pricelistdetailentry.jsp.inv_pricelistgroup.sellperc = Προσαύξ.
+
+inv_pricelistdetailentry.jsp.validations.nogroupingcode_entered = Συμπληρώστε Υποχρεωτικά Κωδικό Ομάδος
+inv_pricelistdetailentry.jsp.validations.groupanditem_entered = Δεν Επιτρέπεται Η Εύρεση Τιμών Ειδών Και Με Τα Δυο Κριτήρια. Επιλέξτε Ένα Από Αυτά
+inv_pricelistdetailentry.jsp.validations.itemfilled_ingroupsearch = Δεν Χρησιμοποιείται Ως Κριτήριο Το Ειδος Κατα Την Εύρεση Τιμών Ομάδων
+inv_pricelistdetailentry.jsp.validations.finitemidrequired = Συμπληρώστε Υποχρεωτικά Είδος
+inv_pricelistdetailentry.jsp.validations.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+inv_pricelistdetailentry.jsp.validations.pricerequired = Συμπληρώστε Υποχρεωτικά Τιμή
+inv_pricelistdetailentry.jsp.validations.sincedatenotvalid = Η Από Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Ισχύος Του Τιμοκαταλόγου
+inv_pricelistdetailentry.jsp.validations.tilldatenotvalid = Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος Του Είδους
+inv_pricelistdetailentry.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+inv_pricelistdetailentry.jsp.validations.sincedate_lessthan_tilldate = Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής
+inv_pricelistdetailentry.jsp.validations.finitemgroupingcoderequired = Συμπληρώστε Υποχρεωτικά Κωδικοποίηση Ομάδος
+inv_pricelistdetailentry.jsp.validations.pricingpolicyindicatorrequired = Συμπληρώστε Υποχρεωτικά Ειδος Τιμοκαταλόγου
+inv_pricelistdetailentry.jsp.norecordsfound = Δεν Βρέθηκαν Εγγραφές Με Τα Συγκεκριμένα Κριτήρια
+inv_pricelistdetailentry.jsp.validations.pricenotrequired = Δεν Πρέπει να Συμπληρωθεί Τιμή Μιας Και Η Πολιτική Χρέωσης Είναι Αυτοματοποιημένη
+inv_pricelistdetailentry.jsp.validations.inv_pricelistdetail.relative_pricelist_not_required = Ο Συγκεκριμένος Τρόπος Χρέωσης Δεν Επιτρέπει Τιμή Από Τιμοκατάλογο. Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.pagetitle','Διαχείριση Κατηγοριών Προσαύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.griddisplaybox.caption','Κατηγορίες Προσαύξησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.inv_sellpercheader.sellpercheaderid','Α/Α Προσαύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.inv_sellpercheader.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.inv_sellpercheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderbrowser.jsp.inv_sellpercheader.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.pagetitle','Καταχώρηση Κατηγορίας Προσαύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.entrydisplaybox.caption','Στοιχεία Κατηγορίας Προσαύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.griddisplaybox.caption','Στοιχεία Περιόδων Κατηγοριών Προσαυξήσεων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.inv_sellpercheader.sellpercheaderid','Α/Α Προσαύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.inv_sellpercheader.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.inv_sellpercheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.inv_sellpercheader.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.validsincedate_criteria','Ημ.Έναρξης Προσσύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.validtilldate_criteria','Ημ.Λήξης Προσσύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_sellpercheaderentry.jsp.inv_sellpercdetail.perc','Πσοστό Προσαύξησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_sellpercheaderentry.jsp.validations.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Ημ.Έναρξης Προσσύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_sellpercheaderentry.jsp.validations.percrequired','Συμπληρώστε Υποχρεωτικά Ημ.Λήξης Προσσύξησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_sellpercheaderentry.jsp.validations.wrongperctype','Συμπληρώστε Υποχρεωτικά Πσοστό Προσαύξησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.pagetitle','Διαχείριση Τιμοκαταλόγων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.griddisplaybox.caption','Τιμοκατάλογοι');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.mnemonic_criteria','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.inv_pricelistheader.pricelistheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.inv_pricelistheader.pricelistdetail','Τιμές Τιμοκαταλόγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.inv_pricelistheader.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.inv_pricelistheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderbrowser.jsp.inv_pricelistheader.isactive','Ενεργός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.pagetitle','Καταχώρηση Τιμοκαταλόγων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.entrydisplaybox.caption','Στοιχεία Τιμοκαταλόγων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.pricelistheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.mnemonic','Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistheaderentry.jsp.pricelisttypeindicator','Είδος Τιμ/γου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistheaderentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistheaderentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistheaderentry.jsp.validations.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Ημ. Ισχύος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.pagetitle','Καταχώρηση Τιμοκαταλόγων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.entrydisplaybox.caption','Στοιχεία Τιμοκαταλόγων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.criteriadisplaybox.caption','Κριτήρια Εύρεσης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.pricelistitemdisplaybox.caption','Τιμοκατάλογος Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.pricelistgroupdisplaybox.caption','Τιμοκατάλογος Ομάδων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.pricelistheaderid','Κωδ.Τιμοκαταλόγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.criteriadisplaybox.finditem','Εύρεση Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.criteriadisplaybox.findgroup','Εύρεση Ομάδων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.invitemgroupingcode_criteria','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.invitemid_criteria','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.invitemid','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.validtilldate','Εως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.pricingpolicyindicator','Είδος Τιμοκ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.price','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.relpricelistheaderid','Σχετ.Τιμοκ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistitem.sellperc','Προσαυξ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.invitemgroupingcode','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.validsincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.validtilldate','Εως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.pricingpolicyindicator','Είδος Τιμοκ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.price','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.relpricelistheaderid','Σχετ.Τιμοκ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_pricelistdetailentry.jsp.inv_pricelistgroup.sellperc','Προσαύξ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.nogroupingcode_entered','Συμπληρώστε Υποχρεωτικά Κωδικό Ομάδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.groupanditem_entered','Δεν Επιτρέπεται Η Εύρεση Τιμών Ειδών Και Με Τα Δυο Κριτήρια. Επιλέξτε Ένα Από Αυτά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.itemfilled_ingroupsearch','Δεν Χρησιμοποιείται Ως Κριτήριο Το Ειδος Κατα Την Εύρεση Τιμών Ομάδων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.finitemidrequired','Συμπληρώστε Υποχρεωτικά Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.pricerequired','Συμπληρώστε Υποχρεωτικά Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.sincedatenotvalid','Η Από Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Ισχύος Του Τιμοκαταλόγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.tilldatenotvalid','Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος Του Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.sincedate_lessthan_tilldate','Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.finitemgroupingcoderequired','Συμπληρώστε Υποχρεωτικά Κωδικοποίηση Ομάδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.pricingpolicyindicatorrequired','Συμπληρώστε Υποχρεωτικά Ειδος Τιμοκαταλόγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.norecordsfound','Δεν Βρέθηκαν Εγγραφές Με Τα Συγκεκριμένα Κριτήρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.pricenotrequired','Δεν Πρέπει να Συμπληρωθεί Τιμή Μιας Και Η Πολιτική Χρέωσης Είναι Αυτοματοποιημένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_pricelistdetailentry.jsp.validations.inv_pricelistdetail.relative_pricelist_not_required','Ο Συγκεκριμένος Τρόπος Χρέωσης Δεν Επιτρέπει Τιμή Από Τιμοκατάλογο. Παρακαλώ Διορθώστε');

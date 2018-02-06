@@ -1,0 +1,7 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_packageenddateentry.jsp.insert', 'Συμπλήρωση Ημ.Λήξης Πακέτου (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_packageenddateentry.jsp.view', 'Συμπλήρωση Ημ.Λήξης Πακέτου (Προβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_packageenddateentry.jsp.update', 'Συμπλήρωση Ημ.Λήξης Πακέτου (Μεταβολή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_packageenddateentry.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_packageenddateentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_packageenddateentry.jsp.update', 1);

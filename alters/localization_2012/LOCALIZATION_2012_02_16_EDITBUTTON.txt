@@ -1,0 +1,8 @@
+﻿submitbuttons.edit = Μεταβολή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.edit','Μεταβολή');
+
+
+
+
+

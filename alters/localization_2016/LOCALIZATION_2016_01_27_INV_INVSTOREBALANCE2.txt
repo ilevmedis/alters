@@ -1,0 +1,8 @@
+inv_invstorebalance2.jsp.storetype_criteria = Τύπος Αποθήκης
+
+inv_invstorebalance2.jsp.validations.invstoreid_criteria_notallowed = Επιλέγοντας Τύπο Αποθήκης Δε Μπορείτε Να Επιλέξετε Συγκεκριμένη Αποθήκη. Παρακαλώ Διορθώστε
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_invstorebalance2.jsp.storetype_criteria','Τύπος Αποθήκης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_invstorebalance2.jsp.validations.invstoreid_criteria_notallowed','Επιλέγοντας Τύπο Αποθήκης Δε Μπορείτε Να Επιλέξετε Συγκεκριμένη Αποθήκη. Παρακαλώ Διορθώστε');

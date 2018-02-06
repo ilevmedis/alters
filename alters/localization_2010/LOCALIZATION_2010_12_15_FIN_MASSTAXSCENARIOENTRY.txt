@@ -1,0 +1,57 @@
+fin_masstaxscenarioentry.jsp.pagetitle = Μαζική Ενημέρωση Σεναρίου Κρατήσεων
+fin_masstaxscenarioentry.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_masstaxscenarioentry.jsp.griddisplaybox.caption = Πιστώσεις Προμηθευτών
+fin_masstaxscenarioentry.jsp.fintranspartyid_criteria = Προμηθευτής
+fin_masstaxscenarioentry.jsp.budgetorgid_criteria = Φορέας
+fin_masstaxscenarioentry.jsp.sinceexternaleventdate_criteria = Από Ημ/νία Παρ/κού Προμηθευτή
+fin_masstaxscenarioentry.jsp.tillexternaleventdate_criteria = Έως Ημ/νία Παρ/κού Προμηθευτή
+fin_masstaxscenarioentry.jsp.sincenetamount_criteria = Από Καθ. Αξία
+fin_masstaxscenarioentry.jsp.tillnetamount_criteria = Έως Καθ. Αξία
+fin_masstaxscenarioentry.jsp.withcontract_criteria = Μόνο Συμβατικά
+fin_masstaxscenarioentry.jsp.plgaccountid_criteria = ΚΑΕ
+fin_masstaxscenarioentry.jsp.taxscenarioid_criteria = Σενάριο Κρατ.
+fin_masstaxscenarioentry.jsp.fin_transheader.internaleventdate = Ημ/νία Κίνησης
+fin_masstaxscenarioentry.jsp.fin_transheader.internaleventno = Αρ.Κίνησης
+fin_masstaxscenarioentry.jsp.fin_transparty.mnemonic = Μν.Κωδ.Προμ.
+fin_masstaxscenarioentry.jsp.fin_transparty.name = Επωνυμία
+fin_masstaxscenarioentry.jsp.fin_transheader.externaleventtype = Είδος Παρ.
+fin_masstaxscenarioentry.jsp.fin_transheader.externaleventno = Αρ.Παρ.
+fin_masstaxscenarioentry.jsp.fin_transheader.externaleventdate = Ημ.Παρ.
+fin_masstaxscenarioentry.jsp.fin_transdetail.amountcredit = Πίστωση
+fin_masstaxscenarioentry.jsp.fin_transdetail.descr = Αιτιολογία
+
+fin_masstaxscenarioentry.jsp.validations.sinceexternaleventdate_required = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Παρ. Προμηθ.
+fin_masstaxscenarioentry.jsp.validations.tillexternaleventdate_required = Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Παρ. Προμηθ.
+fin_masstaxscenarioentry.jsp.validations.sincenetamount_required = Συμπληρώστε Υποχρεωτικά Από Καθ. Αξία
+fin_masstaxscenarioentry.jsp.validations.tillnetamount_required = Συμπληρώστε Υποχρεωτικά Έως Καθ. Αξία
+fin_masstaxscenarioentry.jsp.validations.plgaccountid_required = Συμπληρώστε Υποχρεωτικά ΚΑΕ
+fin_masstaxscenarioentry.jsp.validations.taxscenarioid_required = Συμπληρώστε Υποχρεωτικά Σενάριο Κρατήσεων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.pagetitle','Μαζική Ενημέρωση Σεναρίου Κρατήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.griddisplaybox.caption','Πιστώσεις Προμηθευτών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fintranspartyid_criteria','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.budgetorgid_criteria','Φορέας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.sinceexternaleventdate_criteria','Από Ημ/νία Παρ/κού Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.tillexternaleventdate_criteria','Έως Ημ/νία Παρ/κού Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.sincenetamount_criteria','Από Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.tillnetamount_criteria','Έως Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.withcontract_criteria','Μόνο Συμβατικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.plgaccountid_criteria','ΚΑΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.taxscenarioid_criteria','Σενάριο Κρατ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transheader.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transheader.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transparty.mnemonic','Μν.Κωδ.Προμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transparty.name','Επωνυμία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transheader.externaleventtype','Είδος Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transheader.externaleventno','Αρ.Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transheader.externaleventdate','Ημ.Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transdetail.amountcredit','Πίστωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_masstaxscenarioentry.jsp.fin_transdetail.descr','Αιτιολογία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_masstaxscenarioentry.jsp.validations.sinceexternaleventdate_required','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Παρ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_masstaxscenarioentry.jsp.validations.tillexternaleventdate_required','Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Παρ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_masstaxscenarioentry.jsp.validations.sincenetamount_required','Συμπληρώστε Υποχρεωτικά Από Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_masstaxscenarioentry.jsp.validations.tillnetamount_required','Συμπληρώστε Υποχρεωτικά Έως Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_masstaxscenarioentry.jsp.validations.plgaccountid_required','Συμπληρώστε Υποχρεωτικά ΚΑΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_masstaxscenarioentry.jsp.validations.taxscenarioid_required','Συμπληρώστε Υποχρεωτικά Σενάριο Κρατήσεων');

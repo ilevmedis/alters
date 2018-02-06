@@ -1,0 +1,11 @@
+pta_oupvisitadmissionbrowser.jsp.submitbuttons.admissioncancel = Ακύρωση Επίσκεψης
+
+pta_oupvisitadmissionbrowser.jsp.validations.charge_invoiced = Υπάρχει Τιμολόγηση Στην Επίσκεψη. Η Ακύρωση Δεν Επιτρέπεται
+pta_oupvisitadmissionbrowser.jsp.validations.orders_exist = Υπάρχουν Καταχωρημένες Παραγγελίες Στην Επίσκεψη. Η Ακύρωση Δεν Επιτρέπεται
+pta_oupvisitadmissionbrowser.jsp.validations.charges_exist = Υπάρχουν Καταχωρημένες Χρεώσεις Στην Επίσκεψη. Η Ακύρωση Δεν Επιτρέπεται
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitadmissionbrowser.jsp.submitbuttons.admissioncancel','Ακύρωση Επίσκεψης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitadmissionbrowser.jsp.validations.charge_invoiced','Υπάρχει Τιμολόγηση Στην Επίσκεψη. Η Ακύρωση Δεν Επιτρέπεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitadmissionbrowser.jsp.validations.orders_exist','Υπάρχουν Καταχωρημένες Παραγγελίες Στην Επίσκεψη. Η Ακύρωση Δεν Επιτρέπεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitadmissionbrowser.jsp.validations.charges_exist','Υπάρχουν Καταχωρημένες Χρεώσεις Στην Επίσκεψη. Η Ακύρωση Δεν Επιτρέπεται');

@@ -1,0 +1,17 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypebrowser.jsp.view', 'Διαχείριση Πρότυπων Άρθρων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypebrowser.jsp.print', 'Διαχείριση Πρότυπων Άρθρων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypeentry.jsp.view', 'Καταχώρηση Πρότυπων Άρθρων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypeentry.jsp.print', 'Καταχώρηση Πρότυπων Άρθρων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypeentry.jsp.insert', 'Καταχώρηση Πρότυπων Άρθρων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypeentry.jsp.update', 'Καταχώρηση Πρότυπων Άρθρων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('glg_journalprototypeentry.jsp.delete', 'Καταχώρηση Πρότυπων Άρθρων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypeentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypeentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypeentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypeentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (3, 'glg_journalprototypeentry.jsp.insert', 1);
+
+

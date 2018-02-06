@@ -1,0 +1,4 @@
+﻿pta_oupvisitentry.jsp.pbl_visitcoverdetail.exclusions_button = Εξαιρέσεις Καλύψεων
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_visitcoverdetail.exclusions_button','Εξαιρέσεις Καλύψεων');

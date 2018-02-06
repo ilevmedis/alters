@@ -1,0 +1,3 @@
+inv_itementry.jsp.inv_item.isusinggrantunit = Στρογγυλοποίηση Ποσότητας Φαρμακευτικής Αγωγής Στη Μονάδα Χορήγησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_item.isusinggrantunit','Στρογγυλοποίηση Ποσότητας Φαρμακευτικής Αγωγής Στη Μονάδα Χορήγησης');

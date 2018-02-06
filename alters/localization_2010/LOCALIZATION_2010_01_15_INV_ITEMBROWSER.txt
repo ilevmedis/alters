@@ -1,0 +1,9 @@
+inv_itembrowser.jsp.fin_transparty.mnemonic = Κωδ.Προμ.
+inv_itembrowser.jsp.fin_transparty.name = Επωνυμία
+inv_itembrowser.jsp.inv_itemtransparty.transpartyitemcode = Κωδ.Ειδους Προμ
+inv_itembrowser.jsp.inv_itemtransparty.transpartyitemdescr = Περιγρ.Ειδους Προμ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembrowser.jsp.fin_transparty.mnemonic','Κωδ.Προμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembrowser.jsp.fin_transparty.name','Επωνυμία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembrowser.jsp.inv_itemtransparty.transpartyitemcode','Κωδ.Ειδους Προμ ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itembrowser.jsp.inv_itemtransparty.transpartyitemdescr','Περιγρ.Ειδους Προμ');

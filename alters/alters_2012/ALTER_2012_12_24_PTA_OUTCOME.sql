@@ -1,0 +1,1 @@
+alter table pta_outcome add dapycode varchar2(10);

@@ -1,0 +1,5 @@
+pta_visitentry.jsp.pbl_visictoverdetail.insurancebookno = Αρ.Βιβλιαρ
+pta_oupvisitentry.jsp.pbl_visictoverdetail.insurancebookno = Αρ.Βιβλιαρ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_visictoverdetail.insurancebookno','Αρ.Βιβλιαρ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_visictoverdetail.insurancebookno','Αρ.Βιβλιαρ');

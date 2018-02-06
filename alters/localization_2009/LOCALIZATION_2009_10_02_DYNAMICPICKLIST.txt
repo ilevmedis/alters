@@ -1,0 +1,67 @@
+inv_dynpicklistheaderbrowser.jsp.pagetitle = Διαχειριση Δυναμικών Pick List
+inv_dynpicklistheaderbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_dynpicklistheaderbrowser.jsp.griddisplaybox.caption = Δυναμικά Pick List
+inv_dynpicklistheaderbrowser.jsp.invstoreid_criteria = Αποθήκη
+inv_dynpicklistheaderbrowser.jsp.picklistformatid_criteria = Pick List
+inv_dynpicklistheaderbrowser.jsp.isactive_criteria = Ενεργό
+inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.invdynpicklistheaderid = Κωδικός
+inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.invstoreid = Αποθήκη
+inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.picklistformatid = Pick List
+inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.linesperpage = Αρ.Γραμμών/Σελ.
+inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.colsperpage = Αρ.Στηλών/Σελ
+inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.isactive = Ενεργό
+
+inv_dynpicklistheaderentry.jsp.pagetitle = Καταχώρηση Δυναμκών Pick List
+inv_dynpicklistheaderentry.jsp.entrydisplaybox.caption = Στοιχεία Δυναμικού Pick List
+inv_dynpicklistheaderentry.jsp.invdynpicklistdetailgriddisplaybox.caption = Μορφή Pick List
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.invdynpicklistheaderid = Κωδικός
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.invstoreid = Αποθήκη
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.picklistformatid = Pick List
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.linesperpage = Αρ.Γραμμών/Σελ
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.colsperpage = Αρ.Στηλών/Σελ
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.isactive = Ενεργό
+inv_dynpicklistheaderentry.jsp.tabs.page1 = Κεφαλίδα
+inv_dynpicklistheaderentry.jsp.tabs.page2 = Υποσέλιδο
+inv_dynpicklistheaderentry.jsp.tabs.page3 = Μορφή Pick List
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistdetail.groupname = Ομάδα
+inv_dynpicklistheaderentry.jsp.inv_dynpicklistdetail.invitemid = Είδος
+
+inv_dynpicklistheaderentry.jsp.validations.invstoreid_required = Συμπληρώστε Υποχρεωτικά Αποθήκη
+inv_dynpicklistheaderentry.jsp.validations.picklistformatid_required = Συμπληρώστε Υποχρεωτικά Pick List
+inv_dynpicklistheaderentry.jsp.validations.colsperpage_required = Συμπληρώστε Υποχρεωτικά Αρ.Στηλών/Σελ
+inv_dynpicklistheaderentry.jsp.validations.linesperpage_required = Συμπληρώστε Υποχρεωτικά Αρ.Γραμμών/Σελ
+inv_dynpicklistheaderentry.jsp.validations.inv_dynpicklistdetail_isempty = Συμπληρώστε Υποχρεωτικά Τουλάχιστον 1 Είδος Για Το Pick List
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.pagetitle','Διαχειριση Δυναμικών Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.griddisplaybox.caption','Δυναμικά Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.invstoreid_criteria','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.picklistformatid_criteria','Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.invdynpicklistheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.invstoreid','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.picklistformatid','Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.linesperpage','Αρ.Γραμμών/Σελ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.colsperpage','Αρ.Στηλών/Σελ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderbrowser.jsp.inv_dynpicklistheader.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.pagetitle','Καταχώρηση Δυναμκών Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.entrydisplaybox.caption','Στοιχεία Δυναμικού Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.invdynpicklistdetailgriddisplaybox.caption','Μορφή Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.invdynpicklistheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.invstoreid','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.picklistformatid','Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.linesperpage','Αρ.Γραμμών/Σελ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.colsperpage','Αρ.Στηλών/Σελ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistheader.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.tabs.page1','Κεφαλίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.tabs.page2','Υποσέλιδο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.tabs.page3','Μορφή Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistdetail.groupname','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_dynpicklistheaderentry.jsp.inv_dynpicklistdetail.invitemid','Είδος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistheaderentry.jsp.validations.invstoreid_required','Συμπληρώστε Υποχρεωτικά Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistheaderentry.jsp.validations.picklistformatid_required','Συμπληρώστε Υποχρεωτικά Pick List');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistheaderentry.jsp.validations.colsperpage_required','Συμπληρώστε Υποχρεωτικά Αρ.Στηλών/Σελ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistheaderentry.jsp.validations.linesperpage_required','Συμπληρώστε Υποχρεωτικά Αρ.Γραμμών/Σελ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_dynpicklistheaderentry.jsp.validations.inv_dynpicklistdetail_isempty','Συμπληρώστε Υποχρεωτικά Τουλάχιστον 1 Είδος Για Το Pick List');

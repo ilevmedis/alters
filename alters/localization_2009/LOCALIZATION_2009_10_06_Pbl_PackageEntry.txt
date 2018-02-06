@@ -1,0 +1,7 @@
+pbl_packageentry.jsp.tabs.page4 = Είδη Χωρίς Έκπτωση Πακέτου
+pbl_packageentry.jsp.pbl_packagenodiscitem.finitemid = Κωδικός Είδους / Υπηρεσίας
+pbl_packageentry.jsp.pbl_packagenodiscitem.finitemgroupingcode = Ομάδα Ειδών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageentry.jsp.tabs.page4','Είδη Χωρίς Έκπτωση Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageentry.jsp.pbl_packagenodiscitem.finitemid','Κωδικός Είδους / Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageentry.jsp.pbl_packagenodiscitem.finitemgroupingcode','Ομάδα Ειδών');

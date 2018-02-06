@@ -1,0 +1,5 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_connectionmonitor.jsp.view', 'Connection Monitor');
+insert into sys_privilege(privilegeid, descr) values ('sys_connectionmonitor.jsp.print', 'Εκτύπωση Connection Monitor');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_connectionmonitor.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_connectionmonitor.jsp.print', 1);
+

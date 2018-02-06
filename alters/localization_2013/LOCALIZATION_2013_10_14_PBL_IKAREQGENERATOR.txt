@@ -1,0 +1,7 @@
+pbl_reqentry.jsp.infomessages.select_in_progress = Ανάγνωση Δεδομένων Από Τη Βάση...
+pbl_reqentry.jsp.infomessages.create_dapy = ΔΗΜΙΟΥΡΓΙΑ ΔΑΠΥ
+pbl_reqentry.jsp.infomessages.save_in_progress = Αποθήκευση Δεδομένων...
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.infomessages.select_in_progress','Ανάγνωση Δεδομένων Από Τη Βάση...');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.infomessages.create_dapy','ΔΗΜΙΟΥΡΓΙΑ ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.infomessages.save_in_progress','Αποθήκευση Δεδομένων...');

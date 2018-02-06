@@ -1,0 +1,33 @@
+inv_itemlabelscount.jsp.pagetitle = Εκτύπωση Ετικετών Ειδών
+inv_itemlabelscount.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_itemlabelscount.jsp.griddisplaybox.caption = Είδη Εκτύπωσης Ετικετών
+inv_itemlabelscount.jsp.mnemonic_criteria = Μνημ.Κωδικός
+inv_itemlabelscount.jsp.displaydescr_criteria = Περιγραφή
+inv_itemlabelscount.jsp.invitemgroup_criteria = Ομάδα
+inv_itemlabelscount.jsp.invstoreid_criteria = Αποθήκη
+inv_itemlabelscount.jsp.sinceinternaleventdate_criteria = Από Ημ/νία
+inv_itemlabelscount.jsp.tillinternaleventdate_criteria = Έως Ημ/νία
+inv_itemlabelscount.jsp.inv_transdetail.internaleventdate = Ημερομηνία
+inv_itemlabelscount.jsp.inv_transdetail.internaleventno = Αρ. Κίνησης
+inv_itemlabelscount.jsp.inv_store.mnemonic = Αποθήκη
+inv_itemlabelscount.jsp.inv_item.mnemonic = Κωδ.Είδους
+inv_itemlabelscount.jsp.inv_item.displaydescr = Περιγρ. Είδους
+inv_itemlabelscount.jsp.inv_unitofmeasure.mnemonic = ΜΜ
+inv_itemlabelscount.jsp.inv_item.nooflabels = Αρ. Ετικετών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.pagetitle','Εκτύπωση Ετικετών Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.griddisplaybox.caption','Είδη Εκτύπωσης Ετικετών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.mnemonic_criteria','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.displaydescr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.invitemgroup_criteria','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.invstoreid_criteria','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.sinceinternaleventdate_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.tillinternaleventdate_criteria','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_transdetail.internaleventdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_transdetail.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_store.mnemonic','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_item.mnemonic','Κωδ.Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_item.displaydescr','Περιγρ. Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_unitofmeasure.mnemonic','ΜΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabelscount.jsp.inv_item.nooflabels','Αρ. Ετικετών');

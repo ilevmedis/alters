@@ -1,0 +1,1 @@
+﻿alter table pta_visit add expecteddischargedate date;

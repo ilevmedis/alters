@@ -1,0 +1,18 @@
+﻿pta_waitlistcancelentry.jsp.pagetitle = ΑΚύρωση Λίστας Αναμονής
+pta_waitlistcancelentry.jsp.entrydisplaybox.caption = Στοιχεία Ακύρωσης
+pta_waitlistcancelentry.jsp.erp_eventtype.mnemonic = Διαδικασία
+pta_waitlistcancelentry.jsp.pta_eventtype.mnemonic = Κωδ.Κίνησης
+pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.internaleventno = Αριθμός Κίνησης
+pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.canceldate = Ημ/νία Ακύρωσης
+pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.cancelreasonid = Αιτία Ακύρωσης
+pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.comments = Σχόλια
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.pagetitle','ΑΚύρωση Λίστας Αναμονής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.entrydisplaybox.caption','Στοιχεία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.pta_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.internaleventno','Αριθμός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.canceldate','Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.cancelreasonid','Αιτία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistcancelentry.jsp.pta_visitadmissioncancel.comments','Σχόλια');

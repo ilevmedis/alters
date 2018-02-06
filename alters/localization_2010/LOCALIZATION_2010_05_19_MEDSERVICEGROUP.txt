@@ -1,0 +1,283 @@
+--Medical ServiceMaster Grouping
+med_servicemastergroupingbrowser.jsp.pagetitle = Διαχείριση Ομαδοποίησης Υπηρεσιών
+med_servicemastergroupingbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_servicemastergroupingbrowser.jsp.griddisplaybox.caption = Ομάδες Υπηρεσιών
+med_servicemastergroupingbrowser.jsp.mnemonic_criteria = Μνημονικός
+med_servicemastergroupingbrowser.jsp.descr_criteria = Περιγραφή
+med_servicemastergroupingbrowser.jsp.isactive_criteria = Ενεργό
+med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.servicemastergroupingid = Κωδικός
+med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.mnemonic = Μνημονικός
+med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.descr = Περιγραφή
+med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.codeformat = Μορφή Κωδικοποίησης
+med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.isactive = Ενεργό
+
+--Medical ServiceMatser Grouping Entry
+med_servicemastergroupingentry.jsp.pagetitle = Καταχώρηση Ομαδοποίησης Υπηρεσιών
+med_servicemastergroupingentry.jsp.entrydisplaybox.caption = Ομάδες Υπηρεσιών
+med_servicemastergroupingentry.jsp.med_servicemastergrouping.servicemastergroupingid = Κωδικός
+med_servicemastergroupingentry.jsp.med_servicemastergrouping.mnemonic = Μνημονικός
+med_servicemastergroupingentry.jsp.med_servicemastergrouping.descr = Περιγραφή
+med_servicemastergroupingentry.jsp.med_servicemastergrouping.ordersequence = Σειρά Εμφάνισης
+med_servicemastergroupingentry.jsp.med_servicemastergrouping.codeformat = Μορφή Κωδικοποίησης
+med_servicemastergroupingentry.jsp.med_servicemastergrouping.isactive = Ενεργό
+
+med_servicemastergroupingentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό
+med_servicemastergroupingentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+med_servicemastergroupingentry.jsp.validations.ordersequencerequired = Συμπληρώστε Υποχρεωτικά Σειρά Εμφάνισης
+med_servicemastergroupingentry.jsp.validations.codeformatrequired = Συμπληρώστε Υποχρεωτικά Μορφή Κωδικοποίησης
+
+
+--Medical ServiceMaster GroupingCode Browser
+med_servicemastergroupingcodebrowser.jsp.pagetitle = Διαχείριση Κωδικών Ομάδων
+med_servicemastergroupingcodebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_servicemastergroupingcodebrowser.jsp.griddisplaybox.caption = Κωδικοί
+med_servicemastergroupingcodebrowser.jsp.servicemastergroupingid_criteria = Ομάδα Υπηρεσιών
+med_servicemastergroupingcodebrowser.jsp.servicemastergroupingcode_criteria = Κωδικός
+med_servicemastergroupingcodebrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+med_servicemastergroupingcodebrowser.jsp.descr_criteria = Περιγραφή
+med_servicemastergroupingcodebrowser.jsp.haschildren_criteria = Αναλύεται
+med_servicemastergroupingcodebrowser.jsp.isactive_criteria = Ενεργός
+med_servicemastergroupingcodebrowser.jsp.sincegrade_criteria = Από Βαθμό
+med_servicemastergroupingcodebrowser.jsp.tillgrade_criteria = Εως Βαθμό
+
+med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.servicemastergroupingcode = Κωδικός
+med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.mnemonic = Μνημονικός
+med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.descr = Περιγραφή
+med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.grade = Βαθμός
+med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.haschildren = Αναλύεται
+med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.isactive = Ενεργός
+
+med_servicemastergroupingcodebrowser.jsp.validations.servicemastergroupingid_criteria_required = Συμπληρώστε Υποχρεωτικά Ομάδα Υπηρεσιών
+
+
+--Medical ServiceMatser GroupingCode Entry
+med_servicemastergroupingcodeentry.jsp.pagetitle = Καταχώρηση Κωδικών Ομαδοποίησης
+med_servicemastergroupingcodeentry.jsp.entrydisplaybox.caption = Στοιχεία Κωδικού Ομαδοποίησης
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.servicemastergroupingid = Ομάδα
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.servicemastergroupingcode = Κωδικός
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.mnemonic = Μνημονικός Κωδικός
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.grade = Βαθμός
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.haschildren = Αναλύεται
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.descr = Περιγραφή
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.isactive = Ενεργός
+med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.isdefault = Προεπιλογή
+
+med_servicemasterentry.jsp.med_servicegrpcodeitemgrpcode.servicegrpcodeitemgrpcodeid = Συσχετισμένη Ομάδα Χρεούμενων Ειδών
+
+med_servicemastergroupingcodeentry.jsp.validations.servicemastergroupingidrequired = Συμπληρώστε Υποχρεωτικά Ομάδα
+med_servicemastergroupingcodeentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+med_servicemastergroupingcodeentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+med_servicemastergroupingcodeentry.jsp.validations.servicemastergroupingcoderequired = Συμπληρώστε Υποχρεωτικά Κωδικό
+med_servicematsergroupingcodeentry.jsp.validations.accountisdefault_and_haschildren = Ο Κωδικός Αναλύεται. Δεν Μπορει Να Οριστεί Ως Προεπιλογή
+
+
+--Medical ServiceMaster GroupingCode Index
+med_servicemastergroupingcodeindex.jsp.pagetitle = Επιλογή Ομάδων
+med_servicemastergroupingcodeindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_servicemastergroupingcodeindex.jsp.griddisplaybox.caption = Κωδικοί
+med_servicemastergroupingcodeindex.jsp.displayformattedaccount_criteria = Κωδικός
+med_servicemastergroupingcodeindex.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+med_servicemastergroupingcodeindex.jsp.descr_criteria = Περιγραφή
+
+med_servicemastergroupingcodeindex.jsp.med_servicemastergroupingcode.servicemastergroupingcode = Κωδικός
+med_servicemastergroupingcodeindex.jsp.med_servicemastergroupingcode.mnemonic = Μνημονικός
+med_servicemastergroupingcodeindex.jsp.med_servicemastergroupingcode.descr = Περιγραφή
+
+--med_servicemaster entry
+med_servicemasterentry.jsp.tabs.page5 = Ομαδοποιήσεις
+med_servicemasterentry.jsp.objectuserslink = Πρόσβαση Χρηστών
+med_servicemasterentry.jsp.med_servicemastergroup.servicemastergroupingcode = Ομάδα Ένταξης
+med_servicemasterentry.jsp.med_servicemastergroupdisplaybox.caption = Ομαδοποιήσεις
+
+
+--med_medicalrec browser
+med_medicalrecbrowser.jsp.med_service.medicalstatusid_criteria = Κατάσταση
+med_medicalrecbrowser.jsp.med_service.protocol_criteria = Αρ.Πρωτοκ.
+med_medicalrecbrowser.jsp.med_service.servicemastergroup1_criteria = Ομαδοποίηση
+
+
+--med_medicalrec entry
+med_medicalrecentry.jsp.med_service.protocolno = Αρ.Πρωτοκόλλου
+med_medicalrecentry.jsp.validations.visitidrequired = Συμπληρώστε Υποχρεωτικά Νοσηλεία
+med_medicalrecentry.jsp.validations.servicemasteridrequired = Συμπληρώστε Υποχρεωτικά Υπηρεσία
+
+
+--med medical rec browser2
+med_medicalrecbrowser2.jsp.pagetitle = Διαχείριση Ιατρικών Υπηρεσιών
+med_medicalrecbrowser2.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+
+med_medicalrecbrowser2.jsp.servicegriddisplaybox.caption = Ιατρικές Υπηρεσίες
+med_medicalrecbrowser2.jsp.name_criteria = Επώνυμο - Ονομα
+med_medicalrecbrowser2.jsp.mnemonic_criteria = Αρ.Εισιτηρίου
+med_medicalrecbrowser2.jsp.sincedate_criteria = Από Ημ/νία
+med_medicalrecbrowser2.jsp.tilldate_criteria = Εως Ημ/νία
+med_medicalrecbrowser2.jsp.med_service.medicalstatusid_criteria = Κατάσταση
+med_medicalrecbrowser2.jsp.med_service.protocol_criteria = Αρ.Πρωτ/λλου
+med_medicalrecbrowser2.jsp.med_service.servicemastergroup1_criteria = Ομαδοποίηση
+med_medicalrecbrowser2.jsp.med_service.servicemasterid_criteria = Υπηρεσία
+med_medicalrecbrowser2.jsp.med_service.servicedate = Ημ/νία
+med_medicalrecbrowser2.jsp.med_service.internaleventno = Αρ.Κίνησης
+med_medicalrecbrowser2.jsp.pta_visit.mnemonic = Αρ.Εισιτ.
+med_medicalrecbrowser2.jsp.pta_visit.lastname = Επώνυμο
+med_medicalrecbrowser2.jsp.pta_visit.firstname = Ονομα
+med_medicalrecbrowser2.jsp.pta_visit.fatherfirstname = Ον.Πατρός
+med_medicalrecbrowser2.jsp.med_servicemaster.displaydescr = Υπηρεσία
+med_medicalrecbrowser2.jsp.med_medicalstatus.mnemonic = Κατάσταση
+med_medicalrecbrowser2.jsp.servicestatuslog = Αλλαγές Κατάστασης
+
+med_medicalrecbrowser2.jsp.validations.servicemastergroupingcoderequired = Συμπληρώστε Κωδικό Ομάδας
+med_medicalrecbrowser2.jsp.fill_atleast_one_criteria = Συμπληρώστε Υποχρεωτικά Στοιχεία Νοσηλείας ή Ημερομηνιακό Διάστημα ή Αρ. Πρωτοκόλλου
+
+--Med Service Data
+med_servicedata.jsp.pagetitle = Στοιχεία Ιατρικών Υπηρεσιών
+med_servicedata.jsp.pta_doctor.lastname = Επώνυμο Ιατρ.
+med_servicedata.jsp.pta_doctor.firstname = Όνομα Ιατρ.
+med_servicedata.jsp.pbl_doctorrole.mnemonic = Ρόλος
+med_servicedata.jsp.pbl_visitdiagnosis.pta_diagnosiscode.descr = Διάγνωση
+med_servicedata.jsp.pbl_visitdiagnosis.pta_doctor.lastname = Επώνυμο Ιατρ.
+med_servicedata.jsp.pbl_visitdiagnosis.pta_doctor.firstname = Όνομα Ιατρ.
+med_servicedata.jsp.pbl_visitdiagnosis.diagnosistext = Σχόλια
+med_servicedata.jsp.pbl_visitdiagnosis.ismaindiagnosis = Κύρια
+
+
+
+--Medical ServiceMaster Grouping
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.pagetitle','Διαχείριση Ομαδοποίησης Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.griddisplaybox.caption','Ομάδες Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.servicemastergroupingid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.codeformat','Μορφή Κωδικοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingbrowser.jsp.med_servicemastergrouping.isactive','Ενεργό');
+
+--Medical ServiceMatser Groupingcode Entry
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.pagetitle','Καταχώρηση Ομαδοποίησης Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.entrydisplaybox.caption','Ομάδες Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.med_servicemastergrouping.servicemastergroupingid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.med_servicemastergrouping.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.med_servicemastergrouping.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.med_servicemastergrouping.ordersequence','Σειρά Εμφάνισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.med_servicemastergrouping.codeformat','Μορφή Κωδικοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingentry.jsp.med_servicemastergrouping.isactive','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingentry.jsp.validations.ordersequencerequired','Συμπληρώστε Υποχρεωτικά Σειρά Εμφάνισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingentry.jsp.validations.codeformatrequired','Συμπληρώστε Υποχρεωτικά Μορφή Κωδικοποίησης');
+
+--Medical ServiceMaster GroupingCode Browser
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.pagetitle','Διαχείριση Κωδικών Ομάδων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.griddisplaybox.caption','Κωδικοί');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.servicemastergroupingid_criteria','Ομάδα Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.servicemastergroupingcode_criteria','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.haschildren_criteria','Αναλύεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.isactive_criteria','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.sincegrade_criteria','Από Βαθμό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.tillgrade_criteria','Εως Βαθμό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.servicemastergroupingcode','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.grade','Βαθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.haschildren','Αναλύεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodebrowser.jsp.med_servicemastergroupingcode.isactive','Ενεργός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingcodebrowser.jsp.validations.servicemastergroupingid_criteria_required','Συμπληρώστε Υποχρεωτικά Ομάδα Υπηρεσιών');
+
+
+--Medical ServiceMatser GroupingCode Entry
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.pagetitle','Καταχώρηση Κωδικών Ομαδοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.entrydisplaybox.caption','Στοιχεία Κωδικού Ομαδοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.servicemastergroupingid','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.servicemastergroupingcode','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.grade','Βαθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.haschildren','Αναλύεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeentry.jsp.med_servicemastergroupingcode.isdefault','Προεπιλογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.med_servicegrpcodeitemgrpcode.servicegrpcodeitemgrpcodeid','Συσχετισμένη Ομάδα Χρεούμενων Ειδών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingcodeentry.jsp.validations.servicemastergroupingidrequired','Συμπληρώστε Υποχρεωτικά Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingcodeentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingcodeentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemastergroupingcodeentry.jsp.validations.servicemastergroupingcoderequired','Συμπληρώστε Υποχρεωτικά Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicematsergroupingcodeentry.jsp.validations.accountisdefault_and_haschildren','Ο Κωδικός Αναλύεται. Δεν Μπορει Να Οριστεί Ως Προεπιλογή');
+
+--Med ServiceMaster Grouping Code Index
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.pagetitle','Επιλογή Ομάδων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.griddisplaybox.caption','Κωδικοί');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.displayformattedaccount_criteria','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.descr_criteria','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.med_servicemastergroupingcode.servicemastergroupingcode','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.med_servicemastergroupingcode.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemastergroupingcodeindex.jsp.med_servicemastergroupingcode.descr','Περιγραφή');
+
+
+--Med ServiceMaster Entry
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.tabs.page5','Ομαδοποιήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.objectuserslink','Πρόσβαση Χρηστών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.med_servicemastergroup.servicemastergroupingcode','Ομάδα Ένταξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.med_servicemastergroupdisplaybox.caption','Ομαδοποιήσεις');
+
+--med_medicalrec browser
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_service.medicalstatusid_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_service.protocol_criteria','Αρ.Πρωτοκ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_service.servicemastergroup1_criteria','Ομαδοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecbrowser.jsp.validations.servicemastergroupingcoderequired','Συμπληρώστε Κωδικό Ομάδας');
+
+
+--med_medicalrec entry
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_service.protocolno','Αρ.Πρωτοκόλλου ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.visitidrequired','Συμπληρώστε Υποχρεωτικά Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.servicemasteridrequired','Συμπληρώστε Υποχρεωτικά Υπηρεσία');
+
+
+--med medical rec browser2
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.pagetitle','Διαχείριση Ιατρικών Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.servicegriddisplaybox.caption','Ιατρικές Υπηρεσίες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.name_criteria','Επώνυμο - Ονομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.mnemonic_criteria','Αρ.Εισιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.sincedate_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.tilldate_criteria','Εως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.medicalstatusid_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.protocol_criteria','Αρ.Πρωτ/λλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.servicemastergroup1_criteria','Ομαδοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.servicemasterid_criteria','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.servicedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.pta_visit.mnemonic','Αρ.Εισιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.pta_visit.firstname','Ονομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.pta_visit.fatherfirstname','Ον.Πατρός ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_servicemaster.displaydescr','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_medicalstatus.mnemonic','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.servicestatuslog','Αλλαγές Κατάστασης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecbrowser2.jsp.validations.servicemastergroupingcoderequired','Συμπληρώστε Κωδικό Ομάδας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecbrowser2.jsp.fill_atleast_one_criteria','Συμπληρώστε Υποχρεωτικά Στοιχεία Νοσηλείας ή Ημερομηνιακό Διάστημα ή Αρ. Πρωτοκόλλου');
+
+--Med Servie Data
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pagetitle','Στοιχεία Ιατρικών Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pta_doctor.lastname','Επώνυμο Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pta_doctor.firstname','Όνομα Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pbl_doctorrole.mnemonic','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pbl_visitdiagnosis.pta_diagnosiscode.descr','Διάγνωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pbl_visitdiagnosis.pta_doctor.lastname','Επώνυμο Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pbl_visitdiagnosis.pta_doctor.firstname','Όνομα Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pbl_visitdiagnosis.diagnosistext','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicedata.jsp.pbl_visitdiagnosis.ismaindiagnosis','Κύρια');

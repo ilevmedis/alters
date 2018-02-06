@@ -1,0 +1,1 @@
+update sys_localization set message='Ο Αριθμός Έγκρισης Ασφ. Φορέα Δεν Είναι Συμπληρωμένος' where localizationkey='pta_visitentry.jsp.validations.pbl_visitcoverdetail.insuranceapprovalno_required';

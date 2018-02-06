@@ -1,0 +1,73 @@
+create or replace function GETITEMFULLCODE(ITEMID Number,CompanyId Number, FyearID Number) return Char is
+  result VarChar2(100);
+  CURSOR Master_cur (aItemID Number,aCompanyId Number,aFyearId Number)is
+  Select INV_ITEM.MNEMONIC
+   FROM INV_ITEM
+   WHERE INV_ITEM.INVITEMID=aITEMID
+            AND INV_ITEM.COMPANYID=aCompanyId
+            AND INV_ITEM.FYEARID=aFyearID;
+   Master_rec Master_cur%ROWTYPE;
+
+Begin
+  OPEN Master_cur (ITEMID,CompanyId,FyearID);
+  Fetch Master_cur Into Master_rec;
+    Result := Master_rec.Mnemonic ;
+  CLOSE Master_cur;
+
+  If Length(Result) <1 then
+     Result := '';
+  end if;
+  return(result);
+end GETITEMFULLCODE;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!! ONLY FOR DUNANT
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ 
+create or replace function GETITEMFULLCODE(ITEMID Number,CompanyId Number, FyearID Number) return Char is
+  result VarChar2(100);
+
+
+--   CURSOR Master_cur (aParam Integer)is
+  CURSOR Master_cur (aItemID Number,aCompanyId Number,aFyearId Number)is
+  Select INV_ITEM.MNEMONIC,
+  ITEMGROUP1.INVITEMGROUPINGCODE INVITEMGROUPINGCODE1,ITEMGROUP2.INVITEMGROUPINGCODE INVITEMGROUPINGCODE2,
+  ITEMGROUP3.INVITEMGROUPINGCODE INVITEMGROUPINGCODE3,ITEMGROUP4.INVITEMGROUPINGCODE INVITEMGROUPINGCODE4
+   FROM INV_ITEM INNER JOIN INV_ITEMGROUP ITEMGROUP1
+      ON ITEMGROUP1.INVITEMID= INV_ITEM.INVITEMID
+        AND ITEMGROUP1.COMPANYID = INV_ITEM.COMPANYID
+           AND ITEMGROUP1.FYEARID = INV_ITEM.FYEARID
+             AND ITEMGROUP1.INVITEMGROUPINGID=1
+     INNER JOIN INV_ITEMGROUP ITEMGROUP2
+       ON ITEMGROUP2.INVITEMID= INV_ITEM.INVITEMID
+         AND ITEMGROUP2.COMPANYID = INV_ITEM.COMPANYID
+           AND ITEMGROUP2.FYEARID = INV_ITEM.FYEARID
+             AND ITEMGROUP2.INVITEMGROUPINGID=2
+     INNER JOIN INV_ITEMGROUP ITEMGROUP3
+       ON ITEMGROUP3.INVITEMID= INV_ITEM.INVITEMID
+         AND ITEMGROUP3.COMPANYID = INV_ITEM.COMPANYID
+           AND ITEMGROUP3.FYEARID = INV_ITEM.FYEARID
+             AND ITEMGROUP3.INVITEMGROUPINGID=3
+     INNER JOIN INV_ITEMGROUP ITEMGROUP4
+       ON ITEMGROUP4.INVITEMID= INV_ITEM.INVITEMID
+         AND ITEMGROUP4.COMPANYID = INV_ITEM.COMPANYID
+           AND ITEMGROUP4.FYEARID = INV_ITEM.FYEARID
+             AND ITEMGROUP4.INVITEMGROUPINGID=4
+   WHERE INV_ITEM.INVITEMID=aITEMID --12459
+            AND INV_ITEM.COMPANYID=aCompanyId
+            AND INV_ITEM.FYEARID=aFyearID;
+   Master_rec Master_cur%ROWTYPE;
+
+Begin
+
+
+      OPEN Master_cur (ITEMID,CompanyId,FyearID);
+      Fetch Master_cur Into Master_rec;
+        Result := Master_rec.Invitemgroupingcode1||Master_rec.Invitemgroupingcode2||Master_rec.Invitemgroupingcode3||'-'||Master_rec.Invitemgroupingcode4||Master_rec.Mnemonic ;
+      CLOSE Master_cur;
+
+  If Length(Result) <1 then
+     Result := '';
+  end if;
+  return(result);
+end GETITEMFULLCODE;

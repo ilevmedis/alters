@@ -1,0 +1,5 @@
+pta_lastpatientvisitindex.jsp.pta_lastpatientvisit.patientmnemonic = Κωδ. Ασθενή
+pta_lastpatientvisitindex.jsp.pta_lastpatientvisit.patientid = ΚΑ Ασθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_lastpatientvisitindex.jsp.pta_lastpatientvisit.patientmnemonic','Κωδ. Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_lastpatientvisitindex.jsp.pta_lastpatientvisit.patientid','ΚΑ Ασθ.');

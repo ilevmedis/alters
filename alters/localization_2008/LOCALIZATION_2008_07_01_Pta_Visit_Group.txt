@@ -1,0 +1,1 @@
+﻿insert into sys_localization(localizationkey, lang, message, isuserchanged) values ('pta_visitentry.jsp.pta_visitgroup.comments', 'el','Σχόλια', '0')

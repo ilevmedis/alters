@@ -1,0 +1,6 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyhl7msgbrowser.jsp.view', 'Διαχείριση HL7 Μηνυμάτων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyhl7msgbrowser.jsp.print', 'Εκτύπωση HL7 Μηνυμάτων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyhl7msgbrowser.jsp.update', 'Μεταβολή HL7 Μηνυμάτων ΕΟΠΥΥ');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pta_eopyyhl7msgbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pta_eopyyhl7msgbrowser.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pta_eopyyhl7msgbrowser.jsp.update', 1);

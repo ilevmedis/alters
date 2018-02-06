@@ -1,0 +1,4 @@
+alter table INV_ITEM add ISUSINGGRANTUNIT varchar2(1);
+UPDATE INV_ITEM SET ISUSINGGRANTUNIT = '0';
+COMMIT;
+alter table INV_ITEM modify ISUSINGGRANTUNIT not null;

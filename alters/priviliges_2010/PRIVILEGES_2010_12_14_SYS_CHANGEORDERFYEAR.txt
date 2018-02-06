@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_changeorderfyear.jsp.view', 'Ανάγνωση Μεταφοράς Παραγγελ. Προμηθ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeorderfyear.jsp.print', 'Εκτύπωση Μεταφοράς Παραγγελ. Προμηθ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeorderfyear.jsp.insert', 'Εισαγωγή Μεταφοράς Παραγγελ. Προμηθ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeorderfyear.jsp.update', 'Μεταβολή Μεταφοράς Παραγγελ. Προμηθ.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changeorderfyear.jsp.delete', 'Διαγραφή Μεταφοράς Παραγγελ. Προμηθ.');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeorderfyear.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeorderfyear.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeorderfyear.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeorderfyear.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changeorderfyear.jsp.insert', 1);

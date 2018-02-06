@@ -1,0 +1,119 @@
+med_orderentry.jsp.med_orderheader.patientid = Ασθενής
+med_orderentry.jsp.tabs.page3 = Στοιχεία Ασθενή
+med_orderentry.jsp.pta_visit.lastname = Επώνυμο
+med_orderentry.jsp.pta_visit.firstname = Όνομα
+med_orderentry.jsp.pta_visit.fatherfirstname = Όνομα Πατρός
+med_orderentry.jsp.pta_visit.fatherlastname = Επώνυμο Πατρός
+med_orderentry.jsp.pta_visit.genderid = Φύλο
+med_orderentry.jsp.pta_visit.motherfirstname = Όνομα Μητρός
+med_orderentry.jsp.pta_visit.motherlastname = Επώνυμο Μητρός
+med_orderentry.jsp.pta_visit.idnumber = Αρ.Ταυτότητας
+med_orderentry.jsp.pta_visit.iddate = Ημ/νία/Αρχή Έκδοσης
+med_orderentry.jsp.pta_visit.passportnumber = Αρ.Διαβατηρίου
+med_orderentry.jsp.pta_visit.passportdate = Ημ/νία/Χώρα Έκδοσης
+med_orderentry.jsp.pta_visit.maritalstatusid = Οικογ.Κατάσταση
+med_orderentry.jsp.pta_visit.partnerfirstname = Όνομα Συζύγου
+med_orderentry.jsp.pta_visit.partnerlastname = Επώνυμο Συζύγου
+med_orderentry.jsp.pta_visit.birthdate = Ημ/νία Γέννησης
+med_orderentry.jsp.pta_visit.birthcountryid = Χώρα Γέννησης
+med_orderentry.jsp.pta_visit.birthprefectureid = Νομός Γέννησης
+med_orderentry.jsp.pta_visit.birthmunicipalityid = Δήμος Γέννησης
+med_orderentry.jsp.pta_visit.birthcityid = Πόλη Γέννησης
+med_orderentry.jsp.pta_visit.nationalitytypeid = Ομαδοπ.Εθνικότητας
+med_orderentry.jsp.pta_visit.nationalityid = Εθνικότητα
+med_orderentry.jsp.pta_visit.mainlanguageid = Γλώσσα Επικοινωνίας
+med_orderentry.jsp.pta_visit.religionid = Θρήσκευμα
+med_orderentry.jsp.pta_visit.citizenshipid = Υπηκοότητα
+med_orderentry.jsp.pta_visit.legalizationpaper = Νομιμοποιητικά Έγγραφα Αλλοδαπού
+med_orderentry.jsp.pta_visit.isrefugee = Πολιτικός Πρόσφυγας
+med_orderentry.jsp.pta_visit.taxbranchid = ΔΟΥ
+med_orderentry.jsp.pta_visit.taxregistrationno = ΑΦΜ
+med_orderentry.jsp.pta_visit.patientid = ΚΑ Ασθενή
+med_orderentry.jsp.sys_address.street1num = Αριθμός
+med_orderentry.jsp.sys_address.countryid = Χώρα
+med_orderentry.jsp.sys_address.cityid = Πόλη
+med_orderentry.jsp.sys_address.district = Περιοχή
+med_orderentry.jsp.sys_address.zip = ΤΚ
+med_orderentry.jsp.sys_address.ismainaddress = Κύρια
+med_orderentry.jsp.sys_address.street1 = Οδός
+med_orderentry.jsp.sys_phone.companyphone = Τηλέφωνο
+med_orderentry.jsp.sys_phone.phonetype = Είδος
+med_orderentry.jsp.sys_phone.phonenumber = Αριθμός
+med_orderentry.jsp.sys_phone.accessphone = Επικοινωνίας
+
+med_orderentry.jsp.validations.patientid_required = Συμπληρώστε Υποχρεωτικά Ασθενή
+med_orderentry.jsp.validations.lastname_required = Συμπληρώστε Υποχρεωτικά Επώνυμο Ασθενή
+med_orderentry.jsp.validations.firstname_required = Συμπληρώστε Υποχρεωτικά Όνομα Ασθενή
+med_orderentry.jsp.validations.fatherfirstname_required = Συμπληρώστε Υποχρεωτικά Όνομα Πατρός Ασθενή
+med_orderentry.jsp.validations.birthdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Ασθενή
+med_orderentry.jsp.validations.genderid_required = Συμπληρώστε Υποχρεωτικά Φύλο Ασθενή
+med_orderentry.jsp.validations.street1_required = Συμπληρώστε Υποχρεωτικά Οδό
+med_orderentry.jsp.validations.street1num_required = Συμπληρώστε Υποχρεωτικά Αριθμό
+med_orderentry.jsp.validations.cityid_required = Συμπληρώστε Υποχρεωτικά Πόλη
+med_orderentry.jsp.validations.countryid_required = Συμπληρώστε Υποχρεωτικά Χώρα
+med_orderentry.jsp.validations.district_required = Συμπληρώστε Υποχρεωτικά Περιοχή
+med_orderentry.jsp.validations.phonenumber_required = Συμπληρώστε Υποχρεωτικά Τηλέφωνο
+med_orderentry.jsp.validations.many_addresses_default = Σημειώθηκαν Περισσότερες Από Μια Διευθύνσεις Ως Κύριες
+med_orderentry.jsp.validations.onlyoneaccessphone = Μόνο Ένα Τηλέφωνο Μπορεί Να Είναι Το Βασικό Τηλεφωνο Επικοινωνίας
+
+med_orderbrowser.jsp.newpatientorder = Νέα Παραγγ. Ασθενή
+
+delete from sys_localization where localizationkey = 'med_orderentry.jsp.tabs.page3';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_orderheader.patientid','Ασθενής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.tabs.page3','Στοιχεία Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.fatherfirstname','Όνομα Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.fatherlastname','Επώνυμο Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.genderid','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.motherfirstname','Όνομα Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.motherlastname','Επώνυμο Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.idnumber','Αρ.Ταυτότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.iddate','Ημ/νία/Αρχή Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.passportnumber','Αρ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.passportdate','Ημ/νία/Χώρα Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.maritalstatusid','Οικογ.Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.partnerfirstname','Όνομα Συζύγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.partnerlastname','Επώνυμο Συζύγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.birthdate','Ημ/νία Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.birthcountryid','Χώρα Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.birthprefectureid','Νομός Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.birthmunicipalityid','Δήμος Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.birthcityid','Πόλη Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.nationalitytypeid','Ομαδοπ.Εθνικότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.nationalityid','Εθνικότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.mainlanguageid','Γλώσσα Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.religionid','Θρήσκευμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.citizenshipid','Υπηκοότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.legalizationpaper','Νομιμοποιητικά Έγγραφα Αλλοδαπού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.isrefugee','Πολιτικός Πρόσφυγας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.taxbranchid','ΔΟΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.taxregistrationno','ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_visit.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.street1num','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.cityid','Πόλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.district','Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.zip','ΤΚ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.ismainaddress','Κύρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_address.street1','Οδός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_phone.companyphone','Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_phone.phonetype','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_phone.phonenumber','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sys_phone.accessphone','Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbrowser.jsp.newpatientorder','Νέα Παραγγ. Ασθενή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.patientid_required','Συμπληρώστε Υποχρεωτικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.lastname_required','Συμπληρώστε Υποχρεωτικά Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.firstname_required','Συμπληρώστε Υποχρεωτικά Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.fatherfirstname_required','Συμπληρώστε Υποχρεωτικά Όνομα Πατρός Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.birthdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.genderid_required','Συμπληρώστε Υποχρεωτικά Φύλο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.street1_required','Συμπληρώστε Υποχρεωτικά Οδό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.street1num_required','Συμπληρώστε Υποχρεωτικά Αριθμό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.cityid_required','Συμπληρώστε Υποχρεωτικά Πόλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.countryid_required','Συμπληρώστε Υποχρεωτικά Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.district_required','Συμπληρώστε Υποχρεωτικά Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.phonenumber_required','Συμπληρώστε Υποχρεωτικά Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.many_addresses_default','Σημειώθηκαν Περισσότερες Από Μια Διευθύνσεις Ως Κύριες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.onlyoneaccessphone','Μόνο Ένα Τηλέφωνο Μπορεί Να Είναι Το Βασικό Τηλεφωνο Επικοινωνίας');

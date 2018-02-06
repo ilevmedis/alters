@@ -1,0 +1,7 @@
+﻿fin_eventtypeentry.jsp.fin_eventtype.iscreatingdetailsfromtaxes = Δημιουργία Χρεοπιστώσεων από Κρατήσεις
+fin_eventtypeentry.jsp.fin_eventtype.defaulttaxscenarioid = Προεπιλεγμένο Σενάριο Κρατήσεων
+fin_eventtypeentry.jsp.tabs.page3 = Παράμετροι Κρατήσεων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.fin_eventtype.iscreatingdetailsfromtaxes','Δημιουργία Χρεοπιστώσεων από Κρατήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.fin_eventtype.defaulttaxscenarioid','Προεπιλεγμένο Σενάριο Κρατήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.tabs.page3','Παράμετροι Κρατήσεων');

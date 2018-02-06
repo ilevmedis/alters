@@ -1,0 +1,227 @@
+plg_incomeentry.jsp.fin_transheader.clinicalstudyid = Κλινική Μελέτη
+
+plg_incomeentry.jsp.validations.empty_fintranspartyid = Συμπληρώστε Υποχρεωτικά Πρώτα Πληρώσα Πριν Την Επιλογή Κλινικής Μελέτης
+plg_incomeentry.jsp.validations.inconsistency_fintransprty_clinicalstudy = Ο Πληρώσας Δεν Είναι Χορηγός Της Κλινικής Μελέτης. Παρακαλώ Διορθώστε
+
+pbl_invoiceentry.jsp.fin_transheader.clinicalstudyid = Κλινική Μελέτη
+
+pbl_invoiceentry.jsp.validations.empty_fintranspartyid = Συμπληρώστε Υποχρεωτικά Πρώτα Συναλλασσόμενο Πριν Την Επιλογή Κλινικής Μελέτης
+pbl_invoiceentry.jsp.validations.inconsistency_fintransprty_clinicalstudy = Ο Συγκεκριμένος Συναλλασσόμενος Δεν Είναι Χορηγός Της Κλινικής Μελέτης. Παρακαλώ Διορθώστε
+
+pbl_clinicalstudyindex.jsp.pagetitle = Επιλογή Κλινικών Μελετών
+pbl_clinicalstudyindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_clinicalstudyindex.jsp.griddisplaybox.caption = Κλινικές Μελέτες
+
+pbl_clinicalstudyindex.jsp.fintransparty_criteria = Χορηγός
+pbl_clinicalstudyindex.jsp.mnemonic_criteria = Μνημονικός
+pbl_clinicalstudyindex.jsp.descr_criteria = Περιγραφή
+pbl_clinicalstudyindex.jsp.studystatusid_criteria = Κατάσταση
+pbl_clinicalstudyindex.jsp.pbl_clinicalstudy.clinicalstudyid = Κωδικός
+pbl_clinicalstudyindex.jsp.pbl_clinicalstudy.mnemonic = Μνημονικός
+pbl_clinicalstudyindex.jsp.pbl_clinicalstudy.descr = Περιγραφή
+pbl_clinicalstudyindex.jsp.pbl_studystatus.mnemonic = Κατάσταση
+
+
+pbl_studystatusbrowser.jsp.pagetitle = Διαχείριση Καταστάσεων Κλινικών Μελετών
+pbl_studystatusbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_studystatusbrowser.jsp.griddisplaybox.caption = Καταστάσεις Κλινικών Μελετών
+
+pbl_studystatusbrowser.jsp.mnemonic_criteria = Μνημονικός
+pbl_studystatusbrowser.jsp.isusedforinvoice_criteria = Εκδοση ΑΠΥ
+pbl_studystatusbrowser.jsp.descr_criteria = Περιγραφή
+pbl_studystatusbrowser.jsp.pbl_studystatus.studystatusid = Κωδικός
+pbl_studystatusbrowser.jsp.pbl_studystatus.mnemonic = Μνημονικός
+pbl_studystatusbrowser.jsp.pbl_studystatus.descr = Περιγραφή
+pbl_studystatusbrowser.jsp.pbl_studystatus.isusedforinvoice = Εκδοση ΑΠΥ
+
+pbl_studystatusentry.jsp.pagetitle = Καταστάσεις Κλινικών Μελετών
+pbl_studystatusentry.jsp.entrydisplaybox.caption = Στοιχεία Κατάστασης
+pbl_studystatusentry.jsp.pbl_studystatus.studystatusid = Κωδικός
+pbl_studystatusentry.jsp.pbl_studystatus.isusedforinvoice = Έκδοση ΑΠΥ
+pbl_studystatusentry.jsp.pbl_studystatus.mnemonic = Μνημονικός
+pbl_studystatusentry.jsp.pbl_studystatus.descr = Περιγραφή
+
+pbl_studystatusentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+pbl_studystatusentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+pbl_clinicalstudybrowser.jsp.pagetitle = Διαχείριση Κλινικών Μελετών
+pbl_clinicalstudybrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_clinicalstudybrowser.jsp.griddisplaybox.caption = Κλινικές Μελέτες
+pbl_clinicalstudybrowser.jsp.mnemonic_criteria = Μνημονικός
+pbl_clinicalstudybrowser.jsp.isactive_criteria = Ενεργή
+pbl_clinicalstudybrowser.jsp.descr_criteria = Περιγραφή
+pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.clinicalstudyid = Κωδικός
+pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.mnemonic = Μνημονικός
+pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.descr = Περιγραφή
+pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.isactive = Ενεργή
+
+pbl_clinicalstudybrowser.jsp.fintranspartyid_criteria = Χορηγός
+pbl_clinicalstudybrowser.jsp.studystatusid_criteria = Κατάσταση
+
+pbl_clinicalstudybrowser.jsp.fin_transparty.mnemonic = Μνημ.Χορηγού
+pbl_clinicalstudybrowser.jsp.fin_transparty.name = Χορηγός
+pbl_clinicalstudybrowser.jsp.pbl_studystatus.mnemonic = Κατάσταση
+
+
+pbl_clinicalstudyentry.jsp.pagetitle = Κλινικές Μελέτες
+pbl_clinicalstudyentry.jsp.entrydisplaybox.caption = Στοιχεία Κλινικής Μελέτης
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.clinicalstudyid = Κωδικός
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isactive = Ενεργή
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isemergency = Επείγον
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isintervened = Παρεμβατική
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.mnemonic = Μνημονικός Κωδικός
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.studystatusid = Κατάσταση
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.descr = Περιγραφή
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.comments = Σχόλια
+pbl_clinicalstudyentry.jsp.tabs.page1 = Στοιχεία Μελέτης
+pbl_clinicalstudyentry.jsp.tabs.page2 = Εκδοθέντα Τιμολ.
+pbl_clinicalstudyentry.jsp.tabs.page3 = Γραμ.Είσπραξης
+pbl_clinicalstudyentry.jsp.tabs.page4 = Τρόπος Πληρωμής
+
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudyfinitem.fintranspartyid = Χορηγός
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.coordinator = Επιστημ.Υπεύθυνος
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.signedby = Υπογραφές
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isapproved = Εγκριση ΔΣ
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.managementindicator = Φορέας Διαχ/σης
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.approveddate = Ημ/νία Εγκρισης
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.paymentway = Τρόπος Εξόφλησης
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.endstudydate = Ημ/νία Λήξης
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.budgetamount = Προϋπολογισμός
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.hospdeductionamount = Παρακράτηση Υπερ Νοσοκ.
+pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.economicalcomments = Οικονομ. Σχόλια
+pbl_clinicalstudyentry.jsp.fin_transdetail.internaleventdate = Ημ/νία
+pbl_clinicalstudyentry.jsp.fin_transdetail.internaleventno = Αρ.Τιμόλ.
+pbl_clinicalstudyentry.jsp.fin_eventtype.mnemonic = Παρ/κό
+pbl_clinicalstudyentry.jsp.fin_transdetail.amountdebit = Χρέωση
+pbl_clinicalstudyentry.jsp.fin_transdetail.amountcredit = Πίστωση
+
+pbl_clinicalstudyentry.jsp.plg_xep2.paymentdate = Ημ.Εξόφλ.
+pbl_clinicalstudyentry.jsp.plg_xep2.internaleventno = Αρ. Γ.Ε
+pbl_clinicalstudyentry.jsp.fin_transparty.mnemonic = Μνημ.Κωδ.Πελ.
+pbl_clinicalstudyentry.jsp.fin_transparty.name = Επωνυμία
+pbl_clinicalstudyentry.jsp.plg_xep2.totalamount = Ποσό
+
+pbl_clinicalstudyentry.jsp.pbl_clinicalpaymentdisplaybox.caption = Στοιχεία Πληρωμής
+pbl_clinicalstudyentry.jsp.pbl_clinicalpayment.paymentdate = Ημ/νία Εξόφλησης
+pbl_clinicalstudyentry.jsp.pbl_clinicalpayment.paymentamount = Ποσό Εξόφλησης
+
+pbl_clinicalstudyentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνηνονικό Κωδικό
+pbl_clinicalstudyentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+pbl_clinicalstudyentry.jsp.validations.studystatusid_required = Συμπληρώστε Υποχρεωτικά Κατάσταση
+pbl_clinicalstudyentry.jsp.validations.fintranspartyid_required = Συμπληρώστε Υποχρεωτικά Χορηγό
+
+pbl_clinicalstudyentryentry.jsp.validations.pbl_clinicalpayment.paymentdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Εξόφλησης
+pbl_clinicalstudyentryentry.jsp.validations.pbl_clinicalpayment.paymentamount_required = Συμπληρώστε Υποχρεωτικά Ποσό Εξόφλησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_incomeentry.jsp.fin_transheader.clinicalstudyid','Κλινική Μελέτη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_incomeentry.jsp.validations.empty_fintranspartyid','Συμπληρώστε Υποχρεωτικά Πρώτα Πληρώσα Πριν Την Επιλογή Κλινικής Μελέτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_incomeentry.jsp.validations.inconsistency_fintransprty_clinicalstudy','Ο Πληρώσας Δεν Είναι Χορηγός Της Κλινικής Μελέτης. Παρακαλώ Διορθώστε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transheader.clinicalstudyid','Κλινική Μελέτη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.empty_fintranspartyid','Συμπληρώστε Υποχρεωτικά Πρώτα Συναλλασσόμενο Πριν Την Επιλογή Κλινικής Μελέτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.inconsistency_fintransprty_clinicalstudy','Ο Συγκεκριμένος Συναλλασσόμενος Δεν Είναι Χορηγός Της Κλινικής Μελέτης. Παρακαλώ Διορθώστε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.pagetitle','Επιλογή Κλινικών Μελετών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.griddisplaybox.caption','Κλινικές Μελέτες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.fintransparty_criteria','Χορηγός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.studystatusid_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.pbl_clinicalstudy.clinicalstudyid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.pbl_clinicalstudy.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.pbl_clinicalstudy.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyindex.jsp.pbl_studystatus.mnemonic','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.pagetitle','Διαχείριση Καταστάσεων Κλινικών Μελετών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.griddisplaybox.caption','Καταστάσεις Κλινικών Μελετών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.isusedforinvoice_criteria','Εκδοση ΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.pbl_studystatus.studystatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.pbl_studystatus.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.pbl_studystatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusbrowser.jsp.pbl_studystatus.isusedforinvoice','Εκδοση ΑΠΥ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusentry.jsp.pagetitle','Καταστάσεις Κλινικών Μελετών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusentry.jsp.entrydisplaybox.caption','Στοιχεία Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusentry.jsp.pbl_studystatus.studystatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusentry.jsp.pbl_studystatus.isusedforinvoice','Έκδοση ΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusentry.jsp.pbl_studystatus.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_studystatusentry.jsp.pbl_studystatus.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_studystatusentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_studystatusentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.pagetitle','Διαχείριση Κλινικών Μελετών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.griddisplaybox.caption','Κλινικές Μελέτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.clinicalstudyid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.pbl_clinicalstudy.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.fintranspartyid_criteria','Χορηγός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.studystatusid_criteria','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.fin_transparty.mnemonic','Μνημ.Χορηγού ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.fin_transparty.name','Χορηγός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudybrowser.jsp.pbl_studystatus.mnemonic','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pagetitle','Κλινικές Μελέτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.entrydisplaybox.caption','Στοιχεία Κλινικής Μελέτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.clinicalstudyid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isemergency','Επείγον');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isintervened','Παρεμβατική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.studystatusid','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.tabs.page1','Στοιχεία Μελέτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.tabs.page2','Εκδοθέντα Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.tabs.page3','Γραμ.Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.tabs.page4','Τρόπος Πληρωμής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudyfinitem.fintranspartyid','Χορηγός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.coordinator','Επιστημ.Υπεύθυνος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.signedby','Υπογραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.isapproved','Εγκριση ΔΣ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.managementindicator','Φορέας Διαχ/σης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.approveddate','Ημ/νία Εγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.paymentway','Τρόπος Εξόφλησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.endstudydate','Ημ/νία Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.budgetamount','Προϋπολογισμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.hospdeductionamount','Παρακράτηση Υπερ Νοσοκ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalstudy.economicalcomments','Οικονομ. Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_transdetail.internaleventdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_transdetail.internaleventno','Αρ.Τιμόλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_eventtype.mnemonic','Παρ/κό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_transdetail.amountdebit','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_transdetail.amountcredit','Πίστωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.plg_xep2.paymentdate','Ημ.Εξόφλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.plg_xep2.internaleventno','Αρ. Γ.Ε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_transparty.mnemonic','Μνημ.Κωδ.Πελ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.fin_transparty.name','Επωνυμία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.plg_xep2.totalamount','Ποσό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalpaymentdisplaybox.caption','Στοιχεία Πληρωμής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalpayment.paymentdate','Ημ/νία Εξόφλησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clinicalstudyentry.jsp.pbl_clinicalpayment.paymentamount','Ποσό Εξόφλησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clinicalstudyentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνηνονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clinicalstudyentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clinicalstudyentry.jsp.validations.studystatusid_required','Συμπληρώστε Υποχρεωτικά Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clinicalstudyentry.jsp.validations.fintranspartyid_required','Συμπληρώστε Υποχρεωτικά Χορηγό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clinicalstudyentryentry.jsp.validations.pbl_clinicalpayment.paymentdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Εξόφλησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_clinicalstudyentryentry.jsp.validations.pbl_clinicalpayment.paymentamount_required','Συμπληρώστε Υποχρεωτικά Ποσό Εξόφλησης');

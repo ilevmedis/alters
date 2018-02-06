@@ -1,0 +1,30 @@
+med_medicalrecdashboard.jsp.pagetitle = Dashboard Ιατρικού Υποσυστήματος
+med_medicalrecdashboard.jsp.criteriadisplaybox.caption = Κριτήρια Περιστατικού
+med_medicalrecdashboard.jsp.visitid_criteria = Περιστατικό
+med_medicalrecdashboard.jsp.fetchallpatientdata_criteria = Ανεξαρτήτως Νοσηλ.
+medisobservationdisplaybox.jsp.med_observation.observationdate = Ημ/νία
+medisobservationdisplaybox.jsp.med_obsparam.descr = Μέτρηση
+medisobservationdisplaybox.jsp.med_observation.observationvalue = Τιμή Μέτρ.
+medisobservationdisplaybox.jsp.med_observation.component =
+medisobservationdisplaybox.jsp.med_observation.unitofmeasure = Μον.Μετρ.
+med_medicalrecdashboard.jsp.hideshowdashboarditems = Απόκρυψη/Εμφάνιση Μενού
+med_medicalrecdashboard.jsp.modifydashboard = Μεταβολή Dashboard
+med_medicalrecdashboard.jsp.newdashboard = Νέο Dashboard
+
+
+med_medicalrecdashboard.jsp.validations.visitid_required = Συμπληρώστε Υποχρεωτικά Νοσηλεία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.pagetitle','Dashboard Ιατρικού Υποσυστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.criteriadisplaybox.caption','Κριτήρια Περιστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.visitid_criteria','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.fetchallpatientdata_criteria','Ανεξαρτήτως Νοσηλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisobservationdisplaybox.jsp.med_observation.observationdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisobservationdisplaybox.jsp.med_obsparam.descr','Μέτρηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisobservationdisplaybox.jsp.med_observation.observationvalue','Τιμή Μέτρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisobservationdisplaybox.jsp.med_observation.component','');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisobservationdisplaybox.jsp.med_observation.unitofmeasure','Μον.Μετρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.hideshowdashboarditems','Απόκρυψη/Εμφάνιση Μενού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.modifydashboard','Μεταβολή Dashboard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecdashboard.jsp.newdashboard','Νέο Dashboard');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecdashboard.jsp.validations.visitid_required','Συμπληρώστε Υποχρεωτικά Νοσηλεία');

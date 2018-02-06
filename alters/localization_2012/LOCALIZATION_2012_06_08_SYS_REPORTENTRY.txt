@@ -1,0 +1,79 @@
+submitbuttons.wizard = wizard
+sys_reportentry.jsp.tablestab = Tables
+sys_reportentry.jsp.tablealiasestab = Table Aliases
+sys_reportentry.jsp.tablecolumnstab = Table Columns
+sys_reportentry.jsp.tablecolumnsaggregatetab = Aggregate Functions
+sys_reportentry.jsp.joinstab = Joins
+sys_reportentry.jsp.wheretab = Where Clauses
+sys_reportentry.jsp.orderbycolumnstab = Order By
+sys_reportentry.jsp.joins.table1 = Left Join Table
+sys_reportentry.jsp.joins.table2 = Right Join Table
+sys_reportentry.jsp.joins.table1columns = Left Join Columns
+sys_reportentry.jsp.joins.table2columns = Right Join Columns
+sys_reportentry.jsp.joins.isouter = Outer Join
+sys_reportentry.jsp.tables.tablename = Table
+sys_reportentry.jsp.tables.alias = Table Alias
+sys_reportentry.jsp.where.column = Where Clause Column
+sys_reportentry.jsp.where.operator = Where Clause Operator
+sys_reportentry.jsp.where.expression = Where Clause Expression
+sys_reportentry.jsp.tablecolumns.tablename = Table
+sys_reportentry.jsp.tablecolumns.tablealias = Table Alias
+sys_reportentry.jsp.tablecolumns.columnname = Column
+sys_reportentry.jsp.tablecolumns.aggregatefunc = Aggregate Function
+sys_reportentry.jsp.tablecolumns.columnalias = Column Alias
+
+sys_reportentry.jsp.validations.tablealias_required = Υποχρεωτικό Πεδίο:Table Alias
+sys_reportentry.jsp.validations.leftjoin_table_required = Υποχρεωτικό Πεδίο:Left Join Table
+sys_reportentry.jsp.validations.leftjoin_columns_required = Υποχρεωτικό Πεδίο:Left Join Columns
+sys_reportentry.jsp.validations.rightjoin_table_required = Υποχρεωτικό Πεδίο:Right Join Table
+sys_reportentry.jsp.validations.rightjoin_columns_required = Υποχρεωτικό Πεδίο:Right Join Columns
+sys_reportentry.jsp.validations.where_column_required = Υποχρεωτικό Πεδίο:Where Clause Column
+sys_reportentry.jsp.validations.where_operator_required = Υποχρεωτικό Πεδίο:Where Clause Operator
+sys_reportentry.jsp.validations.where_expression_required = Υποχρεωτικό Πεδίο:Where Clause Expression
+
+sys_reportentryjoin.jsp.griddisplaybox.caption = Join Columns
+sys_reportentryjoin.jsp.joincolumn.table1column = Left Join Columns
+sys_reportentryjoin.jsp.joincolumn.table2column = Right Join Columns
+
+sys_reportentryjoin.jsp.validations.table2_column_required = Υποχρεωτικό Πεδίο:Right Join Column
+sys_reportentryjoin.jsp.validations.table1_column_required = Υποχρεωτικό Πεδίο:Left Join Column
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.wizard','wizard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablestab','Tables');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablealiasestab','Table Aliases');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumnstab','Table Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumnsaggregatetab','Aggregate Functions');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.joinstab','Joins');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.wheretab','Where Clauses');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.orderbycolumnstab','Order By');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.joins.table1','Left Join Table');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.joins.table2','Right Join Table');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.joins.table1columns','Left Join Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.joins.table2columns','Right Join Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.joins.isouter','Outer Join');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tables.tablename','Table');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tables.alias','Table Alias');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.where.column','Where Clause Column');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.where.operator','Where Clause Operator');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.where.expression','Where Clause Expression');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumns.tablename','Table');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumns.tablealias','Table Alias');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumns.columnname','Column');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumns.aggregatefunc','Aggregate Function');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.tablecolumns.columnalias','Column Alias');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.tablealias_required','Υποχρεωτικό Πεδίο:Table Alias');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.leftjoin_table_required','Υποχρεωτικό Πεδίο:Left Join Table');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.leftjoin_columns_required','Υποχρεωτικό Πεδίο:Left Join Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.rightjoin_table_required','Υποχρεωτικό Πεδίο:Right Join Table');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.rightjoin_columns_required','Υποχρεωτικό Πεδίο:Right Join Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.where_column_required','Υποχρεωτικό Πεδίο:Where Clause Column');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.where_operator_required','Υποχρεωτικό Πεδίο:Where Clause Operator');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.where_expression_required','Υποχρεωτικό Πεδίο:Where Clause Expression');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentryjoin.jsp.griddisplaybox.caption','Join Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentryjoin.jsp.joincolumn.table1column','Left Join Columns');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentryjoin.jsp.joincolumn.table2column','Right Join Columns');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentryjoin.jsp.validations.table2_column_required','Υποχρεωτικό Πεδίο:Right Join Column');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentryjoin.jsp.validations.table1_column_required','Υποχρεωτικό Πεδίο:Left Join Column');

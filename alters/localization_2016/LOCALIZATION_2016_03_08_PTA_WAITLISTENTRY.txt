@@ -1,0 +1,13 @@
+pta_waitlistbrowser.jsp.submitbuttons.medical = Ιατρικό Υποσύστημα
+pta_waitlistbrowser.jsp.menuitems.medicalrecbrowser = Ιατρικές Υπηρεσίες
+pta_waitlistbrowser.jsp.menuitems.medorderbrowser = Παραγγελίες
+pta_waitlistbrowser.jsp.menuitems.medorderentry = Νέα Παραγγελία
+pta_waitlistbrowser.jsp.menuitems.meddashboard = Dashboard
+pta_waitlistbrowser.jsp.menuitems.medvisitsecurity = Ασφάλεια Περιστ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistbrowser.jsp.submitbuttons.medical','Ιατρικό Υποσύστημα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistbrowser.jsp.menuitems.medicalrecbrowser','Ιατρικές Υπηρεσίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistbrowser.jsp.menuitems.medorderbrowser','Παραγγελίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistbrowser.jsp.menuitems.medorderentry','Νέα Παραγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistbrowser.jsp.menuitems.meddashboard','Dashboard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistbrowser.jsp.menuitems.medvisitsecurity','Ασφάλεια Περιστ.');

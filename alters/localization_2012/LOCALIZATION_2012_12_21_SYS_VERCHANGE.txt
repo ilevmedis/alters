@@ -1,0 +1,101 @@
+sys_verchangebrowser.jsp.pagetitle = Διαχείριση Αλλαγών Εκδόσεων
+sys_verchangebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_verchangebrowser.jsp.griddisplaybox.caption = Αλλαγές Εκδόσεων
+sys_verchangebrowser.jsp.changeindicator_criteria = Είδος Αλλαγής
+sys_verchangebrowser.jsp.isapplied_criteria = Εφαρμόστηκε
+sys_verchangebrowser.jsp.descr_criteria = Περιγραφή
+sys_verchangebrowser.jsp.sincechangedate_criteria = Από Ημ/νία Αλλαγής
+sys_verchangebrowser.jsp.tillchangedate_criteria = Έως Ημ/νία Αλλαγής
+sys_verchangebrowser.jsp.sinceapplydate_criteria = Από Ημ/νία Εφαρμογής
+sys_verchangebrowser.jsp.tillapplydate_criteria = Έως Ημ/νία Εφαρμογής
+sys_verchangebrowser.jsp.sys_verchange.verchangeid = Κωδ. Αλλαγής
+sys_verchangebrowser.jsp.sys_verchange.changeindicator = Είδος Αλλαγής
+sys_verchangebrowser.jsp.sys_verchange.changedate = Ημ/νία Αλλαγής
+sys_verchangebrowser.jsp.sys_verchange.descr = Περιγραφή
+sys_verchangebrowser.jsp.sys_verchange.isapplied = Εφαρμόστηκε
+sys_verchangebrowser.jsp.sys_verchange.applydate = Ημ/νία Εφαρμογής
+sys_verchangebrowser.jsp.sys_verchange.comments = Σχόλια
+sys_verchangebrowser.jsp.sys_verchange.sqlstmt = SQL
+sys_verchangebrowser.jsp.sys_verchange.errormessage = Μήνυμα Λάθους
+sys_verchangebrowser.jsp.applybutton = Εφαρμογή
+
+sys_verchangebrowser.jsp.validations.success = Η Αλλαγή Εφαρμόστηκε Επιτυχώς!
+sys_verchangebrowser.jsp.validations.failure = Παρουσιάστηκε Σφάλμα Κατά Την Εφαρμογή Της Αλλαγής:
+
+sys_verchangeentry.jsp.pagetitle = Καταχώρηση Αλλαγής Έκδοσης
+sys_verchangeentry.jsp.entrydisplaybox.caption = Στοιχεία Αλλαγής Έκδοσης
+sys_verchangeentry.jsp.sys_verchange.verchangeid = Κωδ. Αλλαγής
+sys_verchangeentry.jsp.sys_verchange.changeindicator = Είδος Αλλαγής
+sys_verchangeentry.jsp.sys_verchange.changedate = Ημ/νία Αλλαγής
+sys_verchangeentry.jsp.sys_verchange.descr = Περιγραφή
+sys_verchangeentry.jsp.sys_verchange.comments = Σχόλια
+sys_verchangeentry.jsp.sys_verchange.sqlstmt = SQL
+sys_verchangeentry.jsp.page1 = SQL Statements
+sys_verchangeentry.jsp.page2 = Αποτελέσματα
+sys_verchangeentry.jsp.sqlstmt.parsedsqlstmt = SQL Statement
+sys_verchangeentry.jsp.sys_verchange.isapplied = Εφαρμόστηκε
+sys_verchangeentry.jsp.sys_verchange.applydate = Ημ/νία Εφαρμογής
+sys_verchangeentry.jsp.sys_verchange.errormessage = Μήνυμα Λάθους
+sys_verchangeentry.jsp.sys_verchangeresult.sqlstmt = SQL
+sys_verchangeentry.jsp.sys_verchangeresult.isexecuted = Εκτελέστηκε
+sys_verchangeentry.jsp.sys_verchangeresult.executiondate = Ημ/νία Εκτελεσης
+sys_verchangeentry.jsp.sys_verchangeresult.executionduration = Διάρκεια
+sys_verchangeentry.jsp.sys_verchangeresult.isapplied = Εφαρμόστηκε
+sys_verchangeentry.jsp.sys_verchangeresult.applydate = Ημ/νία Εφαρμογής
+sys_verchangeentry.jsp.sys_verchangeresult.errormessage = Μήνυμα Λάθους
+
+sys_verchangeentry.jsp.validations.changeindicatorrequired = Συμπληρώστε Υποχρεωτικά Είδος Αλλαγής
+sys_verchangeentry.jsp.validations.changedaterequired = Συμπληρώστε Υποχρεωτικά Ημ/νία Αλλαγής
+sys_verchangeentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+sys_verchangeentry.jsp.validations.sqlstmtrequired = Συμπληρώστε Υποχρεωτικά SQL
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.pagetitle','Διαχείριση Αλλαγών Εκδόσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.griddisplaybox.caption','Αλλαγές Εκδόσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.changeindicator_criteria','Είδος Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.isapplied_criteria','Εφαρμόστηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sincechangedate_criteria','Από Ημ/νία Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.tillchangedate_criteria','Έως Ημ/νία Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sinceapplydate_criteria','Από Ημ/νία Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.tillapplydate_criteria','Έως Ημ/νία Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.verchangeid','Κωδ. Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.changeindicator','Είδος Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.changedate','Ημ/νία Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.isapplied','Εφαρμόστηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.applydate','Ημ/νία Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.sqlstmt','SQL');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.sys_verchange.errormessage','Μήνυμα Λάθους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangebrowser.jsp.applybutton','Εφαρμογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_verchangebrowser.jsp.validations.success','Η Αλλαγή Εφαρμόστηκε Επιτυχώς!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_verchangebrowser.jsp.validations.failure','Παρουσιάστηκε Σφάλμα Κατά Την Εφαρμογή Της Αλλαγής:');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.pagetitle','Καταχώρηση Αλλαγής Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.entrydisplaybox.caption','Στοιχεία Αλλαγής Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.verchangeid','Κωδ. Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.changeindicator','Είδος Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.changedate','Ημ/νία Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.sqlstmt','SQL');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.page1','SQL Statements');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.page2','Αποτελέσματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sqlstmt.parsedsqlstmt','SQL Statement');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.isapplied','Εφαρμόστηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.applydate','Ημ/νία Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchange.errormessage','Μήνυμα Λάθους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.sqlstmt','SQL');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.isexecuted','Εκτελέστηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.executiondate','Ημ/νία Εκτελεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.executionduration','Διάρκεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.isapplied','Εφαρμόστηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.applydate','Ημ/νία Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_verchangeentry.jsp.sys_verchangeresult.errormessage','Μήνυμα Λάθους');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_verchangeentry.jsp.validations.changeindicatorrequired','Συμπληρώστε Υποχρεωτικά Είδος Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_verchangeentry.jsp.validations.changedaterequired','Συμπληρώστε Υποχρεωτικά Ημ/νία Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_verchangeentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_verchangeentry.jsp.validations.sqlstmtrequired','Συμπληρώστε Υποχρεωτικά SQL');

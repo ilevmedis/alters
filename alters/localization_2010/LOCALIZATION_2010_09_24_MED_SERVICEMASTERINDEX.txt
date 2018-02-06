@@ -1,0 +1,13 @@
+med_servicemasterindex.jsp.servicemastergroup1_criteria = Ομάδα 1
+med_servicemasterindex.jsp.servicemastergroup2_criteria = Ομάδα 2
+med_servicemasterindex.jsp.servicemastergroup3_criteria = Ομάδα 3
+med_servicemasterindex.jsp.servicemastergroup4_criteria = Ομάδα 4
+
+med_servicemasterindex.jsp.validations.servicemastergroupingcoderequired = Συμπληρώστε Κωδικό Ομάδας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterindex.jsp.servicemastergroup1_criteria','Ομάδα 1');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterindex.jsp.servicemastergroup2_criteria','Ομάδα 2');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterindex.jsp.servicemastergroup3_criteria','Ομάδα 3');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterindex.jsp.servicemastergroup4_criteria','Ομάδα 4');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemasterindex.jsp.validations.servicemastergroupingcoderequired','Συμπληρώστε Κωδικό Ομάδας');

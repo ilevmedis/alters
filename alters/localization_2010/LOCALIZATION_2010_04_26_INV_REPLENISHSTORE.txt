@@ -1,0 +1,4 @@
+inv_replenishstore.jsp.dept.excluded = Εξαίρεση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.dept.excluded','Εξαίρεση');
+

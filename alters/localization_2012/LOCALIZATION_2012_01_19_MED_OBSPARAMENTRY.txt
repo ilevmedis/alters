@@ -1,0 +1,10 @@
+med_obsparamentry.jsp.med_obsparam.imagemarkurl = Url Εικόνας ImageMark
+
+med_obsparamentry.jsp.validations.med_obsparam.imagemarkurl_required = Συμπληρώστε Υποχρεωτικά Url Εικόνας ImageMark
+med_obsparamentry.jsp.validations.incorrect_componenttype_for_datatype_imagemark = Για Αντικείμενα ImageMark Μόνο Η Επιλογή ImageMark Component Επιτρέπεται
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparam.imagemarkurl','Url Εικόνας ImageMark');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_obsparamentry.jsp.validations.med_obsparam.imagemarkurl_required','Συμπληρώστε Υποχρεωτικά Url Εικόνας ImageMark');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_obsparamentry.jsp.validations.incorrect_componenttype_for_datatype_imagemark','Για Αντικείμενα ImageMark Μόνο Η Επιλογή ImageMark Component Επιτρέπεται');
+

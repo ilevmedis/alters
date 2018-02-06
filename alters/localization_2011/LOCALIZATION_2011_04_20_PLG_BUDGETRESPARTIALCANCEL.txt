@@ -1,0 +1,69 @@
+plg_budgetrespartialcancelbrowser.jsp.pagetitle = Ακύρωση Υπολοίπου Δεσμεύσεων
+plg_budgetrespartialcancelbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+plg_budgetrespartialcancelbrowser.jsp.griddisplaybox.caption = Δεσμεύσεις
+plg_budgetrespartialcancelbrowser.jsp.page_criteria = Σελίδα
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetres.page = Σελίδα
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetres.event = Event
+
+plg_budgetrespartialcancelbrowser.jsp.budgetresheaderid_criteria = Κωδικός Δέσμευσης
+plg_budgetrespartialcancelbrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+plg_budgetrespartialcancelbrowser.jsp.descr_criteria = Περιγραφή
+plg_budgetrespartialcancelbrowser.jsp.budgetresheaderid_criteria = ΑΑ Δέσμευσης
+plg_budgetrespartialcancelbrowser.jsp.sincebudgetresdate_criteria = Από Ημ/νία Δέσμευσης
+plg_budgetrespartialcancelbrowser.jsp.tillbudgetresdate_criteria = Εώς Ημ/νία Δέσμευσης
+plg_budgetrespartialcancelbrowser.jsp.sincebudgetresapprovaldate_criteria = Από Ημ/νία Έγκρισης
+plg_budgetrespartialcancelbrowser.jsp.tillbudgetresapprovaldate_criteria = Εώς Ημ/νία Έγκρισης
+plg_budgetrespartialcancelbrowser.jsp.sincebudgetresapprovalno_criteria = Από Αρ. Έγκρισης
+plg_budgetrespartialcancelbrowser.jsp.tillbudgetresapprovalno_criteria = Εώς Αρ. Έγκρισης
+
+
+plg_budgetrespartialcancelbrowser.jsp.plgeventtypeid_criteria = Κωδ. Κίνησης Ακύρωσης
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.budgetresheaderid = Κωδικός
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.mnemonic = Μνημονικός Κωδικός
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.descr =  Περιγραφή
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.budgetresdate = Ημ/νία Δέσμευσης
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.budgetresapprovaldate = Ημ/νία Έγκρισης
+plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.approvalno =  Αρ. Έγκρισης
+plg_budgetrespartialcancelbrowser.jsp.include = Ακύρωση
+
+plg_budgetrespartialcancelbrowser.jsp.cancelbudgetres = Ακύρωση Δεσμεύσεων
+plg_budgetrespartialcancelbrowser.jsp.validations.no_rows_found = Δεν Βρέθηκαν Εγγραφές Προς Ακύρωση
+plg_budgetrespartialcancelbrowser.jsp.messages.reupdate_completed =  H Διαδικασία Ακύρωσης Ολοκληρώθηκε Επιτυχώς
+plg_budgetrespartialcancelbrowser.jsp.validations.nullplgeventtype =  Συμπληρώστε Υποχρεωτικά Κωδικό Κίνησης Ακύρωσης
+plg_budgetrespartialcancelbrowser.jsp.validations.emptydatasource =  Δεν Έχετε Επιλέξει Εγγραφές προς Ακύρωση
+
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.pagetitle','Ακύρωση Υπολοίπου Δεσμεύσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.griddisplaybox.caption','Δεσμεύσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.page_criteria','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetres.page','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetres.event','Event');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plgeventtypeid_criteria','Κωδ. Κίνησης Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.budgetresheaderid_criteria','Κωδικός Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.sincebudgetresdate_criteria','Από Ημ/νία Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.tillbudgetresdate_criteria','Εώς Ημ/νία Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.sincebudgetresapprovaldate_criteria','Από Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.tillbudgetresapprovaldate_criteria','Εώς Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.sincebudgetresapprovalno_criteria','Από Αρ. Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.tillbudgetresapprovalno_criteria','Εώς Αρ. Έγκρισης');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.budgetresheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.descr','Περιγραφή Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.budgetresdate','Ημ/νία Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.budgetresapprovaldate','Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.plg_budgetresheader.approvalno','Αρ. Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.include','Ακύρωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetrespartialcancelbrowser.jsp.cancelbudgetres','Ακύρωση Δεσμεύσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetrespartialcancelbrowser.jsp.validations.no_rows_found','Δεν Βρέθηκαν Εγγραφές Προς Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetrespartialcancelbrowser.jsp.messages.reupdate_completed','H Διαδικασία Ακύρωσης Ολοκληρώθηκε Επιτυχώς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetrespartialcancelbrowser.jsp.validations.nullplgeventtype','Συμπληρώστε Υποχρεωτικά Κωδικό Κίνησης Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetrespartialcancelbrowser.jsp.validations.emptydatasource','Δεν Έχετε Επιλέξει Εγγραφές προς Ακύρωση');

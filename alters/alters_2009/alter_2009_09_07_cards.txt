@@ -1,0 +1,24 @@
+alter table pbl_cardcontract drop constraint CONTRACTHD_PBL_CARDCONTRACT_FK;
+alter table pbl_cardcontract drop column contractheaderid;
+alter table pbl_cardcontract add insuranceschemeheaderid number(38) not null;
+alter table pbl_cardcontract add constraint pbl_inscheme_cardcontract_fk
+  foreign key (insuranceschemeheaderid, fyearid, companyid)
+  references pbl_insuranceschemeheader (insuranceschemeheaderid, fyearid, companyid);
+alter table pbl_cardcontract modify fintranspartyid not null;
+
+alter table pbl_card
+  drop constraint PBL_CONTRACTHD_PBL_CARD_FK;
+alter table pbl_card drop column contractheaderid;
+
+alter table PBL_CARDHOLDER
+  drop constraint CARD_PBL_CARDHOLDER_FK;
+alter table PBL_CARDHOLDER
+  add constraint CARD_PBL_CARDHOLDER_FK foreign key (CARDID,COMPANYID)
+  references PBL_CARD (CARDID,COMPANYID) on delete cascade;
+
+alter table pbl_chargecover add quacover float(126);
+update pbl_chargecover set quacover=(select quacharge from pbl_chargedetail
+  where pbl_chargedetail.chargedetailid = pbl_chargecover.chargedetailid and
+    pbl_chargedetail.companyid = pbl_chargecover.companyid and
+    pbl_chargedetail.fyearid = pbl_chargecover.fyearid);
+commit;

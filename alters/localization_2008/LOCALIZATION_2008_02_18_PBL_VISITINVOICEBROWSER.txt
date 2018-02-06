@@ -1,0 +1,2 @@
+﻿pbl_visitinvoicebrowser.jsp.pbl_reqdetail.internaleventno = Αρ.Υποβολής
+pbl_visitinvoicebrowser.jsp.pbl_reqdetail.reqdate = Ημ/νία Υποβ.

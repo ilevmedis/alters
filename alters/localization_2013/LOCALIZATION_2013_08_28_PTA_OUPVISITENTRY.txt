@@ -1,0 +1,7 @@
+pta_oupvisitentry.jsp.criteria.eprescriptionno = Αρ. Ηλεκ. Παραπ. ΕΟΠΥΥ
+pta_oupvisitentry.jsp.chargeentry.useeprescription = Αναζήτηση Ηλεκ. Παραπ. ΕΟΠΥΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.criteria.eprescriptionno','Αρ. Ηλεκ. Παραπ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.chargeentry.useeprescription','Αναζήτηση Ηλεκ. Παραπ. ΕΟΠΥΥ');
+
+

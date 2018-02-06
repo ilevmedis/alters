@@ -1,0 +1,54 @@
+﻿inv_eventtypeentry.jsp.inv_eventtype.isusingspecialmaterials = Χρήση Ειδικών Υλικών
+
+inv_specialmaterialentry.jsp.pagetitle = Στοιχεία Ειδικού Υλικού
+inv_specialmaterialentry.jsp.entrydisplaybox.caption = Στοιχεία Ειδικού Υλικού
+inv_specialmaterialentry.jsp.inv_transcredit.ordertofintranspartyid = Προμηθευτής Για Παραγγελία
+inv_specialmaterialentry.jsp.inv_transcredit.constprice = Σταθερή Τιμή
+inv_specialmaterialentry.jsp.inv_transcredit.price = Τιμή Χρέωσης
+
+
+inv_specialmaterialentry.jsp.validations.inv_transcredit.ordertofintranspartyrequired = Συμπληρώστε Υποχρεωτικά Προμηθευτή Για Παραγγελία
+inv_specialmaterialentry.jsp.validations.not_specialmaterial = Τα Στοιχεία Ειδικών Υλικών Εμφανίζονται Μόνο Για Διαδικασίες Που Κινούν Τέτοια Υλικά
+inv_grantentry.jsp.validations.ordertofintranspartyidrequired = Συμπληρώστε Υποχρεωτικά Προμηθευτή Παραγγελίας Ειδικών Υλικών
+
+
+inv_eventtypeentry.jsp.eventtypelnkgriddisplaybox.caption = Σχετικά Παραστατικά Προς Επιλογή
+inv_eventtypeentry.jsp.inv_eventtypelnk.relativeeventtypeid = Συσχετιζόμενο Παραστατικό
+
+inv_buyentry.jsp.choosespecialmaterial = Χορηγ.Ειδ.Υλικών
+inv_buyentry.jsp.specialmaterialgrantgriddisplaybox.caption = Χορηγήσεις Ειδικών Υλικών
+inv_buyentry.jsp.specialmaterialgrant.internaleventdate = Ημ.Χορήγησης
+inv_buyentry.jsp.specialmaterialgrant.internaleventno = Αρ.Χορήγ.
+inv_buyentry.jsp.specialmaterialgrant.inv_store.mnemonic = Από Απόθ.
+inv_buyentry.jsp.specialmaterialgrant.pta_visit.mnemonic = Αρ.Εισιτ.
+inv_buyentry.jsp.specialmaterialgrant.pta_visit.lastname = Επώνυμο
+inv_buyentry.jsp.specialmaterialgrant.pta_visit.firstname = Όνομα
+inv_buyentry.jsp.specialmaterialgrant.descr = Αιτιολογία
+inv_buyentry.jsp.specialmaterialgrant.include = Επιλογή
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_eventtypeentry.jsp.inv_eventtype.isusingspecialmaterials','Χρήση Ειδικών Υλικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.pagetitle','Στοιχεία Ειδικού Υλικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.entrydisplaybox.caption','Στοιχεία Ειδικού Υλικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.inv_transcredit.ordertofintranspartyid','Προμηθευτής Για Παραγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.inv_transcredit.constprice','Σταθερή Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.inv_transcredit.price','Τιμή Χρέωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_specialmaterialentry.jsp.validations.inv_transcredit.ordertofintranspartyrequired','Συμπληρώστε Υποχρεωτικά Προμηθευτή Για Παραγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_specialmaterialentry.jsp.validations.not_specialmaterial','Τα Στοιχεία Ειδικών Υλικών Εμφανίζονται Μόνο Για Διαδικασίες Που Κινούν Τέτοια Υλικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.ordertofintranspartyidrequired','Συμπληρώστε Υποχρεωτικά Προμηθευτή Παραγγελίας Ειδικών Υλικών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_eventtypeentry.jsp.eventtypelnkgriddisplaybox.caption','Σχετικά Παραστατικά Προς Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_eventtypeentry.jsp.inv_eventtypelnk.relativeeventtypeid','Συσχετιζόμενο Παραστατικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.choosespecialmaterial','Χορηγ.Ειδ.Υλικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrantgriddisplaybox.caption','Χορηγήσεις Ειδικών Υλικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.internaleventdate','Ημ.Χορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.internaleventno','Αρ.Χορήγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.inv_store.mnemonic','Από Απόθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.pta_visit.mnemonic','Αρ.Εισιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.specialmaterialgrant.include','Επιλογή');

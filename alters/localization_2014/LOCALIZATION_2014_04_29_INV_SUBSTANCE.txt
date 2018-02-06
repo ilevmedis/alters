@@ -1,0 +1,129 @@
+inv_groupatcbrowser.jsp.pagetitle = Διαχείριση Ομαδοποίησης ATC
+inv_groupatcbrowser.jsp.criteriadisplaybox.caption = Διαχείριση Στοιχείων Ομαδοποίησης ATC
+inv_groupatcbrowser.jsp.griddisplaybox.caption = Ομαδοποιήσεις ATC
+inv_groupatcbrowser.jsp.mnemonic_criteria_label = Μνημονικός Κωδικός
+inv_groupatcbrowser.jsp.descr_criteria_label = Περιγραφή
+inv_groupatcbrowser.jsp.isactive_criteria = Ενεργό
+inv_groupatcbrowser.jsp.inv_groupatc.groupatcid = Κωδικός
+inv_groupatcbrowser.jsp.inv_groupatc.mnemonic = Μνημονικός
+inv_groupatcbrowser.jsp.inv_groupatc.descr = Περιγραφή
+inv_groupatcbrowser.jsp.inv_groupatc.isactive = Ενεργό
+
+inv_groupatcentry.jsp.pagetitle = Καταχώρηση Ομαδοποίησης ATC
+inv_groupatcentry.jsp.entrydisplaybox.caption = Στοιχεία Ομαδοποίησης
+inv_groupatcentry.jsp.inv_groupatc.groupatcid = Κωδικός
+inv_groupatcentry.jsp.inv_groupatc.mnemonic = Μνημονικός Κωδικός
+inv_groupatcentry.jsp.inv_groupatc.descr = Περιγραφή
+inv_groupatcentry.jsp.inv_groupatc.isactive = Ενεργό
+
+inv_groupatcentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή Ομαδοποίησης ATC
+inv_groupatcentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+
+inv_groupatcindex.jsp.pagetitle = Διαχείριση Ομαδοποίησης ATC
+inv_groupatcindex.jsp.criteriadisplaybox.caption = Διαχείριση Στοιχείων Ομαδοποίησης ATC
+inv_groupatcindex.jsp.griddisplaybox.caption = Ομαδοποιήσεις ATC
+inv_groupatcindex.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+inv_groupatcindex.jsp.descr_criteria = Περιγραφή
+
+inv_groupatcindex.jsp.inv_groupatc.groupatcid = Κωδικός
+inv_groupatcindex.jsp.inv_groupatc.mnemonic = Μνημονικός
+inv_groupatcindex.jsp.inv_groupatc.descr = Περιγραφή
+
+inv_substancebrowser.jsp.pagetitle = Διαχείριση Δραστικών Ουσιών
+inv_substancebrowser.jsp.criteriadisplaybox.caption = Διαχείριση Στοιχείων Δραστικών Ουσιών
+inv_substancebrowser.jsp.griddisplaybox.caption = Δραστικές Ουσίες
+
+inv_substancebrowser.jsp.mnemonic_criteria_label = Μνημονικός Κωδικός
+inv_substancebrowser.jsp.descr_criteria_label = Περιγραφή
+inv_substancebrowser.jsp.isactive_criteria = Ενεργή
+inv_substancebrowser.jsp.inv_substance.substanceid = Κωδικός
+inv_substancebrowser.jsp.inv_substance.mnemonic = Μνημονικός
+inv_substancebrowser.jsp.inv_substance.descr = Περιγραφή
+inv_substancebrowser.jsp.inv_substance.isactive = Ενεργή
+
+inv_substanceentry.jsp.pagetitle = Καταχώρηση Δραστικής Ουσίας
+inv_substanceentry.jsp.entrydisplaybox.caption = Στοιχεία Δραστικής Ουσίας
+inv_substanceentry.jsp.inv_substance.substanceid = Κωδικός
+inv_substanceentry.jsp.inv_substance.mnemonic = Μνημονικός
+inv_substanceentry.jsp.inv_substance.descr = Περιγραφή
+inv_substanceentry.jsp.inv_substance.isactive = Ενεργή
+inv_substanceentry.jsp.substancegroupatcgriddisplaybox.caption = Ομαδοποίηση ATC
+inv_substanceentry.jsp.inv_substancegroupatc.groupatcid = Ομάδα ATC
+
+inv_substanceentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+inv_substanceentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημονικό
+
+
+inv_substanceindex.jsp.pagetitle = Διαχείριση Δραστικών Ουσιών
+inv_substanceindex.jsp.criteriadisplaybox.caption = Διαχείριση Στοιχείων Δραστικών Ουσιών
+inv_substanceindex.jsp.griddisplaybox.caption = Δραστικές Ουσίες
+inv_substanceindex.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+inv_substanceindex.jsp.descr_criteria = Περιγραφή
+inv_substanceindex.jsp.inv_substance.substanceid = Κωδικός
+inv_substanceindex.jsp.inv_substance.mnemonic = Μνημονικός
+inv_substanceindex.jsp.inv_substance.descr = Περιγραφή
+
+inv_itementry.jsp.itemsubstancegriddisplaybox.caption = Δραστικές Ουσίες
+inv_itementry.jsp.inv_itemsubstance.substanceid = Δραστική Ουσία
+inv_itementry.jsp.inv_itemsubstance.substancetype = Τύπος
+
+inv_itemindex.jsp.substanceid_criteria = Δραστική Ουσία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcentry.jsp.entrydisplaybox.caption','Στοιχεία Ομαδοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcentry.jsp.inv_groupatc.groupatcid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcentry.jsp.inv_groupatc.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcentry.jsp.inv_groupatc.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcentry.jsp.inv_groupatc.isactive','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_groupatcentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή Ομαδοποίησης ATC');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_groupatcentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.pagetitle','Διαχείριση Ομαδοποίησης ATC');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.criteriadisplaybox.caption','Διαχείριση Στοιχείων Ομαδοποίησης ATC');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.griddisplaybox.caption','Ομαδοποιήσεις ATC');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.descr_criteria','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.inv_groupatc.groupatcid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.inv_groupatc.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_groupatcindex.jsp.inv_groupatc.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.pagetitle','Διαχείριση Δραστικών Ουσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.criteriadisplaybox.caption','Διαχείριση Στοιχείων Δραστικών Ουσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.griddisplaybox.caption','Δραστικές Ουσίες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.mnemonic_criteria_label','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.descr_criteria_label','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.inv_substance.substanceid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.inv_substance.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.inv_substance.descr','Περογραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substancebrowser.jsp.inv_substance.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.pagetitle','Καταχώρηση Δραστικής Ουσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.entrydisplaybox.caption','Στοιχεία Δραστικής Ουσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.inv_substance.substanceid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.inv_substance.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.inv_substance.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.inv_substance.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.substancegroupatcgriddisplaybox.caption','Ομαδοποίηση ATC');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceentry.jsp.inv_substancegroupatc.groupatcid','Ομάδα ATC');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_substanceentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_substanceentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.pagetitle','Διαχείριση Δραστικών Ουσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.criteriadisplaybox.caption','Διαχείριση Στοιχείων Δραστικών Ουσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.griddisplaybox.caption','Δραστικές Ουσίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.inv_substance.substanceid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.inv_substance.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_substanceindex.jsp.inv_substance.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.itemsubstancegriddisplaybox.caption','Δραστικές Ουσίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemsubstance.substanceid','Δραστική Ουσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_itemsubstance.substancetype','Τύπος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemindex.jsp.substanceid_criteria','Δραστική Ουσία');

@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_barcodeparamsentry.jsp.view', 'Παράμετροι Εκτυπ. Ετικετών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_barcodeparamsentry.jsp.print', 'Παράμετροι Εκτυπ. Ετικετών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_barcodeparamsentry.jsp.insert', 'Παράμετροι Εκτυπ. Ετικετών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_barcodeparamsentry.jsp.update', 'Παράμετροι Εκτυπ. Ετικετών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_barcodeparamsentry.jsp.delete', 'Παράμετροι Εκτυπ. Ετικετών (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_barcodeparamsentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_barcodeparamsentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_barcodeparamsentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_barcodeparamsentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_barcodeparamsentry.jsp.insert', 1);

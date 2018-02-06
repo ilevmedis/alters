@@ -1,0 +1,9 @@
+plg_budgetresentry.jsp.budgetres_restcancel = Ακύρωση Ανεκτέλεστου
+plg_budgetresentry.jsp.plg_budgetresdetail.inventoryindicator = Απογραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.budgetres_restcancel','Ακύρωση Ανεκτέλεστου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresdetail.inventoryindicator','Απογραφή');
+
+
+
+

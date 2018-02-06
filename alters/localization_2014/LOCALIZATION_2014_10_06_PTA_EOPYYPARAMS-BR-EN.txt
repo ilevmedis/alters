@@ -1,0 +1,47 @@
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eopyyparametersid = Κωδικός
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.pta_eopyyparameters.isactive = Ενεργή
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.descr = Περιγραφή
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_userid = Όνομα Χρήστη eΔΑΠΥ
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_defaultmainphone = Προεπιλ.Σταθ.Τηλ.Ενημερ. Web Service
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_defaultmobilephone = Προεπιλ.Κιν.Τηλ.Ενημερ. Web Service
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.pta_eopyyparameters.isdefault = Προεπιλογή
+
+pta_eopyyparametersbrowser.jsp.pagetitle.caption = Διαχείριση Παραμέτρων ΕΟΠΥΥ
+pta_eopyyparametersbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_eopyyparametersbrowser.jsp.descr_criteria = Περιγραφή
+pta_eopyyparametersbrowser.jsp.isactive_criteria = Ενεργή
+pta_eopyyparametersbrowser.jsp.griddisplaybox.caption = Παράμετροι ΕΟΠΥΥ
+pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.eopyyparametersid = Κωδικός
+pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.descr = Περιγραφή
+pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.isactive = Ενεργό
+pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.isdefault = Προεπιλογή
+
+pta_eopyyparametersentry.jsp.validations.default_isnot_active = Η Προεπιλιγμένη Εγγραφή Δεν Είναι Ενεργή! Παρακαλώ Διορθώστε
+pta_eopyyparametersentry.jsp.validations.default_already_exists = Υπάρχει Ηδη Προεπιλεγμένη Εγγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eopyyparametersid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.pta_eopyyparameters.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_userid','Όνομα Χρήστη eΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_defaultmainphone','Προεπιλ.Σταθ.Τηλ.Ενημερ. Web Service');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_defaultmobilephone','Προεπιλ.Κιν.Τηλ.Ενημερ. Web Service');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.pta_eopyyparameters.isdefault','Προεπιλογή');
+
+update SYS_LOCALIZATION
+  set MESSAGE='Χρήστης Web Service'
+where LOCALIZATIONKEY = 'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_username';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.pagetitle.caption','Διαχείριση Παραμέτρων ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.griddisplaybox.caption','Παράμετροι ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.eopyyparametersid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersbrowser.jsp.pta_eopyyparameters.isdefault','Προεπιλογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_eopyyparametersentry.jsp.validations.default_isnot_active','Η Προεπιλιγμένη Εγγραφή Δεν Είναι Ενεργή! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_eopyyparametersentry.jsp.validations.default_already_exists','Υπάρχει Ηδη Προεπιλεγμένη Εγγραφή ');
+
+

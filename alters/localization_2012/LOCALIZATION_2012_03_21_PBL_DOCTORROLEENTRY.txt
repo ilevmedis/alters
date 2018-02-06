@@ -1,0 +1,6 @@
+pbl_doctorroleentry.jsp.pbl_doctorrole.securityroleid = Ρόλος Ασφάλειας Ως Προς Το Περιστατικό
+pbl_doctorroleentry.jsp.pbl_doctorrole.isvisitowner = Ιδιοκτήτης Περιστατικού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleentry.jsp.pbl_doctorrole.securityroleid','Ρόλος Ασφάλειας Ως Προς Το Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_doctorroleentry.jsp.pbl_doctorrole.isvisitowner','Ιδιοκτήτης Περιστατικού');
+

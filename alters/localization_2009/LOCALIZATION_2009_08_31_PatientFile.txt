@@ -1,0 +1,309 @@
+pta_patientfilestatusbrowser.jsp.pagetitle = Διαχείριση Καταστάσεων Φακέλων Ασθενών
+pta_patientfilestatusbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_patientfilestatusbrowser.jsp.griddisplaybox.caption = Καταστάσεις Φακέλων Ασθενών
+pta_patientfilestatusbrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+pta_patientfilestatusbrowser.jsp.descr_criteria = Περιγραφή
+pta_patientfilestatusbrowser.jsp.isactive_criteria = Ενεργή
+pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.statusid = Κωδικός
+pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.mnemonic = Μνημονικός Κωδ.
+pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.descr = Περιγραφή
+pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.isactive = Ενεργή
+
+pta_patientfilestatusentry.jsp.pagetitle = Καταχώρηση Καταστάσεων Φακέλων Ασθενών
+pta_patientfilestatusentry.jsp.entrydisplaybox.caption = Στοιχεία Κατάστασης Φακέλων Ασθενών
+pta_patientfilestatusentry.jsp.pta_patientfilestatus.statusid = Κωδικός
+pta_patientfilestatusentry.jsp.pta_patientfilestatus.mnemonic = Μνημονικός Κωδ.
+pta_patientfilestatusentry.jsp.pta_patientfilestatus.descr = Περιγραφή
+pta_patientfilestatusentry.jsp.pta_patientfilestatus.isactive = Ενεργή
+
+pta_patientfilestatusentry.jsp.validations.pta_patientfilestatus.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+pta_patientfilestatusentry.jsp.validations.pta_patientfilestatus.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+pta_patientfileeventtypebrowser.jsp.pagetitle = Διαχείριση Κωδικών Κινήσεων Φακέλων Ασθενών
+pta_patientfileeventtypebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_patientfileeventtypebrowser.jsp.griddisplaybox.caption = Κωδικοί Κινήσεων Φακέλων Ασθενών
+pta_patientfileeventtypebrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+pta_patientfileeventtypebrowser.jsp.descr_criteria = Περιγραφή
+pta_patientfileeventtypebrowser.jsp.isactive_criteria = Ενεργή
+pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.eventtypeid = Κωδικός
+pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.mnemonic = Μνημονικός Κωδ.
+pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.descr = Περιγραφή
+pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.isactive = Ενεργή
+
+pta_patientfileeventtypeentry.jsp.pagetitle = Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών
+pta_patientfileeventtypeentry.jsp.entrydisplaybox.caption = Στοιχεία Κωδικών Κινήσεων Φακέλων Ασθενών
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.eventtypeid = Κωδικός
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.mnemonic = Μνημονικός Κωδ.
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.descr = Περιγραφή
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.originstatusid = Αρχική Κατάσταση Φακέλου
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.destinationstatusid = Τελική Κατάσταση Φακέλου
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.isgeneratingfile = Δημιουργεί Φάκελο
+pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.isactive = Ενεργή
+
+pta_patientfileeventtypeentry.jsp.validations.pta_patientfileeventtype.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+pta_patientfileeventtypeentry.jsp.validations.pta_patientfileeventtype.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+pta_patientfileeventtypeentry.jsp.validations.pta_patientfileeventtype.destinationstatusidrequired = Συμπληρώστε Υποχρεωτικά Τελική Κατάσταση Φακέλου
+
+pta_patientfilebrowser.jsp.pagetitle = Διαχείριση Φακέλων Ασθενών
+pta_patientfilebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_patientfilebrowser.jsp.patientfileid_criteria = Κωδικός Εγγραφής
+pta_patientfilebrowser.jsp.filemnemonic_criteria = Μνημ. Κωδ. Φακέλου
+pta_patientfilebrowser.jsp.patientid_criteria = ΚΑ Ασθενή
+pta_patientfilebrowser.jsp.patientmnemonic_criteria = Μνημ. Κωδ. Ασθενή
+pta_patientfilebrowser.jsp.patientlastname_criteria = Επώνυμο
+pta_patientfilebrowser.jsp.patientfirstname_criteria = Όνομα
+pta_patientfilebrowser.jsp.statusid_criteria = Κατάσταση Φακέλου
+pta_patientfilebrowser.jsp.griddisplaybox.caption = Φάκελοι Ασθενών
+pta_patientfilebrowser.jsp.pta_patientfile.patientfileid = Κωδ.Εγγραφής
+pta_patientfilebrowser.jsp.pta_patientfile.filemnemonic = Μνημ.Κωδ.Φακ.
+pta_patientfilebrowser.jsp.pta_patientfile.patientid = ΚΑ Ασθενή
+pta_patientfilebrowser.jsp.pta_lastpatientvisit.patientmnemonic = Μνημ. Κωδ. Ασθενή
+pta_patientfilebrowser.jsp.pta_lastpatientvisit.lastname = Επώνυμο
+pta_patientfilebrowser.jsp.pta_lastpatientvisit.firstname = Όνομα
+pta_patientfilebrowser.jsp.pta_patientfilestatus.mnemonic = Κατάσταση
+
+pta_patientfileentry.jsp.pagetitle = Καταχώρηση Φακέλων Ασθενών
+pta_patientfileentry.jsp.entrydisplaybox.caption = Στοιχεία Φακέλου Ασθενή
+pta_patientfileentry.jsp.pta_patientfile.patientfileid = Κωδ. Εγγραφής
+pta_patientfileentry.jsp.pta_patientfile.patientid = Ασθενής
+pta_patientfileentry.jsp.pta_patientfile.filemnemonic = Μν. Κωδ. Φακέλου
+pta_patientfileentry.jsp.pta_patientfile.position = Θέση Αποθήκευσης
+pta_patientfileentry.jsp.pta_patientfile.comments = Σχόλια
+pta_patientfileentry.jsp.pta_patientfile.statusid = Κατάσταση
+pta_patientfileentry.jsp.pta_patientfiletrans.eventtypeid = Κωδ. Κίνησης Εισαγωγής
+pta_patientfileentry.jsp.pta_patientfiletrans.transdate = Ημ/νία Εισαγωγής
+pta_patientfileentry.jsp.pta_patientfiletransbrowser.transdate = Ημ/νία
+pta_patientfileentry.jsp.pta_patientfileeventtype.mnemonic = Κωδ. Κίνησης
+pta_patientfileentry.jsp.pta_doctor.lastname = Επών. Ιατρού
+pta_patientfileentry.jsp.pta_doctor.firstname = Όνομα Ιατρού
+pta_patientfileentry.jsp.pta_facility.mnemonic = Κλινική
+pta_patientfileentry.jsp.pta_patientfiletrans.persondescr = Εργαζόμενος
+pta_patientfileentry.jsp.pta_patientfiletrans.comments = Σχόλια
+
+pta_patientfileentry.jsp.validations.pta_patientfile.patientid_required = Συμπληρώστε Υποχρεωτικά Ασθενή
+pta_patientfileentry.jsp.validations.pta_patientfiletrans.eventtypeid_required = Συμπληρώστε Υποχρεωτικά Κωδ. Κίνησης
+pta_patientfileentry.jsp.validations.pta_patientfiletrans.transdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Εισαγωγής
+
+pta_patientfileindex.jsp.pagetitle = Επιλογή Φακέλου Ασθενή
+pta_patientfileindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_patientfileindex.jsp.patientfileid_criteria = Κωδικός Εγγραφής
+pta_patientfileindex.jsp.filemnemonic_criteria = Μνημ. Κωδ. Φακέλου
+pta_patientfileindex.jsp.patientid_criteria = ΚΑ Ασθενή
+pta_patientfileindex.jsp.patientmnemonic_criteria = Μνημ. Κωδ. Ασθενή
+pta_patientfileindex.jsp.patientlastname_criteria = Επώνυμο
+pta_patientfileindex.jsp.patientfirstname_criteria = Όνομα
+pta_patientfileindex.jsp.griddisplaybox.caption = Φάκελοι Ασθενών
+pta_patientfileindex.jsp.pta_patientfile.patientfileid = Κωδ.Εγγραφής
+pta_patientfileindex.jsp.pta_patientfile.filemnemonic = Μνημ.Κωδ.Φακ.
+pta_patientfileindex.jsp.pta_patientfile.patientid = ΚΑ Ασθενή
+pta_patientfileindex.jsp.pta_lastpatientvisit.patientmnemonic = Μνημ. Κωδ. Ασθενή
+pta_patientfileindex.jsp.pta_lastpatientvisit.lastname = Επώνυμο
+pta_patientfileindex.jsp.pta_lastpatientvisit.firstname = Όνομα
+pta_patientfileindex.jsp.pta_patientfilestatus.mnemonic = Κατάσταση
+
+pta_patientfiletransbrowser.jsp.pagetitle = Διαχείριση Φακέλων Ασθενών
+pta_patientfiletransbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_patientfiletransbrowser.jsp.patientfileid_criteria = Κωδικός Φακέλου
+pta_patientfiletransbrowser.jsp.filemnemonic_criteria = Μνημ. Κωδ. Φακέλου
+pta_patientfiletransbrowser.jsp.patientid_criteria = ΚΑ Ασθενή
+pta_patientfiletransbrowser.jsp.patientmnemonic_criteria = Μνημ. Κωδ. Ασθενή
+pta_patientfiletransbrowser.jsp.patientlastname_criteria = Επώνυμο Ασθ.
+pta_patientfiletransbrowser.jsp.patientfirstname_criteria = Όνομα Ασθ.
+pta_patientfiletransbrowser.jsp.eventtypeid_criteria = Κωδ. Κίνησης
+pta_patientfiletransbrowser.jsp.facilityid_criteria = Κλινική
+pta_patientfiletransbrowser.jsp.doctorid_criteria = Ιατρός
+pta_patientfiletransbrowser.jsp.sincedate_criteria = Από Ημ/νία
+pta_patientfiletransbrowser.jsp.tilldate_criteria = Έως Ημ/νία
+pta_patientfiletransbrowser.jsp.griddisplaybox.caption = Φάκελοι Ασθενών
+pta_patientfiletransbrowser.jsp.pta_patientfiletrans.transdate = Ημ/νία
+pta_patientfiletransbrowser.jsp.pta_patientfiletrans.patientfiletransid = Κωδ. Εγγραφής
+pta_patientfiletransbrowser.jsp.pta_patientfileeventtype.mnemonic = Κωδ. Κίνησης
+pta_patientfiletransbrowser.jsp.pta_patientfiletrans.patientfileid = Κωδ. Φακέλου
+pta_patientfiletransbrowser.jsp.pta_patientfile.filemnemonic = Μνημ.Κωδ. Φακ.
+pta_patientfiletransbrowser.jsp.pta_patientfile.patientid = ΚΑ Ασθενή
+pta_patientfiletransbrowser.jsp.pta_lastpatientvisit.patientmnemonic = Μνημ. Κωδ. Ασθενή
+pta_patientfiletransbrowser.jsp.pta_lastpatientvisit.lastname = Επώνυμο Ασθ.
+pta_patientfiletransbrowser.jsp.pta_lastpatientvisit.firstname = Όνομα Ασθ.
+pta_patientfiletransbrowser.jsp.pta_doctor.lastname = Επώνυμο Ιατρ.
+pta_patientfiletransbrowser.jsp.pta_doctor.firstname = Όνομα Ιατρ.
+pta_patientfiletransbrowser.jsp.pta_facility.mnemonic = Κλινική
+
+pta_patientfiletransentry.jsp.pagetitle = Καταχώρηση Κινήσεων Φακέλων Ασθενών
+pta_patientfileentry.jsp.entrydisplaybox.caption = Στοιχεία Κίνησης Φακέλου Ασθενή
+pta_patientfiletransentry.jsp.pta_patientfiletrans.patientfiletransid = Κωδ. Εγγραφής
+pta_patientfiletransentry.jsp.pta_patientfiletrans.eventtypeid = Κωδ. Κίνησης
+pta_patientfiletransentry.jsp.pta_patientfiletrans.patientfileid = Φάκελος Ασθενή
+pta_patientfiletransentry.jsp.pta_patientfiletrans.transdate = Ημ/νία Κίνησης
+pta_patientfiletransentry.jsp.pta_patientfiletrans.persondescr = Εργαζόμενος
+pta_patientfiletransentry.jsp.pta_patientfiletrans.doctorid = Ιατρός
+pta_patientfiletransentry.jsp.pta_patientfiletrans.facilityid = Κλινική
+pta_patientfiletransentry.jsp.pta_patientfiletrans.comments = Σχόλια
+
+pta_patientfiletransentry.jsp.validations.pta_patientfiletrans.patientfileid_required = Συμπληρώστε Υποχρεωτικά Φάκελο Ασθενή
+pta_patientfiletransentry.jsp.validations.pta_patientfiletrans.transdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Κίνησης
+pta_patientfiletransentry.jsp.validations.pta_patientfiletrans.eventtypeid_required = Συμπληρώστε Υποχρεωτικά Κωδικό Κίνησης
+pta_patientfiletransentry.jsp.validations.evettypeid_before_patientfileid = Συμπληρώστε Πρώτα Κωδικό Κίνησης
+pta_patientfiletransentry.jsp.validations.status_incompatibility = Ο Κωδικός Κίνησης Είναι Ασύμβατος Με Το Φάκελο
+
+pta_patientfileentry.jsp.pta_patientfile.patientfileid = Κωδ. Εγγραφής
+pta_patientfileentry.jsp.pta_patientfile.patientid = Ασθενής
+pta_patientfileentry.jsp.pta_patientfile.filemnemonic = Μν. Κωδ. Φακέλου
+pta_patientfileentry.jsp.pta_patientfile.position = Θέση Αποθήκευσης
+pta_patientfileentry.jsp.pta_patientfile.comments = Σχόλια
+pta_patientfileentry.jsp.pta_patientfile.statusid = Κατάσταση
+pta_patientfileentry.jsp.pta_patientfiletrans.eventtypeid = Κωδ. Κίνησης Εισαγωγής
+pta_patientfileentry.jsp.pta_patientfiletrans.transdate = Ημ/νία Εισαγωγής
+pta_patientfileentry.jsp.pta_patientfiletransbrowser.transdate = Ημ/νία
+pta_patientfileentry.jsp.pta_patientfileeventtype.mnemonic = Κωδ. Κίνησης
+pta_patientfileentry.jsp.pta_doctor.lastname = Επών. Ιατρού
+pta_patientfileentry.jsp.pta_doctor.firstname = Όνομα Ιατρού
+pta_patientfileentry.jsp.pta_facility.mnemonic = Κλινική
+pta_patientfileentry.jsp.pta_patientfiletrans.persondescr = Εργαζόμενος
+pta_patientfileentry.jsp.pta_patientfiletrans.comments = Σχόλια
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.pagetitle','Διαχείριση Καταστάσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.griddisplaybox.caption','Καταστάσεις Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.statusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusbrowser.jsp.pta_patientfilestatus.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusentry.jsp.pagetitle','Καταχώρηση Καταστάσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusentry.jsp.entrydisplaybox.caption','Στοιχεία Κατάστασης Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusentry.jsp.pta_patientfilestatus.statusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusentry.jsp.pta_patientfilestatus.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusentry.jsp.pta_patientfilestatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilestatusentry.jsp.pta_patientfilestatus.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfilestatusentry.jsp.validations.pta_patientfilestatus.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfilestatusentry.jsp.validations.pta_patientfilestatus.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.pagetitle','Διαχείριση Κωδικών Κινήσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.griddisplaybox.caption','Κωδικοί Κινήσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.isactive_criteria','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.eventtypeid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypebrowser.jsp.pta_patientfileeventtype.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pagetitle','Καταχώρηση Κωδικών Κινήσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.entrydisplaybox.caption','Στοιχεία Κωδικών Κινήσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.eventtypeid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.originstatusid','Αρχική Κατάσταση Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.destinationstatusid','Τελική Κατάσταση Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.isgeneratingfile','Δημιουργεί Φάκελο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileeventtypeentry.jsp.pta_patientfileeventtype.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfileeventtypeentry.jsp.validations.pta_patientfileeventtype.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfileeventtypeentry.jsp.validations.pta_patientfileeventtype.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfileeventtypeentry.jsp.validations.pta_patientfileeventtype.destinationstatusidrequired','Συμπληρώστε Υποχρεωτικά Τελική Κατάσταση Φακέλου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pagetitle','Διαχείριση Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.patientfileid_criteria','Κωδικός Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.filemnemonic_criteria','Μνημ. Κωδ. Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.patientid_criteria','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.patientmnemonic_criteria','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.patientlastname_criteria','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.patientfirstname_criteria','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.statusid_criteria','Κατάσταση Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.griddisplaybox.caption','Φάκελοι Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_patientfile.patientfileid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_patientfile.filemnemonic','Μνημ.Κωδ.Φακ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_patientfile.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_lastpatientvisit.patientmnemonic','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_lastpatientvisit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_lastpatientvisit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfilebrowser.jsp.pta_patientfilestatus.mnemonic','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pagetitle','Καταχώρηση Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.entrydisplaybox.caption','Στοιχεία Φακέλου Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfile.patientfileid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfile.patientid','Ασθενής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfile.filemnemonic','Μν. Κωδ. Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfile.position','Θέση Αποθήκευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfile.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfile.statusid','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfiletrans.eventtypeid','Κωδ. Κίνησης Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfiletrans.transdate','Ημ/νία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfiletransbrowser.transdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfileeventtype.mnemonic','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_doctor.lastname','Επών. Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_doctor.firstname','Όνομα Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_facility.mnemonic','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfiletrans.persondescr','Εργαζόμενος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.pta_patientfiletrans.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfileentry.jsp.validations.pta_patientfile.patientid_required','Συμπληρώστε Υποχρεωτικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfileentry.jsp.validations.pta_patientfiletrans.eventtypeid_required','Συμπληρώστε Υποχρεωτικά Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfileentry.jsp.validations.pta_patientfiletrans.transdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Εισαγωγής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pagetitle','Διαχείριση Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.patientfileid_criteria','Κωδικός Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.filemnemonic_criteria','Μνημ. Κωδ. Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.patientid_criteria','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.patientmnemonic_criteria','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.patientlastname_criteria','Επώνυμο Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.patientfirstname_criteria','Όνομα Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.eventtypeid_criteria','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.facilityid_criteria','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.doctorid_criteria','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.sincedate_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.tilldate_criteria','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.griddisplaybox.caption','Φάκελοι Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_patientfiletrans.transdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_patientfiletrans.patientfiletransid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_patientfileeventtype.mnemonic','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_patientfiletrans.patientfileid','Κωδ. Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_patientfile.filemnemonic','Μνημ.Κωδ. Φακ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_patientfile.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_lastpatientvisit.patientmnemonic','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_lastpatientvisit.lastname','Επώνυμο Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_lastpatientvisit.firstname','Όνομα Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_doctor.lastname','Επώνυμο Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_doctor.firstname','Όνομα Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransbrowser.jsp.pta_facility.mnemonic','Κλινική');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pagetitle','Επιλογή Φακέλου Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.patientfileid_criteria','Κωδικός Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.filemnemonic_criteria','Μνημ. Κωδ. Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.patientid_criteria','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.patientmnemonic_criteria','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.patientlastname_criteria','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.patientfirstname_criteria','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.griddisplaybox.caption','Φάκελοι Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_patientfile.patientfileid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_patientfile.filemnemonic','Μνημ.Κωδ.Φακ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_patientfile.patientid','ΚΑ Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_lastpatientvisit.patientmnemonic','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_lastpatientvisit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_lastpatientvisit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileindex.jsp.pta_patientfilestatus.mnemonic','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pagetitle','Καταχώρηση Κινήσεων Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.entrydisplaybox.caption','Στοιχεία Κίνησης Φακέλου Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.patientfiletransid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.eventtypeid','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.patientfileid','Φάκελος Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.transdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.persondescr','Εργαζόμενος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.doctorid','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.facilityid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfiletransentry.jsp.pta_patientfiletrans.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfiletransentry.jsp.validations.pta_patientfiletrans.patientfileid_required','Συμπληρώστε Υποχρεωτικά Φάκελο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfiletransentry.jsp.validations.pta_patientfiletrans.transdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfiletransentry.jsp.validations.pta_patientfiletrans.eventtypeid_required','Συμπληρώστε Υποχρεωτικά Κωδικό Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfiletransentry.jsp.validations.evettypeid_before_patientfileid','Συμπληρώστε Πρώτα Κωδικό Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_patientfiletransentry.jsp.validations.status_incompatibility','Ο Κωδικός Κίνησης Είναι Ασύμβατος Με Το Φάκελο');

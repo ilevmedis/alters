@@ -1,0 +1,11 @@
+pta_doctorentry.jsp.pta_doctor.ssn = ΑΜΚΑ
+pta_doctorentry.jsp.pta_doctor.dapycode = Κωδ. ΤΣΑΥ
+
+pta_doctorentry.jsp.validations.duplicate_ssn = Υπάρχει Ήδη Ιατρός Με Τον Ίδιο ΑΜΚΑ
+pta_doctorentry.jsp.validations.invalid_ssn = Εσφαλμένος ΑΜΚΑ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.ssn','ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.dapycode','Κωδ. ΤΣΑΥ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.duplicate_ssn','Υπάρχει Ήδη Ιατρός Με Τον Ίδιο ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_doctorentry.jsp.validations.invalid_ssn','Εσφαλμένος ΑΜΚΑ');

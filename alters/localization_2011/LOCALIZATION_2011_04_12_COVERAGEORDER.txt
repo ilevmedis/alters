@@ -1,0 +1,5 @@
+pta_visitentry.jsp.validations.same_coverage_order_found = Δεν Επιτρέπεται Να Υπάρχουν 2 Ιδιοι Α/Α Κάλυψης
+pta_oupvisitentry.jsp.validations.same_coverage_order_found = Δεν Επιτρέπεται Να Υπάρχουν 2 Ιδιοι Α/Α Κάλυψης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.same_coverage_order_found','Δεν Επιτρέπεται Να Υπάρχουν 2 Ιδιοι Α/Α Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.same_coverage_order_found','Δεν Επιτρέπεται Να Υπάρχουν 2 Ιδιοι Α/Α Κάλυψης');

@@ -1,0 +1,34 @@
+pta_patientvisitviewer.jsp.pta_visitadmissiongriddisplaybox.caption = Περιστατικά Ασθενή
+pta_patientvisitviewer.jsp.pta_visit.inoutpatient = Εσ/Εξ
+pta_patientvisitviewer.jsp.pta_transfer.toclinicid = Κλινική Εισ.
+
+pta_visitentry.jsp.patientvisitsdoctor = Περιστατικά Ασθενή (Ιατροί)
+pta_oupvisitentry.jsp.patientvisits = Περιστατικά Ασθενή
+
+pta_patientvisitdoctorviewer.jsp.pagetitle = Προβολή Περιστατικών Ασθενή (Ιατροί)
+pta_patientvisitdoctorviewer.jsp.pta_doctor.firstname = Όνομ. Ιατρ.
+pta_patientvisitdoctorviewer.jsp.pta_doctor.lastname = Επών.Ιατρ.
+pta_patientvisitdoctorviewer.jsp.pta_visit.admissiondate = Ημ/νία Εισ.
+pta_patientvisitdoctorviewer.jsp.pta_visit.dischargedate = Ημ/νία Εξιτ.
+pta_patientvisitdoctorviewer.jsp.pta_visit.inoutpatient = Εσ/Εξ
+pta_patientvisitdoctorviewer.jsp.pta_visit.mnemonic = Κωδ. Περιστ.
+pta_patientvisitdoctorviewer.jsp.pta_visitdoctordetailgriddisplaybox.caption = Περιστατικά Ασθενή
+pta_patientvisitdoctorviewer.jsp.pta_visitdoctordetail.doctorroleid = Ρόλος
+
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY IN ('pta_patientvisitviewer.jsp.pta_visitdoctordetailgriddisplaybox.caption', 'pta_patientvisitviewer.jsp.pta_visitdoctordetail.doctorroleid',
+  'pta_patientvisitviewer.jsp.pta_doctor.lastname', 'pta_patientvisitviewer.jsp.pta_doctor.firstname');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visitadmissiongriddisplaybox.caption','Περιστατικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_visit.inoutpatient','Εσ/Εξ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitviewer.jsp.pta_transfer.toclinicid','Κλινική Εισ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.patientvisits','Περιστατικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.patientvisitsdoctor','Περιστατικά Ασθενή (Ιατροί)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pagetitle','Προβολή Περιστατικών Ασθενή (Ιατροί)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_doctor.firstname','Όνομ. Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_doctor.lastname','Επών.Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_visit.admissiondate','Ημ/νία Εισ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_visit.dischargedate','Ημ/νία Εξιτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_visit.inoutpatient','Εσ/Εξ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_visit.mnemonic','Κωδ. Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_visitdoctordetailgriddisplaybox.caption','Περιστατικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientvisitdoctorviewer.jsp.pta_visitdoctordetail.doctorroleid','Ρόλος');

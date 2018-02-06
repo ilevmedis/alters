@@ -1,0 +1,5 @@
+sys_reportentrycriteria.jsp.pagetitle = Επιλογή Κριτηρίου
+sys_reportentrycriteria.jsp.reportcriteriadisplaybox.caption = Κριτήρια Αναφοράς
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrycriteria.jsp.pagetitle','Επιλογή Κριτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentrycriteria.jsp.reportcriteriadisplaybox.caption','Κριτήρια Αναφοράς');

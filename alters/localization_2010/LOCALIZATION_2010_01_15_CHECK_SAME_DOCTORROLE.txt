@@ -1,0 +1,5 @@
+pta_visitentry.jsp.validations.same_doctorole_not_allowed = Δεν Επιτρέπεται Η Καταχώρηση Του Ιδιου Ρόλου Περισσότερες Από 1 Φορά. Παρακαλώ Διορθώστε
+pta_oupvisitentry.jsp.validations.same_doctorole_not_allowed = Δεν Επιτρέπεται Η Καταχώρηση Του Ιδιου Ρόλου Περισσότερες Από 1 Φορά. Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.same_doctorole_not_allowed','Δεν Επιτρέπεται Η Καταχώρηση Του Ιδιου Ρόλου Περισσότερες Από 1 Φορά. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.same_doctorole_not_allowed','Δεν Επιτρέπεται Η Καταχώρηση Του Ιδιου Ρόλου Περισσότερες Από 1 Φορά. Παρακαλώ Διορθώστε');

@@ -1,0 +1,11 @@
+sys_reportentry.jsp.validations.filenamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου
+sys_reportentry.jsp.validations.printerspoolrequired = Συμπληρώστε Υποχρεωτικά Συσκευή Εκτύπωσης
+sys_reportentry.jsp.validations.autoprintkindrequired = Συμπληρώστε Υποχρεωτικά Είδος Αυτόματης Εκτύπωσης
+sys_reportentry.jsp.validations.delimitedcharrequired = Συμπληρώστε Υποχρεωτικά Χαρακτήρα Διαχωρισμού
+sys_reportentry.jsp.validations.isdelimitedrequired = Συμπληρώστε Υποχρεωτικά το πεδίο Χρήση Χαρακτήρα Διαχωρισμού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.filenamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.printerspoolrequired','Συμπληρώστε Υποχρεωτικά Συσκευή Εκτύπωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.autoprintkindrequired','Συμπληρώστε Υποχρεωτικά Είδος Αυτόματης Εκτύπωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.delimitedcharrequired','Συμπληρώστε Υποχρεωτικά Χαρακτήρα Διαχωρισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportentry.jsp.validations.isdelimitedrequired','Συμπληρώστε Υποχρεωτικά το πεδίο Χρήση Χαρακτήρα Διαχωρισμού');

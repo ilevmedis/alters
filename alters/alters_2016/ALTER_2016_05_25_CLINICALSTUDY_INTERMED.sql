@@ -1,0 +1,21 @@
+-- Create table
+create table PBL_CLINICALSTUDYINTERMEDIATE
+(
+  CLINICALSTUDYINTERMEDIATEID NUMBER(38) not null,
+  COMPANYID                   NUMBER(38) not null,
+  FYEARID                     NUMBER(38) not null,
+  FINTRANSPARTYID             NUMBER(38) not null,
+  CLINICALSTUDYID             NUMBER(38) not null
+);
+-- Create/Recreate primary, unique and foreign key constraints
+alter table PBL_CLINICALSTUDYINTERMEDIATE
+  add constraint PBL_CLINSTUDYINTERMEDIATE_PK primary key (CLINICALSTUDYINTERMEDIATEID, COMPANYID, FYEARID);
+alter table PBL_CLINICALSTUDYINTERMEDIATE
+  add constraint FK_CLINSTUDYINTER_CLINSTUDY foreign key (CLINICALSTUDYID, COMPANYID)
+  references PBL_CLINICALSTUDY (CLINICALSTUDYID, COMPANYID) on delete cascade;
+alter table PBL_CLINICALSTUDYINTERMEDIATE
+  add constraint FK_CLINSTUDYINTER_TRNSPARTY foreign key (FINTRANSPARTYID, COMPANYID, FYEARID)
+  references FIN_TRANSPARTY (FINTRANSPARTYID, COMPANYID, FYEARID);
+-- Create/Recreate indexes
+create index FK_CLINSTUDYINTER_CLINSTUDY on PBL_CLINICALSTUDYINTERMEDIATE (clinicalstudyid, companyid);
+create index FK_CLINSTUDYINTER_TRNSPARTY on PBL_CLINICALSTUDYINTERMEDIATE (fintranspartyid, companyid, fyearid);

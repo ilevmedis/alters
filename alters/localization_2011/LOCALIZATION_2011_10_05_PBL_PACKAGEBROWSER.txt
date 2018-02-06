@@ -1,0 +1,8 @@
+pbl_packagebrowser.jsp.pbl_package.isken = ΚΕΝ
+pbl_packagebrowser.jsp.pbl_package.averagelengthofstay = ΜΔΝ
+pbl_packagebrowser.jsp.isken_criteria = Είναι ΚΕΝ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebrowser.jsp.pbl_package.isken','ΚΕΝ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebrowser.jsp.pbl_package.averagelengthofstay','ΜΔΝ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebrowser.jsp.isken_criteria','Είναι ΚΕΝ');
+

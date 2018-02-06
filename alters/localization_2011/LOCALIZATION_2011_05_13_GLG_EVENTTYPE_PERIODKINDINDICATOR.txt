@@ -1,0 +1,5 @@
+glg_eventtypeentry.jsp.periodkindindicator = Τύπος Περιόδου Που Αναφέρεται
+glg_eventtypeentry.jsp.validations.periodkindindicatorrequired = Συμπληρώστε Υποχρεωτικά Τύπος Περιόδου Που Αναφερεται
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_eventtypeentry.jsp.periodkindindicator','Τύπος Περιόδου Που Αναφέρεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_eventtypeentry.jsp.validations.periodkindindicatorrequired','Συμπληρώστε Υποχρεωτικά Τύπος Περιόδου Που Αναφερεται');

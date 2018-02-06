@@ -1,0 +1,33 @@
+pbl_updcanceleprescription.jsp.pagetitle = Ακύρωση eΔΑΠΥ Εξωτερικών Μέσω Web Service
+pbl_updcanceleprescription.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_updcanceleprescription.jsp.sincedate_criteria = Από Ημ.Χρέωσης
+pbl_updcanceleprescription.jsp.tilldate_criteria = Εως Ημ.Χρέωσης
+pbl_updcanceleprescription.jsp.visitid_criteria = Περιστατικό
+pbl_updcanceleprescription.jsp.griddisplaybox.caption = Δεδομένα Ενημέρωσης
+pbl_updcanceleprescription.jsp.pbl_chargeheader.chargedate = Ημ/νία Χρέωσης
+pbl_updcanceleprescription.jsp.pta_visit.mnemonic = Μνημ. Κωδ. Περιστ.
+pbl_updcanceleprescription.jsp.pta_visit.lastname = Επώνυμο Ασθενή
+pbl_updcanceleprescription.jsp.pta_visit.firstname = Όνομα Ασθενή
+pbl_updcanceleprescription.jsp.pbl_chargeheader.referenceno = Αρ. Ηλ. Παραπ.
+pbl_updcanceleprescription.jsp.pbl_chargeheader.eprescrupddate = Ημ/νία Ενημέρωσης
+
+pbl_updcanceleprescription.jsp.messages.update_complete = Οι Ενημερώσεις Ολοκληρώθηκαν
+pbl_updcanceleprescription.jsp.messages.unknown_eopyy_error = Άγνωστο Σφάλμα ΕΟΠΥΥ
+pbl_updeprescription.jsp.messages.unknown_eopyy_error = Άγνωστο Σφάλμα ΕΟΠΥΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pagetitle','Ακύρωση eΔΑΠΥ Εξωτερικών Μέσω Web Service');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.sincedate_criteria','Από Ημ.Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.tilldate_criteria','Εως Ημ.Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.visitid_criteria','Περιστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.griddisplaybox.caption','Δεδομένα Ενημέρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pbl_chargeheader.chargedate','Ημ/νία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pta_visit.mnemonic','Μνημ. Κωδ. Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pta_visit.lastname','Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pta_visit.firstname','Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pbl_chargeheader.referenceno','Αρ. Ηλ. Παραπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updcanceleprescription.jsp.pbl_chargeheader.eprescrupddate','Ημ/νία Ενημέρωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updcanceleprescription.jsp.messages.update_complete','Οι Ενημερώσεις Ολοκληρώθηκαν');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updcanceleprescription.jsp.messages.unknown_eopyy_error','Άγνωστο Σφάλμα ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updeprescription.jsp.messages.unknown_eopyy_error','Άγνωστο Σφάλμα ΕΟΠΥΥ');

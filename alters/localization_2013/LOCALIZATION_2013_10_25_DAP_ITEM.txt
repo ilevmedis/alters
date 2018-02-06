@@ -1,0 +1,67 @@
+dap_itembrowser.jsp.pagetitle = Διαχείριση Χρεούμενων Ειδών ΔΑΠΥ
+dap_itembrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+dap_itembrowser.jsp.griddisplaybox.caption = Χρεούμενα Είδη
+
+dap_itembrowser.jsp.servicecode_criteria = Κωδικός
+dap_itembrowser.jsp.descr_criteria = Περιγραφή
+dap_itembrowser.jsp.servicetype_criteria = Τύπος
+dap_itembrowser.jsp.coding_criteria = Κωδικοποίηση
+dap_itembrowser.jsp.dap_item.servicetype = Τύπος
+dap_itembrowser.jsp.dap_item.coding = Κωδικοποίηση
+dap_itembrowser.jsp.dap_item.servicecode = Κωδικός
+dap_itembrowser.jsp.dap_item.descr = Περιγραφή
+
+dap_itementry.jsp.pagetitle = Χρεούμενα Είδη ΔΑΠΥ
+dap_itementry.jsp.entrydisplaybox.caption = Στοιχεία Ειδών
+
+dap_itementry.jsp.dap_item.servicetype = Τύπος
+dap_itementry.jsp.dap_item.servicecode = Κωδικός
+dap_itementry.jsp.dap_item.descr = Περιγραφή
+dap_itementry.jsp.dap_item.coding = Κωδικοποίηση
+dap_itementry.jsp.dap_itemprice.validsincedate = Από Ημ. Ισχύος
+dap_itementry.jsp.dap_itemprice.validtilldate = Έως Ημ. Ισχύος
+dap_itementry.jsp.dap_itemprice.price = Τιμή
+
+dap_itementry.jsp.validations.servicetyperequired = Συμπληρώστε Υποχρεωτικά Τύπο
+dap_itementry.jsp.validations.servicecoderequired = Συμπληρώστε Υποχρεωτικά Κωδικό
+dap_itementry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+dap_itementry.jsp.validations.codingrequired = Συμπληρώστε Υποχρεωτικά Κωδικοποίηση
+
+dap_itementry.jsp.validations.dap_itemprice.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+dap_itementry.jsp.validations.dap_itemprice.validtilldate_not_valid = Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος Του Είδους
+dap_itementry.jsp.validations.dap_itemprice.validtilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+dap_itementry.jsp.validations.sincedate_lessthan_tilldate = Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.pagetitle','Διαχείριση Χρεούμενων Ειδών ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.griddisplaybox.caption','Χρεούμενα Είδη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.servicecode_criteria','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.servicetype_criteria','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.coding_criteria','Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.dap_item.servicetype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.dap_item.coding','Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.dap_item.servicecode','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itembrowser.jsp.dap_item.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.pagetitle','Χρεούμενα Είδη ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.entrydisplaybox.caption','Στοιχεία Ειδών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_item.servicetype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_item.servicecode','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_item.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_item.coding','Κωδικοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_itemprice.validsincedate','Από Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_itemprice.validtilldate','Έως Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_itementry.jsp.dap_itemprice.price','Τιμή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.servicetyperequired','Συμπληρώστε Υποχρεωτικά Τύπο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.servicecoderequired','Συμπληρώστε Υποχρεωτικά Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.codingrequired','Συμπληρώστε Υποχρεωτικά Κωδικοποίηση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.dap_itemprice.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.dap_itemprice.validtilldate_not_valid','Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος Του Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.dap_itemprice.validtilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_itementry.jsp.validations.sincedate_lessthan_tilldate','Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής');

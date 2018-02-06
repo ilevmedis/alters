@@ -1,0 +1,14 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_reportschedulebrowser.jsp.view', 'Ανάγνωση ');
+insert into sys_privilege(privilegeid, descr) values ('sys_reportschedulebrowser.jsp.print', 'Εκτύπωση Προγραμματισμού Αναφορών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportschedulebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportschedulebrowser.jsp.print', 1);
+insert into sys_privilege(privilegeid, descr) values ('sys_reportscheduleentry.jsp.view', 'Ανάγνωση Προγραμματισμού Αναφορών');
+insert into sys_privilege(privilegeid, descr) values ('sys_reportscheduleentry.jsp.print', 'Εκτύπωση Προγραμματισμού Αναφορών');
+insert into sys_privilege(privilegeid, descr) values ('sys_reportscheduleentry.jsp.insert', 'Εισαγωγή Προγραμματισμού Αναφορών');
+insert into sys_privilege(privilegeid, descr) values ('sys_reportscheduleentry.jsp.update', 'Μεταβολή Προγραμματισμού Αναφορών');
+insert into sys_privilege(privilegeid, descr) values ('sys_reportscheduleentry.jsp.delete', 'Διαγραφή Προγραμματισμού Αναφορών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportscheduleentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportscheduleentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportscheduleentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportscheduleentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_reportscheduleentry.jsp.insert', 1);

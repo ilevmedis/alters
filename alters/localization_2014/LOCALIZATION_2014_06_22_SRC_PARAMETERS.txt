@@ -1,0 +1,9 @@
+src_parametersentry.jsp.pagetitle = Καταχώρηση Παραμέτρων Προμήθειας
+src_parametersentry.jsp.entrydisplaybox.caption = Στοιχεία Παραμέτρων Προμήθειας
+
+src_parametersentry.jsp.src_parameters.supplyrequestseqid = Σειρά Αρίθμησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_parametersentry.jsp.pagetitle','Καταχώρηση Παραμέτρων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_parametersentry.jsp.entrydisplaybox.caption','Στοιχεία Παραμέτρων Προμήθειας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_parametersentry.jsp.src_parameters.supplyrequestseqid','Σειρά Αρίθμησης');

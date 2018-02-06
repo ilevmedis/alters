@@ -1,0 +1,46 @@
+﻿pta_facilitygroupbrowser.jsp.pagetitle = Διαχείριση Ομάδων Τμημάτων
+pta_facilitygroupbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_facilitygroupbrowser.jsp.griddisplaybox.caption = Ομάδες Τμημάτων
+pta_facilitygroupbrowser.jsp.mnemonic_criteria = Μνημ.Κωδικός
+pta_facilitygroupbrowser.jsp.descr_criteria = Περιγραφή
+pta_facilitygroupbrowser.jsp.isactive_criteria_label = Ενεργές Εγγραφές
+pta_facilitygroupbrowser.jsp.pta_facilitygroup.facilitygroupid = Κωδ.Εγγραφής
+pta_facilitygroupbrowser.jsp.pta_facilitygroup.mnemonic = Μνημ.Κωδικός
+pta_facilitygroupbrowser.jsp.pta_facilitygroup.descr = Περιγραφή
+pta_facilitygroupbrowser.jsp.pta_facilitygroup.isactive = Ενεργή Εγγραφή
+
+pta_facilitygroupentry.jsp.pagetitle = Καταχώρηση Ομάδων Τμημάτων
+pta_facilitygroupentry.jsp.entrydisplaybox.caption = Στοιχεία Ομάδας Τμημάτων
+pta_facilitygroupentry.jsp.facilitygroupid = Κωδ.Εγγραφής
+pta_facilitygroupentry.jsp.pta_facilitygroup.mnemonic = Μνημ.Κωδικός
+pta_facilitygroupentry.jsp.pta_facilitygroup.descr = Περιγραφή
+pta_facilitygroupentry.jsp.pta_facilitygroup.isactive = Ενεργή Εγγραφή
+
+
+pta_facilitygroupentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημ.Κωδικό
+pta_facilitygroupentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+pta_facilityentry.jsp.pta_facility.facilitygroupid = Ομάδα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.pagetitle','Διαχείριση Ομάδων Τμημάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.griddisplaybox.caption','Ομάδες Τμημάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.mnemonic_criteria','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.isactive_criteria_label','Ενεργές Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.pta_facilitygroup.facilitygroupid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.pta_facilitygroup.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.pta_facilitygroup.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupbrowser.jsp.pta_facilitygroup.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupentry.jsp.pagetitle','Καταχώρηση Ομάδων Τμημάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupentry.jsp.entrydisplaybox.caption','Στοιχεία Ομάδας Τμημάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupentry.jsp.facilitygroupid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupentry.jsp.pta_facilitygroup.mnemonic','Μνημ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupentry.jsp.pta_facilitygroup.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitygroupentry.jsp.pta_facilitygroup.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilitygroupentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημ.Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_facilitygroupentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facility.facilitygroupid','Ομάδα');

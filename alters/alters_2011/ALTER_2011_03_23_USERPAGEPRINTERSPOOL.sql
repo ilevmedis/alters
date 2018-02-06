@@ -1,0 +1,1 @@
+alter table SYS_USERPAGEPRINTERSPOOL add IPADDRESS varchar2(15);

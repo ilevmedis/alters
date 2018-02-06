@@ -1,0 +1,1 @@
+﻿alter table labresult add foreignapplication varchar2(20);

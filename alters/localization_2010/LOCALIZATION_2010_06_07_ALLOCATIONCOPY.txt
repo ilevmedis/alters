@@ -1,0 +1,12 @@
+med_parametersentry.jsp.med_parameters.allowedcancelreasons = Αιτίες Ακύρωσης Επιτρεπόμενες Για Αντιγραφή Θεραπείας
+
+med_orderentry.jsp.validations.duplicate_with_canceled =  Με Ακύρωση Δέσμευσης
+med_orderentry.jsp.messages.copy_finished_successfully = Η Διαδικασία Αντιγραφής Ολοκληρώθηκε Επιτυχώς.
+med_orderentry.jsp.messages.copy_finished_unsuccessfully = Η Διαδικασία Αντιγραφής Ηταν Ανεπιτυχής!!
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_parametersentry.jsp.med_parameters.allowedcancelreasons','Αιτίες Ακύρωσης Επιτρεπόμενες Για Αντιγραφή Θεραπείας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.validations.duplicate_with_canceled',' Με Ακύρωση Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.messages.copy_finished_successfully','Η Διαδικασία Αντιγραφής Ολοκληρώθηκε Επιτυχώς.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.messages.copy_finished_unsuccessfully','Η Διαδικασία Αντιγραφής Ηταν Ανεπιτυχής!!');

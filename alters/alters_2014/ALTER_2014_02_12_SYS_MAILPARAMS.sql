@@ -1,0 +1,1 @@
+alter table sys_mailparams add (sysadminemails varchar2(250), emailsender varchar2(50));

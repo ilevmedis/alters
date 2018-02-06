@@ -1,0 +1,31 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusbrowser.jsp.view', 'Διαχείριση Κατάστασης Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusbrowser.jsp.print', 'Εκτύπωση Κατάστασης Μελετών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusentry.jsp.view', 'Ανάγνωση Κατάστασης Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusentry.jsp.print', 'Εκτύπωση Κατάστασης Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusentry.jsp.insert', 'Εισαγωγή Κατάστασης Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusentry.jsp.update', 'Μεταβολή Κατάστασης Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_studystatusentry.jsp.delete', 'Διαγραφή Κατάστασης Μελετών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_studystatusentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudybrowser.jsp.view', 'Διαχείριση Κλινικών Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudybrowser.jsp.print', 'Εκτύπωση Κλινικών Μελετών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudybrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudybrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudyentry.jsp.view', 'Ανάγνωση Κλινικών Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudyentry.jsp.print', 'Εκτύπωση Κλινικών Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudyentry.jsp.insert', 'Εισαγωγή Κλινικών Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudyentry.jsp.update', 'Μεταβολή Κλινικών Μελετών');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clinicalstudyentry.jsp.delete', 'Διαγραφή Κλινικών Μελετών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudyentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudyentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudyentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudyentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clinicalstudyentry.jsp.insert', 1);

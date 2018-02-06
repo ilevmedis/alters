@@ -1,0 +1,5 @@
+sys_reportentry.jsp.sys_reportcolumn.showframeexpression = Έκφραση Κλήσης Πλαισίου OnMouseOver
+sys_reportentry.jsp.sys_reportcolumn.framewidthheight = Πλάτος/Ύψος Πλαισίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.showframeexpression','Έκφραση Κλήσης Πλαισίου OnMouseOver');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.framewidthheight','Πλάτος/Ύψος Πλαισίου');

@@ -1,0 +1,4 @@
+med_worklist.jsp.inoutpatient_criteria = Εσωτ./Εξωτ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklist.jsp.inoutpatient_criteria','Εσωτ./Εξωτ.');
+

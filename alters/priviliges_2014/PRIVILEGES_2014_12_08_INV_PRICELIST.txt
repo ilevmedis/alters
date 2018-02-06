@@ -1,0 +1,42 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderbrowser.jsp.view', 'Διαχείριση Κατηγοριών Προσαύξησης');
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderbrowser.jsp.print', 'Εκτύπωση Κατηγοριών Προσαύξησης');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderentry.jsp.view', 'Ανάγνωση Κατηγοριών Προσαύξησης');
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderentry.jsp.print', 'Εκτύπωση Κατηγοριών Προσαύξησης');
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderentry.jsp.insert', 'Εισαγωγή Κατηγοριών Προσαύξησης');
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderentry.jsp.update', 'Μεταβολή Κατηγοριών Προσαύξησης');
+insert into sys_privilege(privilegeid, descr) values ('inv_sellpercheaderentry.jsp.delete', 'Διαγραφή Κατηγοριών Προσαύξησης');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_sellpercheaderentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderbrowser.jsp.view', 'Διαχείριση Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderbrowser.jsp.print', 'Εκτύπωση Τιμοκαταλόγων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderentry.jsp.view', 'Ανάγνωση Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderentry.jsp.print', 'Εκτύπωση Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderentry.jsp.insert', 'Εισαγωγή Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderentry.jsp.update', 'Μεταβολή Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistheaderentry.jsp.delete', 'Διαγραφή Τιμοκαταλόγων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistheaderentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistdetailentry.jsp.view', 'Ανάγνωση Τιμών Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistdetailentry.jsp.print', 'Εκτύπωση Τιμών Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistdetailentry.jsp.insert', 'Εισαγωγή Τιμών Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistdetailentry.jsp.update', 'Μεταβολή Τιμών Τιμοκαταλόγων');
+insert into sys_privilege(privilegeid, descr) values ('inv_pricelistdetailentry.jsp.delete', 'Διαγραφή Τιμών Τιμοκαταλόγων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistdetailentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistdetailentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistdetailentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistdetailentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_pricelistdetailentry.jsp.insert', 1);

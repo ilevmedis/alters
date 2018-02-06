@@ -1,0 +1,5 @@
+﻿insert into sys_localization(localizationkey, lang, message, isuserchanged) values ('pta_patientprintbarcode_tml60.jsp.griddisplaybox.caption', 'el', 'Συσκευές Εκτύπωσης', '0');
+insert into sys_localization(localizationkey, lang, message, isuserchanged) values ('pta_patientprintbarcode_tml60.jsp.pagetitle', 'el', 'Επιλογή Συσκευής Εκτύπωσης', '0');
+insert into sys_localization(localizationkey, lang, message, isuserchanged) values ('pta_patientprintbarcode_tml60.jsp.sys_printerspool.descr', 'el', 'Συσκευή Εκτύπωσης Barcode', '0');
+insert into sys_localization(localizationkey, lang, message, isuserchanged) values ('pta_patientprintbarcode_tml60.jsp.nooflabels', 'el', 'Αρ. Ετικετών', '0');
+

@@ -1,0 +1,47 @@
+﻿Fin_SupplierDebitEntry.jsp
+---------------------------
+fin_supplierdebitentry.jsp.fin_openitembindinglink = Σύνδεση Με Πιστώσεις
+
+fin_supplierdebitentry.jsp.validations.totalamount_binded_greater_netamount = Η Αξία Των Συνδεδεμένων Τιμολογιων Υπερβαίνει Την Αξία Χρέωσης
+
+
+Fin_OpenItemBindingEntry.jsp
+----------------------------
+fin_openitembindingentry.jsp.pagetitle = Σύνδεση Χρέωσεων - Πιστώσεων
+fin_openitembindingentry.jsp.griddisplaybox.caption = Τιμολόγια
+fin_openitembindingentry.jsp.fin_openitembinding.maturedate = Ημ.Ωρίμανσης
+
+fin_openitembindingentry.jsp.fin_openitem.externaleventdate = Ημ.Τιμολ.
+fin_openitembindingentry.jsp.fin_openitem.externaleventtype = Παρ/κό
+fin_openitembindingentry.jsp.fin_openitem.externaleventno = Αρ.Παρ/κού
+fin_openitembindingentry.jsp.fin_openitembinding.totamount = Αξ.Τιμολ.
+fin_openitembindingentry.jsp.fin_openitembinding.amountrest = Υπόλ.Συνδ
+fin_openitembindingentry.jsp.fin_openitembinding.amountbinded = Ποσό Σύνδ.
+
+fin_openitembindingentry.jsp.validations.no_bindopenitem_found = Η Διαδικασάα Δεν Ορίζει Οτι Κλείνει Ανοικτά Υπόλοιπα
+fin_openitembindingentry.jsp.validations.fin_transdebit.fintranspartyidrequired = Συμπληρώστε Υποχρεωτικά Προμηθευτή
+fin_openitembindingentry.jsp.validations.fin_transheader.fineventtypeidrequired = Συμπληρώστε Υποχρεωτικά Διαδικασία
+fin_openitembindingentry.jsp.validations.no_ope_items_exist = Δεν Υπάρχουν Ανοικτά Υπόλοιπα
+fin_openitembindingentry.jsp.validations.amountbinded_greater_amountrest = Το Ποσό Εξόφλησης Είναι Μεγαλύτερο Απο Το Υπόλοιπο. Παρακαλώ Διορθώστε
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierdebitentry.jsp.fin_openitembindinglink','Σύνδεση Με Πιστώσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_supplierdebitentry.jsp.validations.totalamount_binded_greater_netamount','Η Αξία Των Συνδεδεμένων Τιμολογιων Υπερβαίνει Την Αξία Χρέωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.pagetitle','Σύνδεση Χρέωσεων - Πιστώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.griddisplaybox.caption','Τιμολόγια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitembinding.maturedate','Ημ.Ωρίμανσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitem.externaleventdate','Ημ.Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitem.externaleventtype','Παρ/κό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitem.externaleventno','Αρ.Παρ/κού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitembinding.totamount','Αξ.Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitembinding.amountrest','Υπόλ.Συνδ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_openitembindingentry.jsp.fin_openitembinding.amountbinded','Ποσό Σύνδ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_openitembindingentry.jsp.validations.no_bindopenitem_found','Η Διαδικασάα Δεν Ορίζει Οτι Κλείνει Ανοικτά Υπόλοιπα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_openitembindingentry.jsp.validations.fin_transdebit.fintranspartyidrequired','Συμπληρώστε Υποχρεωτικά Προμηθευτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_openitembindingentry.jsp.validations.fin_transheader.fineventtypeidrequired','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_openitembindingentry.jsp.validations.no_ope_items_exist','Δεν Υπάρχουν Ανοικτά Υπόλοιπα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_openitembindingentry.jsp.validations.amountbinded_greater_amountrest','Το Ποσό Εξόφλησης Είναι Μεγαλύτερο Απο Το Υπόλοιπο. Παρακαλώ Διορθώστε');

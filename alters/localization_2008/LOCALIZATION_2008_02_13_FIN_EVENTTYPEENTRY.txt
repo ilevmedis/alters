@@ -1,0 +1,4 @@
+﻿fin_eventtypeentry.jsp.creditoper = Τελεστής Πίστωσης
+fin_eventtypeentry.jsp.debitoper = Τελεστής Χρέωσης
+fin_eventtypeentry.jsp.validations.creditoperrequired = Συμπληρώστε Υποχρεωτικά Τελεστή Πίστωσης
+fin_eventtypeentry.jsp.validations.debitoperrequired = Συμπληρώστε Υποχρεωτικά Τελεστή Χρέωσης

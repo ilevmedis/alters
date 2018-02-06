@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodebrowser.jsp.view', 'Διαχείριση Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodebrowser.jsp.print', 'Εκτύπωση Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodeentry.jsp.view', 'Ανάγνωση Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodeentry.jsp.print', 'Εκτύπωση Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodeentry.jsp.insert', 'Εισαγωγή Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodeentry.jsp.update', 'Μεταβολή Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_privilege(privilegeid, descr) values ('pbl_dapylevelcodeentry.jsp.delete', 'Διαγραφή Κωδ. ΔΑΠΥ/Κλινική');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodeentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodeentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodeentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodeentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_dapylevelcodeentry.jsp.insert', 1);

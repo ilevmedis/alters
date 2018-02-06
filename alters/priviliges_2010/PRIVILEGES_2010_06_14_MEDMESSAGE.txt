@@ -1,0 +1,5 @@
+--med_message
+insert into sys_privilege(privilegeid, descr) values ('med_messagebrowser.jsp.view', 'Διαχείριση  Μηνυμάτων(Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_messagebrowser.jsp.print', 'Διαχείριση Μηνυμάτων(Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_messagebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_messagebrowser.jsp.print', 1);

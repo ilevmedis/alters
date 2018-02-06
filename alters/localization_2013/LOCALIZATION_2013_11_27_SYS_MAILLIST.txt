@@ -1,0 +1,135 @@
+sys_maillistbrowser.jsp.pagetitle = Διαχείριση Λιστών EMail
+sys_maillistbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_maillistbrowser.jsp.griddisplaybox.caption = Λίστες EMail
+sys_maillistbrowser.jsp.descr_criteria = Περιγραφή
+sys_maillistbrowser.jsp.subject_criteria = Θέμα
+sys_maillistbrowser.jsp.senderemail_criteria = EMail Αποστολέα
+sys_maillistbrowser.jsp.sincecreationdate_criteria = Από Ημερομηνία Δημιουργίας
+sys_maillistbrowser.jsp.tillcreationdate_criteria = Έως Ημερομηνία Δημιουργίας
+sys_maillistbrowser.jsp.maillistgroupid_criteria = Ομάδα
+sys_maillistbrowser.jsp.mailiststatusindicator_criteria = Κατάσταση
+
+sys_maillistbrowser.jsp.sys_maillist.maillistid = Κωδικός
+sys_maillistbrowser.jsp.sys_maillist.creationdate = Ημερομηνία Δημιουργίας
+sys_maillistbrowser.jsp.sys_maillistgroup.mnemonic = Ομάδα
+sys_maillistbrowser.jsp.sys_maillist.descr = Περιγραφή
+sys_maillistbrowser.jsp.sys_maillist.senderemail = EMail Αποστολέα
+sys_maillistbrowser.jsp.sys_maillist.subject = Θέμα
+sys_maillistbrowser.jsp.sys_maillist.mailliststatusindicator = Κατάσταση
+
+sys_maillistentry.jsp.pagetitle = Καταχώρηση Λιστών EMail
+sys_maillistentry.jsp.entrydisplaybox.caption = Στοιχεία Λίστας EMail
+sys_maillistentry.jsp.criteriamaillistrecipientsdisplaybox.caption = Κριτήρια Αναζήτησης Παραλήπτη
+sys_maillistentry.jsp.criteriadisplaybox.caption = Κριτήρια Αναφοράς
+sys_maillistentry.jsp.createrecipients = Δημιουργία Παραληπτών Από Αναφορά
+
+sys_maillistentry.jsp.sys_maillist.maillistid = Κωδικός
+sys_maillistentry.jsp.sys_maillist.creationdate = Ημερομηνία Δημιουργίας
+sys_maillistentry.jsp.sys_maillist.maillistgroupid = Ομάδα
+sys_maillistentry.jsp.sys_maillist.mailliststatusindicator = Κατάσταση
+sys_maillistentry.jsp.sys_maillist.descr = Περιγραφή
+sys_maillistentry.jsp.sys_maillist.senderemail = EMail Αποστολέα
+sys_maillistentry.jsp.sys_maillist.subject = Θέμα
+sys_maillistentry.jsp.sys_maillist.reportid = Αναφορά
+sys_maillistentry.jsp.sys_maillist.scheduledate = Ημερομηνία / Ώρα Προγραμματισμού
+
+sys_maillistentry.jsp.recipientname_criteria = Όνομα Παραλήπτη
+sys_maillistentry.jsp.recipientemail_criteria = EMail Παραλήπτη
+sys_maillistentry.jsp.sys_maillistrecipient.recipientname = Όνομα Παραλήπτη
+sys_maillistentry.jsp.sys_maillistrecipient.recipientemail = EMail Παραλήπτη
+sys_maillistentry.jsp.sys_maillistrecipient.mailstatusindicator = Κατάσταση
+sys_maillistentry.jsp.sys_maillistrecipient.contents = Συμπλήρωση Περιεχομένου
+sys_maillistentry.jsp.sys_maillistrecipient.history = Ιστορικό Αποστολής
+
+sys_maillistentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+sys_maillistentry.jsp.validations.senderemail_required = Συμπληρώστε Υποχρεωτικά EMail Αποστολέα
+sys_maillistentry.jsp.validations.subject_required = Συμπληρώστε Υποχρεωτικά Θέμα
+sys_maillistentry.jsp.validations.scheduledate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Προγραμματισμού
+sys_maillistentry.jsp.validations.scheduletime_required = Συμπληρώστε Υποχρεωτικά Ώρα Προγραμματισμού
+sys_maillistentry.jsp.validations.mailliststatusindicator_required = Συμπληρώστε Υποχρεωτικά Κατάσταση
+
+sys_maillistentry.jsp.validations.recipientname_required = Συμπληρώστε Υποχρεωτικά Όνομα Παραλήπτη
+sys_maillistentry.jsp.validations.recipientemail_required = Συμπληρώστε Υποχρεωτικά EMail Παραλήπτη
+sys_maillistentry.jsp.validations.mailstatus_required = Συμπληρώστε Υποχρεωτικά Κατάσταση
+
+sys_maillistentry.jsp.validations.reportid_required = Συμπληρώστε Υποχρεωτικά Αναφορά
+sys_maillistentry.jsp.validations.fintranspartyid_column_required = Η Αναφορά Πρέπει Να Περιλαμβάνει Στήλη Με Κωδικό FINTRANSPARTYID
+sys_maillistentry.jsp.validations.email_column_required = Η Αναφορά Πρέπει Να Περιλαμβάνει Στήλη Με Κωδικό EMAIL
+sys_maillistentry.jsp.validations.fintranspartyname_column_required = Η Αναφορά Πρέπει Να Περιλαμβάνει Στήλη Με Κωδικό NAME
+sys_maillistentry.jsp.validations.recipients_must_be_empty = Η Λίστα Παραληπτών Πρέπει Να Είναι Κενή
+sys_maillistentry.jsp.validations.report_must_have_groupings = Η Αναφορά Πρέπει Να Περιέχει Πεδία Ομαδοποίησης
+sys_maillistentry.jsp.validations.report_must_have_pagebreaks = Η Αναφορά Πρέπει Να Περιέχει Αλλαγές Σελίδας
+
+sys_maillistrecipient.jsp.entrydisplaybox.caption = Κείμενο EMail
+sys_maillisthistory.jsp.griddisplaybox.caption = Ιστορικό Αποστολής
+sys_maillisthistory.jsp.sys_maillisthistory.attemptdate = Ημ/νία Αποστολής
+sys_maillisthistory.jsp.sys_maillisthistory.attempttime = Ώρα Αποστολής
+sys_maillisthistory.jsp.sys_maillisthistory.attemptstatusindicator = Αποτέλεσμα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.pagetitle','Διαχείριση Λιστών EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.griddisplaybox.caption','Λίστες EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.subject_criteria','Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.senderemail_criteria','EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sincecreationdate_criteria','Από Ημερομηνία Δημιουργίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.tillcreationdate_criteria','Έως Ημερομηνία Δημιουργίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.maillistgroupid_criteria','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.mailiststatusindicator_criteria','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillist.maillistid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillist.creationdate','Ημερομηνία Δημιουργίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillistgroup.mnemonic','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillist.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillist.senderemail','EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillist.subject','Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistbrowser.jsp.sys_maillist.mailliststatusindicator','Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.pagetitle','Καταχώρηση Λιστών EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.entrydisplaybox.caption','Στοιχεία Λίστας EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.criteriamaillistrecipientsdisplaybox.caption','Κριτήρια Αναζήτησης Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.criteriadisplaybox.caption','Κριτήρια Αναφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.createrecipients','Δημιουργία Παραληπτών Από Αναφορά');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.maillistid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.creationdate','Ημερομηνία Δημιουργίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.maillistgroupid','Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.mailliststatusindicator','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.senderemail','EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.subject','Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.reportid','Αναφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillist.scheduledate','Ημερομηνία / Ώρα Προγραμματισμού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.recipientname_criteria','Όνομα Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.recipientemail_criteria','EMail Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillistrecipient.recipientname','Όνομα Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillistrecipient.recipientemail','EMail Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillistrecipient.mailstatusindicator','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillistrecipient.contents','Συμπλήρωση Περιεχομένου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistentry.jsp.sys_maillistrecipient.history','Ιστορικό Αποστολής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.senderemail_required','Συμπληρώστε Υποχρεωτικά EMail Αποστολέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.subject_required','Συμπληρώστε Υποχρεωτικά Θέμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.scheduledate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Προγραμματισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.scheduletime_required','Συμπληρώστε Υποχρεωτικά Ώρα Προγραμματισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.mailliststatusindicator_required','Συμπληρώστε Υποχρεωτικά Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.recipientname_required','Συμπληρώστε Υποχρεωτικά Όνομα Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.recipientemail_required','Συμπληρώστε Υποχρεωτικά EMail Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.mailstatus_required','Συμπληρώστε Υποχρεωτικά Κατάσταση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.reportid_required','Συμπληρώστε Υποχρεωτικά Αναφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.fintranspartyid_column_required','Η Αναφορά Πρέπει Να Περιλαμβάνει Στήλη Με Κωδικό FINTRANSPARTYID');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.email_column_required','Η Αναφορά Πρέπει Να Περιλαμβάνει Στήλη Με Κωδικό EMAIL');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.fintranspartyname_column_required','Η Αναφορά Πρέπει Να Περιλαμβάνει Στήλη Με Κωδικό NAME');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.recipients_must_be_empty','Η Λίστα Παραληπτών Πρέπει Να Είναι Κενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.report_must_have_groupings','Η Αναφορά Πρέπει Να Περιέχει Πεδία Ομαδοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_maillistentry.jsp.validations.report_must_have_pagebreaks','Η Αναφορά Πρέπει Να Περιέχει Αλλαγές Σελίδας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillistrecipient.jsp.entrydisplaybox.caption','Κείμενο EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillisthistory.jsp.griddisplaybox.caption','Ιστορικό Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillisthistory.jsp.sys_maillisthistory.attemptdate','Ημ/νία Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillisthistory.jsp.sys_maillisthistory.attempttime','Ώρα Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_maillisthistory.jsp.sys_maillisthistory.attemptstatusindicator','Αποτέλεσμα');

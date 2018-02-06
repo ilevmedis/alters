@@ -1,0 +1,7 @@
+fin_suppliercreditentry.jsp.fin_transdetail.fintranspartyid_xep = Δικαιούχος ΧΕΠ
+
+fin_suppliercreditentry.jsp.validations.plg_budgetexec.fintranspartyid_xep_required = Συμπληρώστε Υποχρεωτικά Δικαιούχο ΧΕΠ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.fintranspartyid_xep','Δικαιούχος ΧΕΠ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_suppliercreditentry.jsp.validations.plg_budgetexec.fintranspartyid_xep_required','Συμπληρώστε Υποχρεωτικά Δικαιούχο ΧΕΠ');

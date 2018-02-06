@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_mailparamsentry.jsp.view', 'Προβολή Παραμέτρων Αποστολής EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_mailparamsentry.jsp.print', 'Εκτύπωση Παραμέτρων Αποστολής EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_mailparamsentry.jsp.insert', 'Εισαγωγή Παραμέτρων Αποστολής EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_mailparamsentry.jsp.update', 'Μεταβολή Παραμέτρων Αποστολής EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_mailparamsentry.jsp.delete', 'Διαγραφή Παραμέτρων Αποστολής EMail');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_mailparamsentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_mailparamsentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_mailparamsentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_mailparamsentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_mailparamsentry.jsp.insert', 1);

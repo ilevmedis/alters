@@ -1,0 +1,1 @@
+alter table sys_entrycustomization add additionalfields clob;

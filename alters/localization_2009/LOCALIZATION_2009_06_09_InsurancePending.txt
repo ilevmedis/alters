@@ -1,0 +1,13 @@
+﻿pta_visitentry.jsp.pbl_visitcoverdetail.pending_button = Ασφαλ. Εκκρεμότητες
+pbl_visitcoverpendingentry.jsp.entrydisplaybox.caption = Συμπλήρωση Ασφαλ. Εκκρεμότητας
+pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.ispending = Ασφαλιστική Εκκρεμότητα
+pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.pendingstartdate = Ημ/νία Έναρξης Εκκρεμότητας
+pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.pendingenddate = Ημ/νία Λήξης Εκκρεμότητας
+pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.pendingdescr = Περιγραφή Εκκρεμότητας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pbl_visitcoverdetail.pending_button','Ασφαλ. Εκκρεμότητες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverpendingentry.jsp.entrydisplaybox.caption','Συμπλήρωση Ασφαλ. Εκκρεμότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.ispending','Ασφαλιστική Εκκρεμότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.pendingstartdate','Ημ/νία Έναρξης Εκκρεμότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.pendingenddate','Ημ/νία Λήξης Εκκρεμότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverpendingentry.jsp.pbl_visitcoverdetail.pendingdescr','Περιγραφή Εκκρεμότητας');

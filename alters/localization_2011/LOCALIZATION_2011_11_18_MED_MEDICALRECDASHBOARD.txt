@@ -1,0 +1,21 @@
+medisservicedisplaybox.jsp.med_service.servicedate = Ημ/νία
+medisservicedisplaybox.jsp.med_service.internaleventno = Αρ.Κίνησης
+medisservicedisplaybox.jsp.med_servicemaster.descr = Υπηρεσία
+medisservicedisplaybox.jsp.med_medicalstatus.mnemonic = Κατάσταση
+pta_bedbrowser.jsp.menuitems.meddashboard = Dashboard
+pta_visitadmissionbrowser.jsp.menuitems.meddashboard = Dashboard
+pta_oupvisitbrowser.jsp.menuitems.meddashboard = Dashboard
+
+med_medicalrecdashboard.jsp.validations.dashboard_not_found = Δεν Βρέθηκε Dashboard Για Το Χρήστη
+med_medicalrecdashboard.jsp.validations.dashboard_required = Συμπληρώστε Υποχρεωτικά Dashboard
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisservicedisplaybox.jsp.med_service.servicedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisservicedisplaybox.jsp.med_service.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisservicedisplaybox.jsp.med_servicemaster.descr','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medisservicedisplaybox.jsp.med_medicalstatus.mnemonic','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.menuitems.meddashboard','Dashboard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitadmissionbrowser.jsp.menuitems.meddashboard','Dashboard');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitbrowser.jsp.menuitems.meddashboard','Dashboard');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecdashboard.jsp.validations.dashboard_not_found','Δεν Βρέθηκε Dashboard Για Το Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecdashboard.jsp.validations.dashboard_required','Συμπληρώστε Υποχρεωτικά Dashboard');

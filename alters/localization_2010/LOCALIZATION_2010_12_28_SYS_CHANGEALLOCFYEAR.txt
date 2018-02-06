@@ -1,0 +1,24 @@
+sys_changeallocationfyear.jsp.pagetitle = Μεταφορά Ραντεβού Εξωτερικών Στο Νέο Έτος
+sys_changeallocationfyear.jsp.messagedisplaybox.caption = Στοιχεία Μεταφοράς
+sys_changeallocationfyear.jsp.fyear = Οικονομικό Έτος Αντλησης Στοιχείων
+sys_changeallocationfyear.jsp.transfer = Μεταφορά
+sys_changeallocationfyear.jsp.internaleventdate_criteria = Ημερομηνία Εναρξης Ραντεβού Στο Νέο Έτος
+
+sys_changeallocationfyear.jsp.successfullcompletion = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+sys_changeallocationfyear.jsp.errorsfound = Βρέθηκαν Σφάλματα Κατά Τη Μεταφορά
+sys_changeallocationfyear.jsp.fyearrequired = Συμπληρώστε Υποχρεωτικά Έτος
+sys_changeallocationfyear.jsp.internaleventdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Εναρξης Ραντεβού
+sys_changeallocationfyear.jsp.noordersfound = Δεν Βρέθηκαν Ραντεβού Εξωτερικών Για Μεταφορά
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeallocationfyear.jsp.pagetitle','Μεταφορά Ραντεβού Εξωτερικών Στο Νέο Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeallocationfyear.jsp.messagedisplaybox.caption','Στοιχεία Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeallocationfyear.jsp.fyear','Οικονομικό Έτος Αντλησης Στοιχείων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeallocationfyear.jsp.transfer','Μεταφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_changeallocationfyear.jsp.internaleventdate_criteria','Ημερομηνία Εναρξης Ραντεβού Στο Νέο Έτος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeallocationfyear.jsp.successfullcompletion','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeallocationfyear.jsp.errorsfound','Βρέθηκαν Σφάλματα Κατά Τη Μεταφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeallocationfyear.jsp.fyearrequired','Συμπληρώστε Υποχρεωτικά Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeallocationfyear.jsp.internaleventdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Εναρξης Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_changeallocationfyear.jsp.noordersfound','Δεν Βρέθηκαν Ραντεβού Εξωτερικών Για Μεταφορά');

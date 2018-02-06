@@ -1,0 +1,5 @@
+insert into sys_privilege(privilegeid, descr) values ('fin_masstaxscenarioentry.jsp.insert', 'Μαζική Εφαρμογή Σεναρίου Κρατήσεων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_masstaxscenarioentry.jsp.view', 'Μαζική Εφαρμογή Σεναρίου Κρατήσεων (Προβολή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'fin_masstaxscenarioentry.jsp.insert', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (4, 'fin_masstaxscenarioentry.jsp.view', 1);

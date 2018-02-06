@@ -1,0 +1,1 @@
+alter table FIN_TRANSHEADER add CANCELREASONINDICATOR number(38);

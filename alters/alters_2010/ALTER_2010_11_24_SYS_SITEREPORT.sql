@@ -1,0 +1,1 @@
+alter table SYS_SITEREPORT add EXPRESSION varchar2(200);

@@ -1,0 +1,17 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_ssnparametersentry.jsp.view', 'Παράμετροι ΑΜΚΑ (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_ssnparametersentry.jsp.insert', 'Παράμετροι ΑΜΚΑ (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_ssnparametersentry.jsp.update', 'Παράμετροι ΑΜΚΑ (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_ssnparametersentry.jsp.delete', 'Παράμετροι ΑΜΚΑ (Διαγραφή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_ssnparametersentry.jsp.print', 'Παράμετροι ΑΜΚΑ (Εκτύπωση)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_ssnparametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_ssnparametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_ssnparametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_ssnparametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_ssnparametersentry.jsp.insert', 1);
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (11, 'pta_ssnparametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (11, 'pta_ssnparametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (11, 'pta_ssnparametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (11, 'pta_ssnparametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (11, 'pta_ssnparametersentry.jsp.insert', 1);

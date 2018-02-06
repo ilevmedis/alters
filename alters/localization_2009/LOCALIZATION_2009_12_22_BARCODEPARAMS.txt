@@ -1,0 +1,13 @@
+inv_barcodeparamsentry.jsp.pagetitle = Καταχ. Παραμέτρων Εκτυπ. Ετικ. Barcode
+inv_barcodeparamsentry.jsp.entrydisplaybox.caption = Στοιχεία Παραμέτρων Εκτυπ. Ετικ. Barcode
+inv_barcodeparamsentry.jsp.inv_barcodeparams.barcodeinitstr = Εντολή Αρχικοποίησης Εκτυπωτή
+inv_barcodeparamsentry.jsp.inv_barcodeparams.barcodelabelstr = Εντολή Εκτύπωσης Ετικέτας
+
+inv_barcodeparamsentry.jsp.validations.barcodelabelstr_required = Συμπληρώστε Υποχρεωτικά Εντολή Εκτύπωσης Ετικέτας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_barcodeparamsentry.jsp.pagetitle','Καταχ. Παραμέτρων Εκτυπ. Ετικ. Barcode');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_barcodeparamsentry.jsp.entrydisplaybox.caption','Στοιχεία Παραμέτρων Εκτυπ. Ετικ. Barcode');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_barcodeparamsentry.jsp.inv_barcodeparams.barcodeinitstr','Εντολή Αρχικοποίησης Εκτυπωτή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_barcodeparamsentry.jsp.inv_barcodeparams.barcodelabelstr','Εντολή Εκτύπωσης Ετικέτας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_barcodeparamsentry.jsp.validations.barcodelabelstr_required','Συμπληρώστε Υποχρεωτικά Εντολή Εκτύπωσης Ετικέτας');

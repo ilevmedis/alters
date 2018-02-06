@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackrulebrowser.jsp.view', 'Διαχείριση Ποσοστών Claw Back / Rebate');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackrulebrowser.jsp.print', 'Εκτύπωση Ποσοστών Claw Back / Rebate');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackrulebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackrulebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackruleentry.jsp.view', 'Ανάγνωση Ποσοστών Claw Back / Rebate');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackruleentry.jsp.print', 'Εκτύπωση Ποσοστών Claw Back / Rebate');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackruleentry.jsp.insert', 'Εισαγωγή Ποσοστών Claw Back / Rebate');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackruleentry.jsp.update', 'Μεταβολή Ποσοστών Claw Back / Rebate');
+insert into sys_privilege(privilegeid, descr) values ('pbl_clawbackruleentry.jsp.delete', 'Διαγραφή Ποσοστών Claw Back / Rebate');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackruleentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackruleentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackruleentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackruleentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_clawbackruleentry.jsp.insert', 1);
+

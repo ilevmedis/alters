@@ -1,0 +1,74 @@
+inv_grantcancelentry.jsp.pagetitle = Ακύρωση Χορήγησης
+inv_grantcancelentry.jsp.entrydisplaybox.caption = Στοιχεία Ακύρωσης
+inv_grantcancelentry.jsp.griddisplaybox.caption = Είδη Ακύρωσης
+
+inv_grantcancelentry.jsp.inv_transheader.invtransheaderid = Κωδ.Κίνησης
+inv_grantcancelentry.jsp.inv_transheader.internaleventno = Αρ.Παραστατικού
+inv_grantcancelentry.jsp.erp_eventtype.mnemonic = Διαδικασία
+inv_grantcancelentry.jsp.inv_eventtype.mnemonic = Κωδ.Κίν.Αποθήκης
+inv_grantcancelentry.jsp.inv_transheader.invstoreid = Από Αποθήκη/Τμήμα
+inv_grantcancelentry.jsp.inv_transheader.relatedstoreid = Προς Αποθήκη/Τμήμα
+inv_grantcancelentry.jsp.inv_transheader.internaleventdate = Ημ.Κίνησης
+inv_grantcancelentry.jsp.inv_transheader.descr = Αιτιολογία
+inv_grantcancelentry.jsp.inv_transheader.costcenterid = Κέντρο Κόστους
+inv_grantcancelentry.jsp.inv_transheader.visitid = Ασθενής
+inv_grantcancelentry.jsp.inv_transcredit.linenum = Α/Α
+inv_grantcancelentry.jsp.inv_transcredit.include = Ακύρ.
+inv_grantcancelentry.jsp.inv_transcredit.invitemid = Είδος
+inv_grantcancelentry.jsp.inv_transcredit.lotid = Παρτίδα
+inv_grantcancelentry.jsp.inv_transcredit.qua = Ποσότητα
+inv_grantcancelentry.jsp.inv_transcredit.unitofmeasureid = Μον.Μέτρησης
+inv_grantcancelentry.jsp.inv_transcredit.comments = Σχόλια
+
+
+inv_grantentry.jsp.cancelgrant = Ακύρωση
+
+
+inv_grantcancelentry.jsp.validations.erpeventtypeidrequired = Συμπληρώστε Υποχρεωτικά Διαδικασία
+inv_grantcancelentry.jsp.validations.invstorerequired = Συμπληρώστε Υποχρεωτικά Από Αποθήκη/Τμήμα
+inv_grantcancelentry.jsp.validations.no_rows_to_cancel = Δεν Υπάρχουν Είδη Προς Ακύρωση
+inv_grantcancelentry.jsp.validations.inv_transheader.relatedstoreid_required = Συμπληρώστε Υποχρεωτικά Προς Αποθήκη/Τμήμα
+inv_grantcancelentry.jsp.validations.inv_transheader.visitid_required = Συμπληρώστε Υποχρεωτικά Ασθενή
+inv_grantcancelentry.jsp.validations.inv_transheader.costcenterid_required = Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους
+inv_grantcancelentry.jsp.validations.inv_transheader.internaleventdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Κίνησης
+inv_grantcancelentry.jsp.validations.invalid_quaoper = Η Ακύρωση Χορήγησης Επιτρέπεται Μόνο Για Διαδικασια Με Αρνητικό Τελεστή Ποσότητας. Παρακαλώ Διορθώστε
+
+inv_grantentry.jsp.validations.grant_iscanceled = Η Χορήγηση Έχει Ακυρωθεί. Δεν Επιτρέπεται Η Μεταβολή Της Εγγραφής
+inv_grantentry.jsp.validations.grant_is_cancel_transaction = Η Χορήγηση Αποτελεί Ακυρωτική Κίνηση Άλλης Χορήγησης. Δεν Επιτρέπεται Η Μεταβολή Της Εγγραφής
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.pagetitle','Ακύρωση Χορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.entrydisplaybox.caption','Στοιχεία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.griddisplaybox.caption','Είδη Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.invtransheaderid','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.internaleventno','Αρ.Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_eventtype.mnemonic','Κωδ.Κίν.Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.invstoreid','Από Αποθήκη/Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.relatedstoreid','Προς Αποθήκη/Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.internaleventdate','Ημ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.costcenterid','Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transheader.visitid','Ασθενής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.include','Ακύρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.invitemid','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.lotid','Παρτίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.qua','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.unitofmeasureid','Μον.Μέτρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantcancelentry.jsp.inv_transcredit.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantentry.jsp.cancelgrant','Ακύρωση');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.erpeventtypeidrequired','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.invstorerequired','Συμπληρώστε Υποχρεωτικά Από Αποθήκη/Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.no_rows_to_cancel','Δεν Υπάρχουν Είδη Προς Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.inv_transheader.relatedstoreid_required','Συμπληρώστε Υποχρεωτικά Προς Αποθήκη/Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.inv_transheader.visitid_required','Συμπληρώστε Υποχρεωτικά Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.inv_transheader.costcenterid_required','Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.inv_transheader.internaleventdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Κίνησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantcancelentry.jsp.validations.invalid_quaoper','Η Ακύρωση Χορήγησης Επιτρέπεται Μόνο Για Διαδικασια Με Αρνητικό Τελεστή Ποσότητας.Παρακαλώ Διορθώστε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.grant_iscanceled','Η Χορήγηση Έχει Ακυρωθεί. Δεν Επιτρέπεται Η Μεταβολή Της Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.grant_is_cancel_transaction','Η Χορήγηση Αποτελεί Ακυρωτική Κίνηση Άλλης Χορήγησης. Δεν Επιτρέπεται Η Μεταβολή Της Εγγραφής');

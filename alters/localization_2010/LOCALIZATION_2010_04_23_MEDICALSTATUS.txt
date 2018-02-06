@@ -1,0 +1,150 @@
+--Medical Status Browser
+med_medicalstatusbrowser.jsp.pagetitle = Διαχείριση Καταστάσεων Ιατρ. Αποτελεσμάτων
+med_medicalstatusbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_medicalstatusbrowser.jsp.griddisplaybox.caption = Καταστάσεις Ιατρ. Αποτελεσμάτων
+med_medicalstatusbrowser.jsp.mnemonic_criteria = Μνημονικός
+med_medicalstatusbrowser.jsp.descr_criteria = Περιγραφή
+med_medicalstatusbrowser.jsp.isactive_criteria = Ενεργό
+med_medicalstatusbrowser.jsp.med_medicalstatus.medicalstatusid = Κωδικός
+med_medicalstatusbrowser.jsp.med_medicalstatus.mnemonic = Μνημονικός
+med_medicalstatusbrowser.jsp.med_medicalstatus.descr = Περιγραφή
+med_medicalstatusbrowser.jsp.med_medicalstatus.isactive = Ενεργό
+
+--Medical Status Entry
+med_medicalstatusentry.jsp.pagetitle = Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων
+med_medicalstatusentry.jsp.entrydisplaybox.caption = Κατάσταση Ιατρ. Αποτελέσματος
+med_medicalstatusentry.jsp.med_medicalstatus.medicalstatusid = Κωδικός
+med_medicalstatusentry.jsp.med_medicalstatus.mnemonic = Μνημονικός
+med_medicalstatusentry.jsp.med_medicalstatus.descr = Περιγραφή
+med_medicalstatusentry.jsp.med_medicalstatus.isactive = Ενεργό
+
+med_medicalstatusentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό
+med_medicalstatusentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+--Status Pattern Browser
+med_statuspatternbrowser.jsp.pagetitle = Διαχείριση Προτύπων Ιατρ. Αποτελεσμάτων
+med_statuspatternbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_statuspatternbrowser.jsp.griddisplaybox.caption = Πρότυπα Ιατρ. Αποτελεσμάτων
+med_statuspatternbrowser.jsp.mnemonic_criteria = Μνημονικός
+med_statuspatternbrowser.jsp.descr_criteria = Περιγραφή
+med_statuspatternbrowser.jsp.isactive_criteria = Ενεργό
+med_statuspatternbrowser.jsp.med_statuspatternheader.statuspatternheaderid = Κωδικός
+med_statuspatternbrowser.jsp.med_statuspatternheader.mnemonic = Μνημονικός
+med_statuspatternbrowser.jsp.med_statuspatternheader.descr = Περιγραφή
+med_statuspatternbrowser.jsp.med_statuspatternheader.isactive = Ενεργό
+
+--Status Pattern Entry
+med_statuspatternentry.jsp.pagetitle = Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων
+med_statuspatternentry.jsp.entrydisplaybox.caption = Πρότυπα Ιατρ. Αποτελέσματος
+med_statuspatternentry.jsp.med_statuspatternheader.statuspatternheaderid = Κωδικός
+med_statuspatternentry.jsp.med_statuspatternheader.mnemonic = Μνημονικός
+med_statuspatternentry.jsp.med_statuspatternheader.descr = Περιγραφή
+med_statuspatternentry.jsp.med_statuspatternheader.isactive = Ενεργό
+
+med_statuspatternentry.jsp.statuspatterndetailgriddisplaybox.caption = Καταστάσεις Προτύπου
+med_statuspatternentry.jsp.med_statuspatterndetail.priority = Προτεραιότητα
+med_statuspatternentry.jsp.med_statuspatterndetail.medicalstatusid = Κατάσταση
+med_statuspatternentry.jsp.med_statuspatterndetail.isdefault = Προεπιλογή
+
+med_statuspatternentry.jsp.validations.med_statuspatternheader.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό
+med_statuspatternentry.jsp.validations.med_statuspatternheader.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+med_statuspatternentry.jsp.validations.priority_continuation_check_failed = Η Προτεραιότητα Δεν Είναι Αύξουσα! Παρακαλώ Διορθώστε
+med_statuspatternentry.jsp.validations.nodefault_medicalstatus_found = Σημπληρώστε Υποχρεωτικά 1 Κατάσταση Ως Κύρια
+med_statuspatternentry.jsp.validations.too_many_default_status = Περισσότερες Από 1 Καταστάσεις Έχουν Σημανθεί Ως Κύριες! Παρακαλώ Διορθώστε
+med_statuspatternentry.jsp.med_statuspatterndetail.priorityrequired = Συμπληρώστε Υποχρεωτικά Προτεραιότητα
+
+--Status Pattern Index
+med_statuspatternindex.jsp.pagetitle = Επιλογή Προτύπων Ιατρ. Αποτελεσμάτων
+med_statuspatternindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_statuspatternindex.jsp.griddisplaybox.caption = Πρότυπα Ιατρ. Αποτελεσμάτων
+med_statuspatternindex.jsp.mnemonic_criteria = Μνημονικός
+med_statuspatternindex.jsp.descr_criteria = Περιγραφή
+med_statuspatternindex.jsp.isactive_criteria = Ενεργό
+med_statuspatternindex.jsp.med_statuspatternheader.statuspatternheaderid = Κωδικός
+med_statuspatternindex.jsp.med_statuspatternheader.mnemonic = Μνημονικός
+med_statuspatternindex.jsp.med_statuspatternheader.descr = Περιγραφή
+med_statuspatternindex.jsp.med_statuspatternheader.isactive = Ενεργό
+
+--Med_Parameters
+med_parametersentry.jsp.med_parameters.defstatuspatternheaderid = Πρότυπο Ιατρ. Αποτελεσμάτων
+med_parametersentry.jsp.validations.med_parameters.defstatuspatternheaderidrequired = Συμπληρώστε Υποχρεωτικά Πρότυπο Ιατρ. Αποτελεσμάτων
+
+--Med_ServiceMaster
+med_servicemasterentry.jsp.med_servicemaster.statuspatternheaderid = Πρότυπο Ιατρ. Αποτελεσμάτων
+
+
+
+--MedicalStatus Browser
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.pagetitle','Διαχείριση Καταστάσεων Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.griddisplaybox.caption','Καταστάσεις Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.med_medicalstatus.medicalstatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.med_medicalstatus.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.med_medicalstatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusbrowser.jsp.med_medicalstatus.isactive','Ενεργό');
+
+--MedicalStatus Entry
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.pagetitle','Καταχώρηση Καταστάσεων Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.entrydisplaybox.caption','Κατάσταση Ιατρ. Αποτελέσματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.med_medicalstatus.medicalstatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.med_medicalstatus.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.med_medicalstatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.med_medicalstatus.isactive','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalstatusentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+
+--Pattern Browser
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.pagetitle','Διαχείριση Προτύπων Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.griddisplaybox.caption','Πρότυπα Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.med_statuspatternheader.statuspatternheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.med_statuspatternheader.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.med_statuspatternheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternbrowser.jsp.med_statuspatternheader.isactive','Ενεργό');
+
+--Status Pattern Entry
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.pagetitle','Καταχώρηση Προτύπων Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.entrydisplaybox.caption','Πρότυπα Ιατρ. Αποτελέσματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatternheader.statuspatternheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatternheader.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatternheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatternheader.isactive','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.statuspatterndetailgriddisplaybox.caption','Καταστάσεις Προτύπου  ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatterndetail.priority','Προτεραιότητα ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatterndetail.medicalstatusid','Κατάσταση ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatterndetail.isdefault','Προεπιλογή ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_statuspatternentry.jsp.validations.med_statuspatternheader.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_statuspatternentry.jsp.validations.med_statuspatternheader.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_statuspatternentry.jsp.validations.priority_continuation_check_failed','Η Προτεραιότητα Δεν Είναι Αύξουσα! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_statuspatternentry.jsp.validations.nodefault_medicalstatus_found','Σημπληρώστε Υποχρεωτικά 1 Κατάσταση Ως Κύρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_statuspatternentry.jsp.validations.too_many_default_status','Περισσότερες Από 1 Καταστάσεις Έχουν Σημανθεί Ως Κύριες! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_statuspatternentry.jsp.med_statuspatterndetail.priorityrequired','Συμπληρώστε Υποχρεωτικά Προτεραιότητα');
+
+--Status Pattern Index
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.pagetitle','Επιλογή Προτύπων Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.griddisplaybox.caption','Πρότυπα Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.mnemonic_criteria','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.med_statuspatternheader.statuspatternheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.med_statuspatternheader.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.med_statuspatternheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternindex.jsp.med_statuspatternheader.isactive','Ενεργό');
+
+--Med_Parameters
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_parametersentry.jsp.med_parameters.defstatuspatternheaderid','Πρότυπο Ιατρ. Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_parametersentry.jsp.validations.med_parameters.defstatuspatternheaderidrequired','Συμπληρώστε Υποχρεωτικά Πρότυπο Ιατρ. Αποτελεσμάτων');
+
+--Med_ServiceMaster
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.med_servicemaster.statuspatternheaderid','Πρότυπο Ιατρ. Αποτελεσμάτων');
+

@@ -1,0 +1,12 @@
+inv_parametersentry.jsp.inv_parameters.replenishitembehaviorindicator = Συμπεριφορά Σε Παραγγ.Οροφου Για Είδη Που Είναι Σε Αναπλήρωση
+
+inv_parametersentry.jsp.validations.inv_parameters.replenishrtemrehaviorindicatorrequired = Συμπληρώστε Υποχρεωτικά Συμπεριφορά Σε Παραγγελίες Οροφου Για Είδη Που Είναι Σε Αναπλήρωση
+inv_orderstoreentry.jsp.validations.invitem_in_replenish_policy = Προσοχή!!! Το Είδος Είναι Σε Πολιτική Αυτόματης Αναπλήρωσης
+
+delete from sys_localization where localizationkey = 'inv_parametersentry.jsp.inv_parameters.replenishitembehaviorid';
+delete from sys_localization where localizationkey = 'inv_parametersentry.jsp.validations.inv_parameters.replenishrtemrehavioridrequired';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_parametersentry.jsp.inv_parameters.replenishitembehaviorindicator','Συμπεριφορά Σε Παραγγ.Οροφου Για Είδη Που Είναι Σε Αναπλήρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderstoreentry.jsp.validations.invitem_in_replenish_policy','Προσοχή!!! Το Είδος Είναι Σε Πολιτική Αυτόματης Αναπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_parametersentry.jsp.validations.inv_parameters.replenishrtemrehaviorindicatorrequired','Συμπληρώστε Υποχρεωτικά Συμπεριφορά Σε Παραγγελίες Οροφου Για Είδη Που Είναι Σε Αναπλήρωση');
+

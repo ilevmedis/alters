@@ -1,0 +1,25 @@
+med_medicalrecentry.jsp.grantviewsecurity = Παροχή Δικ. Ανάγνωσης
+med_medicalrecentry.jsp.grantupdatesecurity = Παροχή Δικ. Μεταβολής
+med_medicalrecentry.jsp.grantdeletesecurity = Παροχή Δικ. Διαγραφής
+med_medicalrecentry.jsp.revokeviewsecurity = Αφαίρεση Δικ. Ανάγνωσης
+med_medicalrecentry.jsp.revokeupdatesecurity = Αφαίρεση Δικ. Μεταβολής
+med_medicalrecentry.jsp.revokedeletesecurity = Αφαίρεση Δικ Διαγραφής
+
+med_medicalrecsecurityentry.jsp.pagetitle = Επιλογή Ρόλων Πρόσβασης
+med_medicalrecsecurityentry.jsp.griddisplaybox.caption = Επιλογή Ρόλων Πρόσβασης
+med_medicalrecsecurityentry.jsp.med_securityrole.mnemonic = Μνημ.Κωδ. Ρόλου
+med_medicalrecsecurityentry.jsp.med_securityrole.descr = Περιγρ. Ρόλου
+med_medicalrecsecurityentry.jsp.med_securityrole.selected = Επιλογή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.grantviewsecurity','Παροχή Δικ. Ανάγνωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.grantupdatesecurity','Παροχή Δικ. Μεταβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.grantdeletesecurity','Παροχή Δικ. Διαγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.revokeviewsecurity','Αφαίρεση Δικ. Ανάγνωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.revokeupdatesecurity','Αφαίρεση Δικ. Μεταβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.revokedeletesecurity','Αφαίρεση Δικ Διαγραφής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecsecurityentry.jsp.pagetitle','Επιλογή Ρόλων Πρόσβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecsecurityentry.jsp.griddisplaybox.caption','Επιλογή Ρόλων Πρόσβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecsecurityentry.jsp.med_securityrole.mnemonic','Μνημ.Κωδ. Ρόλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecsecurityentry.jsp.med_securityrole.descr','Περιγρ. Ρόλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecsecurityentry.jsp.med_securityrole.selected','Επιλογή');

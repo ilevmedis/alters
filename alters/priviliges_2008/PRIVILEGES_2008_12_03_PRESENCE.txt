@@ -1,0 +1,26 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookbrowser.jsp.view', 'Διαχείριση Προσελεύσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookbrowser.jsp.print', 'Διαχείριση Προσελεύσεων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookentry.jsp.view', 'Καταχώρηση Προσελεύσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookentry.jsp.print', 'Καταχώρηση Προσελεύσεων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookentry.jsp.insert', 'Καταχώρηση Προσελεύσεων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookentry.jsp.update', 'Καταχώρηση Προσελεύσεων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_entrancebookentry.jsp.delete', 'Καταχώρηση Προσελεύσεων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_entrancebookentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_cancelentrancebookentry.jsp.view', 'Ακύρωση Προσελεύσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_cancelentrancebookentry.jsp.print', 'Ακύρωση Προσελεύσεων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_cancelentrancebookentry.jsp.insert', 'Ακύρωση Προσελεύσεων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_cancelentrancebookentry.jsp.update', 'Ακύρωση Προσελεύσεων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_cancelentrancebookentry.jsp.delete', 'Ακύρωση Προσελεύσεων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_cancelentrancebookentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_cancelentrancebookentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_cancelentrancebookentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_cancelentrancebookentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'pta_cancelentrancebookentry.jsp.insert', 1);

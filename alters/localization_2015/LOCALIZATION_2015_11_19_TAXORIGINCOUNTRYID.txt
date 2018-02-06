@@ -1,0 +1,6 @@
+fin_transpartyentry.jsp.fin_transparty.taxorigincountryid = Χώρα Φορολογικής Εδρας
+fin_transpartyentry.jsp.validations.taxorigincountryidrequired = Συμπληρώστε Υποχρεωτικά Χώρα Φορολογικής Εδρας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.taxorigincountryid','Χώρα Φορολογικής Εδρας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_transpartyentry.jsp.validations.taxorigincountryidrequired','Συμπληρώστε Υποχρεωτικά Χώρα Φορολογικής Εδρας');
+

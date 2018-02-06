@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('ast_assetinventory.jsp.view', 'Απογραφή Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetinventory.jsp.print', 'Απογραφή Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetinventory.jsp.insert', 'Απογραφή Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetinventory.jsp.update', 'Απογραφή Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetinventory.jsp.delete', 'Απογραφή Παγίων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetinventory.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetinventory.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetinventory.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetinventory.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetinventory.jsp.insert', 1);

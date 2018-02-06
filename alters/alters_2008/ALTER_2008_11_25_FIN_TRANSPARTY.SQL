@@ -1,0 +1,1 @@
+﻿alter table fin_transparty add (commercialname varchar2(50), ordersrecipient varchar2(50));

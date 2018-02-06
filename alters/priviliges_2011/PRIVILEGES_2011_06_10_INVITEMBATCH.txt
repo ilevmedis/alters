@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_itembatchinputentry.jsp.view', 'Ανάγνωση Καταχώρηση Ειδών Αποθήκης Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('inv_itembatchinputentry.jsp.print', 'Εκτύπωση Καταχώρηση Ειδών Αποθήκης Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('inv_itembatchinputentry.jsp.insert', 'Εισαγωγή Καταχώρηση Ειδών Αποθήκης Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('inv_itembatchinputentry.jsp.update', 'Μεταβολή Καταχώρηση Ειδών Αποθήκης Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('inv_itembatchinputentry.jsp.delete', 'Διαγραφή Καταχώρηση Ειδών Αποθήκης Από Excel');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_itembatchinputentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_itembatchinputentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_itembatchinputentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_itembatchinputentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_itembatchinputentry.jsp.insert', 1);

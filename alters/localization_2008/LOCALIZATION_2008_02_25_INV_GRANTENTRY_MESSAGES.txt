@@ -1,0 +1,4 @@
+﻿inv_grantentry.jsp.validations.itemprice_lessthan_threshold = Η Τιμή Του Είδους Είναι Μικρότερη Από Την Επιτρεπόμενη Που Έχει Οριστεί Στο Παραστατικό
+inv_grantentry.jsp.validations.itemprice_lte_threshold = Η Τιμή Του Είδους Είναι Μικρότερη ή Ίση Από Την Επιτρεπόμενη Που Έχει Οριστεί Στο Παραστατικό
+inv_grantentry.jsp.validations.itemprice_greaterthan_threshold = Η Τιμή Του Είδους Είναι Μεγαλύτερη Από Την Επιτρεπόμενη Που Έχει Οριστεί Στο Παραστατικό
+inv_grantentry.jsp.validations.itemprice_gte_threshold = Η Τιμή Του Είδους Είναι Μεγαλύτερη ή Ίση Από Την Επιτρεπόμενη Που Έχει Οριστεί Στο Παραστατικό

@@ -1,0 +1,2 @@
+﻿inv_replenishdept.jsp.noofdays_criteria = Αρ.Ημερών Αναπλήρωσης
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishdept.jsp.noofdays_criteria','Αρ.Ημερών Αναπλήρωσης');

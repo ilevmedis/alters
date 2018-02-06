@@ -1,0 +1,25 @@
+inv_orderbuyentry.jsp.tabs.page3 = Δεσμεύσεις
+inv_orderbuyentry.jsp.plg_budgetexec.plgaccountid = Λογ/σμός
+inv_orderbuyentry.jsp.plg_budgetexec.budgetexecamount = Ποσό Δέσμευσης
+inv_orderbuyentry.jsp.plg_budgetexec.budgetresheaderid = Δέσμευση
+inv_orderbuyentry.jsp.plg_budgetexec.iscreatingbudgetres = Νέα Δέσμευση
+inv_orderbuyentry.jsp.plg_budgetexec.comments = Σχόλια
+
+inv_contractentry.jsp.inv_contractheader.budgetresheaderid = Δέσμευση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.tabs.page3','Δεσμεύσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.plg_budgetexec.plgaccountid','Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.plg_budgetexec.budgetexecamount','Ποσό Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.plg_budgetexec.budgetresheaderid','Δέσμευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.plg_budgetexec.iscreatingbudgetres','Νέα Δέσμευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.plg_budgetexec.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_contractentry.jsp.inv_contractheader.budgetresheaderid','Δέσμευση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.tabs.page1','Είδη Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.tabs.page2','Δεσμεύσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.plg_budgetexec.plgaccountid','Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.plg_budgetexec.budgetexecamount','Ποσό Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.plg_budgetexec.budgetresheaderid','Δέσμευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.plg_budgetexec.iscreatingbudgetres','Νέα Δέσμευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.plg_budgetexec.comments','Σχόλια');

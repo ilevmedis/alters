@@ -1,0 +1,74 @@
+pbl_europeaninsurancebrowser.jsp.pagetitle = Διαχείριση Ευρωπαϊκών Φορέων Κάλυψης
+pbl_europeaninsurancebrowser.jsp.criteriadisplaybox.caption = Διαχείριση Ευρωπαϊκών Φορέων Κάλυψης
+pbl_europeaninsurancebrowser.jsp.griddisplaybox.caption = Ευρωπαϊκοί Φορείς Κάλυψης
+
+pbl_europeaninsurancebrowser.jsp.dapycode_criteria = Κωδικός ΔΑΠΥ
+pbl_europeaninsurancebrowser.jsp.descr_criteria = Περιγραφή
+pbl_europeaninsurancebrowser.jsp.countryid_criteria = Χώρα
+pbl_europeaninsurancebrowser.jsp.isactive_criteria = Ενεργή Εγγραφή
+
+pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.europeaninsuranceid = Κωδικός
+pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.dapycode = Κωδ. ΔΑΠΥ
+pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.descr = Περιγραφή
+pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.countryid = Χώρα
+pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.isactive = Ενεργή
+
+pbl_europeaninsuranceentry.jsp.pagetitle = Καταχώρηση Ευρωπαϊκών Φορέων Κάλυψης
+pbl_europeaninsuranceentry.jsp.entrydisplaybox.caption = Στοιχεία Φορέα Κάλυψης
+
+pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.europeaninsuranceid = Κωδικός
+pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.descr = Περιγραφή Φορέα
+pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.dapycode = Κωδικός ΔΑΠΥ
+pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.countryid = Χώρα Προέλευσης
+pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.isactive = Ενεργή Εγγραφή
+
+pbl_europeaninsuranceentry.jsp.validations.dapycoderequired = Συμπληρώστε Υποχρεωτικά Κωδικό ΔΑΠΥ
+pbl_europeaninsuranceentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή Φορέα
+pbl_europeaninsuranceentry.jsp.validations.countryidrequired = Συμπληρώστε Υποχρεωτικά Χώρα Προέλευσης
+
+pbl_europeaninsuranceindex.jsp.pagetitle = Επιλογή Ευρωπαϊκών Φορέων Κάλυψης
+pbl_europeaninsuranceindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_europeaninsuranceindex.jsp.griddisplaybox.caption = Ευρωπαϊκοί Φορείς Κάλυψης
+
+pbl_europeaninsuranceindex.jsp.dapycode_criteria = Κωδικός ΔΑΠΥ
+pbl_europeaninsuranceindex.jsp.descr_criteria = Περιγραφή
+pbl_europeaninsuranceindex.jsp.pbl_europeaninsurance.dapycode = Κωδικός ΔΑΠΥ
+pbl_europeaninsuranceindex.jsp.pbl_europeaninsurance.descr = Περιγραφή
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.pagetitle','Διαχείριση Ευρωπαϊκών Φορέων Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.criteriadisplaybox.caption','Διαχείριση Ευρωπαϊκών Φορέων Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.griddisplaybox.caption','Ευρωπαϊκοί Φορείς Κάλυψης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.dapycode_criteria','Κωδικός ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.countryid_criteria','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.isactive_criteria','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.europeaninsuranceid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.dapycode','Κωδ. ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsurancebrowser.jsp.pbl_europeaninsurance.isactive','Ενεργή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.pagetitle','Καταχώρηση Ευρωπαϊκών Φορέων Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.entrydisplaybox.caption','Στοιχεία Φορέα Κάλυψης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.europeaninsuranceid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.descr','Περιγραφή Φορέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.dapycode','Κωδικός ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.countryid','Χώρα Προέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceentry.jsp.pbl_europeaninsurance.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_europeaninsuranceentry.jsp.validations.dapycoderequired','Συμπληρώστε Υποχρεωτικά Κωδικό ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_europeaninsuranceentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή Φορέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_europeaninsuranceentry.jsp.validations.countryidrequired','Συμπληρώστε Υποχρεωτικά Χώρα Προέλευσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.pagetitle','Επιλογή Ευρωπαϊκών Φορέων Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.griddisplaybox.caption','Ευρωπαϊκοί Φορείς Κάλυψης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.dapycode_criteria','Κωδικός ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.pbl_europeaninsurance.dapycode','Κωδικός ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_europeaninsuranceindex.jsp.pbl_europeaninsurance.descr','Περιγραφή');

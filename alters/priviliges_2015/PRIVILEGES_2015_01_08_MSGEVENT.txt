@@ -1,0 +1,16 @@
+insert into sys_privilege(privilegeid, descr) values ('med_msgeventbrowser.jsp.view', 'Διαχείριση Κανόνων Μηνυμάτων');
+insert into sys_privilege(privilegeid, descr) values ('med_msgeventbrowser.jsp.print', 'Εκτύπωση Κανόνων Μηνυμάτων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgeventbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgeventbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_msgevententry.jsp.view', 'Ανάγνωση Κανόνων Μηνυμάτων');
+insert into sys_privilege(privilegeid, descr) values ('med_msgevententry.jsp.print', 'Εκτύπωση Κανόνων Μηνυμάτων');
+insert into sys_privilege(privilegeid, descr) values ('med_msgevententry.jsp.insert', 'Εισαγωγή Κανόνων Μηνυμάτων');
+insert into sys_privilege(privilegeid, descr) values ('med_msgevententry.jsp.update', 'Μεταβολή Κανόνων Μηνυμάτων');
+insert into sys_privilege(privilegeid, descr) values ('med_msgevententry.jsp.delete', 'Διαγραφή Κανόνων Μηνυμάτων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgevententry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgevententry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgevententry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgevententry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'med_msgevententry.jsp.insert', 1);
+

@@ -1,0 +1,20 @@
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsitem.validsincedate = Από Ημ/νία
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsitem.validtilldate = Έως Ημ/νία
+
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsgroup.validsincedate = Από Ημ/νία
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsgroup.validtilldate = Έως Ημ/νία
+
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.validsincedate = Από Ημ/νία
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.validtilldate = Έως Ημ/νία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsitem.validsincedate','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsitem.validtilldate','Έως Ημ/νία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsgroup.validsincedate','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsgroup.validtilldate','Έως Ημ/νία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.validsincedate','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.validtilldate','Έως Ημ/νία');
+
+
+

@@ -1,0 +1,5 @@
+med_obsparamentry.jsp.med_obsparam.imagemarkcolumns = Αριθμός Στηλών ImageMark Εικόνων
+med_obsparamentry.jsp.med_obsparam.imagemarkarray = Πολλαπλές Εικόνες ImageMark
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparam.imagemarkcolumns','Αριθμός Στηλών ImageMark Εικόνων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparam.imagemarkarray','Πολλαπλές Εικόνες ImageMark  ');

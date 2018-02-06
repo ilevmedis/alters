@@ -1,0 +1,2 @@
+insert into sys_privilege(privilegeid, descr) values ('fin_itemgroupingcodebrowser.jsp.print', 'Διαχείριση Κωδικών Ομαδοποίησης (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'fin_itemgroupingcodebrowser.jsp.print', 1);

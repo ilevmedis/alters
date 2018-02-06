@@ -1,0 +1,10 @@
+pta_parametersentry.jsp.pta_parameters.chkextensionexpiry = Ελεγχος Ημ/νίας Εγκρισης/Παράτασης
+pta_parametersentry.jsp.pta_parameters.extensionexpirythreshold = Οριο Ελέγχου Λήξης Εγκρισης/Παράτασης
+
+pta_visitentry.jsp.validations.insurance_apporvaldays_expiring = Προσοχή!!! Λήξη Εγκρισης/Παράτασης στις
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.chkextensionexpiry','Ελεγχος Ημ/νίας Εγκρισης/Παράτασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.extensionexpirythreshold','Οριο Ελέγχου Λήξης Εγκρισης/Παράτασης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.insurance_apporvaldays_expiring','Προσοχή!!! Λήξη Εγκρισης/Παράτασης στις');

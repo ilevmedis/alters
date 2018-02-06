@@ -1,0 +1,4 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_manualdiscountentry.jsp.applydiscounttoallitems.view', 'Εφαρμογή Έκπτωσης Σε Όλα Τα Είδη');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'pbl_manualdiscountentry.jsp.applydiscounttoallitems.view', 1);
+

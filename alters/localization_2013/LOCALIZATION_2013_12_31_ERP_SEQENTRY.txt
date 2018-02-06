@@ -1,0 +1,5 @@
+erp_seqentry.jsp.maxcounter = Τελευταίος Αριθμός Ζώνης Αρίθμησης
+erp_seqentry.jsp.nextcounter = Πρώτος Αριθμός Επόμενης Ζώνης Αρίθμησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'erp_seqentry.jsp.maxcounter','Τελευταίος Αριθμός Ζώνης Αρίθμησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'erp_seqentry.jsp.nextcounter','Πρώτος Αριθμός Επόμενης Ζώνης Αρίθμησης');

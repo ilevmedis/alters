@@ -1,0 +1,11 @@
+inv_specialmaterialentry.jsp.pbl_pricelistitem.validsincedate = Από Ημ/νία Ισχύος
+inv_specialmaterialentry.jsp.pbl_pricelistitem.pricelistheaderid = Τιμοκατάλογος
+inv_specialmaterialentry.jsp.pbl_pricelistitem.validtilldate = Έως Ημ/νία Ισχύος
+inv_specialmaterialentry.jsp.pbl_pricelistitem.pricingpolicyindicator = Τρόπος Χρέωσης
+inv_specialmaterialentry.jsp.pbl_pricelistitem.price = Τιμή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.pbl_pricelistitem.validsincedate','Από Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.pbl_pricelistitem.pricelistheaderid','Τιμοκατάλογος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.pbl_pricelistitem.validtilldate','Έως Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.pbl_pricelistitem.pricingpolicyindicator','Τρόπος Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_specialmaterialentry.jsp.pbl_pricelistitem.price','Τιμή');

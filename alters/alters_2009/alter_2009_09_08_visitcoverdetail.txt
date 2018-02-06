@@ -1,0 +1,1 @@
+alter table pbl_visitcoverdetail add insurancebookno varchar2(20);

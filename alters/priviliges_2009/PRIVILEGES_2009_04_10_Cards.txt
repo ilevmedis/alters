@@ -1,0 +1,42 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_cardparametersentry.jsp.view', 'Καταχώρηση Παραμέτρων Καρτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardparametersentry.jsp.print', 'Καταχώρηση Παραμέτρων Καρτών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardparametersentry.jsp.insert', 'Καταχώρηση Παραμέτρων Καρτών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardparametersentry.jsp.update', 'Καταχώρηση Παραμέτρων Καρτών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardparametersentry.jsp.delete', 'Καταχώρηση Παραμέτρων Καρτών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardparametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardparametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardparametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardparametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardparametersentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractbrowser.jsp.view', 'Διαχείριση Συμβάσεων Καρτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractbrowser.jsp.print', 'Διαχείριση Συμβάσεων Καρτών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractentry.jsp.view', 'Καταχώρηση Συμβάσεων Καρτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractentry.jsp.print', 'Καταχώρηση Συμβάσεων Καρτών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractentry.jsp.insert', 'Καταχώρηση Συμβάσεων Καρτών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractentry.jsp.update', 'Καταχώρηση Συμβάσεων Καρτών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardcontractentry.jsp.delete', 'Καταχώρηση Συμβάσεων Καρτών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardcontractentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardbrowser.jsp.view', 'Διαχείριση Καρτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardbrowser.jsp.print', 'Διαχείριση Καρτών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardentry.jsp.view', 'Καταχώρηση Καρτών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardentry.jsp.print', 'Καταχώρηση Καρτών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardentry.jsp.insert', 'Καταχώρηση Καρτών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardentry.jsp.update', 'Καταχώρηση Καρτών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_cardentry.jsp.delete', 'Καταχώρηση Καρτών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_cardentry.jsp.insert', 1);

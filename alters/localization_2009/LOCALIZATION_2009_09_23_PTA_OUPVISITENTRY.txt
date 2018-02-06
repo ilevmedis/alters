@@ -1,0 +1,5 @@
+pta_oupvisitentry.jsp.pbl_visitcoverdetail.pending_button = Ασφαλ.Εκκρεμότητες
+pta_oupvisitentry.jsp.validations.patient_is_active_cardholder = Προσοχή!!! Ο Ασθενής Έχει Ενεργή Κάρτα!
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pbl_visitcoverdetail.pending_button','Ασφαλ.Εκκρεμότητες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.patient_is_active_cardholder','Προσοχή!!! Ο Ασθενής Έχει Ενεργή Κάρτα!');

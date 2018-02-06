@@ -1,0 +1,19 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupbrowser.jsp.view', 'Διαχείριση Ομάδων Τμημάτων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupbrowser.jsp.print', 'Διαχείριση Ομάδων Τμημάτων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupentry.jsp.view', 'Καταχώρηση Ομάδων Τμημάτων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupentry.jsp.print', 'Καταχώρηση Ομάδων Τμημάτων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupentry.jsp.insert', 'Καταχώρηση Ομάδων Τμημάτων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupentry.jsp.update', 'Καταχώρηση Ομάδων Τμημάτων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pta_facilitygroupentry.jsp.delete', 'Καταχώρηση Ομάδων Τμημάτων (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pta_facilitygroupentry.jsp.insert', 1);
+
+
+
+

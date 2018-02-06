@@ -1,0 +1,25 @@
+src_supplyrequestentry.jsp.src_supplyrequest.supplyreqcategoryid = Κατηγορία
+src_supplyrequestentry.jsp.src_supplyrequest.supplyreqstatuspatternid = Μοτίβο
+src_supplyrequestentry.jsp.src_supplyreqstatus.mnemonic = Κατάσταση
+src_supplyrequestentry.jsp.tabs.page4 = Αλλαγές Κατάστασης
+
+src_supplyrequestentry.jsp.src_supplyrequeststatuslog.statusdate = Ημερομηνία Αλλαγής
+src_supplyrequestentry.jsp.src_supplyrequeststatuslog.tosupplyreqstatusid = Κατάσταση
+src_supplyrequestentry.jsp.src_supplyrequeststatuslog.comments = Σχόλια
+
+src_supplyrequestentry.jsp.validations.statusdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Κατάστασης
+src_supplyrequestentry.jsp.validations.tosupplyreqstatusid_required = Συμπληρώστε Υποχρεωτικά Κατάσταση
+src_supplyrequestentry.jsp.validations.invalid_statusdate = Η Ημερομηνία Κατάστασης Δεν Μπορεί Να Είναι Μικρότερη Από Την Τελευταία Κίνηση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.src_supplyrequest.supplyreqcategoryid','Κατηγορία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.src_supplyrequest.supplyreqstatuspatternid','Μοτίβο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.src_supplyreqstatus.mnemonic','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.tabs.page4','Αλλαγές Κατάστασης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.src_supplyrequeststatuslog.statusdate','Ημερομηνία Αλλαγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.src_supplyrequeststatuslog.tosupplyreqstatusid','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyrequestentry.jsp.src_supplyrequeststatuslog.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyrequestentry.jsp.validations.statusdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Κατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyrequestentry.jsp.validations.tosupplyreqstatusid_required','Συμπληρώστε Υποχρεωτικά Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyrequestentry.jsp.validations.invalid_statusdate','Η Ημερομηνία Κατάστασης Δεν Μπορεί Να Είναι Μικρότερη Από Την Τελευταία Κίνηση');

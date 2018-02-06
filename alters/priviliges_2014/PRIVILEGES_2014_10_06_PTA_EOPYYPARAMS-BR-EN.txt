@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersbrowser.jsp.view', 'Διαχείριση Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersbrowser.jsp.print', 'Εκτύπωση Παραμέτρων ΕΟΠΥΥ');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersentry.jsp.view', 'Ανάγνωση Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersentry.jsp.print', 'Εκτύπωση Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersentry.jsp.insert', 'Εισαγωγή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersentry.jsp.update', 'Μεταβολή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_privilege(privilegeid, descr) values ('pta_eopyyparametersentry.jsp.delete', 'Διαγραφή Παραμέτρων ΕΟΠΥΥ');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pta_eopyyparametersentry.jsp.insert', 1);

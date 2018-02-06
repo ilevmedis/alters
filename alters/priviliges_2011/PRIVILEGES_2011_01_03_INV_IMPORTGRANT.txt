@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_importgrant.jsp.view', 'Ανάγνωση Εισ. Χορ. Από Αρχειο');
+insert into sys_privilege(privilegeid, descr) values ('inv_importgrant.jsp.print', 'Εκτύπωση Εισ. Χορ. Από Αρχειο');
+insert into sys_privilege(privilegeid, descr) values ('inv_importgrant.jsp.insert', 'Εισαγωγή Εισ. Χορ. Από Αρχειο');
+insert into sys_privilege(privilegeid, descr) values ('inv_importgrant.jsp.update', 'Μεταβολή Εισ. Χορ. Από Αρχειο');
+insert into sys_privilege(privilegeid, descr) values ('inv_importgrant.jsp.delete', 'Διαγραφή Εισ. Χορ. Από Αρχειο');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_importgrant.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_importgrant.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_importgrant.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_importgrant.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'inv_importgrant.jsp.insert', 1);

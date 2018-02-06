@@ -1,0 +1,42 @@
+--med_servicemastergrouping
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingbrowser.jsp.view', 'Διαχείριση Ομαδοποίησης Υπηρεσιών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingbrowser.jsp.print', 'Διαχείριση Ομαδοποίησης Υπηρεσιών(Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingentry.jsp.view', 'Καταχώρηση Ομαδοποίησης Υπηρεσιών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingentry.jsp.print', 'Καταχώρηση Ομαδοποίησης Υπηρεσιών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingentry.jsp.insert', 'Καταχώρηση Ομαδοποίησης Υπηρεσιών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingentry.jsp.update', 'Καταχώρηση Ομαδοποίησης Υπηρεσιών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingentry.jsp.delete', 'Καταχώρηση Ομαδοποίησης Υπηρεσιών (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingentry.jsp.insert', 1);
+
+
+--med_servicemastergroupingcode
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodebrowser.jsp.view', 'Διαχείριση Κωδικών Ομάδων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodebrowser.jsp.print', 'Διαχείριση Κωδικών Ομάδων(Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodeentry.jsp.view', 'Καταχώρηση Κωδικών Ομάδων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodeentry.jsp.print', 'Καταχώρηση Κωδικών Ομάδων (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodeentry.jsp.insert', 'Καταχώρηση Κωδικών Ομάδων (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodeentry.jsp.update', 'Καταχώρηση Κωδικών Ομάδων (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('med_servicemastergroupingcodeentry.jsp.delete', 'Καταχώρηση Κωδικών Ομάδων (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodeentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodeentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodeentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodeentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_servicemastergroupingcodeentry.jsp.insert', 1);
+
+--med_medical rec browser2
+insert into sys_privilege(privilegeid, descr) values ('med_medicalrecbrowser2.jsp.view', 'Διαχείριση Ιατρικών Υπηρεσιών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_medicalrecbrowser2.jsp.print', 'Διαχείριση Ιατρικών Υπηρεσιών(Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalrecbrowser2.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_medicalrecbrowser2.jsp.print', 1);

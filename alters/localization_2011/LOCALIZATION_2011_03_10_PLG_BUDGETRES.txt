@@ -1,0 +1,89 @@
+plg_budgetresstatusentry.jsp.entrydisplaybox.caption = Αλλαγή Κατάστασης Δέσμευσης
+plg.plg_budgetresstatus.jsp.plg_budgetresstatus.statuschangedate = Ημ/νία
+plg.plg_budgetresstatus.jsp.plg_budgetresstatus.descr = Αιτιολογία
+plg.plg_budgetresstatus.jsp.validations.budgetresstatusdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία
+
+plg_budgetresentry.jsp.plg_budgetresheader.budgetresstatus = Κατάσταση Δέσμευσης
+plg_budgetresentry.jsp.plg_budgetexec.plgaccountmnemonic = Κωδικός Λογ/μού
+plg_budgetresentry.jsp.plg_budgetexec.plgaccountdescr = Περιγραφή Λογ/μού
+plg_budgetresentry.jsp.tabs.page6 = Κινήσεις Δέσμευσης
+
+plg_budgetresentry.jsp.plg_budgetresdetail.totalamount = Κινηθέν Ποσό
+plg_budgetresentry.jsp.plg_budgetresdetail.totalrestamount = Υπόλοιπο Δέσμευσης
+plg_budgetresentry.jsp.validations.budgetresamountexceeded = Το ποσό δέσμευσης υπερβαίνει το υπόλοιπο του προϋπολογισμού. Παρακαλώ διορθώστε.
+plg_budgetresentry.jsp.validations.budgetexecamountexceeded = Το κινηθέν ποσό υπερβαίνει το ποσό δέσμευσης. Παρακαλώ διορθώστε.
+
+plg_budgetresentry.jsp.griddisplaybox.caption = Ανάλυση Δέσμευσης
+plg_budgetresentry.jsp.plg_budgetexec.creationindicator = Ένδειξη Προέλευσης
+plg_budgetresentry.jsp.chooseorders = Επιλογή Παραγγελιών
+plg_budgetresentry.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+plg_budgetresentry.jsp.ordergriddisplaybox.caption = Επιλογή Παραγγελιών
+
+plg_budgetresentry.jsp.sinceinternaleventdate_criteria = Από Ημ/νία
+plg_budgetresentry.jsp.tillinternaleventdate_criteria = Εώς Ημ/νία
+plg_budgetresentry.jsp.invstoreid_criteria = Αποθήκη
+plg_budgetresentry.jsp.internaleventno_criteria = Αρ. Κίνησης
+
+plg_budgetresentry.jsp.order.internaleventdate = Ημ/νία Κίνησης
+plg_budgetresentry.jsp.order.internaleventno = Αρ. Κίνησης
+plg_budgetresentry.jsp.order.descr = Αιτιολογία
+plg_budgetresentry.jsp.order.netamount = Καθ. Αξία
+plg_budgetresentry.jsp.order.totalamount = Συν. Αξία
+plg_budgetresentry.jsp.order.fintransparty.descr = Προμηθευτής
+plg_budgetresentry.jsp.order.invstore.descr = Αποθήκη
+plg_budgetresentry.jsp.include = Επιλογή
+
+plg_budgetresentry.jsp.budgetres_approve = Έγκριση
+plg_budgetresentry.jsp.budgetres_reject = Απόρριψη
+plg_budgetresentry.jsp.budgetres_cancel = Ακύρωση
+
+
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY = 'plg_budgetresentry.jsp.plg_budgetexec.plgaccount';
+
+INSERT INTO SYS_LOCALIZATION (LANG, MESSAGE, ISUSERCHANGED, DESCR, CATEGORY, LOCALIZATIONKEY) VALUES ('el', 'Αλλαγή Κατάστασης Δέσμευσης', '0', '', 1,'plg_budgetresstatusentry.jsp.entrydisplaybox.caption');
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg.plg_budgetresstatus.jsp.plg_budgetresstatus.statuschangedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg.plg_budgetresstatus.jsp.plg_budgetresstatus.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg.plg_budgetresstatus.jsp.validations.budgetresstatusdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία');
+
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresheader.budgetresstatus','Κατάσταση Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetexec.plgaccountmnemonic','Κωδικός Λογ/μού');
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetexec.plgaccountdescr','Περιγραφή Λογ/μού');
+
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY = 'plg_budgetresentry.jsp.tabs.page6';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.tabs.page6','Κινήσεις Δέσμευσης');
+
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresdetail.totalamount','Κινηθέν Ποσό');
+INSERT INTO SYS_LOCALIZATION (LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresdetail.totalrestamount','Υπόλοιπο Δέσμευσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.budgetamountexceeded','Το ποσό δέσμευσης υπερβαίνει το υπόλοιπο του προϋπολογισμού. Παρακαλώ διορθώστε.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.budgetexecamountexceeded','Το κινηθέν ποσό υπερβαίνει το ποσό δέσμευσης. Παρακαλώ διορθώστε.');
+
+DELETE FROM SYS_LOCALIZATION WHERE LOCALIZATIONKEY='plg_budgetresentry.jsp.plg_budgetexec.resamount';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetexec.resamount','Εκτελεσθέν Ποσό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.griddisplaybox.caption','Ανάλυση Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetexec.creationindicator','Ένδειξη Προέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.chooseorders','Επιλογή Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.ordergriddisplaybox.caption','Επιλογή Παραγγελιών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.sinceinternaleventdate_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.tillinternaleventdate_criteria','Εώς Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.invstoreid_criteria','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.internaleventno_criteria','Αρ. Κίνησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.internaleventno','Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.fintransparty.descr','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.invstore.descr','Αποθήκη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.netamount','Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.order.totalamount','Συν. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.include','Επιλογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.budgetres_approve','Έγκριση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.budgetres_reject','Απόρριψη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.budgetres_cancel','Ακύρωση');
+
+
+

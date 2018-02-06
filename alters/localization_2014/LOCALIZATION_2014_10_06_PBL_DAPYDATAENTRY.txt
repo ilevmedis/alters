@@ -1,0 +1,5 @@
+pbl_dapydataentry.jsp.pbl_chargeheader.eopyyparametersid = Σύμβαση ΕΟΠΥΥ
+pbl_dapydataentry.jsp.med_orderheader.eopyyparametersid = Σύμβαση ΕΟΠΥΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.pbl_chargeheader.eopyyparametersid','Σύμβαση ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_dapydataentry.jsp.med_orderheader.eopyyparametersid','Σύμβαση ΕΟΠΥΥ');

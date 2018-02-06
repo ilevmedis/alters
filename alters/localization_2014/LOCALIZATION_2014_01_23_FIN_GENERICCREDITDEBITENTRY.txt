@@ -1,0 +1,13 @@
+fin_genericcreditdebitentry.jsp.fin_transcredit.netamount = Καθ.Αξία
+fin_genericcreditdebitentry.jsp.fin_transcredit.vatamount = Αξία ΦΠΑ
+fin_genericcreditdebitentry.jsp.fin_transcredit.vatkepyo = Εκπιπτ. ΦΠΑ
+fin_genericcreditdebitentry.jsp.fin_transdebit.netamount = Καθ.Αξία
+fin_genericcreditdebitentry.jsp.fin_transdebit.vatamount = Αξία ΦΠΑ
+fin_genericcreditdebitentry.jsp.fin_transdebit.vatkepyo = Εκπιπτ. ΦΠΑ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.netamount','Καθ.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.vatamount','Αξία ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.vatkepyo','Εκπιπτ. ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.netamount','Καθ.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.vatamount','Αξία ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.vatkepyo','Εκπιπτ. ΦΠΑ');

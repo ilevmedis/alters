@@ -1,0 +1,8 @@
+sys_customformbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_customformbrowser.jsp.griddisplaybox.caption = Λίστα Δεδομένων
+sys_customformentry.jsp.entrydisplaybox.caption = Στοιχεία Εγγραφής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_customformbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_customformbrowser.jsp.griddisplaybox.caption','Λίστα Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_customformentry.jsp.entrydisplaybox.caption','Στοιχεία Εγγραφής');
+

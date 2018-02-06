@@ -1,0 +1,8 @@
+inv_itementry.jsp.tabs.page12 = Εναλλ. Είδη
+inv_itementry.jsp.inv_alternativedrug.alternativeitemid = Εναλλακτικό Είδος
+inv_itementry.jsp.inv_alternativedrug.alternativeitemindicator = Τύπος Είδους
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.tabs.page12','Εναλλ. Είδη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.inv_alternativedrug.alternativeitemid','Εναλλακτικό Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itementry.jsp.inv_alternativedrug.alternativeitemindicator','Τύπος Είδους');
+

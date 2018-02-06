@@ -1,0 +1,37 @@
+med_prescriptionbrowser.jsp.pagetitle = Διαχείριση Συνταγών
+med_prescriptionbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_prescriptionbrowser.jsp.griddisplaybox.caption = Συνταγές
+med_prescriptionbrowser.jsp.visitid_criteria = Νοσηλεία
+med_prescriptionbrowser.jsp.internaleventno_criteria = Αρ.Παραγγελίας
+med_prescriptionbrowser.jsp.sinceorderdate_criteria = Από Ημ.Παραγγ.
+med_prescriptionbrowser.jsp.tillorderdate_criteria = Έως Ημ.Παραγγ.
+med_prescriptionbrowser.jsp.orderpersonid_criteria = Παραγγέλων
+med_prescriptionbrowser.jsp.orderfacilityid_criteria = Τμήμα Παραγγ.
+med_prescriptionbrowser.jsp.med_orderheader.orderdate = Ημ/νία Παραγγ.
+med_prescriptionbrowser.jsp.med_orderheader.orderheaderid = Κωδ.Παραγ.
+med_prescriptionbrowser.jsp.med_orderheader.internaleventno = Αρ.Παραγγ.
+med_prescriptionbrowser.jsp.med_orderheader.priorityindicator = Προτεραιότητα
+med_prescriptionbrowser.jsp.pta_visit.mnemonic = Κωδ.Νοσηλ.
+med_prescriptionbrowser.jsp.pta_visit.firstname = Όνομα Ασθενή
+med_prescriptionbrowser.jsp.pta_visit.lastname = Επων.Ασθενή
+med_prescriptionbrowser.jsp.med_orderperson.name = Παραγγέλων
+med_prescriptionbrowser.jsp.pta_facility.mnemonic = Τμήμα Παραγγ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.pagetitle','Διαχείριση Συνταγών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.griddisplaybox.caption','Συνταγές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.visitid_criteria','Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.internaleventno_criteria','Αρ.Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.sinceorderdate_criteria','Από Ημ.Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.tillorderdate_criteria','Έως Ημ.Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.orderpersonid_criteria','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.orderfacilityid_criteria','Τμήμα Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.med_orderheader.orderdate','Ημ/νία Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.med_orderheader.orderheaderid','Κωδ.Παραγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.med_orderheader.internaleventno','Αρ.Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.med_orderheader.priorityindicator','Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.pta_visit.mnemonic','Κωδ.Νοσηλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.pta_visit.firstname','Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.pta_visit.lastname','Επων.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.med_orderperson.name','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_prescriptionbrowser.jsp.pta_facility.mnemonic','Τμήμα Παραγγ.');

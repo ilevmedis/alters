@@ -1,0 +1,53 @@
+﻿inv_replenishstore.jsp.replenishdays_criteria = Αριθμός Ημερών Διάρκειας Αποθέματος
+inv_replenishstore.jsp.inv_item.itemtranspartycode = Κωδ. Είδους Προμηθ.
+inv_replenishstore.jsp.fin_transparty.name = Προμηθευτής
+inv_replenishstore.jsp.fin_transparty.mnemonic = Κωδ.Προμ.
+inv_replenishstore.jsp.replenishqua = Ποσ. Αναπλήρ.
+inv_replenishstore.jsp.createorders = Δημιουργία Παραγγελιών
+inv_replenishstore.jsp.erp_eventtype.mnemonic = Διαδικασία
+inv_replenishstore.jsp.inv_eventtype.mnemonic = Κωδ.Κιν.Αποθήκης
+inv_replenishstore.jsp.ordergriddisplaybox.caption = Παραγγελίες
+inv_replenishstore.jsp.orderdatadisplaybox.caption = Στοιχεία Δημιουργίας Παραγγελιών
+inv_replenishstore.jsp.inv_transheader.internaleventdate = Ημ/νία
+inv_replenishstore.jsp.inv_transheader.internaleventno = Αρ.Κίνησης
+inv_replenishstore.jsp.fin_transparty.mnemonic = Μνημ. Κωδ. Προμηθ.
+inv_replenishstore.jsp.fin_transparty.name = Επωνυμία Προμηθ.
+inv_replenishstore.jsp.inv_transheader.descr = Αιτιολογία
+inv_replenishstore.jsp.inv_transheader.netamount = Καθ. Αξία
+inv_replenishstore.jsp.inv_transheader.totalamount = Συνολ. Αξία
+inv_replenishstore.jsp.inv_openitemheader.closed = Κλειστή
+inv_replenishstore.jsp.tabs.page1 = Κριτήρια Αναζήτησης
+inv_replenishstore.jsp.tabs.page2 = Λίστα Αναπλήρωσης
+inv_replenishstore.jsp.tabs.page3 = Παραγγελίες
+
+inv_replenishstore.jsp.validations.eventtype_required = Συμπληρώστε Υποχρεωτικά Διαδικασία - Κωδικό Κινησης
+inv_replenishstore.jsp.validations.internaleventdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Παραγγελίας
+
+
+delete from sys_localization where localizationkey = 'inv_replenishstore.jsp.inv_item.itemtranspartycode';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.replenishdays_criteria','Αριθμός Ημερών Διάρκειας Αποθέματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_item.itemtranspartycode','Κωδ. Είδους Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.fin_transparty.name','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.fin_transparty.mnemonic','Κωδ.Προμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.replenishqua','Ποσ. Αναπλήρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.createorders','Δημιουργία Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.ordergriddisplaybox.caption','Παραγγελίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.orderdatadisplaybox.caption','Στοιχεία Δημιουργίας Παραγγελιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_eventtype.mnemonic','Κωδ.Κιν.Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_transheader.internaleventdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_transheader.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.fin_transparty.mnemonic','Μνημ. Κωδ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.fin_transparty.name','Επωνυμία Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_transheader.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_transheader.netamount','Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_transheader.totalamount','Συνολ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.inv_openitemheader.closed','Κλειστή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.tabs.page1','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.tabs.page2','Λίστα Αναπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishstore.jsp.tabs.page3','Παραγγελίες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_replenishstore.jsp.validations.eventtype_required','Συμπληρώστε Υποχρεωτικά Διαδικασία - Κωδικό Κινησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_replenishstore.jsp.validations.internaleventdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Παραγγελίας');
+

@@ -1,0 +1,19 @@
+inv_importgrant.jsp.pagetitle = Εισαγωγή Χορήγησης Από Αρχείο
+inv_importgrant.jsp.entrydisplaybox.caption = Επιλογή Αρχείου Προς Εισαγωγή
+inv_importgrant.jsp.uploadfromfile.filename = Αρχείο Προς Εισαγωγή
+inv_importgrant.jsp.messages.success = Η Ενημέρωση Ολοκληρώθκε Με Επιτυχία
+
+inv_importgrant.jsp.validations.filenamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου
+inv_importgrant.jsp.validations.emptyfile = Το Αρχείο Που Επιλέξατε Είναι Κενό
+inv_importgrant.jsp.validations.grant_not_found = Η Χορήγηση Δεν Βρέθηκε - Κωδικός Χορήγησης:
+inv_importgrant.jsp.validations.item_not_found = Το Είδος Δεν Βρέθηκε - Κωδικός Είδους:
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importgrant.jsp.pagetitle','Εισαγωγή Χορήγησης Από Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importgrant.jsp.entrydisplaybox.caption','Επιλογή Αρχείου Προς Εισαγωγή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importgrant.jsp.uploadfromfile.filename','Αρχείο Προς Εισαγωγή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_importgrant.jsp.messages.success','Η Ενημέρωση Ολοκληρώθκε Με Επιτυχία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.filenamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.emptyfile','Το Αρχείο Που Επιλέξατε Είναι Κενό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.grant_not_found','Η Χορήγηση Δεν Βρέθηκε - Κωδικός Χορήγησης:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_importgrant.jsp.validations.item_not_found','Το Είδος Δεν Βρέθηκε - Κωδικός Είδους:');

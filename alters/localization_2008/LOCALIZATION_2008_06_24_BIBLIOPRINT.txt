@@ -1,0 +1,5 @@
+﻿pbl_biblio.jsp.pta_visit.dischargedate = Ημ/νία Εξιτηρίου
+pbl_biblio.jsp.pbl_chargeheader.comments = ΑΠΥ - Αλλαγή Θέσης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_biblio.jsp.pta_visit.dischargedate','Ημ/νία Εξιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_biblio.jsp.pbl_chargeheader.comments','ΑΠΥ - Αλλαγή Θέσης');

@@ -1,0 +1,61 @@
+pbl_creatediscountinvoices.jsp.pagetitle = Έκδοση Πιστωτικών Εθνικής
+pbl_creatediscountinvoices.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης & Στοιχεία Έκδοσης
+pbl_creatediscountinvoices.jsp.griddisplaybox.caption = Παραστατικά Εφαρμογής Εκπτώσεων
+pbl_creatediscountinvoices.jsp.fintranspartyid_criteria = Ασφαλιστικός Φορέας
+pbl_creatediscountinvoices.jsp.sinceinternaleventdate_criteria = Από Ημ/νία Έκδοσης Τιμολ.
+pbl_creatediscountinvoices.jsp.tillinternaleventdate_criteria = Έως Ημ/νία Έκδοσης Τιμολ.
+pbl_creatediscountinvoices.jsp.discruleheaderid_criteria = Κανόνας Εφαρμογής Εκπτώσεων
+pbl_creatediscountinvoices.jsp.credit_erp_eventtype.mnemonic = Διαδικασία Πιστωτικών
+pbl_creatediscountinvoices.jsp.credit_fin_eventtype.mnemonic = Κωδ.Κιν. Πιστωτικών
+pbl_creatediscountinvoices.jsp.debit_erp_eventtype.mnemonic = Διαδικασία Χρεωστικών
+pbl_creatediscountinvoices.jsp.debit_fin_eventtype.mnemonic = Κωδ.Κιν. Χρεωστικών
+pbl_creatediscountinvoices.jsp.invoicedate_criteria = Ημερομηνία Τιμολόγησης
+pbl_creatediscountinvoices.jsp.invoicedescr_criteria = Σχόλια Τιμολόγησης
+pbl_creatediscountinvoices.jsp.fin_transheader.internaleventdate = Ημ/νία
+pbl_creatediscountinvoices.jsp.fin_transheader.internaleventno = Αρ. Παρ.
+pbl_creatediscountinvoices.jsp.fin_eventtype.mnemonic = Κωδ. Κίνησης
+pbl_creatediscountinvoices.jsp.fin_transparty.name = Πελάτης
+pbl_creatediscountinvoices.jsp.pta_visit.mnemonic = Κωδ. Νοσηλ.
+pbl_creatediscountinvoices.jsp.pta_visit.lastname = Επώνυμο Ασθ.
+pbl_creatediscountinvoices.jsp.pta_visit.firstname = Όνομα Ασθ.
+pbl_creatediscountinvoices.jsp.fin_transdetail.netamount = Καθ. Αξία
+pbl_creatediscountinvoices.jsp.fin_transdetail.totalamount = Συνολ. Αξία
+
+pbl_creatediscountinvoices.jsp.validations.fintranspartyid_required = Συμπληρώστε Υποχρεωτικά Ασφαλιστικό Φορέα
+pbl_creatediscountinvoices.jsp.validations.sincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Έκδοσης Τιμολ.
+pbl_creatediscountinvoices.jsp.validations.tilldate_required = Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Έκδοσης Τιμολ.
+pbl_creatediscountinvoices.jsp.validations.discruleheaderid_required = Συμπληρώστε Υποχρεωτικά Κανόνα Εφαρμογής Εκπτώσεων
+pbl_creatediscountinvoices.jsp.validations.invoicedate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Τιμολόγησης
+pbl_creatediscountinvoices.jsp.validations.credit_fineventtypeid_required = Συμπληρώστε Υποχρεωτικά Διαδικασία Πιστωτικών
+pbl_creatediscountinvoices.jsp.validations.debit_fineventtypeid_required = Συμπληρώστε Υποχρεωτικά Διαδικασία Χρεωστικών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.pagetitle','Έκδοση Πιστωτικών Εθνικής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης & Στοιχεία Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.griddisplaybox.caption','Παραστατικά Εφαρμογής Εκπτώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fintranspartyid_criteria','Ασφαλιστικός Φορέας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.sinceinternaleventdate_criteria','Από Ημ/νία Έκδοσης Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.tillinternaleventdate_criteria','Έως Ημ/νία Έκδοσης Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.discruleheaderid_criteria','Κανόνας Εφαρμογής Εκπτώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.credit_erp_eventtype.mnemonic','Διαδικασία Πιστωτικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.credit_fin_eventtype.mnemonic','Κωδ.Κιν. Πιστωτικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.debit_erp_eventtype.mnemonic','Διαδικασία Χρεωστικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.debit_fin_eventtype.mnemonic','Κωδ.Κιν. Χρεωστικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.invoicedate_criteria','Ημερομηνία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.invoicedescr_criteria','Σχόλια Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fin_transheader.internaleventdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fin_transheader.internaleventno','Αρ. Παρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fin_eventtype.mnemonic','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fin_transparty.name','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.pta_visit.mnemonic','Κωδ. Νοσηλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.pta_visit.lastname','Επώνυμο Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.pta_visit.firstname','Όνομα Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fin_transdetail.netamount','Καθ. Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creatediscountinvoices.jsp.fin_transdetail.totalamount','Συνολ. Αξία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.fintranspartyid_required','Συμπληρώστε Υποχρεωτικά Ασφαλιστικό Φορέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.sincedate_required','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Έκδοσης Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.tilldate_required','Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Έκδοσης Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.discruleheaderid_required','Συμπληρώστε Υποχρεωτικά Κανόνα Εφαρμογής Εκπτώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.invoicedate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.credit_fineventtypeid_required','Συμπληρώστε Υποχρεωτικά Διαδικασία Πιστωτικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creatediscountinvoices.jsp.validations.debit_fineventtypeid_required','Συμπληρώστε Υποχρεωτικά Διαδικασία Χρεωστικών');

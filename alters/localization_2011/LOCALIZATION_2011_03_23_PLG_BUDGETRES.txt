@@ -1,0 +1,24 @@
+plg_budgetresentry.jsp.plg_budgetresheader.diavgiano = ΑΔΑ
+plg_budgetresentry.jsp.tabs.page7 = Υπόλοιπα Προϋπολογισμού
+plg_budgetresentry.jsp.plg_budgetrest.plgaccountmnemonic = Κωδικός Λογ/σμού
+plg_budgetresentry.jsp.plg_budgetrest.plgaccountdescr = Περιγραφή Λογ/σμού
+plg_budgetresentry.jsp.plg_budgetrest.budgetorg = Φορέας
+plg_budgetresentry.jsp.plg_budgetrest.resamount = Συν. Ποσό Δεσμεύσεων
+plg_budgetresentry.jsp.plg_budgetrest.budgetorgamount = Ποσό Προϋπολογισμού
+plg_budgetresentry.jsp.plg_budgetrest.remainingamount = Συν. Διαθέσιμο Ποσό
+plg_budgetresentry.jsp.plg_budgetrest.fyearid = Έτος
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetresheader.diavgiano','ΑΔΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.tabs.page7','Υπόλοιπα Προϋπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.plgaccountmnemonic','Κωδικός Λογ/σμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.plgaccountdescr','Περιγραφή Λογ/σμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.budgetorg','Φορέας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.resamount','Συν. Ποσό Δεσμεύσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.budgetorgamount','Ποσό Προϋπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.remainingamount','Συν. Διαθέσιμο Ποσό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresentry.jsp.plg_budgetrest.fyearid','Έτος');
+
+
+
+

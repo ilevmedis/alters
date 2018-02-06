@@ -1,0 +1,9 @@
+submitbuttons.markall = Επιλογή Όλων
+submitbuttons.accesskeys.markall = k
+submitbuttons.unmarkall = Αποεπιλογή Όλων
+submitbuttons.accesskeys.unmarkall = u
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.markall','Επιλογή Όλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.accesskeys.markall','k');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.unmarkall','Αποεπιλογή Όλων ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.accesskeys.unmarkall','u ');

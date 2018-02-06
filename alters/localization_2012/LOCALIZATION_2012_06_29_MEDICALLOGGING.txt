@@ -1,0 +1,65 @@
+med_eventtypeentry.jsp.med_eventtype.iscreatingmedicallog = Κρατάει Εκδόσεις
+med_medicalrecbrowser.jsp.med_service.isdeleted_criteria = Διεγραμμένα
+med_medicalrecbrowser.jsp.med_medicalproc.isdeleted_criteria = Διεγραμμένα
+med_medicalrecbrowser.jsp.med_observation.isdeleted = Διεγραμμένα
+
+med_medicalrecbrowser.jsp.med_service.isdeleted = Διεγρ.
+med_medicalrecbrowser.jsp.med_medicalprocmaster.isdeleted = Διεγρ.
+med_medicalrecbrowser.jsp.med_observation.isdeleted = Διεγρ.
+
+med_medicalrecbrowser2.jsp.med_service.isdeleted_criteria = Διαγραμμένα
+med_medicalrecbrowser2.jsp.med_service.isdeleted = Διαγρ.
+
+med_medicalrecentry.jsp.med_showmedicallogging.versionno = Έκδοση
+med_medicalrecentry.jsp.med_showmedicallogging.logdate = Ημ/νία
+med_medicalrecentry.jsp.med_showmedicallogging.logtime = Ώρα
+med_medicalrecentry.jsp.med_showmedicallogging.username = Χρήστης
+med_medicalrecentry.jsp.med_showmedicallogging.remoteaddress = Δ/νση
+med_medicalrecentry.jsp.med_showmedicallogging.remotehost = Ον. Η/Υ
+med_medicalrecentry.jsp.med_showmedicallogging.portnumber = Πόρτα
+med_medicalrecentry.jsp.expandlogging = Εκδόσεις
+
+med_medicalrecentry.jsp.message.error_on_refresh = Παρουσιάστηκε Σφάλμα Κατά Την Προσπάθεια Ανάκτησης Της Εγγραφής. Παρακαλώ Προσπαθήστε Ξανά
+med_medicalrecentry.jsp.message.logging_versionno = Έκδοση Νο:
+med_medicalrecentry.jsp.message.logging_username = Χρήστης Που Εκανε Την Αλλαγή:
+med_medicalrecentry.jsp.message.error_on_restoring_version = Δεν Ηταν Δυνατή Η Ανάκτηση Της Έκδοσης
+med_medicalrecentry.jsp.message.error_on_deleting_the_row = Δεν Ηταν Δυνατή Η Διαγραφή Της Εγγραφής
+med_medicalrecentry.jsp.message.last_version = Τρέχουσα Έκδοση
+med_medicalrecentry.jsp.message.service_deleted = Διαγραμμένο
+
+med_servicestatuslogentry.jsp.messages.one_changestatus_allowed = Μόνο Μία Αλλαγή Κατάστασης Επιτρέπεται Κάθε Φορά
+
+submitbuttons.rollbackversion = Πήγαινε Στην Έκδοση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_eventtypeentry.jsp.med_eventtype.iscreatingmedicallog','Κρατάει Εκδόσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_observation.isdeleted_criteria','Διεγραμμένα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_medicalproc.isdeleted_criteria','Διεγραμμένα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_service.isdeleted_criteria','Διεγραμμένα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_observation.isdeleted','Διεγρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_medicalproc.isdeleted','Διεγρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser.jsp.med_service.isdeleted','Διεγρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.isdeleted_criteria','Διαγραμμένα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecbrowser2.jsp.med_service.isdeleted','Διαγρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.versionno','Έκδοση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.logdate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.logtime','Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.remoteaddress','Δ/νση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.remotehost','Ον. Η/Υ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_showmedicallogging.portnumber','Πόρτα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.expandlogging','Έκδοσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.error_on_refresh','Παρουσιάστηκε Σφάλμα Κατά Την Προσπάθεια Ανάκτησης Της Εγγραφής. Παρακαλώ Προσπαθήστε Ξανά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.logging_versionno','Έκδοση Νο:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.logging_username','Χρήστης Που Εκανε Την Αλλαγή:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.error_on_restoring_version','Δεν Ηταν Δυνατή Η Ανάκτηση Της Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.error_on_deleting_the_row','Δεν Ηταν Δυνατή Η Διαγραφή Της Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.last_version','Τρέχουσα Έκδοση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.message.service_deleted','Διαγραμμένο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicestatuslogentry.jsp.messages.one_changestatus_allowed','Μόνο Μία Αλλαγή Κατάστασης Επιτρέπεται Κάθε Φορά');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.rollbackversion','Πήγαινε Στην Έκδοση');

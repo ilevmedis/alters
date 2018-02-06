@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsurancebrowser.jsp.view', 'Διαχείριση Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsurancebrowser.jsp.print', 'Εκτύπωση Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsurancebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsurancebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsuranceentry.jsp.view', 'Ανάγνωση Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsuranceentry.jsp.print', 'Εκτύπωση Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsuranceentry.jsp.insert', 'Εισαγωγή Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsuranceentry.jsp.update', 'Μεταβολή Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_privilege(privilegeid, descr) values ('pbl_europeaninsuranceentry.jsp.delete', 'Διαγραφή Ευρωπαϊκών Φορέων Ασφάλισης');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsuranceentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsuranceentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsuranceentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsuranceentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_europeaninsuranceentry.jsp.insert', 1);

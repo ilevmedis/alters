@@ -1,0 +1,46 @@
+pbl_creditinvoicecancelentry.jsp.pagetitle = Καταχώρηση Ακυρωτικού Πιστωτικού
+pbl_creditinvoicecancelentry.jsp.entrydisplaybox.caption = Στοιχεία Έκδοσης Ακυρωτικού
+pbl_creditinvoicecancelentry.jsp.erp_eventtype.mnemonic = Διαδικασία Συστήματος
+pbl_creditinvoicecancelentry.jsp.fin_eventtype.mnemonic = Διαδ.Οικ.Υποσ/τος
+pbl_creditinvoicecancelentry.jsp.fin_transparty.mnemonic = Πελάτης
+pbl_creditinvoicecancelentry.jsp.fin_transdebit.amountdebit = Αξία Παρ/κού
+pbl_creditinvoicecancelentry.jsp.fin_transheader.internaleventno = Αρ.Παρ/κού
+pbl_creditinvoicecancelentry.jsp.fin_transheader.internaleventdate = Ημ.Παρ/κού
+pbl_creditinvoicecancelentry.jsp.fin_transcancelheader.descr = Αιτιολογία Ακύρωσης
+pbl_creditinvoicecancelentry.jsp.fin_transcancelheader.internaleventno = Αρ.Ακυρωτικού Παρ/κού
+pbl_creditinvoicecancelentry.jsp.fin_transcancelheader.internaleventdate = Ημ/νία Ακύρωσης
+pbl_creditinvoicecancelentry.jsp.cancel_fin_eventtype.mnemonic = Διαδ.Ακυρ.Οικ.Υποσ/τος
+pbl_creditinvoicecancelentry.jsp.cancel_erp_eventtype.mnemonic = Διαδικασία Ακύρωσης
+pbl_creditinvoicecancelentry.jsp.fin_transcanceldebit.comments = Σχόλια Ακύρωσης
+
+pbl_creditinvoicecancelentry.jsp.validations.erpeventtyperequired = Συμπληρώστε Υποχρεωτικά Διαδικασία Ακύρωσης
+pbl_creditinvoicecancelentry.jsp.validations.internaleventnorequired = Συμπληρώστε Υποχρεωτικά Αριθμό Παραστατικού
+pbl_creditinvoicecancelentry.jsp.validations.internaleventdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Ακύρωσης
+
+pbl_creditinvoicecancelentry.jsp.validations.canceldate_must_be_equal_to_invoicedate = Η Ημερομηνία Ακύρωσης Πρέπει Να Συμπίπτει Με Την Ημερομηνία Τιμολόγησης Παρακαλώ Διορθώστε
+pbl_creditinvoicecancelentry.jsp.validations.fin_trandetail.internaleventno_exists = Υπάρχει Ήδη Παραστατικό Καταχωρημένο Με Τον Ίδιο Αριθμό!
+pbl_creditinvoicecancelentry.jsp.validations.internaleventdate_greater_last_isuued_invoice_date = Η Ημερομηνία Τιμολόγησης Είναι Μικρότερη Από Την Τελευταία Ημερομηνία Έκδοσης Της Σειράς
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.pagetitle','Καταχώρηση Ακυρωτικού Πιστωτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.entrydisplaybox.caption','Στοιχεία Έκδοσης Ακυρωτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.erp_eventtype.mnemonic','Διαδικασία Συστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_eventtype.mnemonic','Διαδ.Οικ.Υποσ/τος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transparty.mnemonic','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transdebit.amountdebit','Αξία Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transheader.internaleventno','Αρ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transheader.internaleventdate','Ημ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transcancelheader.descr','Αιτιολογία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transcancelheader.internaleventno','Αρ.Ακυρωτικού Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transcancelheader.internaleventdate','Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.cancel_fin_eventtype.mnemonic','Διαδ.Ακυρ.Οικ.Υποσ/τος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.cancel_erp_eventtype.mnemonic','Διαδικασία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_creditinvoicecancelentry.jsp.fin_transcanceldebit.comments','Σχόλια Ακύρωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creditinvoicecancelentry.jsp.validations.erpeventtyperequired','Συμπληρώστε Υποχρεωτικά Διαδικασία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creditinvoicecancelentry.jsp.validations.internaleventnorequired','Συμπληρώστε Υποχρεωτικά Αριθμό Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creditinvoicecancelentry.jsp.validations.internaleventdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creditinvoicecancelentry.jsp.validations.canceldate_must_be_equal_to_invoicedate','Η Ημερομηνία Ακύρωσης Πρέπει Να Συμπίπτει Με Την Ημερομηνία Τιμολόγησης Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creditinvoicecancelentry.jsp.validations.fin_trandetail.internaleventno_exists','Υπάρχει Ήδη Παραστατικό Καταχωρημένο Με Τον Ίδιο Αριθμό!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_creditinvoicecancelentry.jsp.validations.internaleventdate_greater_last_isuued_invoice_date','Η Ημερομηνία Τιμολόγησης Είναι Μικρότερη Από Την Τελευταία Ημερομηνία Έκδοσης Της Σειράς');
+
+

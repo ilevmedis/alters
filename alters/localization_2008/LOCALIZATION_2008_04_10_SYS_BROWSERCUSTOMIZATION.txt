@@ -1,0 +1,162 @@
+﻿insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.entrydisplaybox.caption',1,'Στοιχεία Παραμετροποίησης Browser','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.pagetitle',1,'Παραμετροποίηση Browser','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomization.browsercustomizationid',1,'Κωδ.Εγγραφής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomization.page',1,'Σελίδα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomization.criteriatablecolumnsno',1,'Αρ.Στηλών Κριτηρίων','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.sysmetadatasincevalue',1,'Από Τιμή Επιλογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.criteriatype',1,'Τελεστής Εφαρμογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.columnname',1,'Πεδίο Εφαρμογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.columnposition',1,'Αριθμός Στήλης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.tabs.page1',1,'Πρόσθετα Κριτήρια','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.tabs.page2',1,'Πρόσθετες Στήλες','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.criteriatyperequired',2,'Συμπληρώστε Υποχρεωτικά Τελεστή Εφαρμογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sys_columns.isgeneratinggroupheader_not_allowed_checked',2,'Δεν Επιτρέπεται Η Ενεργοποίηση Δημιουργίας Κεφαλίδας Ως Πεδίο Ομαδοποίησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sys_columns.isgeneratingfootersums_not_allowed_checked',2,'Δεν Επιτρέπεται Η Ενεργοποίηση Συνόλων Στο Τέλος Της Εκτύπωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sys_columns.isgeneratinggroupsums_not_allowed_checked',2,'Δεν Επιτρέπεται Η Ενεργοποίηση Αθροίσματος Κατά Την Αλλαγή Πεδίων Ομαδοποίησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sys_columns.isgeneratingpagesums_not_allowed_checked',2,'Δεν Επιτρέπεται Η Ενεργοποίηση Αθροίσματος Σε Κάθε Σελίδα Εκτύπωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.componenttyperequired',2,'Συμπληρώστε Υποχρεωτικά Είδος Αντικειμένου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.table_filled',2,'Δεν Επιτρέπεται Η Συμπλήρωση Στοιχείων Πίνακα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sysmetadata_filled',2,'Δεν Επιτρέπεται Η Συμπλήρωση Στοιχείων SYS_METADATA','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.labelrequired',2,'Συμπληρώστε Υποχρεωτικά Περιγραφή Εμφάνισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.datatyperequired',2,'Συμπληρώστε Υποχρεωτικά Τύπο Δεδομένων','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.localekayrequired',2,'Συμπληρώστε Υποχρεωτικά Παράμετρο Γλωσσικής Ρύθμισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sizerequired',2,'Συμπληρώστε Υποχρεωτικά Μέγεθος Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.maxlengthrequired',2,'Συμπληρώστε Υποχρεωτικά Μέγιστο Μέγεθος Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.incorrect_datatype_for_company_fyear',2,'Μόνο Ο Τύπος Δεδομένων ΙΝΤ Επιτρέπεται Για Είδος Πεδίου Εμφάνισης COMPANY ή FYEAR','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.criteriacolumrequired',2,'Συμπληρώστε Υποχρεωτικά Πεδίο Εφαρμογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.sampledata_required',2,'Συμπληρώστε Υποχρεωτικά Δειγματοληπτικά Κριτήρια Αναζήτησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.validations.columnnamerequired',2,'Συμπληρώστε Υποχρεωτικά Όνομα Κολώνας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomization.neworderby',1,'Νέο Order By','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isvariable',1,'Είναι Υπολογιστική Μεταβλητή','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.initialvalue',1,'Αρχική Τιμή Μεταβλητής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.variableexpression',1,'Έκφραση Υπολογισμού Μεταβλητής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isprintingbeforesums',1,'Εκτυπώνει Αθροίσματα Από Μεταφορά','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.initialsqlstmt',1,'SQL Υπολογισμού Αρχικής Τιμής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.headercellproperties.valign',1,'Κάθετη Στοίχηση Κεφαλίδας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.headercellproperties.wrap',1,'Αναδίπλωση Κεφαλίδας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isvisible',1,'Εμφανίζεται','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isautoincrement',1,'Πεδίο Αύξουσας Αρίθμησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isgrouped',1,'Πεδίο Ομαδοποίησης Εγγραφών','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isgeneratinggroupheader',1,'Κεφαλίδα Ως Πεδίο Ομαδοποίησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isgeneratingfootersums',1,'Αθροίζεται Στο Τελος Της Εκτύπωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isgeneratingpagesums',1,'Αθροίζεται Σε Κάθε Σελίδα Της Εκτύπωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.isgeneratinggroupsums',1,'Αθροίζεται Στην Αλλαγή Ομαδοποίησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.iscreatingpagebreakonchange',1,'Αλλαγή Σελίδας Κατά Την Αλλαγή Τιμής Του Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.name',1,'Όνομα Κολώνας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.datatype',1,'Τύπος Δεδομένων','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.header',1,'Κεφαλίδα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.headerlocalekey',1,'Παράμετρος Γλωσσικής Ρύθμισης Κεφαλίδας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.datasourcecolumnname',1,'Όνομα Πεδίου Πίνακα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.aggregatefunction',1,'Συνάρτηση','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.headerclassname',1,'Όνομα Κλάσης Κεφαλίδας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.expression',1,'Λογική Εκφράση','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.classname',1,'Όνομα Κλάσης Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.displayformat',1,'Τύπος Εμφάνισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.displayformatlocalekey',1,'Ονομα Προκατασκευασμένου Τύπου Εμφάνισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.cellproperties.align',1,'Οριζόντια Στοίχηση Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.cellproperties.valign',1,'Κάθετη Στοίχηση Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.cellproperties.wrap',1,'Αναδίπλωση Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.headercellproperties.align',1,'Οριζόντια Στοίχηση Κεφαλίδας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.variabledatatype',1,'Τύπος Δεδομένων','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcolumn.cellproperties.cellwidth',1,'Εύρος Στήλης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.name',1,'Ονομασία Κριτηρίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.sysmetadatatillvalue',1,'Έως Τιμή Επιλογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.dropdowntablename',1,'Όνομα Πίνακα Λήψης Τιμών','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.dropdowntablecriteria',1,'Φίλτρο Λήψης Εγγραφών Πίνακα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.dropdownkeycolumn',1,'Πεδίο Πίνακα Κλειδιού','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.dropdowndisplaycolumn',1,'Πεδίο Πίνακα Προβολής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.isdropdowncompanydependent',1,'Φίλτρο Εγγραφών Με Κριτήριο Την Εταιρεία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.isdropdownfyeardependent',1,'Φίλτρο Εγγραφών Με Κριτήριο Το Έτος','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.isrequired',1,'Υποχρεωτικό Πεδίο','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.lookupcomponent',1,'Lookup Επιλογής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.lookupextraparams',1,'¶λλοι Παράμετροι Lookup','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.componenttype',1,'Είδος Πεδίου Εμφάνισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.scale',1,'Ακρίβεια Δεκαδικών','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.size',1,'Μέγεθος Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.maxlength',1,'Μέγιστο Μέγεθος Πεδίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.datatype',1,'Τύπος Δεδομένων','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.label',1,'Περιγραφή Εμφάνισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.labellocalekey',1,'Παράμετρος Γλωσσικής Ρύθμισης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.ismetadatadropdown',1,'DropDown Από SYS_METADATA','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','sys_browsercustomization.jsp.sys_browsercustomizationcriteria.metadataid',1,'Κωδικός Τιμής Πίνακα SYS_METADATA','0');

@@ -1,0 +1,63 @@
+﻿pbl_reqpayentry.jsp.cancelinvoicedisplaybox.caption = Στοιχεία Πιστωτικού Τιμολογίου
+pbl_reqpayentry.jsp.cancel_invoice.erp_eventtype.mnemonic = Διαδικασία Συστήματος
+pbl_reqpayentry.jsp.cancel_invoice.fin_eventtype.mnemonic = Κωδ.Κίνησης
+pbl_reqpayentry.jsp.cancel_invoice.invoiceheader.internaleventdate = Ημ.Τιμολογίου
+pbl_reqpayentry.jsp.cancel_invoice.invoiceheader.internaleventno = Αρ.Τιμολογίου
+pbl_reqpayentry.jsp.cancel_invoice.fin_transdebit.comments = Σχόλια
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.linenum = Α/Α
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.finitemid = Είδος Χρέωσης
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.qua = Ποσότητα
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.price = Τιμή
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.prediscamount = Αξ.Προ Εκπτ.
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.discamount = Εκπτ.
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.netamount = Καθ.Αξία
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.vatamount = ΦΠΑ
+pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.totalamount = Συν.Αξία
+pbl_reqpayentry.jsp.cancel_invoice.totals.prediscamount = Αξ.Προ Εκπτωσης
+pbl_reqpayentry.jsp.cancel_invoice.totals.discamount = Αξ.Έκπτωσης
+pbl_reqpayentry.jsp.cancel_invoice.totals.netamount = Καθ.Αξία
+pbl_reqpayentry.jsp.cancel_invoice.totals.vatamount = Αξ. ΦΠΑ
+pbl_reqpayentry.jsp.totals.totalamount = Συνολική Αξία
+pbl_reqpayentry.jsp.createpartialcancelinvoice = Έκδοση Πιστωτικού
+
+pbl_reqpayentry.jsp.validations.pbl_repayheader.amountrejected_notfound = Δεν Υπάρχει Αξία Περικοπής Για Κοπή ΠΙστωτικού Τιμολογίου. Παρακαλώ Διορθώστε
+pbl_reqpayentry.jsp.validations.pbl_parameters.rejectionfinitemid_notfound = Δεν Βρέθηκε Στις Παραμέτρους Ορισμένο Είδος Για Αυτόματη Κοπή Πιστωτικού.Η Διαδικασία Σταματά
+
+pbl_parametersentry.jsp.validations.rejectionfinitemidrequired = Συμπληρώστε Υποχρεωτικά Χρεούμενο Είδος Για Αυτόματη Κοπή Πιστωτικού
+pbl_parametersentry.jsp.pbl_parameters.rejectionfinitemid = Χρεούμενο Είδος Αυτόματης Κοπής Πιστωτικού
+
+pbl_reqpayentry.jsp.criteriareqhospdisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_reqpayentry.jsp.pbl_reqdetailhosp_patientname_criteria = Ον/νυμο
+pbl_reqpayentry.jsp.pbl_reqdetailhosp_invoiceno_criteria = Αρ.Τιμ/γίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancelinvoicedisplaybox.caption','Στοιχεία Πιστωτικού Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.erp_eventtype.mnemonic','Διαδικασία Συστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.fin_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoiceheader.internaleventdate','Ημ.Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoiceheader.internaleventno','Αρ.Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.fin_transdebit.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.finitemid','Είδος Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.qua','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.price','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.prediscamount','Αξ.Προ Εκπτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.discamount','Εκπτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.netamount','Καθ.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.vatamount','ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.invoicecredit.totalamount','Συν.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.totals.prediscamount','Αξ.Προ Εκπτωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.totals.discamount','Αξ.Έκπτωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.totals.netamount','Καθ.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.cancel_invoice.totals.vatamount','Αξ. ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.totals.totalamount','Συνολική Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.createpartialcancelinvoice','Έκδοση Πιστωτικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqpayentry.jsp.validations.pbl_repayheader.amountrejected_notfound','Δεν Υπάρχει Αξία Περικοπής Για Κοπή ΠΙστωτικού Τιμολογίου. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqpayentry.jsp.validations.pbl_parameters.rejectionfinitemid_notfound','Δεν Βρέθηκε Στις Παραμέτρους Ορισμένο Είδος Για Αυτόματη Κοπή Πιστωτικού.Η Διαδικασία Σταματά');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.validations.rejectionfinitemidrequired','Συμπληρώστε Υποχρεωτικά Χρεούμενο Είδος Για Αυτόματη Κοπή Πιστωτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.rejectionfinitemid','Χρεούμενο Είδος Αυτόματης Κοπής Πιστωτικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.criteriareqhospdisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqdetailhosp_patientname_criteria','Ον/νυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqdetailhosp_invoiceno_criteria','Αρ.Τιμ/γίου');

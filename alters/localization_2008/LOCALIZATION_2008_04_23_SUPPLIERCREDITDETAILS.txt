@@ -1,0 +1,3 @@
+﻿insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'fin_suppliercreditdetails.jsp.plg_account.mnemonic', 1, 'Λογ/σμός', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'fin_suppliercreditdetails.jsp.fin_transdebit.accountid', 1, 'Λογ/σμός', '0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  values  ('el', 'fin_suppliercreditdetails.jsp.fin_transdebit.totalamount', 1, 'Συνολ.Αξία', '0');

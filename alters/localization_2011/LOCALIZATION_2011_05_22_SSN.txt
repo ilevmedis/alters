@@ -1,0 +1,43 @@
+pta_visitentry.jsp.validations.ssn_connection_error = Σφάλμα Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ
+pta_visitentry.jsp.validations.ssn_parse_error = Σφάλμα Κατά Την Αποκωδικοποίηση Των Πληροφοριών Από Το ΗΔΙΚΑ
+pta_visitentry.jsp.validations.ssn_not_found_error = Δεν Βρέθηκε Ο ΑΜΚΑ Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ
+pta_visitentry.jsp.validations.invalid_ssn = Εσφαλμένος ΑΜΚΑ
+pta_visitentry.jsp.validations.duplicate_ssn = Υπάρχει Ήδη Ασθενής Με Τον Ίδιο ΑΜΚΑ
+
+pta_oupvisitentry.jsp.validations.ssn_connection_error = Σφάλμα Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ
+pta_oupvisitentry.jsp.validations.ssn_parse_error = Σφάλμα Κατά Την Αποκωδικοποίηση Των Πληροφοριών Από Το ΗΔΙΚΑ
+pta_oupvisitentry.jsp.validations.ssn_not_found_error = Δεν Βρέθηκε Ο ΑΜΚΑ Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ
+pta_oupvisitentry.jsp.validations.invalid_ssn = Εσφαλμένος ΑΜΚΑ
+pta_oupvisitentry.jsp.validations.duplicate_ssn = Υπάρχει Ήδη Ασθενής Με Τον Ίδιο ΑΜΚΑ
+
+pta_ssnparametersentry.jsp.pagetitle = Παράμετροι ΑΜΚΑ
+pta_ssnparametersentry.jsp.entrydisplaybox.caption = Στοιχεία Παραμέτρων ΑΜΚΑ
+pta_ssnparametersentry.jsp.pta_ssnparameters.ssnpatientcodingid = Εναλλακτική Κωδικοποίηση Ασθενών ΑΜΚΑ
+pta_ssnparametersentry.jsp.pta_ssnparameters.isconnectingtowebservice = Σύνδεση με ΗΔΙΚΑ
+pta_ssnparametersentry.jsp.pta_ssnparameters.webserviceusername = Username Web Service ΗΔΙΚΑ
+pta_ssnparametersentry.jsp.pta_ssnparameters.webservicepassword = Password Web Service ΗΔΙΚΑ
+pta_ssnparametersentry.jsp.pta_ssnparameters.isusingproxy = Επικοινωνία Μέσω Proxy
+pta_ssnparametersentry.jsp.pta_ssnparameters.proxy = Proxy Server
+pta_ssnparametersentry.jsp.pta_ssnparameters.proxyport = Proxy Port
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.ssn_connection_error','Σφάλμα Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.ssn_parse_error','Σφάλμα Κατά Την Αποκωδικοποίηση Των Πληροφοριών Από Το ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.ssn_not_found_error','Δεν Βρέθηκε Ο ΑΜΚΑ Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.invalid_ssn','Εσφαλμένος ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.duplicate_ssn','Υπάρχει Ήδη Ασθενής Με Τον Ίδιο ΑΜΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.ssn_connection_error','Σφάλμα Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.ssn_parse_error','Σφάλμα Κατά Την Αποκωδικοποίηση Των Πληροφοριών Από Το ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.ssn_not_found_error','Δεν Βρέθηκε Ο ΑΜΚΑ Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.invalid_ssn','Εσφαλμένος ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.duplicate_ssn','Υπάρχει Ήδη Ασθενής Με Τον Ίδιο ΑΜΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pagetitle','Παράμετροι ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.entrydisplaybox.caption','Στοιχεία Παραμέτρων ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.ssnpatientcodingid','Εναλλακτική Κωδικοποίηση Ασθενών ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.isconnectingtowebservice','Σύνδεση με ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.webserviceusername','Username Web Service ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.webservicepassword','Password Web Service ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.isusingproxy','Επικοινωνία Μέσω Proxy');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.proxy','Proxy Server');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.proxyport','Proxy Port');

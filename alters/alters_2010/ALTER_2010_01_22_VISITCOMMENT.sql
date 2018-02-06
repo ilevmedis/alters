@@ -1,0 +1,1 @@
+alter table PTA_VISITCOMMENTS add COMMENTTYPEINDICATOR number(38);

@@ -1,0 +1,10 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_pricelistbatchinputentry.jsp.view', 'Καταχώρηση Τιμών Τιμοκ/γου Από Excel (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_pricelistbatchinputentry.jsp.print', 'Καταχώρηση Τιμών Τιμοκ/γου Από Excel (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_pricelistbatchinputentry.jsp.insert', 'Καταχώρηση Τιμών Τιμοκ/γου Από Excel (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_pricelistbatchinputentry.jsp.update', 'Καταχώρηση Τιμών Τιμοκ/γου Από Excel (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_pricelistbatchinputentry.jsp.delete', 'Καταχώρηση Τιμών Τιμοκ/γου Από Excel (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_pricelistbatchinputentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_pricelistbatchinputentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_pricelistbatchinputentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_pricelistbatchinputentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_pricelistbatchinputentry.jsp.insert', 1);

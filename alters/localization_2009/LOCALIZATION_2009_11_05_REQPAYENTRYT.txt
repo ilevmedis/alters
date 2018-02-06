@@ -1,0 +1,9 @@
+pbl_reqpayentry.jsp.criteriareqdoctordisplaybox.caption = Κριτήρια Αναζήτησης
+pbl_reqpayentry.jsp.pbl_reqdetaildoctor_patientname_criteria = Επώνυμο-Ονομα Ασθενή
+pbl_reqpayentry.jsp.pbl_reqdetaildoctor_visitmnemonic_criteria = Αρ.Εισιτηρίου
+pbl_reqpayentry.jsp.pbl_reqdetaildoctor_doctorname_criteria = Επώνυμο-Ονομα Ιατρού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.criteriareqdoctordisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqdetaildoctor_patientname_criteria','Επώνυμο-Ονομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqdetaildoctor_visitmnemonic_criteria','Αρ.Εισιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.pbl_reqdetaildoctor_doctorname_criteria','Επώνυμο-Ονομα Ιατρού');

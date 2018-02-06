@@ -1,0 +1,58 @@
+pbl_packagebatchinputentry.jsp.pagetitle = Εισαγωγή Πακέτων ΚΕΝ Από Excel
+pbl_packagebatchinputentry.jsp.entrydisplaybox.caption = Στοιχεία Χρεούμενου Είδους Πακέτου
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.vatid = ΦΠΑ Πωλήσεων Εσωτ.
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.vatidoutpatient = ΦΠΑ Πωλήσεων Εξωτ.
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.finitemglggroupid = Λογ/κή Ομάδα
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.pricelistheaderid = Τιμοκατάλογος
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.pricelistsincedate = Ημ. Εναρξ. Τιμής Τιμοκ/γου
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.finitemisactive = Ενεργό Χρ. Είδος
+pbl_packagebatchinputentry.jsp.pblpackage_batchinput.finitemacceptsdiscount = Επιδέχεται Έκπτωση
+pbl_packagebatchinputentry.jsp.jsp.pblpackage_batchinput.finitemisincludedinmerid = Περιλ. Σε Μεριδ/για
+pbl_packagebatchinputentry.jsp.jsp.pblpackage_batchinput.finitemisprintedinbiblio = Εκτυπ. Σε Βιβλίο
+pbl_packagebatchinputentry.jsp.fin_itemgroup.finitemgroupingcode = Ομάδες Ένταξης
+pbl_packagebatchinputentry.jsp.jsp.pricelist_batchinput.filename = Αρχείο
+
+pbl_packagebatchinputentry.jsp.validations.filename_required = Επιλέξτε Υποχρεωτικά Αρχείο
+pbl_packagebatchinputentry.jsp.validations.wrong_pblpackage_mnemonic = Εσφαλμένος Μνημονικός Κωδικός Πακέτου
+pbl_packagebatchinputentry.jsp.validations.pblpackage_mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό Πακέτου
+pbl_packagebatchinputentry.jsp.validations.empty_excel_file = Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε
+pbl_packagebatchinputentry.jsp.message.procedure_successfull = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+pbl_packagebatchinputentry.jsp.message.procedure_unsuccessfull = Η Διαδικασία Δεν Ολοκληρώθηκε
+pbl_packagebatchinputentry.jsp.validations.vatidrequired = Συμπληρώστε Υποχρεωτικά Κωδικό ΦΠΑ Πωλήσεων Εσωτ.
+pbl_packagebatchinputentry.jsp.validations.vatoutpatientidrequired = Συμπληρώστε Υποχρεωτικά Κωδικό ΦΠΑ Πωλήσεων Εξωτ.
+pbl_packagebatchinputentry.jsp.validations.glggroupidrequired = Συμπληρώστε Υποχρεωτικά Λογιστική Ομάδα
+pbl_packagebatchinputentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή Πακέτου
+pbl_packagebatchinputentry.jsp.validations.pricelistheaderid_required = Συμπληρώστε Υποχρεωτικά Τιμοκατάλογο
+pbl_packagebatchinputentry.jsp.validations.pricelist_validsincedate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Έναρξης Τιμής Τιμοκαταλόγου
+pbl_packagebatchinputentry.jsp.validations.finitemgroupingid_required = Συμπληρώστε Υποχρεωτικά Ομάδα Ένταξης
+pbl_packagebatchinputentry.jsp.validations.finitemgroupingcode_required = Συμπληρώστε Υποχρεωτικά Κωδικό Ένταξης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pagetitle','Εισαγωγή Πακέτων ΚΕΝ Από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.entrydisplaybox.caption','Στοιχεία Χρεούμενου Είδους Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.vatid','ΦΠΑ Πωλήσεων Εσωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.vatidoutpatient','ΦΠΑ Πωλήσεων Εξωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.finitemglggroupid','Λογ/κή Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.pricelistheaderid','Τιμοκατάλογος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.pricelistsincedate','Ημ. Εναρξ. Τιμής Τιμοκ/γου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.finitemisactive','Ενεργό Χρ. Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.pblpackage_batchinput.finitemacceptsdiscount','Επιδέχεται Έκπτωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.jsp.pblpackage_batchinput.finitemisincludedinmerid','Περιλ. Σε Μεριδ/για');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.jsp.pblpackage_batchinput.finitemisprintedinbiblio','Εκτυπ. Σε Βιβλίο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.fin_itemgroup.finitemgroupingcode','Ομάδες Ένταξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packagebatchinputentry.jsp.jsp.pricelist_batchinput.filename','Αρχείο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.filename_required','Επιλέξτε Υποχρεωτικά Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.wrong_pblpackage_mnemonic','Εσφαλμένος Μνημονικός Κωδικός Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.pblpackage_mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.empty_excel_file','Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.message.procedure_successfull','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.message.procedure_unsuccessfull','Η Διαδικασία Δεν Ολοκληρώθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.vatidrequired','Συμπληρώστε Υποχρεωτικά Κωδικό ΦΠΑ Πωλήσεων Εσωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.vatoutpatientidrequired','Συμπληρώστε Υποχρεωτικά Κωδικό ΦΠΑ Πωλήσεων Εξωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.glggroupidrequired','Συμπληρώστε Υποχρεωτικά Λογιστική Ομάδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή Πακέτου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.pricelistheaderid_required','Συμπληρώστε Υποχρεωτικά Τιμοκατάλογο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.pricelist_validsincedate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Έναρξης Τιμής Τιμοκαταλόγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.finitemgroupingid_required','Συμπληρώστε Υποχρεωτικά Ομάδα Ένταξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_packagebatchinputentry.jsp.validations.finitemgroupingcode_required','Συμπληρώστε Υποχρεωτικά Κωδικό Ένταξης');

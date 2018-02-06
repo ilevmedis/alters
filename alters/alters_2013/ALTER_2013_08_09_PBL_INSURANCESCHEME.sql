@@ -1,0 +1,1 @@
+alter table pbl_insuranceschemeheader add(insurancepercken float(126), insurancepercother float(126));

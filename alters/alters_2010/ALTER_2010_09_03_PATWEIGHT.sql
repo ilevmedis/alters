@@ -1,0 +1,1 @@
+alter table PTA_VISIT add PATIENTWEIGHT FLOAT;

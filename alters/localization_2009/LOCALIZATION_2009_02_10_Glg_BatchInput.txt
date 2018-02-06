@@ -1,0 +1,79 @@
+﻿glg_batchinputbrowser.jsp.pagetitle = Διαχείριση Εισαγωγών Άρθρων από Excel
+glg_batchinputbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+glg_batchinputbrowser.jsp.griddisplaybox.caption = Εισαγωγές Άρθρων από Excel
+glg_batchinputbrowser.jsp.sincedate_criteria = Από Ημερομηνία Εισαγωγής
+glg_batchinputbrowser.jsp.tilldate_criteria = Έως Ημερομηνία Εισαγωγής
+glg_batchinputbrowser.jsp.descr_criteria = Περιγραφή
+glg_batchinputbrowser.jsp.glg_batchinput.batchinputid = Κωδ. Εγγραφής
+glg_batchinputbrowser.jsp.glg_batchinput.inputdate = Ημ. Εισαγωγής
+glg_batchinputbrowser.jsp.glg_batchinput.descr = Περιγραφή
+glg_batchinputbrowser.jsp.glg_batchinput.filename = Αρχείο
+
+glg_batchinputentry.jsp.pagetitle = Καταχώρηση Εισαγωγής Άρθρων από Excel
+glg_batchinputentry.jsp.entrydisplaybox.caption = Στοιχεία Εισαγωγής Άρθρων από Excel
+glg_batchinputentry.jsp.glg_batchinput.batchinputid = Κωδ. Εγγραφής
+glg_batchinputentry.jsp.glg_batchinput.inputdate = Ημ. Εισαγωγής
+glg_batchinputentry.jsp.glg_batchinput.descr = Περιγραφή
+glg_batchinputentry.jsp.glg_batchinput.filename = Αρχείο
+glg_batchinputentry.jsp.griddisplaybox.caption = Άρθρα που Δημιουργήθηκαν
+glg_batchinputentry.jsp.glg_journal.internaleventno = Αριθμός Κίνησης
+glg_batchinputentry.jsp.glg_journal.internaleventdate = Ημερομηνία Άρθρου
+glg_batchinputentry.jsp.glg_eventtype.mnemonic = Κωδ.Κίνησης
+glg_batchinputentry.jsp.glg_transgroup.mnemonic = Ημερολόγιο
+glg_batchinputentry.jsp.glg_journal.externaleventtype = Είδ.Παρ/κού
+glg_batchinputentry.jsp.glg_journal.externaleventno = Αρ.Παρ/κού
+glg_batchinputentry.jsp.glg_journal.descr = Αιτιολογία
+glg_batchinputentry.jsp.glg_journal.amountdebit = Χρέωση
+glg_batchinputentry.jsp.glg_journal.amountcredit = Πίστωση
+
+glg_batchinputentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+glg_batchinputentry.jsp.validations.inputdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Εισαγωγής
+glg_batchinputentry.jsp.validations.filename_required = Επιλέξτε Υποχρεωτικά Αρχείο
+glg_batchinputentry.jsp.validations.journalid_required = Ο Αριθμός Άρθρου Δεν Είναι Συμπληρωμένος
+glg_batchinputentry.jsp.validations.internaleventdate_required = Η Ημ/νία Άρθρου Δεν Είναι Συμπληρωμένη 
+glg_batchinputentry.jsp.validations.eventtypemnemonic_required = Ο Κωδ.Κίνησης ΓΛ Δεν Είναι Συμπληρωμένος
+glg_batchinputentry.jsp.validations.empty_descr = Η Αιτιολογια Δεν Είναι Συμπληρωμένη
+glg_batchinputentry.jsp.validations.account_required = Ο Λογαριασμός Δεν Είναι Συμπληρωμένος
+glg_batchinputentry.jsp.validations.account_notfound = Ο Λογαριασμός Δεν Βρέθηκε
+glg_batchinputentry.jsp.validations.eventtype_notfound = Ο Κωδικός Κίνησης Δεν Βρέθηκε
+glg_batchinputentry.jsp.validations.matrix_notfound = Η Διαδικασία Δεν Βρέθηκε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.pagetitle','Διαχείριση Εισαγωγών Άρθρων από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.griddisplaybox.caption','Εισαγωγές Άρθρων από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.sincedate_criteria','Από Ημερομηνία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.tilldate_criteria','Έως Ημερομηνία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.glg_batchinput.batchinputid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.glg_batchinput.inputdate','Ημ. Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.glg_batchinput.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputbrowser.jsp.glg_batchinput.filename','Αρχείο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.pagetitle','Καταχώρηση Εισαγωγής Άρθρων από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.entrydisplaybox.caption','Στοιχεία Εισαγωγής Άρθρων από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_batchinput.batchinputid','Κωδ. Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_batchinput.inputdate','Ημ. Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_batchinput.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_batchinput.filename','Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.griddisplaybox.caption','Άρθρα που Δημιουργήθηκαν');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.internaleventno','Αριθμός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.internaleventdate','Ημερομηνία Άρθρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_transgroup.mnemonic','Ημερολόγιο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.externaleventtype','Είδ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.externaleventno','Αρ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.amountdebit','Χρέωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_batchinputentry.jsp.glg_journal.amountcredit','Πίστωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.inputdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.filename_required','Επιλέξτε Υποχρεωτικά Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.journalid_required','Ο Αριθμός Άρθρου Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.internaleventdate_required','Η Ημ/νία Άρθρου Δεν Είναι Συμπληρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.eventtypemnemonic_required','Ο Κωδ.Κίνησης ΓΛ Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.empty_descr','Η Αιτιολογια Δεν Είναι Συμπληρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.account_required','Ο Λογαριασμός Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.account_notfound','Ο Λογαριασμός Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.eventtype_notfound','Ο Κωδικός Κίνησης Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_batchinputentry.jsp.validations.matrix_notfound','Η Διαδικασία Δεν Βρέθηκε');

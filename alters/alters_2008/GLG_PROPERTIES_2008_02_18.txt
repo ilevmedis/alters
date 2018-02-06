@@ -1,0 +1,2 @@
+﻿DataTableRowAcceptedColor=#90ee90
+DataTableRowRejectedColor=#ff6666

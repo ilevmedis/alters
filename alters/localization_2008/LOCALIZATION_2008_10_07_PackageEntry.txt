@@ -1,0 +1,5 @@
+﻿pbl_packageentry.jsp.pbl_packageexcludeditem.qualimit = Άνω Όριο Ποσότητας
+pbl_packageentry.jsp.pbl_packageexcludeditem.quacalculationunitindicator = Μονάδα Μέτρησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageentry.jsp.pbl_packageexcludeditem.qualimit','Άνω Όριο Ποσότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_packageentry.jsp.pbl_packageexcludeditem.quacalculationunitindicator','Μονάδα Μέτρησης');

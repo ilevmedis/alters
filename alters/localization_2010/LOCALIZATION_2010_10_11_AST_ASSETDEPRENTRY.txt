@@ -1,0 +1,9 @@
+ast_assetdeprentry.jsp.editdepr = Συμπλήρωση Αποσβέσεων
+ast_assetdeprentry.jsp.deprentrydisplaybox.caption = Αποσβέσεις
+
+ast_assetdeprentry.jsp.validations.assetpart_required = Συμπληρώστε Υποχρεωτικά Τμήμα Παγίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprentry.jsp.editdepr','Συμπλήρωση Αποσβέσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprentry.jsp.deprentrydisplaybox.caption','Αποσβέσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprentry.jsp.validations.assetpart_required','Συμπληρώστε Υποχρεωτικά Τμήμα Παγίου');

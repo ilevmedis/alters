@@ -1,0 +1,19 @@
+sys_cacheditemsviewer.jsp.pagetitle = Προβολή Αντικειμένων Στην Cache
+sys_cacheditemsviewer.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_cacheditemsviewer.jsp.griddisplaybox.caption = Αντικείμενα Στην Cache
+sys_cacheditemsviewer.jsp.objectname_criteria = Όνομα Αντικειμένου
+sys_cacheditemsviewer.jsp.bindedmodelclassname_criteria = Συνδεδεμένο Μοντέλο Αντικειμένου
+sys_cacheditemsviewer.jsp.cachedobject.name = Όνομα
+sys_cacheditemsviewer.jsp.cachedobject.bindedmodelclassname = Συνδεδεμένο Μοντέλο
+sys_cacheditemsviewer.jsp.cachedobject.object = Περιεχόμενα
+sys_cacheditemsviewer.jsp.cachedobject.isexpired = Ακυρωμένο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.pagetitle','Προβολή Αντικειμένων Στην Cache');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.griddisplaybox.caption','Αντικείμενα Στην Cache');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.objectname_criteria','Όνομα Αντικειμένου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.bindedmodelclassname_criteria','Συνδεδεμένο Μοντέλο Αντικειμένου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.cachedobject.name','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.cachedobject.bindedmodelclassname','Συνδεδεμένο Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.cachedobject.object','Περιεχόμενα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.cachedobject.isexpired','Ακυρωμένο');

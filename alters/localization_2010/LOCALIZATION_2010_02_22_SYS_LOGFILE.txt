@@ -1,0 +1,24 @@
+sys_logfile.jsp.sys_logfile.modelname = Μοντέλο
+sys_logfile.jsp.sys_logfile.rowpk = Κλειδί Εγγραφής
+sys_logfile.jsp.sys_logfile.logchanges = Δεδομένα Τροποποίησης
+
+sys_logfilepopup.jsp.sys_logfile.remoteaddress = Διεύθυνση IP
+sys_logfilepopup.jsp.sys_logfile.modelname = Μοντέλο
+sys_logfilepopup.jsp.sys_logfile.rowpk = Κλειδί Εγγραφής
+sys_logfilepopup.jsp.sys_logfile.logchanges = Δεδομένα Τροποποίησης
+
+sys_logfilechanges.jsp.entrydisplaybox.caption = Δεδομένα Τροποποίησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfile.jsp.sys_logfile.modelname','Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfile.jsp.sys_logfile.rowpk','Κλειδί Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfile.jsp.sys_logfile.logchanges','Δεδομένα Τροποποίησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfilepopup.jsp.sys_logfile.remoteaddress','Διεύθυνση IP');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfilepopup.jsp.sys_logfile.modelname','Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfilepopup.jsp.sys_logfile.rowpk','Κλειδί Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfilepopup.jsp.sys_logfile.logchanges','Δεδομένα Τροποποίησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_logfilechanges.jsp.entrydisplaybox.caption','Δεδομένα Τροποποίησης');
+
+
+

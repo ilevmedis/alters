@@ -1,0 +1,7 @@
+﻿pta_doctorentry.jsp.pta_doctor.facilityid = Κλινική
+pta_doctorbrowser.jsp.pta_facility.mnemonic = Κλινική
+pta_doctorindex.jsp.pta_facility.mnemonic = Κλινική
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.facilityid','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorbrowser.jsp.pta_facility.mnemonic','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorindex.jsp.pta_facility.mnemonic','Κλινική');

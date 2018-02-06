@@ -1,0 +1,110 @@
+﻿glg_journalprototypebrowser.jsp.pagetitle = Διαχείριση Πρότυπων Άρθρων
+glg_journalprototypebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+glg_journalprototypebrowser.jsp.griddisplaybox.caption = Πρότυπα Άρθρα
+glg_journalprototypebrowser.jsp.journaltype_criteria = Τύπος Αρθρων
+glg_journalprototypebrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+glg_journalprototypebrowser.jsp.descr_criteria = Περιγραφή
+glg_journalprototypebrowser.jsp.isactive_criteria = Ενεργό
+glg_journalprototypebrowser.jsp.glg_journalprototype.journalprototypeid = Κωδικός
+glg_journalprototypeprototypebrowser.jsp.glg_eventtype.mnemonic = Μνημονικός Κωδ.
+glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.descr = Περιγραφή
+glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.journaltype = Τύπος
+glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.sincedate = Από Ημ/νία Ισχύος
+glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.tilldate = Έως Ημ/νία Ισχύος
+glg_journalprototypebrowser.jsp.glg_journalprototype.isactive = Ενεργό
+
+glg_journalprototypeentry.jsp.pagetitle = Εισαγώγη Πρότυπων Άρθρων
+glg_journalprototypeentry.jsp.entrydisplaybox.caption = Στοιχεία Πρότυπου Άρθρου
+
+glg_journalprototypeentry.jsp.glg_journalprototype.journalprototypeid = Κωδικός
+glg_journalprototypeentry.jsp.glg_journalprototype.isactive = Ενεργό
+glg_journalprototypeentry.jsp.glg_journalprototype.mnemonic = Μνημονικός Κωδικός
+glg_journalprototypeentry.jsp.glg_journalprototype.descr = Περιγραφή
+glg_journalprototypeentry.jsp.glg_journalprototype.journaltype = Τύπος Άρθρου
+glg_journalprototypeentry.jsp.glg_journalprototype.sincedate = Από Ημ. Ισχύος
+glg_journalprototypeentry.jsp.glg_journalprototype.tilldate = Έως Ημ. Ισχύος
+glg_journalprototypeentry.jsp.glg_journalprototype.reason = Αιτιολογία Άρθρου
+glg_journalprototypeentry.jsp.glg_journalprototype.comments = Σχόλια
+glg_journalprototypeentry.jsp.glg_journalprototype.linenum = Α/Α
+glg_journalprototypeentry.jsp.glg_journalprototypeaccount.accountid = Λογαριασμός
+glg_journalprototypeentry.jsp.glg_journalprototypeaccount.reason = Αιτιολογία
+glg_journalprototypeentry.jsp.glg_journalprototypeaccount.amountdebitexpression = Έκφραση Χρέωσης
+glg_journalprototypeentry.jsp.glg_journalprototypeaccount.amountcreditexpression = Έκφραση Πίστωσης
+
+glg_journalprototypeentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+glg_journalprototypeentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+glg_journalprototypeentry.jsp.validations.journaltyperequired = Συμπληρώστε Υποχρεωτικά Τύπο Άρθρου
+glg_journalprototypeentry.jsp.validations.sincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+glg_journalprototypeentry.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+
+glg_journalprototypeentry.jsp.validations.atleasttwoaccounts = Συμπληρώστε Τουλάχιστον 2 Λογαριασμούς
+glg_journalprototypeentry.jsp.validations.credit_and_debit_expression_isnull = Δεν Επιτρέπεται Η Συνάρτηση Χρέωσης Και Πίστωσης Να Είναι Κενή.Παρακαλώ Διορθώστε
+glg_journalprototypeentry.jsp.validations.fill_credit_or_debit_expression = Συμπληρώστε Συνάρτηση Χρέωσης ή Συνάρτηση Πίστωσης
+
+
+glg_journalentry.jsp.prototypebutton = Πρότυπα Αρθρα
+glg_journalentry.jsp.prototypedisplaybox.caption = Πρότυπα Αρθρα
+glg_journalentry.jsp.glg_journalprototype.journalprototypeid = Κωδικός
+glg_journalentry.jsp.glg_eventtype.mnemonic = Μνημονικός
+glg_journalentry.jsp.glg_journalprototype.descr = Περιγραφή
+glg_journalentry.jsp.glg_journalprototype.sincedate = Από Ημ.Ισχύος
+glg_journalentry.jsp.glg_journalprototype.tilldate = Εως Ημ.Ισχύος
+glg_journalentry.jsp.glg_journalprototype.totalamount = Αξία
+
+glg_journalentry.jsp.validations.journalaccounts_mustbe_empty = Δεν Πρέπει Να Υπάρχουν Συμπληρωμένοι Λογαριασμοί Για Επιλέξετε Πρότυπα Άρθρα. Παρακαλώ Διορθώστε
+glg_journalentry.jsp.validations.journalprototypes_not_found = Δεν Βρέθηκαν Πρότυπα Αρθρα Ενεργά Στην Συγκεκριμένη Ημερομηνία
+glg_journalentry.jsp.validations.wrong_expression = Η Εκφραση Συμπλήρωσης Αξίας Στο Πρότυπο Άρθρο Είναι Λανθασμένη
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.pagetitle','Διαχείριση Πρότυπων Αρθρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.griddisplaybox.caption','Πρότυπα Αρθρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.journaltype_criteria','Τύπος Αρθρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.isactive_criteria','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.glg_journalprototype.journalprototypeid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeprototypebrowser.jsp.glg_eventtype.mnemonic','Μνημονικός Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.journaltype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.sincedate','Από Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeprototypebrowser.jsp.glg_journalprototype.tilldate','Έως Ημ/νία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypebrowser.jsp.glg_journalprototype.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.pagetitle','Εισαγώγη Πρότυπων Αρθρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.entrydisplaybox.caption','Στοιχεία Πρότυπου Αρθρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.journalprototypeid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.journaltype','Τύπος Αρθρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.sincedate','Από Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.tilldate','Έως Ημ. Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.reason','Αιτιολογία Αρθρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototype.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototypeaccount.accountid','Λογαριασμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototypeaccount.reason','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototypeaccount.amountdebitexpression','Έκφραση Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalprototypeentry.jsp.glg_journalprototypeaccount.amountcreditexpression','Έκφραση Πίστωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.journaltyperequired','Συμπληρώστε Υποχρεωτικά Τύπο Αρθρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.sincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.atleasttwoaccounts','Συμπληρώστε Τουλάχιστον 2 Λογαριασμούς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.credit_and_debit_expression_isnull','Δεν Επιτρέπεται Η Συνάρτηση Χρέωσης Και Πίστωσης Να Είναι Κενή.Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalprototypeentry.jsp.validations.fill_credit_or_debit_expression','Συμπληρώστε Συνάρτηση Χρέωσης ή Συνάρτηση Πίστωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.prototypebutton','Πρότυπα Αρθρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.prototypedisplaybox.caption','Πρότυπα Αρθρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journalprototype.journalprototypeid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_eventtype.mnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journalprototype.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journalprototype.sincedate','Από Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journalprototype.tilldate','Εως Ημ.Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalentry.jsp.glg_journalprototype.totalamount','Αξία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalentry.jsp.validations.journalaccounts_mustbe_empty','Δεν Πρέπει Να Υπάρχουν Συμπληρωμένοι Λογαριασμοί Για Επιλέξετε Πρότυπα Άρθρα. Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalentry.jsp.validations.journalprototypes_not_found','Δεν Βρέθηκαν Πρότυπα Αρθρα Ενεργά Στην Συγκεκριμένη Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalentry.jsp.validations.wrong_expression','Η Εκφραση Συμπλήρωσης Αξίας Στο Πρότυπο Άρθρο Είναι Λανθασμένη');

@@ -1,0 +1,5 @@
+pbl_visitinvoicebrowser.jsp.totals.remaininginvoiceswithvat = Ατιμολ. Με ΦΠΑ
+pbl_visitinvoicebrowser.jsp.totals.remaininginvoicevaluewithvat = Ατιμολ. Με ΦΠΑ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoicebrowser.jsp.totals.remaininginvoiceswithvat','Ατιμολ. Με ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoicebrowser.jsp.totals.remaininginvoicevaluewithvat','Ατιμολ. Με ΦΠΑ');

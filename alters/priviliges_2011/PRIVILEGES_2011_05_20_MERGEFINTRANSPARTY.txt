@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_mergefintransparty.jsp.view', 'Ανάγνωση Ενοποίησης Στοιχείων Πελάτη');
+insert into sys_privilege(privilegeid, descr) values ('sys_mergefintransparty.jsp.print', 'Εκτύπωση Ενοποίησης Στοιχείων Πελάτη');
+insert into sys_privilege(privilegeid, descr) values ('sys_mergefintransparty.jsp.insert', 'Εισαγωγή Ενοποίησης Στοιχείων Πελάτη');
+insert into sys_privilege(privilegeid, descr) values ('sys_mergefintransparty.jsp.update', 'Μεταβολή Ενοποίησης Στοιχείων Πελάτη');
+insert into sys_privilege(privilegeid, descr) values ('sys_mergefintransparty.jsp.delete', 'Διαγραφή Ενοποίησης Στοιχείων Πελάτη');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_mergefintransparty.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_mergefintransparty.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_mergefintransparty.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_mergefintransparty.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'sys_mergefintransparty.jsp.insert', 1);

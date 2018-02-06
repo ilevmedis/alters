@@ -1,0 +1,13 @@
+pta_doctorentry.jsp.pta_doctor.isincludedinmerid = Περιλαμβάνεται Στο Μεριδολόγιο
+pta_doctorentry.jsp.pta_doctor.doctorrankindicator = Βαθμός
+pta_doctorindex.jsp.pta_doctor.doctorrankindicator = Βαθμός
+pta_doctorindex.jsp.pta_doctor.speciality = Ειδικότητα
+pta_doctorbrowser.jsp.pta_doctor.doctorrankindicator = Βαθμός
+pta_doctorbrowser.jsp.pta_doctor.speciality = Ειδικότητα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.isincludedinmerid','Περιλαμβάνεται Στο Μεριδολόγιο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.doctorrankindicator','Βαθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorindex.jsp.pta_doctor.doctorrankindicator','Βαθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorindex.jsp.pta_doctor.speciality','Ειδικότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorbrowser.jsp.pta_doctor.doctorrankindicator','Βαθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorbrowser.jsp.pta_doctor.speciality','Ειδικότητα');

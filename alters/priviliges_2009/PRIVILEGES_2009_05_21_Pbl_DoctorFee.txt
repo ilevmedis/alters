@@ -1,0 +1,19 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeebrowser.jsp.view', 'Διαχείριση Αμοιβών Ιατρών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeebrowser.jsp.print', 'Διαχείριση Αμοιβών Ιατρών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeeentry.jsp.view', 'Καταχώρηση Αμοιβών Ιατρών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeeentry.jsp.print', 'Καταχώρηση Αμοιβών Ιατρών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeeentry.jsp.insert', 'Καταχώρηση Αμοιβών Ιατρών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeeentry.jsp.update', 'Καταχώρηση Αμοιβών Ιατρών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_doctorfeeentry.jsp.delete', 'Καταχώρηση Αμοιβών Ιατρών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeeentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeeentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeeentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeeentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (9, 'pbl_doctorfeeentry.jsp.insert', 1);
+
+
+
+

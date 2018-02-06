@@ -1,0 +1,22 @@
+sys_mailparamsentry.jsp.pagetitle = Παράμετροι Αποστολής EMail
+sys_mailparamsentry.jsp.entrydisplaybox.caption = Στοιχεία Παραμέτρων Αποστολής EMail
+
+sys_mailparamsentry.jsp.sys_mailparams.smtphost = SMTP Host
+sys_mailparamsentry.jsp.sys_mailparams.smtpport = SMTP Port
+sys_mailparamsentry.jsp.sys_mailparams.username = Χρήστης
+sys_mailparamsentry.jsp.sys_mailparams.password = Συνθηματικό
+
+sys_mailparamsentry.jsp.validations.smtphost_required = Συμπληρώστε Υποχρεωτικά SMTP Host
+sys_mailparamsentry.jsp.validations.username_required = Συμπληρώστε Υποχρεωτικά Χρήστη
+sys_mailparamsentry.jsp.validations.password_required = Συμπληρώστε Υποχρεωτικά Συνθηματικό
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mailparamsentry.jsp.pagetitle','Παράμετροι Αποστολής EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mailparamsentry.jsp.entrydisplaybox.caption','Στοιχεία Παραμέτρων Αποστολής EMail');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mailparamsentry.jsp.sys_mailparams.smtphost','SMTP Host');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mailparamsentry.jsp.sys_mailparams.smtpport','SMTP Port');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mailparamsentry.jsp.sys_mailparams.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_mailparamsentry.jsp.sys_mailparams.password','Συνθηματικό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mailparamsentry.jsp.validations.smtphost_required','Συμπληρώστε Υποχρεωτικά SMTP Host');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mailparamsentry.jsp.validations.username_required','Συμπληρώστε Υποχρεωτικά Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_mailparamsentry.jsp.validations.password_required','Συμπληρώστε Υποχρεωτικά Συνθηματικό');

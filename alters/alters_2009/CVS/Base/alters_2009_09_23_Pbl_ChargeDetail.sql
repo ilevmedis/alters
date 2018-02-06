@@ -1,0 +1,1 @@
+alter table pbl_chargedetail add (plafonvaluecharge float(126)); 

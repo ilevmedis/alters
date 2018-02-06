@@ -1,0 +1,4 @@
+med_orderbrowser.jsp.patientid_criteria = Ασθενής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbrowser.jsp.patientid_criteria','Ασθενής');
+

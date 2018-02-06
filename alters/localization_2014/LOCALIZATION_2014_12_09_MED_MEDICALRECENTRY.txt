@@ -1,0 +1,11 @@
+med_medicalrecentry.jsp.reorder = Επανεξέταση
+med_medicalrecentry.jsp.med_service.isreorderingservice = Επανεξέταση;
+med_medicalrecentry.jsp.med_service.reorderscheduledate = Ημ/νία Επανεξέτασης
+med_medicalrecentry.jsp.validations.isreordering_required = Συμπληρώστε Υποχρεωτικά Ένδειξη Επανεξέτασης
+med_medicalrecentry.jsp.validations.reorderscheduledate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Προγραμματισμού Επανεξέτασης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.reorder','Επανεξέταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_service.isreorderingservice','Επανεξέταση;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_service.reorderscheduledate','Ημ/νία Επανεξέτασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.isreordering_required','Συμπληρώστε Υποχρεωτικά Ένδειξη Επανεξέτασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.reorderscheduledate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Προγραμματισμού Επανεξέτασης');

@@ -1,0 +1,4 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('med_worklistorder.jsp.view', 'Λίστα Εργασίας Υπηρεσιών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('med_worklistorder.jsp.print', 'Λίστα Εργασίας Υπηρεσιών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'med_worklistorder.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'med_worklistorder.jsp.print', 1);

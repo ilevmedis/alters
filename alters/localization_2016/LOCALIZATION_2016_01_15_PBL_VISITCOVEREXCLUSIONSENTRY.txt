@@ -1,0 +1,9 @@
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsitem.perccoverindicator = Μέθοδος Υπολογισμού
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsgroup.perccoverindicator = Μέθοδος Υπολογισμού
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.perccoverindicator = Μέθοδος Υπολογισμού
+pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.exemption = Ποσό Απαλλαγής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsitem.perccoverindicator','Μέθοδος Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsgroup.perccoverindicator','Μέθοδος Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.perccoverindicator','Μέθοδος Υπολογισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverexclusionsentry.jsp.pbl_visitcoverexclusionsbasicrule.exemption','Ποσό Απαλλαγής');

@@ -1,0 +1,41 @@
+﻿Med_ServiceMasterEntry.jsp
+----------------------------
+
+med_servicemasterentry.jsp.tabs.page4 = Ομάδες Πόρων
+med_servicemasterentry.jsp.rsc_serviceresourceconsumption.linenum = Α/Α
+med_servicemasterentry.jsp.rsc_serviceresourceconsumption.resourcegroupid = Ομάδα Πόρου
+med_servicemasterentry.jsp.rsc_serviceresourceconsumption.quadenominator = Κλάσμα
+med_servicemasterentry.jsp.rsc_serviceresourceconsumption.isindependentlyscheduled = Ανεξ.Προγ/σμός
+med_servicemasterentry.jsp.rsc_serviceresourceconsumption.timeneeded = Χρόνος Δέσμευσης
+
+med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.quafractionrequired = Συμπληρώστε Υποχρεωτικά Κλάσμα Δέσμευσης
+med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.timeneededrequired = Συμπληρώστε Υποχρεωτικά Χρόνο Δέσμευσης
+med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.isindependentlyscheduled_false = Η Πρώτη Ομάδα Πρέπει Να Είναι Υποχρεωτικά Εξαρτημένη. Παρακαλώ Διορθώστε
+med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.independent_timeneeded_differ = Η Χρονική Διάρκεια Για Εξαρτώμενες Ομάδες Πρέπει Να Είναι Ίδια.Παρακαλώ Διορθώστε
+
+med_orderentry.jsp.orderallocation = Πρόγραμμα
+med_orderentry.jsp.criteriadisplaybox.caption = Πρόγραμμα Εκτέλεσης Υπηρεσιών
+med_orderentry.jsp.sincedate_criteria = Από Ημερομηνία
+med_orderentry.jsp.tilldate_criteria = Έως Ημερομηνία
+
+rsc_orderallocationentry.jsp.entrydisplaybox.caption = Προγραμματισμός Πόρων
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.tabs.page4','Ομάδες Πόρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.rsc_serviceresourceconsumption.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.rsc_serviceresourceconsumption.resourcegroupid','Ομάδα Πόρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.rsc_serviceresourceconsumption.quadenominator','Κλάσμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.rsc_serviceresourceconsumption.isindependentlyscheduled','Ανεξ.Προγ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_servicemasterentry.jsp.rsc_serviceresourceconsumption.timeneeded','Χρόνος Δέσμευσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.quadenominatorrequired','Συμπληρώστε Υποχρεωτικά Κλάσμα Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.timeneededrequired','Συμπληρώστε Υποχρεωτικά Χρόνο Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_servicemasterentry.jsp.validations.rsc_serviceresourceconsumption.independent_timeneeded_differ','Η Χρονική Διάρκεια Για Εξαρτώμενες Ομάδες Πρέπει Να Είναι Ίδια.Παρακαλώ Διορθώστε');
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.orderallocation','Πρόγραμμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.criteriadisplaybox.caption','Πρόγραμμα Εκτέλεσης Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.sincedate_criteria','Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.tilldate_criteria','Έως Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_orderallocationentry.jsp.entrydisplaybox.caption','Προγραμματισμός Πόρων');

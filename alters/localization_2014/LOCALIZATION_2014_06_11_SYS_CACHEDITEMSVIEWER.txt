@@ -1,0 +1,5 @@
+sys_cacheditemsviewer.jsp.expirecacheditem = Ακύρωση
+sys_cacheditemsviewer.jsp.expireallcacheditems = Ακύρωση Όλων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.expirecacheditem','Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cacheditemsviewer.jsp.expireallcacheditems','Ακύρωση Όλων');

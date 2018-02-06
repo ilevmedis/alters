@@ -1,0 +1,7 @@
+pta_visitentry.jsp.validations.wrongtaxregistrationno = Εσφαλμένος ΑΦΜ
+pta_oupvisitentry.jsp.validations.wrongtaxregistrationno = Εσφαλμένος ΑΦΜ
+pta_doctorentry.jsp.validations.wrongtaxregistrationno = Εσφαλμένος ΑΦΜ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.validations.wrongtaxregistrationno','Εσφαλμένος ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.validations.wrongtaxregistrationno','Εσφαλμένος ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.validations.wrongtaxregistrationno','Εσφαλμένος ΑΦΜ');

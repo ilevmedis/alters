@@ -1,0 +1,1 @@
+alter table med_msgevent add checkchanges varchar2(200);

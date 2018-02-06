@@ -1,0 +1,5 @@
+pbl_chargeentry.jsp.validations.costcenterid_required = Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους
+med_orderentry.jsp.validations.costcenterid_required = Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.costcenterid_required','Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.costcenterid_required','Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους');

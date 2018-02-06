@@ -1,0 +1,11 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_packagebatchinputentry.jsp.view', 'Ανάγνωση Εισαγωγής Πακέτων ΚΕΝ Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('pbl_packagebatchinputentry.jsp.print', 'Εκτύπωση Εισαγωγής Πακέτων ΚΕΝ Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('pbl_packagebatchinputentry.jsp.insert', 'Εισαγωγή Εισαγωγής Πακέτων ΚΕΝ Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('pbl_packagebatchinputentry.jsp.update', 'Μεταβολή Εισαγωγής Πακέτων ΚΕΝ Από Excel');
+insert into sys_privilege(privilegeid, descr) values ('pbl_packagebatchinputentry.jsp.delete', 'Διαγραφή Εισαγωγής Πακέτων ΚΕΝ Από Excel');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'pbl_packagebatchinputentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'pbl_packagebatchinputentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'pbl_packagebatchinputentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'pbl_packagebatchinputentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'pbl_packagebatchinputentry.jsp.insert', 1);

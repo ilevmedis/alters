@@ -1,0 +1,13 @@
+inv_storeentry.jsp.page1 = Πρόσβαση Χρηστων
+inv_storeentry.jsp.page2 = Συνδ. Επιτροπές
+inv_storeentry.jsp.page3 = Δικαίωμα Έγκρισης
+inv_storeentry.jsp.inv_storeapproveusers.username = Χρήστης
+inv_storeentry.jsp.inv_storeapproveusers.inv_storeapproveusers_isapprovingfintranspartyorders = Δικ. Έγκρισης Παραγγ. Προμηθ.
+inv_storeentry.jsp.inv_storeapproveusers.inv_storeapproveusers_isapprovingstoreorders = Δικ. Έγκρισης Παραγγ. Τμημ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.page1','Πρόσβαση Χρηστων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.page2','Συνδ. Επιτροπές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.page3','Δικαίωμα Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_storeapproveusers.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_storeapproveusers.inv_storeapproveusers_isapprovingfintranspartyorders','Δικ. Έγκρισης Παραγγ. Προμηθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_storeapproveusers.inv_storeapproveusers_isapprovingstoreorders','Δικ. Έγκρισης Παραγγ. Τμημ.');

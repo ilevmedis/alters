@@ -1,0 +1,48 @@
+src_supplyreqcategorybrowser.jsp.pagetitle = Διαχείριση Κατηγοριών Αναζητήσεων Προμήθειας
+src_supplyreqcategorybrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+src_supplyreqcategorybrowser.jsp.griddisplaybox.caption = Κατηγορίες Αναζητήσεων Προμήθειας
+src_supplyreqcategorybrowser.jsp.mnemonic_criteria = Μνημ. Κωδικός
+src_supplyreqcategorybrowser.jsp.descr_criteria = Περιγραφή
+src_supplyreqcategorybrowser.jsp.isactive_criteria = Ενεργές Εγγραφές
+
+src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.supplyreqcategoryid = Κωδικός
+src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.mnemonic = Μνημ. Κωδικός
+src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.descr = Περιγραφή
+src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.isactive = Ενεργή Εγγραφή
+
+src_supplyreqcategoryentry.jsp.pagetitle = Καταχώρηση Κατηγοριών Αναζητήσεων Προμήθειας
+src_supplyreqcategoryentry.jsp.entrydisplaybox.caption = Στοιχεία Κατηγορίας Αναζητήσεων Προμήθειας
+src_supplyreqcategoryentry.jsp.src_supplyreqcategory.supplyreqcategoryid = Κωδικός
+src_supplyreqcategoryentry.jsp.src_supplyreqcategory.isactive = Ενεργή Εγγραφή
+src_supplyreqcategoryentry.jsp.src_supplyreqcategory.mnemonic = Μνημ. Κωδικός
+src_supplyreqcategoryentry.jsp.src_supplyreqcategory.descr = Περιγραφή
+src_supplyreqcategoryentry.jsp.src_supplyreqcategory.supplyreqstatuspatternid = Μοτίβο
+src_supplyreqcategoryentry.jsp.src_supplyreqcategory.comments = Σχόλια
+
+src_supplyreqcategoryentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό
+src_supplyreqcategoryentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.pagetitle','Διαχείριση Κατηγοριών Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.griddisplaybox.caption','Κατηγορίες Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.isactive_criteria','Ενεργές Εγγραφές');
+
+                                                                                                                                                                                                        INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.supplyreqcategoryid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.supplyreqcategoryid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategorybrowser.jsp.src_supplyreqcategory.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.pagetitle','Καταχώρηση Κατηγοριών Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.entrydisplaybox.caption','Στοιχεία Κατηγορίας Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.src_supplyreqcategory.supplyreqcategoryid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.src_supplyreqcategory.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.src_supplyreqcategory.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.src_supplyreqcategory.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.src_supplyreqcategory.supplyreqstatuspatternid','Μοτίβο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqcategoryentry.jsp.src_supplyreqcategory.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyreqcategoryentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyreqcategoryentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');

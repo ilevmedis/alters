@@ -1,0 +1,138 @@
+pta_visitentry.jsp.ssndummygriddisplaybox.caption = Διαφορές Αρχείου Ασθενών Με Web Service ΗΔΙΚΑ
+pta_visitentry.jsp.pta_ssndummy.errortext = Πεδίο
+pta_visitentry.jsp.pta_ssndummy.oldvalue = Τιμή Αρχείου
+pta_visitentry.jsp.pta_ssndummy.newvalue = Νέα Τιμή (από ΗΔΙΚΑ)
+pta_visitentry.jsp.pta_ssndummy.selected = Αλλαγή
+
+pta_visitentry.jsp.ssnmessagesdisplaybox.caption = Μηνύματα
+pta_visitentry.jsp.criteria.webservice = Web Service ΗΔΙΚΑ
+
+pta_visitentry.jsp.validations.insurance_capability_not_found = Δεν Βρέθηκε ο ΑΜΚΑ Κατα Την Επικοινωνία Για Την Ασφαλιστική Ικανότητα
+pta_visitentry.jsp.validations.insuranceprovider_not_match_idikacode = Η Ενημέρωση Ασφαλιστικών Στοιχείων Δεν Είναι Εφικτή. Κωδικός Φορέα ΗΔΙΚΑ Δεν Βρέθηκε Στους Ασφαλιστικούς Φορείς. Κωδ.
+pta_visitentry.jsp.validations.restricted_insurance_ability = Προσοχή! Ο Ασθενής Έχει Ασφαλιστική Ικανότητα Μόνο Για Μια Πάθηση
+pta_visitentry.jsp.validations.inactive_insurance_ability = Προσοχή! Δεν Βρέθηκε Ενεργή Ασφαλιστική Ικανότητα
+pta_visitentry.jsp.validations.no_insurance_ability_found = Προσοχή! Δεν Βρέθηκε Ούτε Ενεργή Ούτε Ανενεργή Ασφαλιστική Ικανότητα
+pta_visitentry.jsp.validations.tillavailabilitydate_lesshan_admissiondate = Προσοχή! Η Ημερομηνία Εισόδου Ειναι Μεγαλύτερη Από Την Ημερομηνία Ισχύος Ασφαλιστικής Ικανότητας
+pta_visitentry.jsp.message.field_without_value = (χωρίς τιμή)
+pta_visitentry.jsp.validations.ssn_not_found_error = Δεν Βρέθηκε Ο ΑΜΚΑ Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ
+
+pta_amkamessageobject.message.lastname_incompatible = Επώνυμο
+pta_amkamessageobject.message.firstname_incompatible = Ονομα
+pta_amkamessageobject.message.father_firstname_incompatible = Ον.Πατρός
+pta_amkamessageobject.message.mother_firstname_incompatible = Ον.Μητρός
+pta_amkamessageobject.message.gender_incompatible = Φύλο
+pta_amkamessageobject.message.birthdate_incompatible = Ημ.Γέννησης
+pta_amkamessageobject.message.idnumber_incompatible = Αρ.Ταυτότητας
+pta_amkamessageobject.message.iddate_incompatible = Ημ.Εκδ.Ταυτότητας
+pta_amkamessageobject.message.citizenship_incompatible = Υπηκοότητα
+pta_amkamessageobject.message.address_incompatible = Διεύθυνση
+pta_amkamessageobject.message.zipcode_incompatible = Ταχ.Κώδικας
+pta_amkamessageobject.message.district_incompatible = Περιοχή
+pta_amkamessageobject.message.birth_country_incompatible = Χώρα Γεν.
+pta_amkamessageobject.message.address_country_incompatible = Χώρα Διεύθ.
+pta_amkamessageobject.message.telephone1_incompatible = Τηλ. 1
+pta_amkamessageobject.message.telephone2_incompatible = Τηλ. 2
+pta_amkamessageobject.message.taxregistrationno_incompatible = ΑΦΜ
+pta_amkamessageobject.message.insuranceid_incompatible = Ασφ.Φορέας
+pta_amkamessageobject.message.insurancekindindicator_incompatible = Ιδιότητα
+pta_amkamessageobject.message.directindicator_incompatible = Αμ/Εμμ
+pta_amkamessageobject.message.insuranceno_incompatible = Μητρώου
+pta_amkamessageobject.message.insurance_ability_date_incompatible = Ημ.Λήξ.Ασφ.Ικανότ.
+
+fin_transpartyentry.jsp.pbl_insuranceschemeheader.idikacode = Κωδ.Ασφ.Φορ.ΗΔΙΚΑ
+
+pta_ssnparametersentry.jsp.pta_ssnparameters.isconnectingtoinsurwebservice = Σύνδεση Με Web Service Ασφαλ. Ικανότητας
+pta_ssnparametersentry.jsp.pta_ssnparameters.insurwebserviceusername = Username Web Service Ασφαλ. Ικανότητας
+pta_ssnparametersentry.jsp.pta_ssnparameters.insurwebservicepassword = Password Web Service Ασφαλ. Ικανότητας
+pta_ssnparametersentry.jsp.pta_ssnparameters.overwritepatientdata = Αντιγραφή Στοιχείων Ασθενή
+
+pta_ssnparametersentry.jsp.validations.pta_ssnparameters.overwritepatientdata_required = Συμπληρώστε Υποχρεωτικά Πολιτκή Αντιγραφής Στοιχείων Ασθενή
+
+pta_amkamessageobject.message.birth_municipality_incompatible = Δήμος Γεν.
+pta_amkamessageobject.message.birth_prefecture_incompatible = Νομός Γεν.
+pta_amkamessageobject.message.address_prefecture_incompatible = Νομός Διεύθ.
+
+sys_prefectureentry.jsp.sys_municipality.esyecode = Κωδ. ΕΣΥΕ
+sys_prefectureentry.jsp.sys_municipality.idikacode = Κωδ. ΗΔΙΚΑ
+
+sys_municipalityentry.jsp.sys_municipality.esyecode = Κωδ. ΕΣΥΕ
+sys_municipalityentry.jsp.sys_municipality.idikacode = Κωδ. ΗΔΙΚΑ
+
+pta_oupvisitentry.jsp.ssndummygriddisplaybox.caption = Διαφορές Αρχείου Ασθενών Με Web Service ΗΔΙΚΑ
+pta_oupvisitentry.jsp.pta_ssndummy.errortext = Πεδίο
+pta_oupvisitentry.jsp.pta_ssndummy.oldvalue = Τιμή Αρχείου
+pta_oupvisitentry.jsp.pta_ssndummy.newvalue = Νέα Τιμή (από ΗΔΙΚΑ)
+pta_oupvisitentry.jsp.pta_ssndummy.selected = Αλλαγή
+
+pta_oupvisitentry.jsp.ssnmessagesdisplaybox.caption = Μηνύματα
+pta_oupvisitentry.jsp.criteria.webservice = Web Service ΗΔΙΚΑ
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.ssndummygriddisplaybox.caption','Διαφορές Αρχείου Ασθενών Με Web Service ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_ssndummy.errortext','Πεδίο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_ssndummy.oldvalue','Τιμή Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_ssndummy.newvalue','Νέα Τιμή (από ΗΔΙΚΑ)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_ssndummy.selected','Αλλαγή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.ssnmessagesdisplaybox.caption','Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.criteria.webservice','Web Service ΗΔΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.insurance_capability_not_found','Δεν Βρέθηκε ο ΑΜΚΑ Κατα Την Επικοινωνία Για Την Ασφαλιστική Ικανότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.insuranceprovider_not_match_idikacode','Η Ενημέρωση Ασφαλιστικών Στοιχείων Δεν Είναι Εφικτή. Κωδικός Φορέα ΗΔΙΚΑ Δεν Βρέθηκε Στους Ασφαλιστικούς Φορείς. Κωδ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.restricted_insurance_ability','Προσοχή! Ο Ασθενής Έχει Ασφαλιστική Ικανότητα Μόνο Για Μια Πάθηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.inactive_insurance_ability','Προσοχή! Δεν Βρέθηκε Ενεργή Ασφαλιστική Ικανότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.no_insurance_ability_found','Προσοχή! Δεν Βρέθηκε Ούτε Ενεργή Ούτε Ανενεργή Ασφαλιστική Ικανότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.tillavailabilitydate_lesshan_admissiondate','Προσοχή! Η Ημερομηνία Εισόδου Ειναι Μεγαλύτερη Από Την Ημερομηνία Ισχύος Ασφαλιστικής Ικανότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.message.field_without_value','(χωρίς τιμή)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.ssn_not_found_error','Δεν Βρέθηκε Ο ΑΜΚΑ Κατά Την Επικοινωνία Με Το ΗΔΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.lastname_incompatible','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.firstname_incompatible','Ονομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.father_firstname_incompatible','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.mother_firstname_incompatible','Ον.Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.gender_incompatible','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.birthdate_incompatible','Ημ.Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.idnumber_incompatible','Αρ.Ταυτότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.iddate_incompatible','Ημ.Εκδ.Ταυτότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.citizenship_incompatible','Υπηκοότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.address_incompatible','Διεύθυνση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.zipcode_incompatible','Ταχ.Κώδικας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.district_incompatible','Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.birth_country_incompatible','Χώρα Γεν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.address_country_incompatible','Χώρα Διεύθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.telephone1_incompatible','Τηλ. 1');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.telephone2_incompatible','Τηλ. 2');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.taxregistrationno_incompatible','ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.insuranceid_incompatible','Ασφ.Φορέας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.insurancekindindicator_incompatible','Ιδιότητα ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.directindicator_incompatible','Αμ/Εμμ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.insuranceno_incompatible','Μητρώου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.insurance_ability_date_incompatible','Ημ.Λήξ.Ασφ.Ικανότ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.pbl_insuranceschemeheader.idikacode','Κωδ.Ασφ.Φορ.ΗΔΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.isconnectingtoinsurwebservice','Σύνδεση Με Web Service Ασφαλ. Ικανότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.insurwebserviceusername','Username Web Service Ασφαλ. Ικανότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.insurwebservicepassword','Password Web Service Ασφαλ. Ικανότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_ssnparametersentry.jsp.pta_ssnparameters.overwritepatientdata','Αντιγραφή Στοιχείων Ασθενή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_ssnparametersentry.jsp.validations.pta_ssnparameters.overwritepatientdata_required','Συμπληρώστε Υποχρεωτικά Πολιτκή Αντιγραφής Στοιχείων Ασθενή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.birth_municipality_incompatible','Δήμος Γεν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.birth_prefecture_incompatible','Νομός Γεν.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_amkamessageobject.message.address_prefecture_incompatible','Νομός Διεύθ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_prefectureentry.jsp.sys_municipality.esyecode','Κωδ. ΕΣΥΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_prefectureentry.jsp.sys_municipality.idikacode','Κωδ. ΗΔΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_municipalityentry.jsp.sys_municipality.esyecode','Κωδ. ΕΣΥΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_municipalityentry.jsp.sys_municipality.idikacode','Κωδ. ΗΔΙΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.ssndummygriddisplaybox.caption','Διαφορές Αρχείου Ασθενών Με Web Service ΗΔΙΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_ssndummy.errortext','Πεδίο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_ssndummy.oldvalue','Τιμή Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_ssndummy.newvalue','Νέα Τιμή (από ΗΔΙΚΑ)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_ssndummy.selected','Αλλαγή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.ssnmessagesdisplaybox.caption','Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.criteria.webservice','Web Service ΗΔΙΚΑ');

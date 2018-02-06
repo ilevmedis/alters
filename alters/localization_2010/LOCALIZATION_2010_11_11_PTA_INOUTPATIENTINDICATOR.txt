@@ -1,0 +1,5 @@
+﻿pta_facilitybrowser.jsp.inoutpatientindicator_criteria = Εσωτ/Εξωτ Ασθ.
+pta_facilityentry.jsp.pta_facility.inoutpatientindicator = Εσωτ/Εξωτ Ασθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilitybrowser.jsp.inoutpatientindicator_criteria','Εσωτ/Εξωτ Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facility.inoutpatientindicator','Εσωτ/Εξωτ Ασθ.');

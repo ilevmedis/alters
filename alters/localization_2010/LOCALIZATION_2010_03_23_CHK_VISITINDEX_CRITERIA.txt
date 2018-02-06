@@ -1,0 +1,11 @@
+pta_lastpatientvisitindex.jsp.validations.atleast_one_criteria = Συμπληρώστε Υποχρεωτικά Ένα Τουλάχιστον Κριτήριο Αναζήτησης Ασθενή
+pta_lastpatientvisitindex.jsp.validations.notenough_criteria = Τα Κριτήρια Που Συμπληρώσατε Δεν Επαρκούν Για Αναζήτηση
+
+pta_visitadmissionindex.jsp.validations.atleast_one_criteria = Συμπληρώστε Υποχρεωτικά Ένα Τουλάχιστον Κριτήριο Αναζήτησης Ασθενή
+pta_visitadmissionindex.jsp.validations.notenough_criteria = Τα Κριτήρια Που Συμπληρώσατε Δεν Επαρκούν Για Αναζήτηση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_lastpatientvisitindex.jsp.validations.atleast_one_criteria','Συμπληρώστε Υποχρεωτικά Ένα Τουλάχιστον Κριτήριο Αναζήτησης Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_lastpatientvisitindex.jsp.validations.notenough_criteria','Τα Κριτήρια Που Συμπληρώσατε Δεν Επαρκούν Για Αναζήτηση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitadmissionindex.jsp.validations.atleast_one_criteria','Συμπληρώστε Υποχρεωτικά Ένα Τουλάχιστον Κριτήριο Αναζήτησης Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitadmissionindex.jsp.validations.notenough_criteria','Τα Κριτήρια Που Συμπληρώσατε Δεν Επαρκούν Για Αναζήτηση');

@@ -1,0 +1,54 @@
+﻿med_worklistorder.jsp.pagetitle = Λίστα Εργασίας (Υπηρεσίες)
+med_worklistorder.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_worklistorder.jsp.griddisplaybox.caption = Λίστα
+
+med_worklistorder.jsp.orderreceiptfacilityid_criteria = Τμήμα
+med_worklistorder.jsp.servicemasterid_criteria = Υπηρεσία
+med_worklistorder.jsp.rscstatus_criteria = Κατάσταση
+med_worklistorder.jsp.resourceid_criteria = Πόρος
+med_worklistorder.jsp.resourcegroupid_criteria = Ομάδα Πόρου
+med_worklistorder.jsp.sincedate_criteria = Από Ημ/νία
+med_worklistorder.jsp.tilldate_criteria = Έως Ημ/νία
+med_worklistorder.jsp.med_orderdetail.orderdate = Ημ/νία Παραγγ
+med_worklistorder.jsp.med_orderdetail.internaleventno = Αρ.Παραγγ
+med_worklistorder.jsp.rsc_resourceallocation.sinceallocationdate = Από Ημ.Εκτέλ.
+med_worklistorder.jsp.rsc_resourceallocation.tillallocationdate = Έως Ημ.Εκτελ.
+med_worklistorder.jsp.med_servicemaster.displaydescr = Υπηρεσία
+med_worklistorder.jsp.pta_visit.mnemonic = Αρ.Νοσήλ
+med_worklistorder.jsp.pta_visit.lastname = Επώνυμο
+med_worklistorder.jsp.pta_visit.firstname = Όνομα
+med_worklistorder.jsp.rsc_resourcegroup.mnemonic = Ομάδα Πόρου
+med_worklistorder.jsp.rsc_resource.descr = Πόρος
+med_worklistorder.jsp.rsc_resourceallocation.rscstatus = Κατάσταση
+med_worklistorder.jsp.cancel = Ακύρωση
+
+med_worklistorder.jsp.validations.facilityrequired = Συμπληρώστε Υποχρεωτικά Τμήμα
+med_worklistorder.jsp.validations.sincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημ/νία
+med_worklistorder.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημ/νία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.pagetitle','Λίστα Εργασίας (Υπηρεσίες)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.griddisplaybox.caption','Λίστα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.orderreceiptfacilityid_criteria','Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.servicemasterid_criteria','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.rscstatus_criteria','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.resourceid_criteria','Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.resourcegroupid_criteria','Ομάδα Πόρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.sincedate_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.tilldate_criteria','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.med_orderdetail.orderdate','Ημ/νία Παραγγ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.med_orderdetail.internaleventno','Αρ.Παραγγ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.rsc_resourceallocation.sinceallocationdate','Από Ημ.Εκτέλ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.rsc_resourceallocation.tillallocationdate','Έως Ημ.Εκτελ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.med_servicemaster.displaydescr','Υπηαρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.pta_visit.mnemonic','Αρ.Νοσήλ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.rsc_resourcegroup.mnemonic','Ομάδα Πόρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.rsc_resource.descr','Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.rsc_resourceallocation.rscstatus','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistorder.jsp.cancel','Ακύρωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_worklistorder.jsp.validations.facilityrequired','Συμπληρώστε Υποχρεωτικά Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_worklistorder.jsp.validations.sincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_worklistorder.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημ/νία');

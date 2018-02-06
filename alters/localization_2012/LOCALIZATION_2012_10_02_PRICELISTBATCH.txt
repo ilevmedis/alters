@@ -1,0 +1,21 @@
+pbl_pricelistbatchinputentry.jsp.tabs.page1 = Επιτυχημένες Εγγραφές
+pbl_pricelistbatchinputentry.jsp.tabs.page2 = Αποτυχημένες Εγγραφές
+
+pbl_pricelistbatchinputentry.jsp.failedrecords_griddisplaybox.caption = Αποτυχίες
+pbl_pricelistbatchinputentry.jsp.fin_itemerror.displaydescr = Περιγραφή Σφάλματος
+
+pbl_pricelistbatchinputentry.jsp.successrecords_griddisplaybox.caption = Επιτυχίες
+pbl_pricelistbatchinputentry.jsp.fin_itemsuccess.displaydescr = Περιγραφή Ενέργειας
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.tabs.page1','Επιτυχημένες Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.tabs.page2','Αποτυχημένες Εγγραφές');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.failedrecords_griddisplaybox.caption','Αποτυχίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.fin_itemerror.displaydescr','Περιγραφή Σφάλματος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.successrecords_griddisplaybox.caption','Επιτυχίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.fin_itemsuccess.displaydescr','Περιγραφή Ενέργειας');
+
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Η Αποθήκευση Των Επιτυχημένων Εγγραφών Ολοκληρώθηκε Με Επιτυχία' WHERE  LOCALIZATIONKEY = 'pbl_pricelistbatchinputentry.jsp.message.procedure_successfull';
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Απέτυχε Η Αποθήκευση Των Επιτυχημένων Εγγραφών. Η Διαδικασία Δεν Ολοκληρώθηκε' WHERE  LOCALIZATIONKEY = 'pbl_pricelistbatchinputentry.jsp.message.procedure_unsuccessfull';

@@ -1,0 +1,62 @@
+﻿sys_tablesinterfacebrowser.jsp.pagetitle = Διαχείριση Διασύνδεσης Εφαρμογών
+sys_tablesinterfacebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_tablesinterfacebrowser.jsp.griddisplaybox.caption = Στοιχεία Διασύνδεσης
+sys_tablesinterfacebrowser.jsp.medistable_criteria = Πίνακας MediSys
+sys_tablesinterfacebrowser.jsp.mediskey_criteria = Κωδικός MediSys
+sys_tablesinterfacebrowser.jsp.fyearid_criteria = Οικ.Έτος
+sys_tablesinterfacebrowser.jsp.foreignapplication_criteria = Εξώτ.Εφαρμογή
+sys_tablesinterfacebrowser.jsp.foreigntable_criteria = Εξώτ.Πίνακας
+sys_tablesinterfacebrowser.jsp.foreignkey_criteria = Εξώτ.Κλειδί
+sys_tablesinterfacebrowser.jsp.sys_tablesinterface.medistable = Πίνακας MediSys
+sys_tablesinterfacebrowser.jsp.sys_tablesinterface.mediskey = Κωδ.MediSys
+sys_tablesinterfacebrowser.jsp.sys_tablesinterface.foreignapplication = Εξ.Εφαρμογή
+sys_tablesinterfacebrowser.jsp.sys_tablesinterface.foreigntable = Εξ.Πίνακας
+sys_tablesinterfacebrowser.jsp.sys_tablesinterface.foreignkey = Εξ.Κωδικός
+sys_tablesinterfacebrowser.jsp.sys_tablesinterface.fyearid = Οικ.Ετος
+
+sys_tablesinterfaceentry.jsp.pagetitle = Καταχώρηση Διασύνδεσης Εφαρμογών
+sys_tablesinterfaceentry.jsp.entrydisplaybox.caption = Στοιχεία Διασύνδεσης
+
+sys_tablesinterfaceentry.jsp.validations.medistablerequired = Συμπληρώστε Υποχρεωτικά Πίνακα Εφαρμογής MediSys
+sys_tablesinterfaceentry.jsp.validations.mediskeyrequired = Συμπληρώστε Υποχρεωτικά Κωδικό Πίνακα Στην Εφαρμογή MediSys
+sys_tablesinterfaceentry.jsp.validations.foreignapplicationrequired = Συμπληρώστε Υποχρεωτικά Ονομα Εξώτερικής Εφαρμογής Διασύνδεσης
+sys_tablesinterfaceentry.jsp.validations.foreigntablerequired = Συμπληρώστε Υποχρεωτικά Ονομα Πίνακα Εξώτ. Εφαρμογής Διασύνδεσης
+sys_tablesinterfaceentry.jsp.validations.foreignkeyrequired = Συμπληρώστε Υποχρεωτικά Κωδικό Εξώτ. Εφαρμογής Διασύνδεσης
+
+sys_tablesinterfaceentry.jsp.sys_tablesinterface.medistable = Ονομα Πίνακα Εφαρμογής MediSys
+sys_tablesinterfaceentry.jsp.sys_tablesinterface.mediskey = Κωδ.Στην Εφαρμογή MediSys
+sys_tablesinterfaceentry.jsp.sys_tablesinterface.fyearid = Οικονομικό Ετος
+sys_tablesinterfaceentry.jsp.sys_tablesinterface.foreignapplication = Ονομα Εξ.Εφαρμογής
+sys_tablesinterfaceentry.jsp.sys_tablesinterface.foreigntable = Πίνακας Εξ.Εφαρμογής
+sys_tablesinterfaceentry.jsp.sys_tablesinterface.foreignkey = Κωδικός Εξ.Εφαρμογής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.pagetitle','Διαχείριση Διασύνδεσης Εφαρμογών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.griddisplaybox.caption','Στοιχεία Διασύνδεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.medistable_criteria','Πίνακας MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.mediskey_criteria','Κωδικός MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.fyearid_criteria','Οικ.Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.foreignapplication_criteria','Εξώτ.Εφαρμογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.foreigntable_criteria','Εξώτ.Πίνακας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.foreignkey_criteria','Εξώτ.Κλειδί');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.sys_tablesinterface.medistable','Πίνακας MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.sys_tablesinterface.mediskey','Κωδ.MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.sys_tablesinterface.foreignapplication','Εξ.Εφαρμογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.sys_tablesinterface.foreigntable','Εξ.Πίνακας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.sys_tablesinterface.foreignkey','Εξ.Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfacebrowser.jsp.sys_tablesinterface.fyearid','Οικ.Ετος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.pagetitle','Καταχώρηση Διασύνδεσης Εφαρμογών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.entrydisplaybox.caption','Στοιχεία Διασύνδεσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_tablesinterfaceentry.jsp.validations.medistablerequired','Συμπληρώστε Υποχρεωτικά Πίνακα Εφαρμογής MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_tablesinterfaceentry.jsp.validations.mediskeyrequired','Συμπληρώστε Υποχρεωτικά Κωδικό Πίνακα Στην Εφαρμογή MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_tablesinterfaceentry.jsp.validations.foreignapplicationrequired','Συμπληρώστε Υποχρεωτικά Ονομα Εξώτερικής Εφαρμογής Διασύνδεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_tablesinterfaceentry.jsp.validations.foreigntablerequired','Συμπληρώστε Υποχρεωτικά Ονομα Πίνακα Εξώτ. Εφαρμογής Διασύνδεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_tablesinterfaceentry.jsp.validations.foreignkeyrequired','Συμπληρώστε Υποχρεωτικά Κωδικό Εξώτ. Εφαρμογής Διασύνδεσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.sys_tablesinterface.medistable','Ονομα Πίνακα Εφαρμογής MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.sys_tablesinterface.mediskey','Κωδ.Στην Εφαρμογή MediSys');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.sys_tablesinterface.fyearid','Οικονομικό Ετος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.sys_tablesinterface.foreignapplication','Ονομα Εξ.Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.sys_tablesinterface.foreigntable','Πίνακας Εξ.Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_tablesinterfaceentry.jsp.sys_tablesinterface.foreignkey','Κωδικός Εξ.Εφαρμογής');

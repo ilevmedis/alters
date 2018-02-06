@@ -1,0 +1,7 @@
+sys_browsercustomization.jsp.sys_browsercustomizationcolumn.hrefexpression = Έκφραση Hyperlink
+sys_browsercustomization.jsp.sys_browsercustomizationcolumn.showframeexpression = Έκφραση Κλήσης Πλαισίου OnMouseOver
+sys_browsercustomization.jsp.sys_browsercustomizationcolumn.framewidthheight = Πλάτος/Ύψος Πλαισίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_browsercustomization.jsp.sys_browsercustomizationcolumn.hrefexpression','Έκφραση Hyperlink');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_browsercustomization.jsp.sys_browsercustomizationcolumn.showframeexpression','Έκφραση Κλήσης Πλαισίου OnMouseOver');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_browsercustomization.jsp.sys_browsercustomizationcolumn.framewidthheight','Πλάτος/Ύψος Πλαισίου');

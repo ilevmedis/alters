@@ -1,0 +1,11 @@
+sys_reportscheduleentry.jsp.tabs.page3 = Παραλήπτες
+sys_reportscheduleentry.jsp.sys_reportschedulemaillist.recipientname = Όνομα Παραλήπτη
+sys_reportscheduleentry.jsp.sys_reportschedulemaillist.recipientemail = e-mail Παραλήπτη
+
+sys_reportscheduleentry.jsp.validations.sys_reportschedulemaillist.recipientmail_required = Συμπληρώστε Υποχρεωτικά e-mail Παραλήπτη
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.tabs.page3','Παραλήπτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedulemaillist.recipientname','Όνομα Παραλήπτη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportscheduleentry.jsp.sys_reportschedulemaillist.recipientemail','e-mail Παραλήπτη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_reportscheduleentry.jsp.validations.sys_reportschedulemaillist.recipientmail_required','Συμπληρώστε Υποχρεωτικά e-mail Παραλήπτη');

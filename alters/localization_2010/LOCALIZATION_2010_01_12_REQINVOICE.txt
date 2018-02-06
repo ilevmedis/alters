@@ -1,0 +1,13 @@
+fin_transpartyentry.jsp.fin_transparty.isissuingreqinvoice = Χρήση Συγκ.Τιμολ
+fin_eventtypeentry.jsp.invoicekindindicator = Τύπος Τιμολογίου
+
+fin_eventtypeentry.jsp.validations.invoicekindindicatorrequired = Συμπληρώστε Υποχρεωτικά Τύπο Τιμολογίου
+
+pbl_reqentry.jsp.validations.reqinvoice_notallowed = Ο Ασφαλιστικός Φορέας Δεν Έχει Παραμετροποιηθεί Για Κοπή Συγκ. Τιμολ. Η Διαδικασία Σταματά
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.isissuingreqinvoice','Χρήση Συγκ.Τιμολ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.invoicekindindicator','Τύπος Τιμολογίου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_eventtypeentry.jsp.validations.invoicekindindicatorrequired','Συμπληρώστε Υποχρεωτικά Τύπο Τιμολογίου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_reqentry.jsp.validations.reqinvoice_notallowed','Ο Ασφαλιστικός Φορέας Δεν Έχει Παραμετροποιηθεί Για Κοπή Συγκ. Τιμολ. Η Διαδικασία Σταματά!');

@@ -1,0 +1,26 @@
+﻿pbl_chargebrowser.jsp.transferchargesbutton = Εισαγ.Χρεώσεων Εξωτ.
+pbl_chargebrowser.jsp.transferchargesdisplaybox.caption = Εισαγωγή Χρεώσεων Από Εξ.Ασθενή
+pbl_chargebrowser.jsp.transfercharge_visitid_criteria = Επίσκεψη Εξωτ
+pbl_chargebrowser.jsp.transfercharge_newchargedate_criteria = Ημ.Μεταφοράς Χρεώσεων
+
+pbl_chargebrowser.jsp.validations.transferdate_required = Συμπληρώστε Υποχρεωτικά Επιθυμητή Ημερομηνία Μεταφοράς Χρεώσεων
+pbl_chargebrowser.jsp.validations.transfer_visitid_required = Συμπληρώστε Υποχρεωτικά Εξωτερικό Περιστατικό Από Το Οποίο Θα Γίνει Η Μεταφορά Χρεώσεων
+pbl_chargebrowser.jsp.validations.transferdate_before_admissiondate = Η Ημερομηνία Μεταφοράς Χρεώσεων Είναι Πριν Την Ημερομηνία Εισόδου! Παρακαλώ Διορθώστε
+pbl_chargebrowser.jsp.validations.transferdate_after_dischargedate = Η Ημερομηνία Μεταφοράς Χρεώσεων Είναι Μετά Την Ημερομηνία Εξόδου! Παρακαλώ Διορθώστε
+pbl_chargebrowser.jsp.validations.transferdate_lt_lastentrancebookdate_entered = Η Ημ/νία Μεταφοράς Χρεώσεων Είναι Μικρότερη Από Την Τελευταία Ημ/νία Εκτύπωσης Βιβλίου Εισ/Εξ
+
+pta_oupvisitentry.jsp.validations.admissiondaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Επίσκεψης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.transferchargesbutton','Εισαγ.Χρεώσεων Εξωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.transferchargesdisplaybox.caption','Εισαγωγή Χρεώσεων Από Εξ.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.transfercharge_visitid_criteria','Επίσκεψη Εξωτ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargebrowser.jsp.transfercharge_newchargedate_criteria','Ημ.Μεταφοράς Χρεώσεων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.transferdate_required','Συμπληρώστε Υποχρεωτικά Επιθυμητή Ημερομηνία Μεταφοράς Χρεώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.transfer_visitid_required','Συμπληρώστε Υποχρεωτικά Εξωτερικό Περιστατικό Από Το Οποίο Θα Γίνει Η Μεταφορά Χρεώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.transferdate_before_admissiondate','Η Ημερομηνία Μεταφοράς Χρεώσεων Είναι Πριν Την Ημερομηνία Εισόδου! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.transferdate_after_dischargedate','Η Ημερομηνία Μεταφοράς Χρεώσεων Είναι Μετά Την Ημερομηνία Εξόδου! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargebrowser.jsp.validations.transferdate_lt_lastentrancebookdate_entered','Η Ημ/νία Μεταφοράς Χρεώσεων Είναι Μικρότερη Από Την Τελευταία Ημ/νία Εκτύπωσης Βιβλίου Εισ/Εξ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.admissiondaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Επίσκεψης');

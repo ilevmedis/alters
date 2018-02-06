@@ -1,0 +1,14 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfacebrowser.jsp.view', 'Διασύνδεση Εφαρμογών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfacebrowser.jsp.print', 'Διασύνδεση Εφαρμογών (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfacebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfacebrowser.jsp.print', 1);
+insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfaceentry.jsp.view', 'Διασύνδεση Εφαρμογών (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfaceentry.jsp.print', 'Διασύνδεση Εφαρμογών (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfaceentry.jsp.insert', 'Διασύνδεση Εφαρμογών (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfaceentry.jsp.update', 'Διασύνδεση Εφαρμογών (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('sys_tablesinterfaceentry.jsp.delete', 'Διασύνδεση Εφαρμογών (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfaceentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfaceentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfaceentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfaceentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_tablesinterfaceentry.jsp.insert', 1);

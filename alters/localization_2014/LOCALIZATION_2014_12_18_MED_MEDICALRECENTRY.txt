@@ -1,0 +1,9 @@
+med_medicalrecentry.jsp.med_servicestatuslog.pin = PIN
+med_medicalrecentry.jsp.validations.ispinrequired = Συμπληρώστε Υποχρεωτικά PIN
+med_medicalrecentry.jsp.validations.no_pin_user_found = Δεν Βρέθηκε Χρήστης Με Αυτό Το Συνθηματικό
+med_medicalrecentry.jsp.validations.multiple_pin_users_found = Βρέθηκε Πάνω Από Ένας Χρήστης Με Αυτό Το Συνθηματικό
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_medicalrecentry.jsp.med_servicestatuslog.pin','PIN');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.ispinrequired','Συμπληρώστε Υποχρεωτικά PIN');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.no_pin_user_found','Δεν Βρέθηκε Χρήστης Με Αυτό Το Συνθηματικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_medicalrecentry.jsp.validations.multiple_pin_users_found','Βρέθηκε Πάνω Από Ένας Χρήστης Με Αυτό Το Συνθηματικό');

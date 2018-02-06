@@ -1,0 +1,1 @@
+﻿sys_reportentry.jsp.sys_report.isaskingforcopies = Αίτηση Αρ.Αντιγράφων

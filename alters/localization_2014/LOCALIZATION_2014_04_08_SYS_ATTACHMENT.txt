@@ -1,0 +1,25 @@
+sys_attachment.jsp.pagetitle = Επισυναπτόμενα Έγγραφα
+sys_attachment.jsp.entrydisplaybox.caption = Επισυναπτόμενα Έγγραφα
+header.jsp.attachments = Επισυναπτόμενα Έγγραφα
+
+sys_attachment.jsp.sys_attachment.attachmentdate = Ημερομηνία
+sys_attachment.jsp.sys_attachment.descr = Περιγραφή
+sys_attachment.jsp.sys_attachment.filename = Όνομα Αρχείου
+sys_attachment.jsp.sys_attachment.contents = Περιεχόμενα
+sys_attachment.jsp.sys_attachment.fileupload = Ανέβασμα Αρχείου
+
+sys_attachment.jsp.validations.attachmentdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία
+sys_attachment.jsp.validations.attachmentcontents_required = Συμπληρώστε Υποχρεωτικά Επισυναπτόμενο Αρχείο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.pagetitle','Επισυναπτόμενα Έγγραφα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.entrydisplaybox.caption','Επισυναπτόμενα Έγγραφα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'header.jsp.attachments','Επισυναπτόμενα Έγγραφα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.sys_attachment.attachmentdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.sys_attachment.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.sys_attachment.filename','Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.sys_attachment.contents','Περιεχόμενα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_attachment.jsp.sys_attachment.fileupload','Ανέβασμα Αρχείου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_attachment.jsp.validations.attachmentdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_attachment.jsp.validations.attachmentcontents_required','Συμπληρώστε Υποχρεωτικά Επισυναπτόμενο Αρχείο');

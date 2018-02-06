@@ -1,0 +1,7 @@
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetrespartialcancelbrowser.jsp.view', 'Ακύρωση Υπολοίπου Δεσμεύσεων (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('plg_budgetrespartialcancelbrowser.jsp.print', 'Ακύρωση Υπολοίπου Δεσμεύσεων (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetrespartialcancelbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'plg_budgetrespartialcancelbrowser.jsp.print', 1);
+
+
+

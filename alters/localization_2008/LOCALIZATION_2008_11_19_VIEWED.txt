@@ -1,0 +1,16 @@
+﻿med_orderdata.jsp.tableheader.service = Υπηρεσία
+
+pta_lasttransferdata.jsp.pta_transfer.tofacilityid = Κλίνη:
+pta_lasttransferdata.jsp.pta_transfer.toroomfacilityid = Δωμάτιο:
+pta_lasttransferdata.jsp.pta_transfer.tonursefacilityid = Νοσηλ.Σταθμός:
+pta_lasttransferdata.jsp.pta_transfer.toclinicid = Κλινική:
+
+
+UPDATE SYS_LOCALIZATION SET MESSAGE = 'Ανάγνωση' WHERE  LOCALIZATIONKEY = 'med_worklist.jsp.markasread'
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderdata.jsp.tableheader.service','Υπηρεσία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_lasttransferdata.jsp.pta_transfer.tofacilityid','Κλίνη:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_lasttransferdata.jsp.pta_transfer.toroomfacilityid','Δωμάτιο:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_lasttransferdata.jsp.pta_transfer.tonursefacilityid','Νοσηλ.Σταθμός:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_lasttransferdata.jsp.pta_transfer.toclinicid','Κλινική:');

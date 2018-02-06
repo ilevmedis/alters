@@ -1,0 +1,5 @@
+fin_eventtypeentry.jsp.fin_eventtypelnk.relatedeventtypeid = Συσχετιζόμενο Παραστατικό
+fin_eventtypeentry.jsp.tabs.page4 = Σχετικά Παρ/κά
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.fin_eventtypelnk.relatedeventtypeid','Συσχετιζόμενο Παραστατικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.tabs.page4','Σχετικά Παρ/κά');

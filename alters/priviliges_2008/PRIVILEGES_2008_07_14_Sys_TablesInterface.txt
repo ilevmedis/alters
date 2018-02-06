@@ -1,0 +1,7 @@
+﻿sys_tablesinterfacebrowser.jsp.view = Αντιστοιχήσεις (Προβολή)
+sys_tablesinterfacebrowser.jsp.print = Αντιστοιχήσεις (Εκτύπωση)
+
+sys_tablesinterfaceentry.jsp.insert = Αντιστοιχήσεις (Εισαγωγή)
+sys_tablesinterfaceentry.jsp.update = Αντιστοιχήσεις (Μεταβολή)
+sys_tablesinterfaceentry.jsp.view = Αντιστοιχήσεις (Προβολή)
+sys_tablesinterfaceentry.jsp.delete = Αντιστοιχήσεις (Διαγραφή)

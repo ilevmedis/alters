@@ -1,0 +1,5 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_creatediscountinvoices.jsp.view', 'Δημιουργία Πιστωτικών Εθνικής (Προόβαση)');
+insert into sys_privilege(privilegeid, descr) values ('pbl_creatediscountinvoices.jsp.print', 'Δημιουργία Πιστωτικών Εθνικής (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_creatediscountinvoices.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'pbl_creatediscountinvoices.jsp.print', 1);
+

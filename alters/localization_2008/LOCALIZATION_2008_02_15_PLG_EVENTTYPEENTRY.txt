@@ -1,0 +1,6 @@
+﻿plg_eventtypeentry.jsp.plg_eventtype.budgetorgid = Φορέας Που Κινείται
+plg_xep1entry.jsp.validations.wrong_budgetorg = Ο Επιλεγμένος Φορέας Δεν Συμβαδίζει Με Αυτόν Του Κωδικού Κινησης
+plg_xep2entry.jsp.validations.wrong_budgetorg = Ο Επιλεγμένος Φορέας Δεν Συμβαδίζει Με Αυτόν Του Κωδικού Κινησης
+plg_xep2approveentry.jsp.validations.wrong_budgetorg = Ο Επιλεγμένος Φορέας Δεν Συμβαδίζει Με Αυτόν Του Κωδικού Κινησης
+plg_xep2payentry.jsp.validations.wrong_budgetorg = Ο Επιλεγμένος Φορέας Δεν Συμβαδίζει Με Αυτόν Του Κωδικού Κινησης
+plg_incomeentry.jsp.validations.wrong_budgetorg = Ο Επιλεγμένος Φορέας Δεν Συμβαδίζει Με Αυτόν Του Κωδικού Κινησης

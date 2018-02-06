@@ -1,0 +1,48 @@
+﻿pbl_pricelistbatchinputentry.jsp.pagetitle = Καταχώρηση Τιμών Τιμοκ/γου Από Excel
+pbl_pricelistbatchinputentry.jsp.entrydisplaybox.caption = Ορισμός Στοιχείων Καταχώρησης
+pbl_pricelistbatchinputentry.jsp.pricelistheaderid = Τιμοκατάλογος
+pbl_pricelistbatchinputentry.jsp.jsp.pricelist_batchinput.filename = Αρχείο
+pbl_pricelistbatchinputentry.jsp.message.procedure_successfull = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+pbl_pricelistbatchinputentry.jsp.message.procedure_unsuccessfull = Η Διαδικασία Δεν Ολοκληρώθηκε
+
+pbl_pricelistbatchinputentry.jsp.validations.wrong_finitem_mnemonic = Εσφαλμένος Μνημονικός Κωδικός Είδους
+pbl_pricelistbatchinputentry.jsp.validations.finitem_required = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό Είδους
+pbl_pricelistbatchinputentry.jsp.validations.fromdate_required = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία
+pbl_pricelistbatchinputentry.jsp.validations.error_level_mnemonic = Ο Μνημονικός Κωδικός Θέσης Δεν Υπάρχει
+pbl_pricelistbatchinputentry.jsp.validations.error_clinic_mnemonic = Ο Μνημονικός Κωδικός Κλινικής Δεν Υπάρχει
+pbl_pricelistbatchinputentry.jsp.validations.pricingpolicyindicator_required = Συμπληρώστε Υποχρεωτικά Τρόπο Χρέωσης
+pbl_pricelistbatchinputentry.jsp.validations.error_relpricelist_mnemonic = Ο Μνημονικός Κωδικός Συσχετισμένου Τιμοκαταλόγου Δεν Υπάρχει
+pbl_pricelistbatchinputentry.jsp.validations.error_sellpercheader_mnemonic = Ο Μνημονικός Κωδικός Προσαύξησης Δεν Υπάρχει
+pbl_pricelistbatchinputentry.jsp.validations.finitem_not_found = Δεν Βρέθηκε Χρεούμενο Είδος Με Αυτό Το Μνημονικό Κωδικό
+pbl_pricelistbatchinputentry.jsp.validations.pricingpolicy_not_found = Ο Τρόπος Χρέωσης Δεν Βρέθηκε
+pbl_pricelistbatchinputentry.jsp.validations.empty_excel_file = Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε
+pbl_pricelistbatchinputentry.jsp.validations.relpricelistheader_mnemonic_not_exists = Δεν Βρέθηκε Τιμοκατάλογος Με Αυτό Τον Μνημονικό Κωδικό
+pbl_pricelistbatchinputentry.jsp.validations.sellperc_mnemonic_not_exists = Δεν Βρέθηκε Προσαύξηση Με Αυτό Τον Μνημονικό Κωδικό
+pbl_pricelistbatchinputentry.jsp.validations.wrong_onedaystay = Εσφαλμένος Τύπος Νοσηλείας
+
+pbl_pricelistbatchinputentry.jsp.validations.filename_required = Επιλέξτε Υποχρεωτικά Αρχείο
+pbl_pricelistbatchinputentry.jsp.validations.pricelistheaderid_required = Συμπληρώστε Υποχρεωτικά Τιμοκατάλογο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.pagetitle','Καταχώρηση Τιμών Τιμοκ/γου Από Excel');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.entrydisplaybox.caption','Ορισμός Στοιχείων Καταχώρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.pricelistheaderid','Τιμοκατάλογος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.jsp.pricelist_batchinput.filename','Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.message.procedure_successfull','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_pricelistbatchinputentry.jsp.message.procedure_unsuccessfull','Η Διαδικασία Δεν Ολοκληρώθηκε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.wrong_finitem_mnemonic','Εσφαλμένος Μνημονικός Κωδικός Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.finitem_required','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.fromdate_required','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.error_level_mnemonic','Ο Μνημονικός Κωδικός Θέσης Δεν Υπάρχει');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.error_clinic_mnemonic','Ο Μνημονικός Κωδικός Κλινικής Δεν Υπάρχει');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.pricingpolicyindicator_required','Συμπληρώστε Υποχρεωτικά Τρόπο Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.error_relpricelist_mnemonic','Ο Μνημονικός Κωδικός Συσχετισμένου Τιμοκαταλόγου Δεν Υπάρχει');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.error_sellpercheader_mnemonic','Ο Μνημονικός Κωδικός Προσαύξησης Δεν Υπάρχει');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.finitem_not_found','Δεν Βρέθηκε Χρεούμενο Είδος Με Αυτό Το Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.pricingpolicy_not_found','Ο Τρόπος Χρέωσης Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.empty_excel_file','Δεν Υπάρχουν Εγγραφές Στο Αρχείο Που Επιλέξατε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.relpricelistheader_mnemonic_not_exists','Δεν Βρέθηκε Τιμοκατάλογος Με Αυτό Τον Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.sellperc_mnemonic_not_exists','Δεν Βρέθηκε Προσαύξηση Με Αυτό Τον Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.wrong_onedaystay','Εσφαλμένος Τύπος Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.filename_required','Επιλέξτε Υποχρεωτικά Αρχείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_pricelistbatchinputentry.jsp.validations.pricelistheaderid_required','Συμπληρώστε Υποχρεωτικά Τιμοκατάλογο');

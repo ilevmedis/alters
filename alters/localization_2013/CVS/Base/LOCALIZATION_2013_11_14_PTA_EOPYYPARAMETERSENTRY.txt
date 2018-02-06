@@ -1,0 +1,31 @@
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_isconnectingtows = Σύνδεση στο WS Αναγγελίας Εσωτ.
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_isusingproxy = Σύνδεση στο WS Αναγγελίας Εσωτ. Μέσω Proxy
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_proxy = Proxy Server
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_proxyport = Proxy Port
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_username = Χρήστης
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_password = Συνθηματικό
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_digitalcertificatenum = Αριθμός Αναγνώρισης Πιστοποιητικού
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeystorefile = Client Key Store File
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeystorepassword = Client Key Store Password
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeyalias = Client Key Alias
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeypassword = Client Key Password
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.certfile = Αρχείο Πιστοποιητικού
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_admissionseqid = Σειρά Αρίθμησης Εισιτηρίων
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_transferseqid = Σειρά Αρίθμησης Διακομιστηρίων
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_dischargeseqid = Σειρά Αρίθμησης Εξιτηρίων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_isconnectingtows','Σύνδεση στο WS Αναγγελίας Εσωτ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_isusingproxy','Σύνδεση στο WS Αναγγελίας Εσωτ. Μέσω Proxy');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_proxy','Proxy Server');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_proxyport','Proxy Port');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_password','Συνθηματικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_digitalcertificatenum','Αριθμός Αναγνώρισης Πιστοποιητικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeystorefile','Client Key Store File');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeystorepassword','Client Key Store Password');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeyalias','Client Key Alias');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_clientkeypassword','Client Key Password');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.certfile','Αρχείο Πιστοποιητικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_admissionseqid','Σειρά Αρίθμησης Εισιτηρίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_transferseqid','Σειρά Αρίθμησης Διακομιστηρίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.inpws_dischargeseqid','Σειρά Αρίθμησης Εξιτηρίων');

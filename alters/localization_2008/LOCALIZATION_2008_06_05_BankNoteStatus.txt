@@ -1,0 +1,69 @@
+﻿fin_banknotestatusbrowser.jsp.pagetitle = Διαχείριση Καταστάσεων Αξιογράφου
+fin_banknotestatusbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_banknotestatusbrowser.jsp.griddisplaybox.caption = Καταστάσεις Αξιογράφου
+fin_banknotestatusbrowser.jsp.mnemonic_criteria_label = Μνημονικός Κωδικός
+fin_banknotestatusbrowser.jsp.descr_criteria_label = Περιγραφή
+fin_banknotestatusbrowser.jsp.isactive_criteria_label = Ενεργή Εγγραφή
+fin_banknotestatusbrowser.jsp.fin_banknotestatus.banknotestatusid = Κωδικός
+fin_banknotestatusbrowser.jsp.fin_banknotestatus.mnemonic = Μνημονικός Κωδικός
+fin_banknotestatusbrowser.jsp.fin_banknotestatus.descr = Περιγραφή
+fin_banknotestatusbrowser.jsp.fin_banknotestatus.isactive = Ενεργή Εγγραφή
+fin_banknotestatusbrowser.jsp.fin_banknotestatus.isdefault = Προεπιλογή
+
+fin_banknotestatusentry.jsp.pagetitle = Καταχώρηση Κατάστασης Αξιογράφου
+fin_banknotestatusentry.jsp.entrydisplaybox.caption = Στοιχεία Κατάστάσης Αξιογράφου
+fin_banknotestatusentry.jsp.fin_banknotestatus.banknotestatusid = Κωδικός
+fin_banknotestatusentry.jsp.fin_banknotestatus.mnemonic = Μνημονικός Κωδικός
+fin_banknotestatusentry.jsp.fin_banknotestatus.descr = Περιγραφή
+fin_banknotestatusentry.jsp.fin_banknotestatus.isdefault = Προεπιλογή
+fin_banknotestatusentry.jsp.fin_banknotestatus.isactive = Ενεργό
+
+
+fin_banknotestatusentry.jsp.validations.default_isnot_active = Η Προεπιλιγμένη Εγγραφή Δεν Είναι Ενεργή!!! Παρακαλώ Διορθώστε
+fin_banknotestatusentry.jsp.validations.default_already_exists = Υπάρχει Ηδη Προεπιλεγμένη Εγγραφή
+
+fin_eventtypeentry.jsp.banknotestatusid = Κατάσταση Αξιογράφου
+fin_eventtypeentry.jsp.ispayablebanknotevalid = Επιλογή Πληρωτέων Αξιογράφων
+fin_eventtypeentry.jsp.isreceivablebanknotevalid = Επιλογή Εισπρακτέων Αξιογράφων
+fin_eventtypeentry.jsp.validbankaccounttypedebit = Τύποι Ταμειακών Λογ/σμών Χρέωσης
+fin_eventtypeentry.jsp.validbankaccounttypecredit = Τύποι Ταμειακών Λογ/σμών Πίστωσης
+fin_eventtypeentry.jsp.fin_banknotestatus.include = Επιλογή
+fin_eventtypeentry.jsp.fin_banknotestatus.mnemonic = Κατ/σεις Αξιογρ.Προς Επιλογή
+
+fin_parametersentry.jsp.applybanknoterestrictions = Επιβολή Ελέγχου Αξιογράφων
+
+fin_bankaccountentry.jsp.fin_bankaccount.seqid = Σειρά Αξιογράφων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.pagetitle','Διαχείριση Καταστάσεων Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.griddisplaybox.caption','Καταστάσεις Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.mnemonic_criteria_label','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.descr_criteria_label','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.isactive_criteria_label','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.fin_banknotestatus.banknotestatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.fin_banknotestatus.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.fin_banknotestatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.fin_banknotestatus.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusbrowser.jsp.fin_banknotestatus.isdefault','Προεπιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.pagetitle','Καταχώρηση Κατάστασης Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.entrydisplaybox.caption','Στοιχεία Κατάστάσης Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.fin_banknotestatus.banknotestatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.fin_banknotestatus.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.fin_banknotestatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.fin_banknotestatus.isdefault','Προεπιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_banknotestatusentry.jsp.fin_banknotestatus.isactive','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknotestatusentry.jsp.validations.default_isnot_active','Η Προεπιλιγμένη Εγγραφή Δεν Είναι Ενεργή!!! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_banknotestatusentry.jsp.validations.default_already_exists','Υπάρχει Ηδη Προεπιλεγμένη Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.banknotestatusid','Κατάσταση Αξιογράφου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.ispayablebanknotevalid','Επιλογή Πληρωτέων Αξιογράφων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.isreceivablebanknotevalid','Επιλογή Εισπρακτέων Αξιογράφων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.validbankaccounttypedebit','Τύποι Ταμειακών Λογ/σμών Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.validbankaccounttypecredit','Τύποι Ταμειακών Λογ/σμών Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.fin_banknotestatus.include','Επιλογή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.fin_banknotestatus.mnemonic','Κατ/σεις Αξιογρ.Προς Επιλογή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_parametersentry.jsp.applybanknoterestrictions','Επιβολή Ελέγχου Αξιογράφων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_bankaccountentry.jsp.fin_bankaccount.seqid','Σειρά Αξιογράφου');

@@ -1,0 +1,1 @@
+alter table med_msgevent modify (redirecturl varchar2(1000), message varchar2(1000), applycondition varchar2(1000));

@@ -1,0 +1,9 @@
+inv_buyentry.jsp.validations.ekapty_error = Παρουσιάστηκε Σφάλμα Στην Επικοινωνία Με Το ΕΚΑΠΤΥ
+inv_buyentry.jsp.validations.ekapty_code_not_found = Ο Κωδικός ΕΚΑΠΤΥ Δεν Βρέθηκε Στο Μητρώο ΕΚΑΠΤΥ
+inv_buyentry.jsp.validations.ekapty_code_invalid = Ο Κωδικός ΕΚΑΠΤΥ Δεν Είναι Έγκυρος
+inv_buyentry.jsp.validations.ekapty_code_wrong_vat = Ο Κωδικός ΕΚΑΠΤΥ Ανήκει Σε Άλλον Προμηθευτή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.ekapty_error','Παρουσιάστηκε Σφάλμα Στην Επικοινωνία Με Το ΕΚΑΠΤΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.ekapty_code_not_found','Ο Κωδικός ΕΚΑΠΤΥ Δεν Βρέθηκε Στο Μητρώο ΕΚΑΠΤΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.ekapty_code_invalid','Ο Κωδικός ΕΚΑΠΤΥ Δεν Είναι Έγκυρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.ekapty_code_wrong_vat','Ο Κωδικός ΕΚΑΠΤΥ Ανήκει Σε Άλλον Προμηθευτή');

@@ -1,0 +1,85 @@
+﻿insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.entrydisplaybox.caption',1,'Παραστατικό Τιμολόγησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.griddisplaybox.caption',1,'Ανάλυση','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdebit.amountdebit',1,'Αξία Χρέωσης ','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.erp_eventtype.mnemonic',1,'Διαδικασία Συστήματος','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transheader.internaleventdate',1,'Ημ/νια Κίνησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdebit.paymentwayindicator',1,'Τρόπος Πληρωμής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.linenum',1,'Α/Α','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.finitemid',1,'Είδος Χρέωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.qua',1,'Ποσότητα','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.discamount',1,'Έκπτωση','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdebit.cancelbutton',1,'Εκδ.Ακυρωτικού','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.issued_invoices',1,'Εκδοθέν Τιμολόγιο','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.canceled_invoices',1,'Ακυρωτικά Τιμ/για','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.totals.prediscamount',1,'Αξία Προ Έκπτωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.totals.discamount',1,'Αξία Έκπτωσης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.totals.netamount',1,'Καθ.Αξία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.totals.vatamount',1,'ΦΠΑ','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.totals.totalamount',1,'Συνολική Αξία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.price',1,'Τιμή Μονάδος','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.vatamount',1,'Αξία ΦΠΑ','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdetail.totalamount',1,'Συνολική Αξία','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.pagetitle',1,'Καταχώρηση Ασύνδετου Τιμολογίου','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.pta_visit.mnemonic',1,'Κωδικός Νοσηλείας','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_eventtype.mnemonic',1,'Κωδικός Κίνησης','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transheader.internaleventno',1,'Αριθμός Παραστατικού','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_transdebit.paymentagreementheaderid',1,'Συμφωνία Πληρωμής','0');
+insert into sys_localization(lang, localizationkey, category, message, isuserchanged)  
+  values  ('el','pbl_invoiceentry.jsp.fin_trnasdetail.prediscamount',1,'Αξία Προ Έκπτωσης','0');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transdebit.visitid','Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transdebit.fintranspartyid','Οικονομικός Υπόχρεος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.tabs.page1','Ανάλυση Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.tabs.page2','Είδη Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.paymentanalysis.bankaccountid','Ταμ.Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.paymentanalysis.amountdebit','Ποσό Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transdetail.prediscamount','Αξία Προ Εκπτ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.nopaymentexception','Συμπληρώστε Τουλάχιστον Μία Είσπραξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.totalcreditnotequalstotaldebit','Το Σύνολο Των Πιστώσεων Δεν Ισούται Με Το Σύνο Των Χρεώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.bankaccountrequired','Συμπληρώστε Υποχρεωτικά Ταμειακό Λογαριασμό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.amountdebitrequired','Συμπληρώστε Υποχρεωτικά Ποσό Είσπραξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.nopayment_needed','Το Τιμολόγιο Δεν Επιδέχεται Ανάλυση Είσπραξης (Επί Πιστώσει)! Παρακαλώ Διαγράψτε Τις Εγγραφές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.qua.improper_negative_value','Η Ποσότητα Του Τιμολογίου Δεν Επιτρέπεται Να Είναι Αρνητική!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.price.improper_negative_value','H Τιμή Μονάδος Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.prediscamount.inproper_negative_value','Η Αξία Προ Έκπτωσης Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.discamount.inproper_negative_value','Η Αξία Έκπτωσης Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.netamount.inproper_negative_value','Η Καθαρή Αξία Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.vatamount.inproper_negative_value','Η Αξία ΦΠΑ Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.totalamount.inproper_negative_value','Η Συνολική Αξία Δεν Επιτρέπεται Να Είναι Αρνητική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.prediscamount.inproper_positive_value','Η Αξία Προ Έκπτωσης Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.discamount.inproper_positive_value','Η Αξία Έκπτωσης Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.netamount.inproper_positive_value','Η Καθαρή Αξία Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.vatamount.inproper_positive_value','Η Αξία ΦΠΑ Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.totalamount.inproper_positive_value','Η Συνολική Αξία Δεν Επιτρέπεται Να Είναι Θετική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.fin_trandetail.internaleventno_exists','Υπάρχει Ήδη Παραστατικό Καταχωρημένο Με Τον Ίδιο Αριθμό!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.messages.no_charges_to_invoice','Δεν Υπάρχουν Χρεώσεις Προς Τιμολόγηση!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.internaleventdate_greater_last_isuued_invoice_date','Η Ημερομηνία Τιμολόγησης Είναι Μικρότερη Από Την Τελευταία Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.erpeventtyperequired','Συμπληρώστε Υποχρεωτικά Διαδικασία Συστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.emptyitemexception','Συμπληρώστε Πρώτα Το Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.emptyfintranspartyexception','Συμπληρώστε Πρώτα Πελάτη');

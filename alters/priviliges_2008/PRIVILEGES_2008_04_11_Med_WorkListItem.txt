@@ -1,0 +1,5 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('med_worklistitem.jsp.view', 'Ανάγνωση Λίστας Εργασίας Φαρμάκων');
+insert into sys_privilege(privilegeid, descr) values ('med_worklistitem.jsp.print', 'Εκτύπωση Λίστας Εργασίας Φαρμάκων');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_worklistitem.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'med_worklistitem.jsp.print', 1);

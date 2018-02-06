@@ -1,0 +1,10 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('fin_clientinventorycreationentry.jsp.view', 'Δημιουργία Απογραφής Πελατών Σε Νέο Έτος (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_clientinventorycreationentry.jsp.print', 'Δημιουργία Απογραφής Πελατών Σε Νέο Έτος (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('fin_clientinventorycreationentry.jsp.insert', 'Δημιουργία Απογραφής Πελατών Σε Νέο Έτος (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_clientinventorycreationentry.jsp.update', 'Δημιουργία Απογραφής Πελατών Σε Νέο Έτος (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('fin_clientinventorycreationentry.jsp.delete', 'Δημιουργία Απογραφής Πελατών Σε Νέο Έτος (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_clientinventorycreationentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_clientinventorycreationentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_clientinventorycreationentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_clientinventorycreationentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'fin_clientinventorycreationentry.jsp.insert', 1);

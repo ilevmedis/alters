@@ -1,0 +1,10 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_changepraxistatus.jsp.view', 'Ανάγνωση Αλλαγής Κατ/σης Των ΧΕΠ σε Πράξη.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changepraxistatus.jsp.print', 'Εκτύπωση Αλλαγής Κατ/σης Των ΧΕΠ σε Πράξη.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changepraxistatus.jsp.insert', 'Εισαγωγή Αλλαγής Κατ/σης Των ΧΕΠ σε Πράξη.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changepraxistatus.jsp.update', 'Μεταβολή Αλλαγής Κατ/σης Των ΧΕΠ σε Πράξη.');
+insert into sys_privilege(privilegeid, descr) values ('sys_changepraxistatus.jsp.delete', 'Διαγραφή Αλλαγής Κατ/σης Των ΧΕΠ σε Πράξη.');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changepraxistatus.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changepraxistatus.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changepraxistatus.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changepraxistatus.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_changepraxistatus.jsp.insert', 1);

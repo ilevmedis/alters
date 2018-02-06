@@ -1,0 +1,11 @@
+﻿pbl_insuranceschemedetailentry.jsp.pbl_insuranceschemedetail.isinsapprnoreqforinpatient = Συμπληρ. Αρ.Έγκρισης (Εσ)
+pbl_insuranceschemedetailentry.jsp.pbl_insuranceschemedetail.isinsapprnoreqforoutpatient = Συμπληρ. Αρ.Έγκρισης (Εξ)
+
+pta_visitentry.jsp.validations.pbl_visitcoverdetail.insuranceapprovalno_required = Συμπληρώστε Υποχρεωτικά Αριθμό Έγκρισης Ασφ. Φορέα
+pta_oupvisitentry.jsp.validations.pbl_visitcoverdetail.insuranceapprovalno_required = Συμπληρώστε Υποχρεωτικά Αριθμό Έγκρισης Ασφ. Φορέα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_insuranceschemedetailentry.jsp.pbl_insuranceschemedetail.isinsapprnoreqforinpatient','Συμπληρ. Αρ.Έγκρισης (Εσ)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_insuranceschemedetailentry.jsp.pbl_insuranceschemedetail.isinsapprnoreqforoutpatient','Συμπληρ. Αρ.Έγκρισης (Εξ)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.validations.pbl_visitcoverdetail.insuranceapprovalno_required','Συμπληρώστε Υποχρεωτικά Αριθμό Έγκρισης Ασφ. Φορέα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.pbl_visitcoverdetail.insuranceapprovalno_required','Συμπληρώστε Υποχρεωτικά Αριθμό Έγκρισης Ασφ. Φορέα');

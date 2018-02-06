@@ -1,0 +1,1 @@
+alter table pbl_contractheader modify mnemonic varchar2(20);

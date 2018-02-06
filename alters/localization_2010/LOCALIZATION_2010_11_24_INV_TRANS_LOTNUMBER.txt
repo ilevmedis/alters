@@ -1,0 +1,6 @@
+inv_itementry.jsp.invtranslotnumber_criteria = Αρ. Παρτίδας
+inv_itementry.jsp.inv_transdetail.invtrans.lotnumber = Αρ. Παρτίδας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.invtranslotnumber_criteria','Αρ. Παρτίδας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itementry.jsp.inv_transdetail.invtrans.lotnumber','Αρ. Παρτίδας');
+

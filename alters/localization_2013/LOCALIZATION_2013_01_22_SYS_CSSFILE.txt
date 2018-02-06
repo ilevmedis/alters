@@ -1,0 +1,35 @@
+sys_cssfilebrowser.jsp.pagetitle = Διαχείριση Αρχείων CSS
+sys_cssfilebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_cssfilebrowser.jsp.griddisplaybox.caption = Αρχεία CSS
+sys_cssfilebrowser.jsp.cssfilename_criteria = Όνομα Αρχείου
+sys_cssfilebrowser.jsp.descr_criteria = Περιγραφή
+sys_cssfilebrowser.jsp.sys_cssfile.cssfilename = Όνομα Αρχείου
+sys_cssfilebrowser.jsp.sys_cssfile.descr = Περιγραφή
+sys_cssfilebrowser.jsp.sys_cssfile.comments = Σχόλια
+
+sys_cssfileentry.jsp.pagetitle = Καταχώρηση Αρχείου CSS
+sys_cssfileentry.jsp.entrydisplaybox.caption = Στοιχεία Αρχείου CSS
+sys_cssfileentry.jsp.sys_cssfile.cssfilename = Όνομα Αρχείου
+sys_cssfileentry.jsp.sys_cssfile.descr = Περιγραφή
+sys_cssfileentry.jsp.sys_cssfile.comments = Σχόλια
+
+sys_cssfileentry.jsp.validations.cssfilenamerrequired = Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου CSS
+sys_cssfileentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.pagetitle','Διαχείριση Αρχείων CSS');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.griddisplaybox.caption','Αρχεία CSS');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.cssfilename_criteria','Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.sys_cssfile.cssfilename','Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.sys_cssfile.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfilebrowser.jsp.sys_cssfile.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfileentry.jsp.pagetitle','Καταχώρηση Αρχείου CSS');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfileentry.jsp.entrydisplaybox.caption','Στοιχεία Αρχείου CSS');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfileentry.jsp.sys_cssfile.cssfilename','Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfileentry.jsp.sys_cssfile.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_cssfileentry.jsp.sys_cssfile.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_cssfileentry.jsp.validations.cssfilenamerrequired','Συμπληρώστε Υποχρεωτικά Όνομα Αρχείου CSS');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_cssfileentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');

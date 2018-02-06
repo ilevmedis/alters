@@ -1,0 +1,2 @@
+﻿sys_objectinspector.jsp.entrydisplaybox.caption = Ιδιότητες Αντικειμένων Σελίδας
+sys_objectinspector.jsp.pagetitle = Ορισμός Ιδιοτήτων Αντικειμένων Σελίδας

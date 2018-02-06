@@ -1,0 +1,27 @@
+med_obsparamentry.jsp.med_obsparamsecurity.securityprofileid = Προφίλ Ασφάλειας
+med_obsparamentry.jsp.med_obsparamsecurity.viewsecuritystamp = Ασφάλεια Ανάγνωσης
+med_obsparamentry.jsp.med_obsparamsecurity.updatesecuritystamp = Ασφάλεια Μεταβολής
+med_obsparamentry.jsp.med_obsparamsecurity.deletesecuritystamp = Ασφάλεια Διαγραφής
+med_obsparamentry.jsp.tabs.page5 = Ασφάλεια Πρόσβασης
+
+med_obsparamentry.jsp.validations.securityprofileid_required = Συμπληρώστε Υποχρεωτικά Προφίλ Ασφάλειας
+
+med_obsparamsecurityentry.jsp.pagetitle = Επιλογή Ρόλων Πρόσβασης
+med_obsparamsecurityentry.jsp.griddisplaybox.caption = Επιλογή Ρόλων Πρόσβασης
+med_obsparamsecurityentry.jsp.med_securityrole.mnemonic = Μνημ.Κωδ. Ρόλου
+med_obsparamsecurityentry.jsp.med_securityrole.descr = Περιγρ. Ρόλου
+med_obsparamsecurityentry.jsp.med_securityrole.selected = Επιλογή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparamsecurity.securityprofileid','Προφίλ Ασφάλειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparamsecurity.updatesecuritystamp','Ασφάλεια Ανάγνωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparamsecurity.viewsecuritystamp','Ασφάλεια Μεταβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.med_obsparamsecurity.deletesecuritystamp','Ασφάλεια Διαγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamentry.jsp.tabs.page5','Ασφάλεια Πρόσβασης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_obsparamentry.jsp.validations.securityprofileid_required','Συμπληρώστε Υποχρεωτικά Προφίλ Ασφάλειας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsecurityentry.jsp.pagetitle','Επιλογή Ρόλων Πρόσβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsecurityentry.jsp.griddisplaybox.caption','Επιλογή Ρόλων Πρόσβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsecurityentry.jsp.med_securityrole.mnemonic','Μημ.Κωδ. Ρόλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsecurityentry.jsp.med_securityrole.descr','Περιγρ. Ρόλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_obsparamsecurityentry.jsp.med_securityrole.selected','Επιλογή');

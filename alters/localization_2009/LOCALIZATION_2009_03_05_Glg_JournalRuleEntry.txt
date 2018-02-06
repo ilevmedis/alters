@@ -1,0 +1,13 @@
+﻿glg_journalruleentry.jsp.glg_journalruledetail.validsincedate = Ισχύει Από
+glg_journalruleentry.jsp.glg_journalruledetail.validtilldate = Ισχύει Έως
+
+glg_journalruleentry.jsp.validations.validsincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+glg_journalruleentry.jsp.validations.validtilldate_required = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+glg_journalruleentry.jsp.validations.invalid_dates = Το Ημερολογιακό Διάστημα Δεν Είναι Έγκυρο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalruleentry.jsp.glg_journalruledetail.validsincedate','Ισχύει Από');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'glg_journalruleentry.jsp.glg_journalruledetail.validtilldate','Ισχύει Έως');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalruleentry.jsp.validations.validsincedate_required','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalruleentry.jsp.validations.validtilldate_required','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'glg_journalruleentry.jsp.validations.invalid_dates','Το Ημερολογιακό Διάστημα Δεν Είναι Έγκυρο');

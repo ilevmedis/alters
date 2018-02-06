@@ -1,0 +1,2 @@
+delete from SYS_LOCALIZATION where localizationkey = 'pbl_reqpayentry.jsp.fin_transdebit.comments';
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqpayentry.jsp.fin_transdebit.comments','Σχόλια');

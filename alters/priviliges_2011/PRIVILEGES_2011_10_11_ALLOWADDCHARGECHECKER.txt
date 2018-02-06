@@ -1,0 +1,36 @@
+alter table sys_privilege  modify privilegeid varchar2(100);
+alter table sys_roleprivilege  modify privilegeid varchar2(100);
+
+insert into sys_privilege(privilegeid, descr)
+  select 'allowcharge.' || 'inpatient.' || substr(privilegeid, length('allowcharge.') + 1,100), descr||' (Εσ)'
+  from sys_privilege where privilegeid like 'allowcharge%' and
+  privilegeid not like 'allowcharge.inpatient%' and
+  privilegeid not like 'allowcharge.outpatient%';
+
+insert into sys_privilege(privilegeid, descr)
+select 'allowcharge.' || 'outpatient.' || substr(privilegeid, length('allowcharge.') + 1,100), descr||' (Εξ)'
+  from sys_privilege where privilegeid like 'allowcharge%' and
+  privilegeid not like 'allowcharge.inpatient%' and
+  privilegeid not like 'allowcharge.outpatient%';
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid)
+  select roleid, 'allowcharge.' || 'inpatient.' || substr(privilegeid, length('allowcharge.') + 1,100), companyid
+  from sys_roleprivilege where privilegeid like 'allowcharge%' and
+  privilegeid not like 'allowcharge.inpatient%' and
+  privilegeid not like 'allowcharge.outpatient%';
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid)
+  select roleid, 'allowcharge.' || 'outpatient.' || substr(privilegeid, length('allowcharge.') + 1,100), companyid
+  from sys_roleprivilege where privilegeid like 'allowcharge%' and
+  privilegeid not like 'allowcharge.inpatient%' and
+  privilegeid not like 'allowcharge.outpatient%';
+
+delete from sys_roleprivilege where privilegeid like 'allowcharge%' and
+  privilegeid not like 'allowcharge.inpatient%' and
+  privilegeid not like 'allowcharge.outpatient%';
+
+delete from sys_privilege where privilegeid like 'allowcharge%' and
+  privilegeid not like 'allowcharge.inpatient%' and
+  privilegeid not like 'allowcharge.outpatient%';
+
+commit;

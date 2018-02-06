@@ -1,0 +1,14 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionbrowser.jsp.view', 'Ανάγνωση Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionbrowser.jsp.print', 'Εκτύπωση Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionbrowser.jsp.print', 1);
+insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionentry.jsp.view', 'Ανάγνωση Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionentry.jsp.print', 'Εκτύπωση Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionentry.jsp.insert', 'Εισαγωγή Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionentry.jsp.update', 'Μεταβολή Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_privilege(privilegeid, descr) values ('ast_assetdeprdeductionentry.jsp.delete', 'Διαγραφή Μειώσεων Αποσβέσεων Παγίων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (16, 'ast_assetdeprdeductionentry.jsp.insert', 1);

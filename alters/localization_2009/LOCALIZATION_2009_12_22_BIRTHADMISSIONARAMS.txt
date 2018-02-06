@@ -1,0 +1,49 @@
+pta_birthadmissionparamsentry.jsp.pagetitle = Καταχ. Παραμέτρων Δημ. Περιστ. Νεογνών
+pta_birthadmissionparamsentry.jsp.entrydisplaybox.caption = Στοιχεία Παραμέτρων Δημ. Περιστ. Νεογνών
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.clinicid = Κλινική Εισαγωγής
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.bedid = Κλίνη Εισαγωγής
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.pricelistheaderid = Τιμοκατάλογος Χρέωσης
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthcountryid = Χώρα Γέννησης
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthmunicipalityid = Δήμος Γέννησης
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthprefectureid = Νομός Γέννησης
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthcityid = Πόλη Γέννησης
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.esyeprofessionid = Επάγγελμα ΕΣΥΕ
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.ptaeventtypeid = Κωδ. Κίνησης Εισαγωγής
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.erpeventtypeid = Διαδικασία Εισαγωγής
+pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.pbleventtypeid = Κωδ. Κίν. Λογ. Ασθενών (Εισφορά Εισόδου)
+
+pta_birthadmissionparamsentry.jsp.validations.clinicid_required = Συμπληρώστε Υποχρεωτικά Κλινική Εισαγωγής
+pta_birthadmissionparamsentry.jsp.validations.bedid_required = Συμπληρώστε Υποχρεωτικά Κλίνη Εισαγωγής
+pta_birthadmissionparamsentry.jsp.validations.pricelistheaderid_required = Συμπληρώστε Υποχρεωτικά Τιμοκατάλογο Χρέωσης
+pta_birthadmissionparamsentry.jsp.validations.birthcountryid_required = Συμπληρώστε Υποχρεωτικά Χώρα Γέννησης
+pta_birthadmissionparamsentry.jsp.validations.birthprefectureid_required = Συμπληρώστε Υποχρεωτικά Νομό Γέννησης
+pta_birthadmissionparamsentry.jsp.validations.birthmunicipalityid_required = Συμπληρώστε Υποχρεωτικά Δήμο Γέννησης
+pta_birthadmissionparamsentry.jsp.validations.birthcityid_required = Συμπληρώστε Υποχρεωτικά Πόλη Γέννησης
+pta_birthadmissionparamsentry.jsp.validations.esyeprofessionid_required = Συμπληρώστε Υποχρεωτικά Επάγγελμα ΕΣΥΕ
+pta_birthadmissionparamsentry.jsp.validations.ptaeventtypeid_required = Συμπληρώστε Υποχρεωτικά Κωδ. Κίνησης Εισαγωγής
+pta_birthadmissionparamsentry.jsp.validations.erpeventtypeid_required = Συμπληρώστε Υποχρεωτικά Διαδικασία Εισαγωγής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pagetitle','Καταχ. Παραμέτρων Δημ. Περιστ. Νεογνών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.entrydisplaybox.caption','Στοιχεία Παραμέτρων Δημ. Περιστ. Νεογνών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.clinicid','Κλινική Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.bedid','Κλίνη Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.pricelistheaderid','Τιμοκατάλογος Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthcountryid','Χώρα Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthmunicipalityid','Δήμος Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthprefectureid','Νομός Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.birthcityid','Πόλη Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.esyeprofessionid','Επάγγελμα ΕΣΥΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.ptaeventtypeid','Κωδ. Κίνησης Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.erpeventtypeid','Διαδικασία Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_birthadmissionparamsentry.jsp.pta_birthadmissionparams.pbleventtypeid','Κωδ. Κίν. Λογ. Ασθενών (Εισφορά Εισόδου)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.clinicid_required','Συμπληρώστε Υποχρεωτικά Κλινική Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.bedid_required','Συμπληρώστε Υποχρεωτικά Κλίνη Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.pricelistheaderid_required','Συμπληρώστε Υποχρεωτικά Τιμοκατάλογο Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.birthcountryid_required','Συμπληρώστε Υποχρεωτικά Χώρα Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.birthprefectureid_required','Συμπληρώστε Υποχρεωτικά Νομό Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.birthmunicipalityid_required','Συμπληρώστε Υποχρεωτικά Δήμο Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.birthcityid_required','Συμπληρώστε Υποχρεωτικά Πόλη Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.esyeprofessionid_required','Συμπληρώστε Υποχρεωτικά Επάγγελμα ΕΣΥΕ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.ptaeventtypeid_required','Συμπληρώστε Υποχρεωτικά Κωδ. Κίνησης Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_birthadmissionparamsentry.jsp.validations.erpeventtypeid_required','Συμπληρώστε Υποχρεωτικά Διαδικασία Εισαγωγής');

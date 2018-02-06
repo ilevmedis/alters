@@ -1,0 +1,3 @@
+﻿pta_parametersentry.jsp.pta_parameters.transferchargesfromoup = Μεταφ.Χρεώσεων Από Εξωτ.
+
+INSERT INTO SYS_LOCALIZATION(CATEGORY,ISUSERCHANGED,LOCALIZATIONKEY,LANG,MESSAGE) VALUES (1,'0','pta_parametersentry.jsp.pta_parameters.transferchargesfromoup','el','Μεταφ.Χρεώσεων Από Εξωτ.');

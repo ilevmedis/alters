@@ -1,0 +1,6 @@
+﻿insert into sys_privilege (PRIVILEGEID, DESCR) values ('med_creategrantsfromworklist.jsp.view', 'Δημιουργία Χορηγήσεων Από Φαρμ. Αγωγή (Ανάγνωση)');
+insert into sys_privilege (PRIVILEGEID, DESCR) values ('med_creategrantsfromworklist.jsp.print', 'Δημιουργία Χορηγήσεων Από Φαρμ. Αγωγή (Εκτύπωση)');
+
+insert into sys_roleprivilege (ROLEID, PRIVILEGEID, COMPANYID) values (8, 'med_creategrantsfromworklist.jsp.view', 1);
+insert into sys_roleprivilege (ROLEID, PRIVILEGEID, COMPANYID) values (8, 'med_creategrantsfromworklist.jsp.print', 1);
+

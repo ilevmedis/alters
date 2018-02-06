@@ -1,0 +1,47 @@
+pbl_insuranceschemedetailentry.jsp.pbl_insuranceschemedetail.insuramtdiscperc = Ποσ. Εκπτ. Αυτοπ.
+pbl_discruleheaderentry.jsp.pbl_discruleheader.defaultinsuramtdiscperc = Ποσ. Εκπτ. Αυτοπ.
+pbl_discruleheaderentry.jsp.pbl_discruledetail.insuramtdiscperc = Ποσ. Εκπτ. Αυτοπ.
+pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.insuramtdiscperc = Ποσ. Εκπτ. Αυτοπ.
+pbl_chargedetailentry.jsp.pbl_chargecover.insuramtdiscperc = Ποσ. Εκπτ. Αυτοπ.
+pbl_chargedetailentry.jsp.pbl_chargecover.insuramtdiscvaluecover = Αξία Εκπτ. Αυτοπ.
+pbl_chargeentry.jsp.pbl_chargedetail.insuramtdiscvaluecharge = Αξία Εκπτ. Αυτοπ.
+pbl_visitinvoicebrowser.jsp.totals.insuramtdiscvaluecover = Αξία Εκπτ. Αυτοπ.
+pbl_visitinvoicebrowser.jsp.insuramtdiscvatvalueentry = Συμπληρ. Αξίας ΦΠΑ Αυτοπ.
+pbl_visitinvoicebrowser.jsp.issueinsuramtdiscvatinvoice = Τιμολ. ΦΠΑ Αυτοπαρ.
+pbl_visitinvoicebrowser.jsp.issueinsuramtdiscinvoice = Τιμολ. Αυτοπαρ.
+pbl_insuramtdiscvatvalueentry.jsp.pbl_visitcoverdetail.insuramtdiscvatvalue = Αξία ΦΠΑ Αυτοπαράδοσης
+pbl_insuramtdiscvatvalueentry.jsp.pagetitle = Συμπλήρωση Αξίας ΦΠΑ Αυτοπαράδοσης
+pbl_insuramtdiscvatvalueentry.jsp.entrydisplaybox.caption = Συμπλήρωση Αξίας ΦΠΑ Αυτοπαράδοσης
+pbl_parametersentry.jsp.pbl_parameters.insuramtdiscvatfinitemid = Είδος Τιμολόγησης ΦΠΑ Αυτοπαράδοσης
+pbl_parametersentry.jsp.pbl_parameters.insuramtdiscfinitemid = Είδος Τιμολόγησης Αυτοπαράδοσης
+pbl_parametersentry.jsp.pbl_parameters.insuramtdiscfintranspartyid = Συναλλασσόμενος Τιμολόγησης Αυτοπαράδοσης
+
+pbl_insuramtdiscvatvaluentry.jsp.validations.insuramtdiscvatfinitem_not_defined = Το Είδος Τιμολόγησης ΦΠΑ Αυτοπαράδοσης Δεν Είναι Ορισμένο
+pbl_visitinvoiceentry.jsp.validations.insuramtdiscvatfinitem_not_defined = Το Είδος Τιμολόγησης ΦΠΑ Αυτοπαράδοσης Δεν Είναι Ορισμένο
+pbl_visitinvoiceentry.jsp.validations.insuramtdiscfinitem_not_defined = Το Είδος Τιμολόγησης Αυτοπαράδοσης Δεν Είναι Ορισμένο
+pbl_visitinvoiceentry.jsp.validations.insuramtdiscvatvalue_not_defined = Η Αξία ΦΠΑ Αυτοπαράδοσης Δεν Είναι Ορισμένη
+pbl_visitinvoiceentry.jsp.validations.insuramtdiscfintransparty_not_defined = Ο Συναλλασσόμενος Τιμολόγησης Αυτοπαράδοσης Δεν Είναι Ορισμένος
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_insuranceschemedetailentry.jsp.pbl_insuranceschemedetail.insuramtdiscperc','Ποσ. Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_discruleheaderentry.jsp.pbl_discruleheader.defaultinsuramtdiscperc','Ποσ. Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_discruleheaderentry.jsp.pbl_discruledetail.insuramtdiscperc','Ποσ. Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitcoverdetailentry.jsp.pbl_visitcoverdates.insuramtdiscperc','Ποσ. Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargedetailentry.jsp.pbl_chargecover.insuramtdiscperc','Ποσ. Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargedetailentry.jsp.pbl_chargecover.insuramtdiscvaluecover','Αξία Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.pbl_chargedetail.insuramtdiscvaluecharge','Αξία Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoicebrowser.jsp.totals.insuramtdiscvaluecover','Αξία Εκπτ. Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoicebrowser.jsp.insuramtdiscvatvalueentry','Συμπληρ. Αξίας ΦΠΑ Αυτοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoicebrowser.jsp.issueinsuramtdiscvatinvoice','Τιμολ. ΦΠΑ Αυτοπαρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoicebrowser.jsp.issueinsuramtdiscinvoice','Τιμολ. Αυτοπαρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_insuramtdiscvatvalueentry.jsp.pbl_visitcoverdetail.insuramtdiscvatvalue','Αξία ΦΠΑ Αυτοπαράδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_insuramtdiscvatvalueentry.jsp.pagetitle','Συμπλήρωση Αξίας ΦΠΑ Αυτοπαράδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_insuramtdiscvatvalueentry.jsp.entrydisplaybox.caption','Συμπλήρωση Αξίας ΦΠΑ Αυτοπαράδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.insuramtdiscvatfinitemid','Είδος Τιμολόγησης ΦΠΑ Αυτοπαράδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.insuramtdiscfinitemid','Είδος Τιμολόγησης Αυτοπαράδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_parametersentry.jsp.pbl_parameters.insuramtdiscfintranspartyid','Συναλλασσόμενος Τιμολόγησης Αυτοπαράδοσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_insuramtdiscvatvaluentry.jsp.validations.insuramtdiscvatfinitem_not_defined','Το Είδος Τιμολόγησης ΦΠΑ Αυτοπαράδοσης Δεν Είναι Ορισμένο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.insuramtdiscvatfinitem_not_defined','Το Είδος Τιμολόγησης ΦΠΑ Αυτοπαράδοσης Δεν Είναι Ορισμένο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.insuramtdiscfinitem_not_defined','Το Είδος Τιμολόγησης Αυτοπαράδοσης Δεν Είναι Ορισμένο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.insuramtdiscvatvalue_not_defined','Η Αξία ΦΠΑ Αυτοπαράδοσης Δεν Είναι Ορισμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.insuramtdiscfintransparty_not_defined','Ο Συναλλασσόμενος Τιμολόγησης Αυτοπαράδοσης Δεν Είναι Ορισμένος');

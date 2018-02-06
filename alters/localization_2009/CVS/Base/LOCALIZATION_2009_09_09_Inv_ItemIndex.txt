@@ -1,0 +1,1 @@
+inv_itemindex.jsp.barcode_criteria = Barcode

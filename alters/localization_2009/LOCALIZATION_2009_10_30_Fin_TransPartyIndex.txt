@@ -1,0 +1,6 @@
+fin_transpartyindex.jsp.fin_transpartygroup.mnemonic = Ομάδα
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyindex.jsp.fin_transpartygroup.mnemonic','Ομάδα');
+
+
+

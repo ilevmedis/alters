@@ -1,0 +1,7 @@
+pbl_reqentry.jsp.dapy.useeopyyprices = Χρήση Τιμοκαταλόγου ΕΟΠΥΥ
+pbl_reqentry.jsp.dapy.invoicedata = Αρ. / Ημερομηνία ΤΠΥ
+pbl_reqentry.jsp.dapy.invoicevalue = Καθ. Αξία / ΦΠΑ ΤΠΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.useeopyyprices','Χρήση Τιμοκαταλόγου ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.invoicedata','Αρ. / Ημερομηνία ΤΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.dapy.invoicevalue','Καθ. Αξία / ΦΠΑ ΤΠΥ');

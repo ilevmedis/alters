@@ -1,0 +1,29 @@
+INSERT INTO SYS_PRIVILEGE(DESCR,PRIVILEGEID) VALUES ('Καταχώρηση Χρέωσης Μετά Την Τιμολόγηση Χωρίς Μήνυμα Λάθους','allowcharge.afterinvoiced.ispermitted.withouterrormessage');
+INSERT INTO SYS_PRIVILEGE(DESCR,PRIVILEGEID) VALUES ('Καταχώρηση Χρέωσης Μετά Την Τιμολόγηση Χωρίς Προειδοπ/κο Μήνυμα','allowcharge.afterinvoiced.ispermitted.withoutwarningmessage');
+
+INSERT INTO SYS_PRIVILEGE(DESCR,PRIVILEGEID) VALUES ('Καταχώρηση Χρέωσης Μετά Το Εξιτήριο Χωρίς Μήνυμα Λάθους','allowcharge.afterdischarge.ispermitted.withouterrormessage');
+INSERT INTO SYS_PRIVILEGE(DESCR,PRIVILEGEID) VALUES ('Καταχώρηση Χρέωσης Μετά Το Εξιτήριο Χωρίς Προειδοπ/κο Μήνυμα','allowcharge.afterdischarge.ispermitted.withoutwarningmessage');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'allowcharge.afterinvoiced.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'allowcharge.afterinvoiced.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'allowcharge.afterinvoiced.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'allowcharge.afterinvoiced.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'allowcharge.afterinvoiced.ispermitted.withouterrormessage', 1);
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'allowcharge.afterinvoiced.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'allowcharge.afterinvoiced.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'allowcharge.afterinvoiced.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'allowcharge.afterinvoiced.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'allowcharge.afterinvoiced.ispermitted.withoutwarningmessage', 1);
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'allowcharge.afterdischarge.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'allowcharge.afterdischarge.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'allowcharge.afterdischarge.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'allowcharge.afterdischarge.ispermitted.withouterrormessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'allowcharge.afterdischarge.ispermitted.withouterrormessage', 1);
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (6, 'allowcharge.afterdischarge.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (8, 'allowcharge.afterdischarge.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'allowcharge.afterdischarge.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (12, 'allowcharge.afterdischarge.ispermitted.withoutwarningmessage', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (14, 'allowcharge.afterdischarge.ispermitted.withoutwarningmessage', 1);

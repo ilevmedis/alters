@@ -1,0 +1,10 @@
+sys_objectinspector.jsp.componentname = Αντικείμενο
+sys_objectinspector.jsp.attributename = Ιδιότητα
+sys_objectinspector.jsp.attributetype = Τύπος
+sys_objectinspector.jsp.attributevalue = Τιμή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_objectinspector.jsp.componentname','Αντικείμενο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_objectinspector.jsp.attributename','Ιδιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_objectinspector.jsp.attributetype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_objectinspector.jsp.attributevalue','Τιμή');
+

@@ -1,0 +1,91 @@
+ast_assetdeprdeductionbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+ast_assetdeprdeductionbrowser.jsp.descr_criteria = Περιγραφή
+ast_assetdeprdeductionbrowser.jsp.fin_transheader.descr = Περιγραφή
+ast_assetdeprdeductionbrowser.jsp.fin_transheader.internaleventdate = Ημ/νία Μείωσης Αποσβ.
+ast_assetdeprdeductionbrowser.jsp.fin_transheader.internaleventno = Αρ.Κίνησης
+ast_assetdeprdeductionbrowser.jsp.fin_transheader.sincedeprdate = Από Ημ/νία Υπολογ.
+ast_assetdeprdeductionbrowser.jsp.fin_transheader.tilldeprdate = Έως Ημ/νία Υπολογ.
+ast_assetdeprdeductionbrowser.jsp.fineventtypeid_criteria = Κωδ.Κίνησης
+ast_assetdeprdeductionbrowser.jsp.griddisplaybox.caption = Μειώσεις Αποσβ.
+ast_assetdeprdeductionbrowser.jsp.internaleventno_criteria = Αρ.Κίνησης
+ast_assetdeprdeductionbrowser.jsp.pagetitle = Διαχείριση Μειώσεων Αποσβέσεων
+ast_assetdeprdeductionbrowser.jsp.sinceinternaleventdate_criteria = Από Ημερομηνία
+ast_assetdeprdeductionbrowser.jsp.tillinternaleventdate_criteria = Έως Ημερομηνία
+
+ast_assetdeprdeductionentry.jsp.ast_assetpart.assetparttype = Τύπος
+ast_assetdeprdeductionentry.jsp.ast_assetpart.purchasedate = Ημ/νία Ένταξης
+ast_assetdeprdeductionentry.jsp.ast_assetpart.purchasevalue = Αξία Ένταξης
+ast_assetdeprdeductionentry.jsp.ast_assetpart.registryno = ΑΜ Τμήματος Παγίου
+ast_assetdeprdeductionentry.jsp.createdeprdeduction = Υπολ. Μειώσεων Αποσβ.
+ast_assetdeprdeductionentry.jsp.deprentrydisplaybox.caption = Μειώσεις Αποσβ.
+ast_assetdeprdeductionentry.jsp.editdeprdeduction = Συμπλήρωση Μειώσεων Αποσβ.
+ast_assetdeprdeductionentry.jsp.entrydisplaybox.caption = Στοιχεία Μειώσεων Αποσβέσεων Παγίων
+ast_assetdeprdeductionentry.jsp.fin_event.erpeventtypeid = Διαδικασία
+ast_assetdeprdeductionentry.jsp.fin_transdetail.additionaldeprvalue = Μειώσεις Πρόσθ.Αποσβ.
+ast_assetdeprdeductionentry.jsp.fin_transdetail.inactivitydeprvalue = Μειώσεις Αποσβ.Αδράνειας
+ast_assetdeprdeductionentry.jsp.fin_transdetail.loandeprvalue = Μειώσεις Αποσβ.Σε Τρίτους
+ast_assetdeprdeductionentry.jsp.fin_transdetail.normaldeprvalue = Μειώσεις Τακτικών Αποσβ.
+ast_assetdeprdeductionentry.jsp.fin_transheader.descr = Περιγραφή
+ast_assetdeprdeductionentry.jsp.fin_transheader.fineventtypeid = Κωδ.Κίνησης
+ast_assetdeprdeductionentry.jsp.fin_transheader.fintransheaderid = Κωδ.Εγγραφής
+ast_assetdeprdeductionentry.jsp.fin_transheader.internaleventdate = Ημ/νία Κίνησης
+ast_assetdeprdeductionentry.jsp.fin_transheader.internaleventno = Αρ.Κίνησης
+ast_assetdeprdeductionentry.jsp.fin_transheader.sincedeprperiod = Από Περίοδο Υπολογισμού Μειώσεων Αποσβ.
+ast_assetdeprdeductionentry.jsp.fin_transheader.tilldeprperiod = Έως Περίοδο Υπολογισμού Μειώσεων Αποσβ.
+ast_assetdeprdeductionentry.jsp.griddisplaybox.caption = Μειώσεις Αποσβέσεων
+ast_assetdeprdeductionentry.jsp.inv_item_assetpart.displaydescr = Περιγραφή Παγίου
+ast_assetdeprdeductionentry.jsp.pagetitle = Καταχώρηση Μειώσεων Αποσβ. Παγίων
+
+ast_assetdeprdeductionentry.jsp.validations.assetpart_required = Συμπληρώστε Υποχρεωτικά Τμήμα Παγίου
+ast_assetdeprdeductionentry.jsp.validations.atleast_one_depr_required = Δεν Βρέθηκαν Μειώσεις Αποσβ. Για Καταχώρηση
+ast_assetdeprdeductionentry.jsp.validations.eventtyperequired = Συμπληρώστε Υποχρεωτικά Διαδικασία
+ast_assetdeprdeductionentry.jsp.validations.internaleventdaterequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Κίνησης
+ast_assetdeprdeductionentry.jsp.validations.invalid_periods = Η Έως Περίοδος Μικρότερη Της Από
+ast_assetdeprdeductionentry.jsp.validations.sincedeprperiodrequired = Συμπληρώστε Υποχρεωτικά Από Περίοδο Υπολογισμού Μειώσεων Αποσβ.
+ast_assetdeprdeductionentry.jsp.validations.tilldeprperiodrequired = Συμπληρώστε Υποχρεωτικά Έως Περίοδο Υπολογισμού Μειώσεων Αποσβ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.fin_transheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.fin_transheader.internaleventdate','Ημ/νία Μείωσης Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.fin_transheader.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.fin_transheader.sincedeprdate','Από Ημ/νία Υπολογ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.fin_transheader.tilldeprdate','Έως Ημ/νία Υπολογ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.fineventtypeid_criteria','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.griddisplaybox.caption','Μειώσεις Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.internaleventno_criteria','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.pagetitle','Διαχείριση Μειώσεων Αποσβέσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.sinceinternaleventdate_criteria','Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionbrowser.jsp.tillinternaleventdate_criteria','Έως Ημερομηνία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.ast_assetpart.assetparttype','Τύπος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.ast_assetpart.purchasedate','Ημ/νία Ένταξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.ast_assetpart.purchasevalue','Αξία Ένταξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.ast_assetpart.registryno','ΑΜ Τμήματος Παγίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.createdeprdeduction','Υπολ. Μειώσεων Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.deprentrydisplaybox.caption','Μειώσεις Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.editdeprdeduction','Συμπλήρωση Μειώσεων Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.entrydisplaybox.caption','Στοιχεία Μειώσεων Αποσβέσεων Παγίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_event.erpeventtypeid','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transdetail.additionaldeprvalue','Μειώσεις Πρόσθ.Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transdetail.inactivitydeprvalue','Μειώσεις Αποσβ.Αδράνειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transdetail.loandeprvalue','Μειώσεις Αποσβ.Σε Τρίτους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transdetail.normaldeprvalue','Μειώσεις Τακτικών Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.fineventtypeid','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.fintransheaderid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.sincedeprperiod','Από Περίοδο Υπολογισμού Μειώσεων Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.fin_transheader.tilldeprperiod','Έως Περίοδο Υπολογισμού Μειώσεων Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.griddisplaybox.caption','Μειώσεις Αποσβέσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.inv_item_assetpart.displaydescr','Περιγραφή Παγίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetdeprdeductionentry.jsp.pagetitle','Καταχώρηση Μειώσεων Αποσβ. Παγίων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.assetpart_required','Συμπληρώστε Υποχρεωτικά Τμήμα Παγίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.atleast_one_depr_required','Δεν Βρέθηκαν Μειώσεις Αποσβ. Για Καταχώρηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.eventtyperequired','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.internaleventdaterequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.invalid_periods','Η Έως Περίοδος Μικρότερη Της Από');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.sincedeprperiodrequired','Συμπληρώστε Υποχρεωτικά Από Περίοδο Υπολογισμού Μειώσεων Αποσβ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetdeprdeductionentry.jsp.validations.tilldeprperiodrequired','Συμπληρώστε Υποχρεωτικά Έως Περίοδο Υπολογισμού Μειώσεων Αποσβ.');

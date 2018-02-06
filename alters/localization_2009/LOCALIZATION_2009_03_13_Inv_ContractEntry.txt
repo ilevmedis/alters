@@ -1,0 +1,24 @@
+﻿inv_contractentry.jsp.inv_contractdetail.validsincedate = Από Ημ/νία
+inv_contractentry.jsp.inv_contractdetail.validtilldate = Έως Ημ/νία
+
+inv_contractentry.jsp.validations.validsincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος
+inv_contractentry.jsp.validations.sincedatenotvalid = Η Από Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Ισχύος Της Σύμβασης
+inv_contractentry.jsp.validations.tilldatenotvalid = Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος Του Είδους
+inv_contractentry.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος
+inv_contractentry.jsp.validations.sincedate_lessthan_tilldate = Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής
+
+inv_contractentry.jsp.validations.validsincedate_exceeds_contract_tilldate = Η Από Ημερομηνία Ισχύος Του Είδους Είναι Μεγαλύτερη Από Την Έως Ημερομηνία Ισχύος Της Σύμβασης
+inv_contractentry.jsp.validations.validtilldate_exceeds_contract_tilldate = Η Έως Ημερομηνία Ισχύος Του Είδους Είναι Μεγαλύτερη Από Την Έως Ημερομηνία Ισχύος Της Σύμβασης
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_contractentry.jsp.inv_contractdetail.validsincedate','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_contractentry.jsp.inv_contractdetail.validtilldate','Έως Ημ/νία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.validsincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.sincedatenotvalid','Η Από Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Ισχύος Της Σύμβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.tilldatenotvalid','Η Έως Ημερομηνία Ισχύος Είναι Μικρότερη Από Την Ημερομηνία Από Ημερομηνία Ισχύος Του Είδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Ισχύος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.sincedate_lessthan_tilldate','Η Από Ημερομηνία Ισχύος Είναι Μεγαλύτερη ή Ίση Από Την Έως Ημερομηνία Της Προηγούμενης Εγγραφής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.validsincedate_exceeds_contract_tilldate','Η Από Ημερομηνία Ισχύος Του Είδους Είναι Μεγαλύτερη Από Την Έως Ημερομηνία Ισχύος Της Σύμβασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_contractentry.jsp.validations.validtilldate_exceeds_contract_tilldate','Η Έως Ημερομηνία Ισχύος Του Είδους Είναι Μεγαλύτερη Από Την Έως Ημερομηνία Ισχύος Της Σύμβασης');

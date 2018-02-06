@@ -1,0 +1,4 @@
+inv_orderbuyentry.jsp.validations.different_transparty_exception = Το Είδος Δεν Έχει Κινηθεί Με Τον Επιλεγμένο Προμηθευτή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_orderbuyentry.jsp.validations.different_transparty_exception','Το Είδος Δεν Έχει Κινηθεί Με Τον Επιλεγμένο Προμηθευτή');
+

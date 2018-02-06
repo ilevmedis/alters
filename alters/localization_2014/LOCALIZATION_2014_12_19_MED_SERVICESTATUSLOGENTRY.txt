@@ -1,0 +1,3 @@
+med_statuspatternentry.jsp.med_statuspatterndetail.ispinrequired = Υποχρεωτική Συμπλήρωση PIN
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_statuspatternentry.jsp.med_statuspatterndetail.ispinrequired','Υποχρεωτική Συμπλήρωση PIN');

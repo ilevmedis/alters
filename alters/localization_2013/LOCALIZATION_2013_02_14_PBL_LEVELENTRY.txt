@@ -1,0 +1,3 @@
+pbl_levelentry.jsp.pbl_level.facilityvisitpartindicator = Μοντέλο Ανάλυσης Νοσηλίων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_levelentry.jsp.pbl_level.facilityvisitpartindicator','Μοντέλο Ανάλυσης Νοσηλίων');

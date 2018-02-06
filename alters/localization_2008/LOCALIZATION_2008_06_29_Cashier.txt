@@ -1,0 +1,41 @@
+﻿fin_cashierbrowser.jsp.pagetitle = Διαχείριση Ταμείων
+fin_cashierbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_cashierbrowser.jsp.griddisplaybox.caption = Ταμεία
+fin_cashierbrowser.jsp.mnemonic_criteria_label = Μνημονικός Κωδικός
+fin_cashierbrowser.jsp.descr_criteria_label = Περιγραφή
+fin_cashierbrowser.jsp.isactive_criteria_label = Ενεργή Εγγραφή
+fin_cashierbrowser.jsp.fin_cashier.cashierid = Κωδικός
+fin_cashierbrowser.jsp.fin_cashier.mnemonic = Μνημονικός Κωδικός
+fin_cashierbrowser.jsp.fin_cashier.descr = Περιγραφή
+fin_cashierbrowser.jsp.fin_cashier.isactive = Ενεργή Εγγραφή
+fin_cashierentry.jsp.pagetitle = Καταχώρηση Ταμείου
+fin_cashierentry.jsp.entrydisplaybox.caption = Στοιχεία Ταμείου
+fin_cashierentry.jsp.fin_cashier.cashierid = Κωδικός
+fin_cashierentry.jsp.fin_cashier.mnemonic = Μνημονικός Κωδικός
+fin_cashierentry.jsp.fin_cashier.descr = Περιγραφή
+fin_cashierentry.jsp.fin_cashier.isactive = Ενεργό
+pbl_visitinvoiceentry.jsp.fin_transheader.cashierid = Ταμείο
+pbl_invoiceentry.jsp.fin_transheader.cashierid = Ταμείο
+pbl_clientcreditentry.jsp.fin_transheader.cashierid = Ταμείο
+fin_cashierentry.jsp.objectuserslink= Πρόσβαση Χρηστών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.pagetitle','Διαχείριση Ταμείων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.griddisplaybox.caption','Ταμεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.mnemonic_criteria_label','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.descr_criteria_label','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.isactive_criteria_label','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.fin_cashier.cashierid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.fin_cashier.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.fin_cashier.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierbrowser.jsp.fin_cashier.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.pagetitle','Καταχώρηση Ταμείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.entrydisplaybox.caption','Στοιχεία Ταμείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.fin_cashier.cashierid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.fin_cashier.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.fin_cashier.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.fin_cashier.isactive','Ενεργό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_visitinvoiceentry.jsp.fin_transheader.cashierid','Ταμείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_invoiceentry.jsp.fin_transheader.cashierid','Ταμείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_clientcreditentry.jsp.fin_transheader.cashierid','Ταμείο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_cashierentry.jsp.objectuserslin','Πρόσβαση Χρηστών');

@@ -1,0 +1,1 @@
+alter table PLG_BUDGETRESHEADER add CANCELDIAVGIANO varchar2(50);

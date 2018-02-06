@@ -1,0 +1,5 @@
+pbl_invoiceentry.jsp.validations.pending_insuraceprovider = Βρέθηκαν Ασφαλιστικές Εκκρεμότητες! Η Διαδικασία Σταματά
+pbl_visitinvoiceentry.jsp.validations.pending_insuraceprovider = Βρέθηκαν Ασφαλιστικές Εκκρεμότητες! Η Διαδικασία Σταματά
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_invoiceentry.jsp.validations.pending_insuraceprovider','Βρέθηκαν Ασφαλιστικές Εκκρεμότητες! Η Διαδικασία Σταματά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_visitinvoiceentry.jsp.validations.pending_insuraceprovider','Βρέθηκαν Ασφαλιστικές Εκκρεμότητες! Η Διαδικασία Σταματά');

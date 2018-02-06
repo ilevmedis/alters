@@ -1,0 +1,26 @@
+﻿inv_storeentry.jsp.inv_store.finalizationdate = Ημ/νία Οριστικοποίησης
+
+inv_buyentry.jsp.validations.invalid_date_to_store_finalizationdate = Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης
+inv_buyentry.jsp.validations.grant_invalid_date_to_store_finalizationdate = Η Ημερομηνία Χορήγησης Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Αποστολής
+inv_buyentry.jsp.validations.grant_invalid_date_to_relatedstore_finalizationdate = Η Ημερομηνία Χορήγησης Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Παραλαβής
+inv_buyentry.jsp.validations.store_finalized_date = Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης
+inv_buyentry.jsp.validations.relatedstore_finalized_date = Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης Παραλαβής
+
+inv_grantentry.jsp.validations.invalid_date_to_store_finalizationdate = Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Αποστολής
+inv_grantentry.jsp.validations.invalid_date_to_relatedstore_finalizationdate = Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Παραλαβής
+inv_grantentry.jsp.validations.store_finalized_date = Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης Αποστολής
+inv_grantentry.jsp.validations.relatedstore_finalized_date = Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης Παραλαβής
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_storeentry.jsp.inv_store.finalizationdate','Ημ/νία Οριστικοποίησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.invalid_date_to_store_finalizationdate','Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.grant_invalid_date_to_store_finalizationdate','Η Ημερομηνία Χορήγησης Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.grant_invalid_date_to_relatedstore_finalizationdate','Η Ημερομηνία Χορήγησης Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Παραλαβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.store_finalized_date','Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_buyentry.jsp.validations.relatedstore_finalized_date','Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης Παραλαβής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.invalid_date_to_store_finalizationdate','Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.invalid_date_to_relatedstore_finalizationdate','Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Ημερομηνία Κλειδώματος Της Αποθήκης Παραλαβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.store_finalized_date','Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης Αποστολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_grantentry.jsp.validations.relatedstore_finalized_date','Οριστικοποιημένη Κίνηση Βάση Της Ημερομηνίας Κλειδώματος Αποθήκης Παραλαβής');

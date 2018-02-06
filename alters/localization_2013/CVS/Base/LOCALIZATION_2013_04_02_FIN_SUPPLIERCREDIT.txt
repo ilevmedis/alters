@@ -1,0 +1,25 @@
+fin_suppliercreditbrowser.jsp.fyearid_criteria = Οικον.Έτος
+fin_suppliercreditbrowser.jsp.cancel = Ακύρωση
+fin_suppliercreditentry.jsp.fin_transdetail.iscanceled = Ακυρωμένη
+fin_suppliercreditentry.jsp.fin_transdetail.iscanceltransaction = Ακυρωτική
+fin_suppliercreditentry.jsp.canceltransaction = Προβολή Ακυρωτικής
+fin_suppliercreditentry.jsp.fintranscanceled = Προβολή Ακυρωμένης
+fin_suppliercreditviewer.jsp.datadisplaybox.caption = Συσχετισμένη Κίνηση Ακύρωσης
+fin_suppliercreditviewer.jsp.fin_transheader.internaleventdate = Ημ/νία Κίνησης
+fin_suppliercreditviewer.jsp.fin_transheader.internaleventno = Αριθμός Κίνησης
+fin_suppliercreditviewer.jsp.fin_transheader.externaleventdate = Ημ/νία Παρ/κού Προμ/τή
+fin_suppliercreditviewer.jsp.fin_transheader.externaleventno = Είδος-Αριθμός Παρ/κού Προμ/τή
+fin_suppliercreditviewer.jsp.fin_transheader.descr = Αιτιολογία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditbrowser.jsp.fyearid_criteria','Οικον.Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditbrowser.jsp.cancel','Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.iscanceled','Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fin_transdetail.iscanceltransaction','Ακυρωτική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.canceltransaction','Προβολή Ακυρωτικής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditentry.jsp.fintranscanceled','Προβολή Ακυρωμένης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditviewer.jsp.datadisplaybox.caption','Συσχετισμένη Κίνηση Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditviewer.jsp.fin_transheader.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditviewer.jsp.fin_transheader.internaleventno','Αριθμός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditviewer.jsp.fin_transheader.externaleventdate','Ημ/νία Παρ/κού Προμ/τή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditviewer.jsp.fin_transheader.externaleventno','Είδος-Αριθμός Παρ/κού Προμ/τή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_suppliercreditviewer.jsp.fin_transheader.descr','Αιτιολογία');

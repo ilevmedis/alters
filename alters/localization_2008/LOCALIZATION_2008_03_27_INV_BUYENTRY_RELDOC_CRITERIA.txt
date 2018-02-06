@@ -1,0 +1,7 @@
+﻿inv_buyentry.jsp.relativedocs_criteria.internaleventno = Αρ.Κίνησης
+inv_buyentry.jsp.relativedocs_criteria.sinceinternaleventdate = Από Ημερομηνία Κίνησης
+inv_buyentry.jsp.relativedocs_criteria.tillinternaleventdate = Έως Ημερομηνία Κίνησης
+inv_buyentry.jsp.relativedocs_criteria.externaleventtype = Παραστατικό Προμηθευτή
+inv_buyentry.jsp.relativedocs_criteria.externaleventno = Αρ.Παρ/κού Προμηθευτή
+inv_buyentry.jsp.relativedocs_criteria.sinceexternaleventdate = Από Ημ/νία Παρ/κού Προμ.
+inv_buyentry.jsp.relativedocs_criteria.tillexternaleventdate = Έως Ημ/νία Παρ/κού Προμ.

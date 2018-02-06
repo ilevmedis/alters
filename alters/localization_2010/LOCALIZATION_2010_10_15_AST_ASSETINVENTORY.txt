@@ -1,0 +1,25 @@
+ast_assetinventory.jsp.pagetitle = Μεταφορά Παγίων Στο Επόμενο Έτος
+ast_assetinventory.jsp.entrydisplaybox.caption = Στοιχεία Μεταφοράς Παγίων
+ast_assetinventory.jsp.createinventory = Μεταφορά Παγιων
+ast_assetinventory.jsp.fyearid_criteria = Οικ. Έτος Μεταφοράς
+ast_assetinventory.jsp.erpeventtypeid_criteria = Διαδ. Δημ. Αποσβέσεων
+ast_assetinventory.jsp.fin_transheader.fineventtypeid = Κωδ. Κίνησης
+ast_assetinventory.jsp.message.procedure_successfull = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+ast_assetinventory.jsp.message.procedure_unsuccessfull = Η Διαδικασία Δεν Ολοκληρώθηκε!! Προσπαθήστε Πάλι
+
+ast_assetinventory.jsp.validations.eventtype_required = Συμπληρώστε Υποχρεωτικά Διαδικασία Αποσβέσεων
+ast_assetinventory.jsp.validations.fyear_required = Συμπληρώστε Υποχρεωτικά Οικονομικό Έτος Μεταφοράς
+ast_assetinventory.jsp.validations.inventory_already_exists = Η Μεταφορά Έχει Ήδη Γίνει Στο Δηλωθέν Οικονομικό Έτος. Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.pagetitle','Μεταφορά Παγίων Στο Επόμενο Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.entrydisplaybox.caption','Στοιχεία Μεταφοράς Παγίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.createinventory','Μεταφορά Παγιων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.fyearid_criteria','Οικ. Έτος Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.erpeventtypeid_criteria','Διαδ. Δημ. Αποσβέσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.fin_transheader.fineventtypeid','Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.message.procedure_successfull','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'ast_assetinventory.jsp.message.procedure_unsuccessfull','Η Διαδικασία Δεν Ολοκληρώθηκε!! Προσπαθήστε Πάλι');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetinventory.jsp.validations.eventtype_required','Συμπληρώστε Υποχρεωτικά Διαδικασία Αποσβέσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetinventory.jsp.validations.fyear_required','Συμπληρώστε Υποχρεωτικά Οικονομικό Έτος Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'ast_assetinventory.jsp.validations.inventory_already_exists','Η Μεταφορά Έχει Ήδη Γίνει Στο Δηλωθέν Οικονομικό Έτος. Παρακαλώ Διορθώστε');

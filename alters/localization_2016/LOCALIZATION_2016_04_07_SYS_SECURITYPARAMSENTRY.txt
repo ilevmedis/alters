@@ -1,0 +1,21 @@
+sys_securityparamsentry.jsp.pagetitle = Καταχώρηση Παραμέτρων Ασφάλειας
+sys_securityparamsentry.jsp.entrydisplaybox.caption = Παράμετροι Ασφάλειας
+sys_securityparamsentry.jsp.sys_securityparams.encryptpasswords = Κρυπτογράφηση Συνθηματικών
+sys_securityparamsentry.jsp.sys_securityparams.minpasswordlength = Ελάχιστο Μήκος Συνθηματικών
+sys_securityparamsentry.jsp.sys_securityparams.passwordcomplexityindicator = Πολυπλοκότητα Συνθηματικών
+sys_securityparamsentry.jsp.sys_securityparams.lockaccountretries = Αριθμός Εσφαλμένων Συμπληρώσεων Συνθηματικού για Κλείδωμα Λογαριασμού
+sys_securityparamsentry.jsp.encryptpasswords = Κρυπτογράφηση Συνθηματικών Υφιστάμενων Χρηστών
+sys_securityparamsentry.jsp.expirepasswords = Αίτηση Ανανέωσης Μη Έγκυρων Συνθηματικών
+sys_securityparamsentry.jsp.messages.reupdate_completed = H Διαδικασία Ενημερέρωσης Ολοκληρώθηκε Επιτυχώς
+sys_securityparamsentry.jsp.messages.noofrows = Αρ. Εγγραφών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.pagetitle','Καταχώρηση Παραμέτρων Ασφάλειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.entrydisplaybox.caption','Παράμετροι Ασφάλειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.sys_securityparams.encryptpasswords','Κρυπτογράφηση Συνθηματικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.sys_securityparams.minpasswordlength','Ελάχιστο Μήκος Συνθηματικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.sys_securityparams.passwordcomplexityindicator','Πολυπλοκότητα Συνθηματικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.sys_securityparams.lockaccountretries','Αριθμός Εσφαλμένων Συμπληρώσεων Συνθηματικού για Κλείδωμα Λογαριασμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.encryptpasswords','Κρυπτογράφηση Συνθηματικών Υφιστάμενων Χρηστών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.expirepasswords','Αίτηση Ανανέωσης Μη Έγκυρων Συνθηματικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.messages.reupdate_completed','H Διαδικασία Ενημερέρωσης Ολοκληρώθηκε Επιτυχώς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_securityparamsentry.jsp.messages.noofrows','Αρ. Εγγραφών');

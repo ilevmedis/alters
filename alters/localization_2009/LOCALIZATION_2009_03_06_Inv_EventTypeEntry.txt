@@ -1,0 +1,9 @@
+﻿inv_eventtypeentry.jsp.inv_eventtype.costcenterindicator = Επιλογή Κέντρου Κόστους
+
+inv_eventtypeentry.jsp.validations.costcenterindicatorrequired = Συμπληρώστε Υποχρεωτικά Επιλογή Κέντρου Κόστους
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_eventtypeentry.jsp.inv_eventtype.costcenterindicator','Επιλογή Κέντρου Κόστους');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_eventtypeentry.jsp.validations.costcenterindicatorrequired','Συμπληρώστε Υποχρεωτικά Επιλογή Κέντρου Κόστους');
+
+

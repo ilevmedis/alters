@@ -1,0 +1,1 @@
+alter table fin_taxscenariotax add mincalcamount float(126);

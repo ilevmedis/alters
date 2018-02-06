@@ -1,0 +1,7 @@
+sys_browsercustomization.jsp.sys_browsercustomizationcriteria.sqlstmt = SQL Statement
+sys_browsercustomization.jsp.validations.criteriacolumrequired = Συμπληρώστε Υποχρεωτικά Πεδίο Εφαρμογής
+sys_browsercustomization.jsp.validations.one_criteria_required = Συμπληρώστε Υποχρεωτικά Ένα Κριτήριο (Είτε Πεδίο Εφαρμογής, Είτε Sql Statement)
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_browsercustomization.jsp.sys_browsercustomizationcriteria.sqlstmt','SQL Statement');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_browsercustomization.jsp.validations.criteriacolumrequired','Συμπληρώστε Υποχρεωτικά Πεδίο Εφαρμογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_browsercustomization.jsp.validations.one_criteria_required','Συμπληρώστε Υποχρεωτικά Ένα Κριτήριο (Είτε Πεδίο Εφαρμογής, Είτε Sql Statement)');

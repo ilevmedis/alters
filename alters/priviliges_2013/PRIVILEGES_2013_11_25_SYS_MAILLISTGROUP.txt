@@ -1,0 +1,18 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistbrowser.jsp.view', 'Διαχείριση Λιστών EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistbrowser.jsp.print', 'Εκτύπωση Λιστών EMail');
+
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistentry.jsp.view', 'Ανάγνωση Λίστας EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistentry.jsp.print', 'Εκτύπωση Λίστας EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistentry.jsp.insert', 'Εισαγωγή Λίστας EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistentry.jsp.update', 'Μεταβολή Λίστας EMail');
+insert into sys_privilege(privilegeid, descr) values ('sys_maillistentry.jsp.delete', 'Διαγραφή Λίστας EMail');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'sys_maillistbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'sys_maillistbrowser.jsp.print', 1);
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_maillistentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_maillistentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_maillistentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_maillistentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_maillistentry.jsp.insert', 1);
+

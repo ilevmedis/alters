@@ -1,0 +1,4 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_sessionviewer.jsp.view', 'Προβολή Συνδεδεμένων Χρηστών');
+insert into sys_privilege(privilegeid, descr) values ('sys_sessionviewer.jsp.print', 'Εκτύπωση Συνδεδεμένων Χρηστών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_sessionviewer.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_sessionviewer.jsp.print', 1);

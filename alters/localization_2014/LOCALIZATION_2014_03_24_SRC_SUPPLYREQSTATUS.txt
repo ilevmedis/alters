@@ -1,0 +1,45 @@
+src_supplyreqstatusbrowser.jsp.pagetitle = Διαχείριση Καταστάσεων Αναζητήσεων Προμήθειας
+src_supplyreqstatusbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+src_supplyreqstatusbrowser.jsp.griddisplaybox.caption = Καταστάσεις Αναζητήσεων Προμήθειας
+src_supplyreqstatusbrowser.jsp.mnemonic_criteria = Μνημ. Κωδικός
+src_supplyreqstatusbrowser.jsp.descr_criteria = Περιγραφή
+src_supplyreqstatusbrowser.jsp.isactive_criteria = Ενεργές Εγγραφές
+
+src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.supplyreqstatusid = Κωδικός
+src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.mnemonic = Μνημ. Κωδικός
+src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.descr = Περιγραφή
+src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.isactive = Ενεργή Εγγραφή
+
+src_supplyreqstatusentry.jsp.pagetitle = Καταχώρηση Καταστάσεων Αναζητήσεων Προμήθειας
+src_supplyreqstatusentry.jsp.entrydisplaybox.caption = Στοιχεία Κατάστασης Αναζητήσεων Προμήθειας
+src_supplyreqstatusentry.jsp.src_supplyreqstatus.supplyreqstatusid = Κωδικός
+src_supplyreqstatusentry.jsp.src_supplyreqstatus.isactive = Ενεργή Εγγραφή
+src_supplyreqstatusentry.jsp.src_supplyreqstatus.mnemonic = Μνημ. Κωδικός
+src_supplyreqstatusentry.jsp.src_supplyreqstatus.descr = Περιγραφή
+src_supplyreqstatusentry.jsp.src_supplyreqstatus.comments = Σχόλια
+
+src_supplyreqstatusentry.jsp.validations.mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό
+src_supplyreqstatusentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.pagetitle','Διαχείριση Καταστάσεων Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.griddisplaybox.caption','Καταστάσεις Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.mnemonic_criteria','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.isactive_criteria','Ενεργές Εγγραφές');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.supplyreqstatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusbrowser.jsp.src_supplyreqstatus.isactive','Ενεργή Εγγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.pagetitle','Καταχώρηση Καταστάσεων Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.entrydisplaybox.caption','Στοιχεία Κατάστασης Αναζητήσεων Προμήθειας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.src_supplyreqstatus.supplyreqstatusid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.src_supplyreqstatus.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.src_supplyreqstatus.mnemonic','Μνημ. Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.src_supplyreqstatus.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'src_supplyreqstatusentry.jsp.src_supplyreqstatus.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyreqstatusentry.jsp.validations.mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημ. Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'src_supplyreqstatusentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή');

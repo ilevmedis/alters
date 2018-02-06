@@ -1,0 +1,5 @@
+﻿pbl_contractheaderentry.jsp.invoicefinitemgroupingid = Ομαδοποιήση Τιμολόγησης
+pbl_contractdetailentry.jsp.invoicefinitemgroupingid = Ομαδοποιήση Τιμολόγησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_contractheaderentry.jsp.invoicefinitemgroupingid','Ομαδοποιήση Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_contractdetailentry.jsp.invoicefinitemgroupingid','Ομαδοποιήση Τιμολόγησης');

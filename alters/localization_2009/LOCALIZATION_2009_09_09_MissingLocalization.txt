@@ -1,0 +1,10 @@
+pbl_reqentry.jsp.pbl_reqinsurance.fintranspartyid = Συμμετέχοντες Ασφαλ.Φορείς
+pbl_reqentry.jsp.tabs.page5 = Συμμ.Ασφ.Φορείς
+
+pbl_reqentry.jsp.pbl_reqheader.fineventtypecriteria = Παραστατικά
+pbl_reqentry.jsp.pbl_reqheader.cliniccriteria = Κλινικές
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqinsurance.fintranspartyid','Συμμετέχοντες Ασφαλ.Φορείς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.tabs.page5','Συμμ.Ασφ.Φορείς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheader.fineventtypecriteria','Παραστατικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_reqentry.jsp.pbl_reqheader.cliniccriteria','Κλινικές');

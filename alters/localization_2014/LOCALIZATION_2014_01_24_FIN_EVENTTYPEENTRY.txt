@@ -1,0 +1,9 @@
+fin_eventtypeentry.jsp.invoicetype = Είδος Τιμολ.
+fin_eventtypeentry.jsp.kepyocode = Κωδ. ΚΕΠΥΟ για Φ.Μ
+
+fin_eventtypeentry.jsp.validations.invoicetyperequired = Συμπληρώστε Υποχρεωτικά Είδος Τιμολογίου
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'fin_eventtypeentry.jsp.invoicetype', 'Είδος Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'fin_eventtypeentry.jsp.kepyocode', 'Κωδ. ΚΕΠΥΟ για Φ.Μ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'fin_eventtypeentry.jsp.validations.invoicetyperequired', 'Συμπληρώστε Υποχρεωτικά Είδος Τιμολογίου');

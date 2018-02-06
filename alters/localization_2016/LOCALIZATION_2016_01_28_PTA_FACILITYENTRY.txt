@@ -1,0 +1,5 @@
+pta_facilityentry.jsp.pta_facilityusestatus.locationtype =  Είδος Κλίνης
+pta_facilityentry.jsp.pta_facilityusestatus.clinicfacilityid = Κλινική
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facilityusestatus.locationtype','Είδος Κλίνης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_facilityentry.jsp.pta_facilityusestatus.clinicfacilityid','Κλινική');

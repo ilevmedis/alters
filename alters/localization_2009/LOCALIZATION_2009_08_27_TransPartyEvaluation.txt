@@ -1,0 +1,54 @@
+fin_occupationentry.jsp.fin_occupationcertificate.mnemonic = Μνημ.Κωδ.Πιστοποιητικού
+fin_occupationentry.jsp.fin_occupationcertificate.descr = Περιγραφή Πιστοποιητικού
+
+fin_occupationentry.jsp.validations.occupationcertificate_mnemonic_required = Συμπληρώστε Υποχρεωτικά Μνημ.Κωδ.Πιστοποιητικού
+fin_occupationentry.jsp.validations.occupationcertificate_descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή Πιστοποιητικού
+
+fin_transpartyentry.jsp.tabs.page6 = Πιστοποιητικά
+fin_transpartyentry.jsp.tabs.page7 = Αξιολόγηση
+fin_transpartyentry.jsp.fin_occupationcertificate.mnemonic = Κωδ.Πιστοπ.
+fin_transpartyentry.jsp.fin_occupationcertificate.descr = Περιγρ.Πιστοπ.
+fin_transpartyentry.jsp.fin_transpartycertificate.receiptdate = Ημ.Παραλαβής
+fin_transpartyentry.jsp.fin_transpartycertificate.validsincedate = Ισχύει Από
+fin_transpartyentry.jsp.fin_transpartycertificate.validtilldate = Ισχύει Έως
+fin_transpartyentry.jsp.fin_transpartycertificate.comments = Σχόλια
+fin_transpartyentry.jsp.fin_transpartycertificate.decisionno = Αρ.Απόφασης
+
+fin_transpartyentry.jsp.validations.certificate_validsincedate_required = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Ισχύος Πιστοποιητικού
+
+fin_transpartyentry.jsp.fin_transpartyevaluation.evaluationdate = Ημ/νία Αξιολ.
+fin_transpartyentry.jsp.fin_transpartyevaluation.evaluationoutcomeindicator = Έκβαση Αξιολ.
+fin_transpartyentry.jsp.fin_transpartyevaluation.evaluationdescr = Περιγρ. Αξιολόγησης
+fin_transpartyentry.jsp.fin_transpartyevaluation.comments = Σχόλια
+
+fin_transpartyentry.jsp.fin_transparty.cooperationstartdate = Ημ/νία Έναρξης Συνεργ.
+fin_transpartyentry.jsp.fin_transparty.cooperationenddate = Ημ/νία Λήξης Συνεργ.
+
+fin_transpartyentry.jsp.validations.evaluation_evaluationdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Αξιολόγησης
+fin_transpartyentry.jsp.validations.evaluation_evaluationoutcomeindicator_required = Συμπληρώστε Υποχρεωτικά Έκβαση Αξιολόγησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupationcertificate.mnemonic','Μνημ.Κωδ.Πιστοποιητικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_occupationentry.jsp.fin_occupationcertificate.descr','Περιγραφή Πιστοποιητικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_occupationentry.jsp.validations.occupationcertificate_mnemonic_required','Συμπληρώστε Υποχρεωτικά Μνημ.Κωδ.Πιστοποιητικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_occupationentry.jsp.validations.occupationcertificate_descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή Πιστοποιητικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.tabs.page6','Πιστοποιητικά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.tabs.page7','Αξιολόγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_occupationcertificate.mnemonic','Κωδ.Πιστοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_occupationcertificate.descr','Περιγρ.Πιστοπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartycertificate.receiptdate','Ημ.Παραλαβής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartycertificate.validsincedate','Ισχύει Από');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartycertificate.validtilldate','Ισχύει Έως');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartycertificate.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartycertificate.decisionno','Αρ.Απόφασης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_transpartyentry.jsp.validations.certificate_validsincedate_required','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Ισχύος Πιστοποιητικού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartyevaluation.evaluationdate','Ημ/νία Αξιολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartyevaluation.evaluationoutcomeindicator','Έκβαση Αξιολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartyevaluation.evaluationdescr','Περιγρ. Αξιολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transpartyevaluation.comments','Σχόλια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.cooperationstartdate','Ημ/νία Έναρξης Συνεργ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_transpartyentry.jsp.fin_transparty.cooperationenddate','Ημ/νία Λήξης Συνεργ.');

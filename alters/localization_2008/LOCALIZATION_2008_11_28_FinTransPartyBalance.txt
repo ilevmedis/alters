@@ -1,0 +1,17 @@
+﻿fin_supplierfintranspartybalancereport.jsp.roles_criteria = Ρόλοι Συναλλασσόμενων
+fin_supplierfintranspartybalancereport.jsp.issupplier_criteria = Προμηθευτές
+fin_supplierfintranspartybalancereport.jsp.iscreditor_criteria = Πιστωτές
+
+fin_clientfintranspartybalancereport.jsp.roles_criteria = Ρόλοι Συναλλασσόμενων
+fin_clientfintranspartybalancereport.jsp.isclient_criteria = Πελάτες
+fin_clientfintranspartybalancereport.jsp.isinsuranceprovider_criteria = Ασφ.Φορείς
+fin_clientfintranspartybalancereport.jsp.isdebitor_criteria = Οφειλέτες
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierfintranspartybalancereport.jsp.roles_criteria','Ρόλοι Συναλλασσόμενων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierfintranspartybalancereport.jsp.issupplier_criteria','Προμηθευτές');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_supplierfintranspartybalancereport.jsp.iscreditor_criteria','Πιστωτές');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_clientfintranspartybalancereport.jsp.roles_criteria','Ρόλοι Συναλλασσόμενων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_clientfintranspartybalancereport.jsp.isclient_criteria','Πελάτες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_clientfintranspartybalancereport.jsp.isinsuranceprovider_criteria','Ασφ.Φορείς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_clientfintranspartybalancereport.jsp.isdebitor_criteria','Οφειλέτες');

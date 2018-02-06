@@ -1,0 +1,147 @@
+﻿Fin_EventTypeEntry.jsp
+----------------------
+fin_eventtypeentry.jsp.tabs.page1 = Παράμετροι Αξιογράφων
+fin_eventtypeentry.jsp.tabs.page2 = Παράμετροι Γενικής Χρεοπίστωσης
+fin_eventtypeentry.jsp.debitcomponents = Στοιχεία Χρέωσης
+fin_eventtypeentry.jsp.creditcomponents = Στοιχεία Πίστωσης
+
+fin_eventtypeentry.jsp.validations.creditcomponentsrequired = Συμπληρώστε Υποχρεωτικά Οντότητες Πίστωσης
+fin_eventtypeentry.jsp.validations.debitcompanentsrequired = Συμπληρώστε Υποχρεωτικά Οντότητες Χρέωσης
+
+
+Fin_GenericCreditDebitBrowser.jsp
+----------------------------------
+fin_genericcreditdebitbrowser.jsp.pagetitle = Διαχείριση Γενικών Χρεοπιστώσεων
+fin_genericcreditdebitbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+fin_genericcreditdebitbrowser.jsp.griddisplaybox.caption = Χρεοπιστώσεις
+fin_genericcreditdebitbrowser.jsp.fineventtypeid_criteria = Διαδικασία
+fin_genericcreditdebitbrowser.jsp.internaleventno_criteria = Αρ.Κίνησης
+fin_genericcreditdebitbrowser.jsp.sinceinternaleventdate_criteria = Από Ημ/νία Κίνησης
+fin_genericcreditdebitbrowser.jsp.tillinternaleventdate_criteria = Έως Ημ/νία Κίνησης
+fin_genericcreditdebitbrowser.jsp.externaleventtype_criteria = Είδος Παρ/κού
+fin_genericcreditdebitbrowser.jsp.externaleventno_criteria = Αρ.Παραστατικού
+fin_genericcreditdebitbrowser.jsp.sinceexternaleventdate_criteria = Από Ημ/νία Παρ/κού
+fin_genericcreditdebitbrowser.jsp.tillexternaleventdate_criteria = Έως Ημ/νία Παρ/κού
+fin_genericcreditdebitbrowser.jsp.descr_criteria = 
+fin_genericcreditdebitbrowser.jsp.fin_transheader.internaleventdate = Ημ.Κίνησης
+fin_genericcreditdebitbrowser.jsp.fin_transheader.internaleventno = Αρ.Κίνησης
+fin_genericcreditdebitbrowser.jsp.fin_transheader.externaleventtype = Είδος Παρ/κού
+fin_genericcreditdebitbrowser.jsp.fin_transheader.externaleventno = Αρ.Παρ/κού
+fin_genericcreditdebitbrowser.jsp.fin_transheader.externaleventdate = Ημ.Παρ/κού
+fin_genericcreditdebitbrowser.jsp.fin_transheader.descr = Αιτιολογία
+
+
+Fin_GenericCreditDebitEntry.jsp
+----------------------------------
+fin_genericcreditdebitentry.jsp.pagetitle = Καταχώρηση Γενικής Χρεοπίστωσης
+fin_genericcreditdebitentry.jsp.entrydisplaybox.caption = Στοιχεία Χρεοπίστωσης
+fin_genericcreditdebitentry.jsp.fin_transheader.fintransheaderid = Αριθμός Εγγραφής
+fin_genericcreditdebitentry.jsp.fin_transheader.internaleventno = Αριθμός Κίνησης
+fin_genericcreditdebitentry.jsp.fin_event.erpeventtypeid = Διαδικασία Συστήματος
+fin_genericcreditdebitentry.jsp.fin_transheader.fineventtypeid = Κωδικός Κίνησης
+fin_genericcreditdebitentry.jsp.fin_transheader.internaleventdate = Ημ/νία Κίνησης
+fin_genericcreditdebitentry.jsp.fin_transheader.externaleventtype = Είδος-Αριθμός Παρ/κού
+fin_genericcreditdebitentry.jsp.fin_transheader.externaleventdate = Ημ/νία Παρ/κού
+fin_genericcreditdebitentry.jsp.fin_transheader.descr = Αιτιολογία
+fin_genericcreditdebitentry.jsp.tabs.page1 = Χρέωσεις
+fin_genericcreditdebitentry.jsp.tabs.page2 = Πιστώσεις
+fin_genericcreditdebitentry.jsp.fin_transdebit.suppliertransparty = Προμηθευτής
+fin_genericcreditdebitentry.jsp.fin_transdebit.clienttransparty = Πελάτης
+fin_genericcreditdebitentry.jsp.fin_transdebit.accountid = Λογ/σμός Γ.Λ
+fin_genericcreditdebitentry.jsp.fin_transdebit.bankaccountid = Ταμειακός Λογ/σμός
+fin_genericcreditdebitentry.jsp.fin_transdebit.finitemid = Χρεούμενο Είδος
+fin_genericcreditdebitentry.jsp.fin_transdebit.valuekepyo = Αξία ΚΕΠΥΟ
+fin_genericcreditdebitentry.jsp.fin_transdebit.amountdebit = Αξ.Χρέωσης
+fin_genericcreditdebitentry.jsp.fin_transcredit.suppliertransparty = Προμηθευτής
+fin_genericcreditdebitentry.jsp.fin_transcredit.clienttransparty = Πελάτης
+fin_genericcreditdebitentry.jsp.fin_transcredit.accountid = Λογ/σμός Γ.Λ
+fin_genericcreditdebitentry.jsp.fin_transcredit.bankaccountid = Ταμειακός Λογ/σμός
+fin_genericcreditdebitentry.jsp.fin_transcredit.finitemid = Χρεούμενο Είδος
+fin_genericcreditdebitentry.jsp.fin_transcredit.valuekepyo = Αξία ΚΕΠΥΟ
+fin_genericcreditdebitentry.jsp.fin_transcredit.amountdebit = Αξ.Πίστωσης
+fin_genericcreditdebitentry.jsp..nextbutton = Επόμενο >>
+
+fin_genericcreditdebitentry.jsp.validations.internaleventdaterequired = Συμπληρώστε Υποχρεωτικά Ημ/νία Κίνησης
+fin_genericcreditdebitentry.jsp.validations.erpeventtypeidrequired = Συμπληρώστε Υποχρεωτικά Διαδικασία Συστήματος
+fin_genericcreditdebitentry.jsp.validations.amountcreditrequired = Συμπληρώστε Υποχρεωτικά Ποσό Πίστωσης
+fin_genericcreditdebitentry.jsp.validations.amountdebitrequired = Συμπληρώστε Υποχρεωτικά Ποσό Χρέωσης
+fin_genericcreditdebitentry.jsp.validations.credit.component = Πίστωσης
+fin_genericcreditdebitentry.jsp.validations.debit.component = Χρέωσης
+fin_genericcreditdebitentry.jsp.validations.componentvaluerequired = Συμπληρώστε Τουλάχιστον Μία Οντότητα
+fin_genericcreditdebitentry.jsp.validations.more_thanone_comp_filled = Δεν Επιτρέπεται Η Συμπλήρωση Περισσότερων Από Μίας Οντότητας
+fin_genericcreditdebitentry.jsp.validations.totalcredit_notequal_totaldebit = Η Συνολική Χρέωση Διάφορη Της Συνολικής Πίστωσης
+
+
+
+
+Fin_EventTypeEntry.jsp
+----------------------
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.tabs.page1','Παράμετροι Αξιογράφων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.tabs.page2','Παράμετροι Γενικής Χρεοπίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.debitcomponents','Οντότητες Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_eventtypeentry.jsp.creditcomponents','Οντότητες Πίστωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_eventtypeentry.jsp.validations.creditcomponentsrequired','Συμπληρώστε Υποχρεωτικά Οντότητες Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_eventtypeentry.jsp.validations.debitcompanentsrequired','Συμπληρώστε Υποχρεωτικά Οντότητες Χρέωσης');
+
+
+Fin_GenericCreditDebitBrowser.jsp
+---------------------------------
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.pagetitle','Διαχείριση Γενικών Χρεοπιστώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.griddisplaybox.caption','Χρεοπιστώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fineventtypeid_criteria','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.internaleventno_criteria','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.sinceinternaleventdate_criteria','Από Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.tillinternaleventdate_criteria','Έως Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.externaleventtype_criteria','Είδος Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.externaleventno_criteria','Αρ.Παραστατικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.sinceexternaleventdate_criteria','Από Ημ/νία Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.tillexternaleventdate_criteria','Έως Ημ/νία Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fin_transheader.internaleventdate','Ημ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fin_transheader.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fin_transheader.externaleventtype','Είδος Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fin_transheader.externaleventno','Αρ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fin_transheader.externaleventdate','Ημ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitbrowser.jsp.fin_transheader.descr','Αιτιολογία');
+
+
+Fin_GenericCreditDebitEntry.jsp
+---------------------------------
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.pagetitle','Καταχώρηση Γενικής Χρεοπίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.entrydisplaybox.caption','Στοιχεία Χρεοπίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.fintransheaderid','Αριθμός Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.internaleventno','Αριθμός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_event.erpeventtypeid','Διαδικασία Συστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.fineventtypeid','Κωδικός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.internaleventdate','Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.externaleventtype','Είδος-Αριθμός Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.externaleventdate','Ημ/νία Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transheader.descr','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.tabs.page1','Χρεώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.tabs.page2','Πίστώσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.suppliertransparty','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.clienttransparty','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.accountid','Λογ/σμός Γ.Λ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.bankaccountid','Ταμειακός Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.finitemid','Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.valuekepyo','Αξία ΚΕΠΥΟ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transdebit.amountdebit','Αξ.Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.suppliertransparty','Προμηθευτής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.clienttransparty','Πελάτης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.accountid','Λογ/σμός Γ.Λ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.bankaccountid','Ταμειακός Λογ/σμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.finitemid','Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.valuekepyo','Αξία ΚΕΠΥΟ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp.fin_transcredit.amountdebit','Αξ.Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'fin_genericcreditdebitentry.jsp..nextbutton','Επόμενο >>');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.internaleventdaterequired','Συμπληρώστε Υποχρεωτικά Ημ/νία Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.erpeventtypeidrequired','Συμπληρώστε Υποχρεωτικά Διαδικασία Συστήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.amountcreditrequired','Συμπληρώστε Υποχρεωτικά Ποσό Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.amountdebitrequired','Συμπληρώστε Υποχρεωτικά Ποσό Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.credit.component','Πίστωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.debit.component','Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.componentvaluerequired','Συμπληρώστε Τουλάχιστον Μία Οντότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.more_thanone_comp_filled','Δεν Επιτρέπεται Η Συμπλήρωση Περισσότερων Από Μίας Οντότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'fin_genericcreditdebitentry.jsp.validations.totalcredit_notequal_totaldebit','Η Συνολική Χρέωση Διάφορη Της Συνολικής Πίστωσης');

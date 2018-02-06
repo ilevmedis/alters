@@ -1,0 +1,5 @@
+pta_visitadmissionindex.jsp.patientmnemonic_criteria = Μνημ.Ασθενή
+pta_visitadmissionindex.jsp.pta_patient.mnemonic = Μνημ.Ασθ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitadmissionindex.jsp.patientmnemonic_criteria','Μνημ.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitadmissionindex.jsp.pta_patient.mnemonic','Μνημ.Ασθ.');

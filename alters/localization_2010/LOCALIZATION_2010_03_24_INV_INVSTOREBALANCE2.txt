@@ -1,0 +1,7 @@
+inv_invstorebalance2.jsp.validations.invstoreid_required = Συμπληρώστε Υποχρεωτικά Αποθήκη
+
+insert into sys_localization (lang, localizationkey, message, isuserchanged, descr, category)
+  select lang, substr(localizationkey,1,19)||'2'||substr(localizationkey,20,50), message, isuserchanged, descr, category  from sys_localization
+    where sys_localization.localizationkey like 'inv_invstorebalance.jsp%';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_invstorebalance2.jsp.validations.invstoreid_required','Συμπληρώστε Υποχρεωτικά Αποθήκη');

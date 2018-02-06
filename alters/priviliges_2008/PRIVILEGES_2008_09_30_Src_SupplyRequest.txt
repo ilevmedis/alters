@@ -1,0 +1,16 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestbrowser.jsp.view', 'Διαχείριση Αναζητήσεων Προμήθειας (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestbrowser.jsp.print', 'Διαχείριση Αναζητήσεων Προμήθειας (Εκτύπωση)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestbrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestentry.jsp.view', 'Καταχώρηση Αναζήτησης Προμήθειας (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestentry.jsp.print', 'Καταχώρηση Αναζήτησης Προμήθειας (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestentry.jsp.insert', 'Καταχώρηση Αναζήτησης Προμήθειας (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestentry.jsp.update', 'Καταχώρηση Αναζήτησης Προμήθειας (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('src_supplyrequestentry.jsp.delete', 'Καταχώρηση Αναζήτησης Προμήθειας (Διαγραφή)');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (20, 'src_supplyrequestentry.jsp.insert', 1);

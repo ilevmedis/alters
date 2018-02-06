@@ -1,0 +1,13 @@
+pta_waitlistentry.jsp.pta_visitgroup.visitgroupingcode = Κωδικός Ομαδοποίησης
+pta_waitlistentry.jsp.pta_visitgroup.comments = Σχόλια
+pta_waitlistentry.jsp.pta_visitgroupdisplaybox.caption = Στατιστική Κατηγοριοποίηση
+pta_waitlistentry.jsp.tabs.page9 = Στατ. Ομαδοποίηση
+
+pta_waitlistentry.jsp.validations.pta_visitgroup.visitgroupingcoderequired = Συμπληρώστε Υποχρεωτικά Κωδικό Ομαδοποίησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistentry.jsp.pta_visitgroup.visitgroupingcode','Κωδικός Ομαδοποίησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistentry.jsp.pta_visitgroup.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistentry.jsp.pta_visitgroupdisplaybox.caption','Στατιστική Κατηγοριοποίηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_waitlistentry.jsp.tabs.page9','Στατ. Ομαδοποίηση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_waitlistentry.jsp.validations.pta_visitgroup.visitgroupingcoderequired','Συμπληρώστε Υποχρεωτικά Κωδικό Ομαδοποίησης');

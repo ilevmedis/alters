@@ -1,0 +1,83 @@
+﻿pta_bedbrowser.jsp.menuitems.bedbookingbrowser = Κρατήσεις
+pta_bedbrowser.jsp.menuitems.bedbookingentry = Νέα Κράτηση
+pta_bedbrowser.jsp.submitbuttons.bedbooking = Κράτηση Κλίνης
+
+pta_bedbookingbrowser.jsp.pagetitle = Διαχείριση Κρατήσεων
+pta_bedbookingbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_bedbookingbrowser.jsp.griddisplaybox.caption = Κρατήσεις
+pta_bedbookingbrowser.jsp.bedfacilityid_criteria = Κρεββάτι
+pta_bedbookingbrowser.jsp.sincedate_criteria = Από Ημ. Εναρξης Κράτησης
+pta_bedbookingbrowser.jsp.tilldate_criteria = Έως Ημ. Εναρξης Κράτησης
+pta_bedbookingbrowser.jsp.pta_bedbooking.bedbookingid = Κωδικός
+pta_bedbookingbrowser.jsp.pta_bedbooking.sincedate = Ημ.Έναρξης
+pta_bedbookingbrowser.jsp.pta_bedbooking.sincetime = Ώρα
+pta_bedbookingbrowser.jsp.pta_bedbooking.tilldate = Ημ.Λήξης
+pta_bedbookingbrowser.jsp.pta_bedbooking.tilltime = Ώρα
+pta_bedbookingbrowser.jsp.pta_bedbooking.bookingcomments = Σχόλια Κράτησης
+
+pta_bedbookingentry.jsp.pagetitle = Καταχώρηση Κράτησης
+pta_bedbookingentry.jsp.entrydisplaybox.caption = Στοιχεία Κράτησης
+pta_bedbookingentry.jsp.pta_bedbooking.bedbookingid = Κωδικός
+pta_bedbookingentry.jsp.pta_bedbooking.bedfacilityid = Κρεββάτι
+pta_bedbookingentry.jsp.pta_bedbooking.bookingreasonindicator = Αιτιολογία
+pta_bedbookingentry.jsp.pta_bedbooking.sincedate = Από Ημερομηνία
+pta_bedbookingentry.jsp.pta_bedbooking.sincetime = Από Ωρα
+pta_bedbookingentry.jsp.pta_bedbooking.tilldate = Έως Ημερομηνία
+pta_bedbookingentry.jsp.pta_bedbooking.tilltime = Έως Ωρα
+pta_bedbookingentry.jsp.pta_bedbooking.bookingcomments = Σχόλια Κράτησης
+pta_bedbookingentry.jsp.pta_bedbooking.comments = Σχόλια
+
+pta_bedbrowser.jsp.submitbuttons.bedbooking = Κρατήσεις
+
+pta_bedbookingentry.jsp.validations.sincedaterequired = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Κράτησης
+pta_bedbookingentry.jsp.validations.sincetimerequired = Συμπληρώστε Υποχρεωτικά Από Ωρα Κράτησης
+pta_bedbookingentry.jsp.validations.tilldaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Κράτησης
+pta_bedbookingentry.jsp.validations.tilltimerequired = Συμπληρώστε Υποχρεωτικά Έως Ωρα Κράτησης
+pta_bedbookingentry.jsp.validations.bookingreasonindicatorrequired = Συμπληρώστε Υποχρεωτικά Αιτιολογία Κράτησης
+pta_bedbookingentry.jsp.validations.bookingcommentsrequired = Συμπληρώστε Υποχρεωτικά Σχόλια Κράτησης
+
+pta_bedbookingentry.jsp.validations.sincedate_greater_tilldate = Η Από Ημερομηνία Κράτησης Είναι Μεγαλύτερη Από Την Εως! Παρακαλώ Διορθώστε
+pta_bedbookingentry.jsp.validations.sincetime_greater_tilltime = Η Ωρα Έναρξης Κράτησης Είναι Μεγαλύτερη Από Την Ωρα Λήξης! Παρακαλώ Διορθώστε
+pta_bedbookingentry.jsp.validations.bed_already_booked = Επικάλυψη Κράτησης!!! Παρακαλώ Διορθώστε
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.menuitems.bedbookingbrowser','Κρατήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.menuitems.bedbookingentry','Νέα Κράτηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.submitbuttons.bedbooking','Κράτηση Κλίνης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pagetitle','Διαχείριση Κρατήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.griddisplaybox.caption','Κρατήσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.bedfacilityid_criteria','Κρεββάτι');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.sincedate_criteria','Από Ημ. Εναρξης Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.tilldate_criteria','Έως Ημ. Εναρξης Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pta_bedbooking.bedbookingid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pta_bedbooking.sincedate','Ημ.Έναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pta_bedbooking.sincetime','Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pta_bedbooking.tilldate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pta_bedbooking.tilltime','Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingbrowser.jsp.pta_bedbooking.bookingcomments','Σχόλια Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pagetitle','Καταχώρηση Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.entrydisplaybox.caption','Στοιχεία Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.bedbookingid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.bedfacilityid','Κρεββάτι');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.bookingreasonindicator','Αιτιολογία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.sincedate','Από Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.sincetime','Από Ωρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.tilldate','Έως Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.tilltime','Έως Ωρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.bookingcomments','Σχόλια Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbookingentry.jsp.pta_bedbooking.comments','Σχόλια');
+\
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_bedbrowser.jsp.submitbuttons.bedbooking','Κρατήσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.sincedaterequired','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.sincetimerequired','Συμπληρώστε Υποχρεωτικά Από Ωρα Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.tilldaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.tilltimerequired','Συμπληρώστε Υποχρεωτικά Έως Ωρα Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.bookingreasonindicatorrequired','Συμπληρώστε Υποχρεωτικά Αιτιολογία Κράτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.bookingcommentsrequired','Συμπληρώστε Υποχρεωτικά Σχόλια Κράτησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.sincedate_greater_tilldate','Η Από Ημερομηνία Κράτησης Είναι Μεγαλύτερη Από Την Εως! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.sincetime_greater_tilltime','Η Ωρα Έναρξης Κράτησης Είναι Μεγαλύτερη Από Την Ωρα Λήξης! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_bedbookingentry.jsp.validations.bed_already_booked','Επικάλυψη Κράτησης!!! Παρακαλώ Διορθώστε');

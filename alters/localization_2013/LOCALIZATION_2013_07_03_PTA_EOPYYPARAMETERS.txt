@@ -1,0 +1,48 @@
+pta_eopyyparametersentry.jsp.pagetitle = Παράμετροι ΕΟΠΥΥ
+pta_eopyyparametersentry.jsp.entrydisplaybox.caption = Στοιχεία Παραμέτρων ΕΟΠΥΥ
+
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.hospitalname = Επωνυμία Εταιρείας
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.hospitalcode = Κωδ. Εγκατάστασης
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.contractnum_outp = Αρ. Σύμβασης Εξωτερικών
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.contractnum_inp = Αρ. Συμβασης Εσωτερικών
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_servicetype = Ομαδοποίηση ΔΑΠΥ
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_servicecode = Κωδικοποίηση Υπηρεσιών
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_eof = Κωδικοποίηση ΕΟΦ
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_ekapty = Κωδικοποίηση ΕΚΑΠΤΥ
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_paratiritirio = Κωδικοποίηση Παρατηρητηρίου
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_isconnectingtows = Σύνδεση Στο Web Service του eΔΑΠΥ
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_isusingproxy = Σύνδεση Στο Web Service του eΔΑΠΥ Μέσω Proxy
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_proxy = Proxy Server
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_proxyport = Proxy Port
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_username = Χρήστης
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_password = Συνθηματικό
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_digitalcertificatenum = Αριθμός Αναγνώρισης Πιστοποιητικού
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeystorefile = Client Key Store File
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeystorepassword = Client Key Store Password
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeyalias = Client Key Alias
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeypassword = Client Key Password
+pta_eopyyparametersentry.jsp.pta_eopyyparameters.certfile = Αρχείο Πιστοποιητικού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pagetitle','Παράμετροι ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.entrydisplaybox.caption','Στοιχεία Παραμέτρων ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.hospitalname','Επωνυμία Εταιρείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.hospitalcode','Κωδ. Εγκατάστασης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.contractnum_outp','Αρ. Σύμβασης Εξωτερικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.contractnum_inp','Αρ. Συμβασης Εσωτερικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_servicetype','Ομαδοποίηση ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_servicecode','Κωδικοποίηση Υπηρεσιών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_eof','Κωδικοποίηση ΕΟΦ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_ekapty','Κωδικοποίηση ΕΚΑΠΤΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.finitemcodingid_paratiritirio','Κωδικοποίηση Παρατηρητηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_isconnectingtows','Σύνδεση Στο Web Service του eΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_isusingproxy','Σύνδεση Στο Web Service του eΔΑΠΥ Μέσω Proxy');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_proxy','Proxy Server');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_proxyport','Proxy Port');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_password','Συνθηματικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_digitalcertificatenum','Αριθμός Αναγνώρισης Πιστοποιητικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeystorefile','Client Key Store File');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeystorepassword','Client Key Store Password');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeyalias','Client Key Alias ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.eprescr_clientkeypassword','Client Key Password');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_eopyyparametersentry.jsp.pta_eopyyparameters.certfile','Αρχείο Πιστοποιητικού');

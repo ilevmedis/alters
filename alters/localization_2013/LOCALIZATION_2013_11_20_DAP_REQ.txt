@@ -1,0 +1,287 @@
+dap_reqbrowser.jsp.criteriadisplaybox.caption = Διαχείριση Υποβολών ΔΑΠΥ
+dap_reqbrowser.jsp.griddisplaybox.caption = ΔΑΠΥ
+dap_reqbrowser.jsp.sincereqdate_criteria = Από Ημ.Υποβολής
+dap_reqbrowser.jsp.tillreqdate_criteria = Εως Ημ.Υποβολής
+dap_reqbrowser.jsp.descr_criteria = Περιγραφή
+dap_reqbrowser.jsp.reqyear_criteria = Ετος
+dap_reqbrowser.jsp.reqmonth_criteria = Μήνας
+dap_reqbrowser.jsp.dap_reqheader.reqid = Κωδικός
+dap_reqbrowser.jsp.dap_reqheader.reqdate = Ημ.Υποβολής
+dap_reqbrowser.jsp.dap_reqheader.reqyear = Ετος
+dap_reqbrowser.jsp.dap_reqheader.reqmonth = Μήνας
+dap_reqbrowser.jsp.dap_reqheader.descr = Περιγραφή
+
+dap_reqentry.jsp.pagetitle = Υποβολή ΔΑΠΥ
+dap_reqentry.jsp.entrydisplaybox.caption = Στοιχεία Υποβολής
+
+dap_reqentry.jsp.dap_req.reqid = Κωδικός
+dap_reqentry.jsp.dap_req.requesttypeindicator = Είδος Υποβολής
+dap_reqentry.jsp.dap_req.monthyear = Μήνας/'Ετος
+dap_reqentry.jsp.dap_req.invoiceno = Αρ.Τιμολογίου
+dap_reqentry.jsp.dap_req.invoicedate = Ημερομηνία Τιμολογίου
+dap_reqentry.jsp.dap_req.invoicenetvalue = Καθαρή Αξία Τιμολ.
+dap_reqentry.jsp.dap_req.invoicevattvalue = Αξία ΦΠΑ Τιμολ.
+dap_reqentry.jsp.dap_req.descr = Περιγραφή
+
+dap_reqentry.jsp.dap_visit.visitno = Αρ. Εισαγωγής
+dap_reqentry.jsp.dap_visit.admissiondate = Ημ.Εισαγωγής
+dap_reqentry.jsp.dap_visit.dischargedate = Ημ.Εξιτηρίου
+dap_reqentry.jsp.dap_visit.lastname = Επώνυμο
+dap_reqentry.jsp.dap_visit.firstname = Όνομα
+dap_reqentry.jsp.dap_visit.insurancenumber = Αρ.Βιβλιαρίου
+dap_reqentry.jsp.dap_visit.taxregistrationno = ΑΦΜ
+
+dap_reqentry.jsp.visitentrytable.dap_visit.visitno = Αρ.Εισαγωγής
+dap_reqentry.jsp.visitentrytable.dap_visit.visitid = Κωδικός
+dap_reqentry.jsp.visitentrytable.dap_visit.lastname = Επώνυμο
+dap_reqentry.jsp.visitentrytable.dap_visit.firstname = Όνομα
+dap_reqentry.jsp.visitentrytable.dap_visit.insurancenumber = Αρ.Βιβλιαρίου
+dap_reqentry.jsp.visitentrytable.dap_visit.admissiondate = Ημ. Εισαγωγής
+dap_reqentry.jsp.visitentrytable.dap_visit.dischargedate = Ημ. Εξιτηρίου
+
+dap_reqentry.jsp.visitentrytable.dap_visit.dischargeno = Αρ. Εξιτηρίου
+
+dap_reqentry.jsp.visitentrytable.dap_visit.fatherfirstname = Όνομα Πατρός
+dap_reqentry.jsp.visitentrytable.dap_visit.motherfirstname = Όνομα Μητέρας
+dap_reqentry.jsp.visitentrytable.dap_visit.taxregistrationno = ΑΦΜ
+dap_reqentry.jsp.visitentrytable.dap_visit.birthdate = Ημ.Γέννησης
+dap_reqentry.jsp.visitentrytable.dap_visit.genderid = Φύλο
+dap_reqentry.jsp.visitentrytable.dap_visit.idnumber = ΑΔΤ
+
+dap_reqentry.jsp.visitentrytable.dap_visit.address_label = Στοιχεία Επικοινωνίας
+dap_reqentry.jsp.visitentrytable.dap_visit.street = Οδός
+dap_reqentry.jsp.visitentrytable.dap_visit.streetmum = Αρ.
+dap_reqentry.jsp.visitentrytable.dap_visit.zipcode = Τ.Κ
+dap_reqentry.jsp.visitentrytable.dap_visit.prefecturename = Περιοχή
+dap_reqentry.jsp.visitentrytable.dap_visit.municipalityname = Δήμος
+dap_reqentry.jsp.visitentrytable.dap_visit.countryid = Χώρα
+dap_reqentry.jsp.visitentrytable.dap_visit.phonenumber = Τηλέφωνο
+
+dap_reqentry.jsp.visitentrytable.dap_visit.isdirectinsured = Άμεσα Ασφαλισμένος
+dap_reqentry.jsp.visitentrytable.dap_visit.ispatientstaying = Παραμένων
+dap_reqentry.jsp.visitentrytable.dap_visit.approvaldate = Ημ.Έγκρισης
+dap_reqentry.jsp.visitentrytable.dap_visit.insurancelevel = Θέση Κάλυψης
+dap_reqentry.jsp.visitentrytable.dap_visit.insuranceindicator = Τύπος Ασφάλισης
+dap_reqentry.jsp.visitentrytable.dap_visit.patientssn = ΑΜΚΑ
+
+dap_reqentry.jsp.visitentrytable.dap_visit.diagnosiscodeid = Διάγνωση
+dap_reqentry.jsp.visitentrytable.dap_visit.chronicdiagnosiscodeid = Διαγν.Χρόνιας Παθ.
+
+dap_reqentry.jsp.visitentrytable.dap_visit.outcomeindicator = Έκβαση
+dap_reqentry.jsp.visitentrytable.dap_visit.deathindicator = Ένδειξη Θανάτου
+
+dap_reqentry.jsp.visitentrytable.dap_visit.iseannouncement = Έχει Ηλεκτρονική Αναγγελία
+dap_reqentry.jsp.visitentrytable.dap_visit.eannouncementadmissionnum = Αρ.Εισιτ. Ηλ.Αναγγ.
+dap_reqentry.jsp.visitentrytable.dap_visit.eannouncementdischargenum = Αρ.Εξιτ. Ηλ.Αναγγ.
+
+dap_reqentry.jsp.visitentrytable.dap_visit.doctor_label = Στοιχεία Ιατρών
+dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctorsurname = Επώνυμο Ελεγκτή Ιατρού
+dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctorfirstname = Όνομα Ελεγκτή Ιατρού
+dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctorssn = ΑΜΚΑ Ελεγκτή Ιατρού
+dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctortaxno = ΑΦΜ Ελεγκτή Ιατρού
+
+dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctorsurname = Επώνυμο Θεραπ. Ιατρού
+dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctorfirstname = Όνομα Θεραπ. Ιατρού
+dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctorssn = ΑΜΚΑ Θεραπ. Ιατρού
+dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctortaxno = ΑΦΜ Θεραπ. Ιατρού
+
+dap_reqentry.jsp.chargeentrytable.dap_charge.linenum = Α/Α
+dap_reqentry.jsp.chargeentrytable.dap_charge.service = Υπηρεσία
+dap_reqentry.jsp.chargeentrytable.dap_charge.chargedate = Ημ.Χρέωσης
+dap_reqentry.jsp.chargeentrytable.dap_charge.startdate = Ημ.Εναρξης
+dap_reqentry.jsp.chargeentrytable.dap_charge.enddate = Ημ.Λήξης
+dap_reqentry.jsp.chargeentrytable.dap_charge.cliniccode = Κλινική
+dap_reqentry.jsp.chargeentrytable.dap_charge.quacharge = Ποσ.
+dap_reqentry.jsp.chargeentrytable.dap_charge.pricecharge = Τιμή
+dap_reqentry.jsp.chargeentrytable.dap_charge.vatperc = ΦΠΑ
+dap_reqentry.jsp.chargeentrytable.dap_charge.totalvalue = Συν.Αξία
+dap_reqentry.jsp.chargeentrytable.dap_charge.patientperc = Συμμ.Ασθ.
+dap_reqentry.jsp.chargeentrytable.dap_charge.patientvalue = Ποσό Ασθ.
+dap_reqentry.jsp.chargeentrytable.dap_charge.insurancevalue = Ποσό Ασφ.
+
+dap_reqentry.jsp.dap_req.reqdate = Ημ/νία Υποβολής
+dap_reqentry.jsp.dap_reqvisitdisplaybox.caption = Νοσηλείες
+
+dap_reqentry.jsp.visitentrydisplaybox.caption = Στοιχεία Νοσηλείας
+
+dap_reqentry.jsp.chargeentrydisplaybox.caption = Χρεώσεις Νοσηλείας
+
+dap_reqentry.jsp.dap_charge.visit_visitno = Αρ.Εισιτηρίου
+dap_reqentry.jsp.dap_charge.visit_lastname = Επώνυμο
+dap_reqentry.jsp.dap_charge.visit_firstname = Ονομα
+dap_reqentry.jsp.dap_charge.visit_admissiondate = Ημ.Εισαγωγής
+dap_reqentry.jsp.dap_charge.visit_dischargedate = Ημ.Εξιτηρίου
+
+dap_reqentry.jsp.charge_griddisplaybox.caption = Χρεώσεις
+
+dap_chargeentry.jsp.entrydisplaybox.caption = Λοιπά Στοιχεία Χρέωσης
+dap_chargeentry.jsp.pbl_visitcoverdetail.islaparoscopic = Λαπαροσκοπική
+dap_chargeentry.jsp.dap_charge.patientvalue = Αξία Συμμ.Ασθενή
+dap_chargeentry.jsp.dap_charge.cliniccode = Νοσ.Τομέας
+dap_chargeentry.jsp.dap_charge.levelcharge = Θέση Χρέωσης
+dap_chargeentry.jsp.dap_charge.insurancelevel = Θέση Κάλυψης
+dap_chargeentry.jsp.dap_charge.orderdoctorsurname = Επώνυμο Παραγγ. Ιατρ.
+dap_chargeentry.jsp.dap_charge.orderdoctorfirstname = Ονομα Παραγγ. Ιατρ.
+dap_chargeentry.jsp.dap_charge.orderdoctorssn = ΑΜΚΑ Παραγγ. Ιατρ.
+dap_chargeentry.jsp.dap_charge.orderdoctortaxno = ΑΦΜ Παραγγ. Ιατρ.
+dap_chargeentry.jsp.dap_charge.suppliertaxno = ΑΦΜ Προμ.Υγ.Υλικού
+
+dap_reqentry.jsp.validations.dap_visit.diagnosisgroupingid_required = Συμπληρώστε Υποχρεωτικά Κωδικοποίηση Διάγνωσης Εισόδου
+dap_reqentry.jsp.validations.dap_visit.diagnosiscodeid_required = Συμπληρώστε Υποχρεωτικά Διάγνωση Εισόδου
+dap_reqentry.jsp.validations.dap_charge.chargedate_lessthan_admissiondate = Η Ημ/νία Χρέωσης Είναι Μικρότερη Από την Ημ/νία Εισόδου. Παρακαλώ Διορθώστε!
+dap_reqentry.jsp.messages.dap_charge_linenumber = A/A
+dap_reqentry.jsp.validations.dap_charge.chargedate_greaterthan_dischargedate = Η Ημ/νία Χρέωσης Είναι Μεγαλύτερη Από Την Ημ/νία Εξόδου. Παρακαλώ Διορθώστε!
+dap_reqentry.jsp.validations.reqdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Υποβολής
+dap_reqentry.jsp.validations.requesttypeindicator_required = Συμπληρώστε Υποχρεωτικά Τύπο Υποβολής
+dap_reqentry.jsp.validations.reqmonth_required = Συμπληρώστε Υποχρεωτικά Μήνα Υποβολής
+dap_reqentry.jsp.validations.reqyear_required = Συμπληρώστε Υποχρεωτικά Ετος Υποβολής
+dap_reqentry.jsp.validations.descr_required = Συμπληρώστε Υποχρεωτικά Περιγραφή Υποβολής
+dap_reqentry.jsp.validations.dap_visit.visitno_required = Συμπληρώστε Υποχρεωτικά Αρ. Εισιτηρίου
+dap_reqentry.jsp.validations.dap_visit.lastname_required = Συμπληρώστε Υποχρεωτικά Επώνυμο Ασθενή
+dap_reqentry.jsp.validations.dap_visit.firstname_required = Συμπληρώστε Υποχρεωτικά Όνομα Ασθενή
+dap_reqentry.jsp.validations.dap_visit.admissiondate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Εισόδου
+dap_reqentry.jsp.validations.dap_visit.genderid_required = Συμπληρώστε Υποχρεωτικά Φύλο
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.criteriadisplaybox.caption','Διαχείριση Υποβολών ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.griddisplaybox.caption','ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.sincereqdate_criteria','Από Ημ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.tillreqdate_criteria','Εως Ημ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.reqyear_criteria','Ετος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.reqmonth_criteria','Μήνας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.dap_reqheader.reqid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.dap_reqheader.reqdate','Ημ.Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.dap_reqheader.reqyear','Ετος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.dap_reqheader.reqmonth','Μήνας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqbrowser.jsp.dap_reqheader.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.pagetitle','Υποβολή ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.entrydisplaybox.caption','Στοιχεία Υποβολής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.reqid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.requesttypeindicator','Είδος Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.monthyear','Μήνας/Ετος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.invoiceno','Αρ.Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.invoicedate','Ημερομηνία Τιμολογίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.invoicenetvalue','Καθαρή Αξία Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.invoicevattvalue','Αξία ΦΠΑ Τιμολ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.descr','Περιγραφή');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.visitno','Αρ. Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.admissiondate','Ημ.Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.dischargedate','Ημ.Εξιτηρίου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.insurancenumber','Αρ.Βιβλιαρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_visit.taxregistrationno','ΑΦΜ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.visitno','Αρ.Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.visitid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.insurancenumber','Αρ.Βιβλιαρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.admissiondate','Ημ. Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.dischargedate','Ημ. Εξιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.dischargeno','Αρ. Εξιτηρίου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.fatherfirstname','Όνομα Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.motherfirstname','Όνομα Μητέρας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.taxregistrationno','ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.birthdate','Ημ.Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.genderid','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.idnumber','ΑΔΤ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.address_label','Στοιχεία Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.street','Οδός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.streetmum','Αρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.zipcode','Τ.Κ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.prefecturename','Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.municipalityname','Δήμος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.phonenumber','Τηλέφωνο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.isdirectinsured','Άμεσα Ασφαλισμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.ispatientstaying','Παραμένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.approvaldate','Ημ.Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.insurancelevel','Θέση Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.insuranceindicator','Τύπος Ασφάλισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.patientssn','ΑΜΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.diagnosiscodeid','Διάγνωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.chronicdiagnosiscodeid','Διαγν.Χρόνιας Παθ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.outcomeindicator','Έκβαση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.deathindicator','Ένδειξη Θανάτου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.iseannouncement','Έχει Ηλεκτρονική Αναγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.eannouncementadmissionnum','Αρ.Εισιτ. Ηλ.Αναγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.eannouncementdischargenum','Αρ.Εξιτ. Ηλ.Αναγγ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.doctor_label','Στοιχεία Ιατρών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctorsurname','Επώνυμο Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctorfirstname','Όνομα Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctorssn','ΑΜΚΑ Ελεγκτή Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.approvaldoctortaxno','ΑΦΜ Ελεγκτή Ιατρού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctorsurname','Επώνυμο Θεραπ. Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctorfirstname','Όνομα Θεραπ. Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctorssn','ΑΜΚΑ Θεραπ. Ιατρού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrytable.dap_visit.attendingdoctortaxno','ΑΦΜ Θεραπ. Ιατρού');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.linenum','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.service','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.chargedate','Ημ.Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.startdate','Ημ.Εναρξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.enddate','Ημ.Λήξης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.cliniccode','Κλινική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.quacharge','Ποσ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.pricecharge','Τιμή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.vatperc','ΦΠΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.totalvalue','Συν.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.patientperc','Συμμ.Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.patientvalue','Ποσό Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrytable.dap_charge.insurancevalue','Ποσό Ασφ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_req.reqdate','Ημ/νία Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_reqvisitdisplaybox.caption','Νοσηλείες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.visitentrydisplaybox.caption','Στοιχεία Νοσηλείας');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.chargeentrydisplaybox.caption','Χρεώσεις Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_charge.visit_visitno','Αρ.Εισιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_charge.visit_lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_charge.visit_firstname','Ονομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_charge.visit_admissiondate','Ημ.Εισαγωγής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.dap_charge.visit_dischargedate','Ημ.Εξιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_reqentry.jsp.charge_griddisplaybox.caption','Χρεώσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.diagnosisgroupingid_required','Συμπληρώστε Υποχρεωτικά Κωδικοποίηση Διάγνωσης Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.diagnosiscodeid_required','Συμπληρώστε Υποχρεωτικά Διάγνωση Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_charge.chargedate_lessthan_admissiondate','Η Ημ/νία Χρέωσης Είναι Μικρότερη Από την Ημ/νία Εισόδου. Παρακαλώ Διορθώστε!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.messages.dap_charge_linenumber','A/A');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_charge.chargedate_greaterthan_dischargedate','Η Ημ/νία Χρέωσης Είναι Μεγαλύτερη Από Την Ημ/νία Εξόδου. Παρακαλώ Διορθώστε!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.reqdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.requesttypeindicator_required','Συμπληρώστε Υποχρεωτικά Τύπο Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.reqmonth_required','Συμπληρώστε Υποχρεωτικά Μήνα Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.reqyear_required','Συμπληρώστε Υποχρεωτικά Ετος Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.descr_required','Συμπληρώστε Υποχρεωτικά Περιγραφή Υποβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.visitno_required','Συμπληρώστε Υποχρεωτικά Αρ. Εισιτηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.lastname_required','Συμπληρώστε Υποχρεωτικά Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.firstname_required','Συμπληρώστε Υποχρεωτικά Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.admissiondate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Εισόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'dap_reqentry.jsp.validations.dap_visit.genderid_required','Συμπληρώστε Υποχρεωτικά Φύλο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.entrydisplaybox.caption','Λοιπά Στοιχεία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.pbl_visitcoverdetail.islaparoscopic','Λαπαροσκοπική');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.patientvalue','Αξία Συμμ.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.cliniccode','Νοσ.Τομέας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.levelcharge','Θέση Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.insurancelevel','Θέση Κάλυψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.orderdoctorsurname','Επώνυμο Παραγγ. Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.orderdoctorfirstname','Ονομα Παραγγ. Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.orderdoctorssn','ΑΜΚΑ Παραγγ. Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.orderdoctortaxno','ΑΦΜ Παραγγ. Ιατρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'dap_chargeentry.jsp.dap_charge.suppliertaxno','ΑΦΜ Προμ.Υγ.Υλικού');

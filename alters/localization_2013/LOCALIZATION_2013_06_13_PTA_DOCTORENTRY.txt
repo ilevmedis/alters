@@ -1,0 +1,3 @@
+ pta_doctorentry.jsp.pta_doctor.workrelationindicator = Σχέση Εργασίας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_doctorentry.jsp.pta_doctor.workrelationindicator','Σχέση Εργασίας');

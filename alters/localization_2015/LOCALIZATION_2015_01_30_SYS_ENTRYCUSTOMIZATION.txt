@@ -1,0 +1,5 @@
+sys_entrycustomization.jsp.additionalfield.noofrows = Αρ.Γραμμών
+sys_entrycustomization.jsp.additionalfield.noofcolumns = Αρ.Στηλών
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.additionalfield.noofrows','Αρ.Γραμμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_entrycustomization.jsp.additionalfield.noofcolumns','Αρ.Στηλών');

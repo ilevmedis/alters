@@ -1,0 +1,62 @@
+--pbl_chargecopy.jsp
+pbl_chargecopy.jsp.pagetitle = Αντιγραφή Χρεώσεων
+pbl_chargecopy.jsp.entrydisplaybox.caption = Στοιχεία Αντιγραφής Χρέωσης
+
+pbl_chargecopy.jsp.erp_eventtype.mnemonic = Διαδικασία
+pbl_chargecopy.jsp.pbl_eventtype.mnemonic = Κωδ.Κίνησης
+pbl_chargecopy.jsp.pbl_chargeheader.chargedate = Ημ/νία Χρέωσης
+pbl_chargecopy.jsp.pbl_chargeheader.servicedate = Ημ/νία Παροχής
+pbl_chargecopy.jsp.pbl_chargeheader.externaleventtype = Είδος-Αρ.Παρ/κού
+pbl_chargecopy.jsp.pbl_chargeheader.externaleventdate = Ημ/νία Παρ/κού
+pbl_chargecopy.jsp.pbl_chargeheader.comments = Σχόλια
+pbl_chargecopy.jsp.pbl_chargedetail.finitemid = Υπηρεσία
+pbl_chargecopy.jsp.pbl_chargedetail.quacharge = Ποσότητα
+pbl_chargecopy.jsp.pta_visitgroup.visitgroupingcode = Ομαδοποίηση Νοσηλείας
+
+pbl_chargecopy.jsp.message.pta_visit.mnemonic = Αρ.Εισ:
+pbl_chargecopy.jsp.message.process_completed_successfully = Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία
+pbl_chargecopy.jsp.message.process_uncompleted = Η Διαδικασία Απέτυχε!!!
+
+pbl_chargecopy.jsp.validations.chargedaterequired = Συμπληρώστε Υποχρεωτικά Ημ/νία Χρέωσης
+pbl_chargecopy.jsp.validations.erpeventtyperequired = Συμπληρώστε Υποχρεωτικά Διαδικασία
+pbl_chargecopy.jsp.validations.finitemidrequired = Συμπληρώστε Υποχρεωτικά Υπηρεσία
+pbl_chargecopy.jsp.validations.quachargerequired = Συμπληρώστε Υποχρεωτικά Ποσότητα
+
+pbl_chargecopy.jsp.validations.invaliddate = Ημερομηνία Χρέωσης Εκτός Ημερομηνιών Νοσηλείας
+pbl_chargecopy.jsp.validations.invalid_date_biblio = Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών
+pbl_chargecopy.jsp.validations.invalid_servicedate = Ημερομηνία Παροχής Εκτός Ημερομηνιών Νοσηλείας
+pbl_chargecopy.jsp.validations.visitgroupingidrequired = Συμπληρώστε Υποχρεωτικά Ομαδοποίηση Νοσηλείας
+pbl_chargecopy.jsp.validations.visitgroupingcoderequired = Συμπληρώστε Υποχρεωτικά Κωδικό Ομάδας Νοσηλείας
+pbl_chargecopy.jsp.validations.no_visit_found_for_visitgroup = Δεν Βρέθηκαν Νοσηλείες Στην Συγκεκριμένη Ομαδοποίηση!!!
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pagetitle','Αντιγραφή Χρεώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.entrydisplaybox.caption','Στοιχεία Αντιγραφής Χρέωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.erp_eventtype.mnemonic','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargeheader.chargedate','Ημ/νία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargeheader.servicedate','Ημ/νία Παροχής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargeheader.externaleventtype','Είδος-Αρ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargeheader.externaleventdate','Ημ/νία Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargeheader.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargedetail.finitemid','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pbl_chargedetail.quacharge','Ποσότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.pta_visitgroup.visitgroupingcode','Ομαδοποίηση Νοσηλείας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.message.pta_visit.mnemonic','Αρ.Εισ:');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.message.process_completed_successfully','Η Διαδικασία Ολοκληρώθηκε Με Επιτυχία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargecopy.jsp.message.process_uncompleted','Η Διαδικασία Απέτυχε!!!');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.chargedaterequired','Συμπληρώστε Υποχρεωτικά Ημ/νία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.erpeventtyperequired','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.finitemidrequired','Συμπληρώστε Υποχρεωτικά Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.quachargerequired','Συμπληρώστε Υποχρεωτικά Ποσότητα');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.invaliddate','Ημερομηνία Χρέωσης Εκτός Ημερομηνιών Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.invalid_date_biblio','Η Ημερομηνία Δεν Είναι Έγκυρη Ως Προς Την Τελευταία Ημερομηνία Εκτύπωσης Βιβλίου Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.invalid_servicedate','Ημερομηνία Παροχής Εκτός Ημερομηνιών Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.visitgroupingidrequired','Συμπληρώστε Υποχρεωτικά Ομαδοποίηση Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.visitgroupingcoderequired','Συμπληρώστε Υποχρεωτικά Κωδικό Ομάδας Νοσηλείας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargecopy.jsp.validations.no_visit_found_for_visitgroup','Δεν Βρέθηκαν Νοσηλείες Στην Συγκεκριμένη Ομαδοποίηση!!!');

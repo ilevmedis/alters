@@ -1,0 +1,137 @@
+﻿sys_additionalfieldbrowser.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+sys_additionalfieldbrowser.jsp.descr_criteria = Περιγραφή
+sys_additionalfieldbrowser.jsp.isactive_criteria = Ενεργή Εγγραφή
+sys_additionalfieldbrowser.jsp.sys_additionalfield.additionalfieldid = Κωδικός Εγγραφής
+sys_additionalfieldbrowser.jsp.sys_additionalfield.mnemonic = Μνημονικός Κωδικός
+sys_additionalfieldbrowser.jsp.sys_additionalfield.descr = Περιγραφή
+sys_additionalfieldbrowser.jsp.sys_additionalfield.isactive = Ενεργή
+sys_additionalfieldbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_additionalfieldbrowser.jsp.griddisplaybox.caption = Πρόσθετα Πεδία Φορμών
+sys_additionalfieldbrowser.jsp.pagetitle = Διαχείριση Πρόσθετων Πεδίων Φορμών
+
+sys_additionalfieldentry.jsp.validations.mnemonicrequired = Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό
+sys_additionalfieldentry.jsp.validations.descrrequired = Συμπληρώστε Υποχρεωτικά Περιγραφή
+sys_additionalfieldentry.jsp.validations.datatypeindicatorrequired = Συμπληρώστε Υποχρεωτικά Τύπο Δεδομένων
+
+sys_additionalfieldentry.jsp.sys_additionalfield.additionalfieldid = Κωδ.Εγγραφής
+sys_additionalfieldentry.jsp.sys_additionalfield.mnemonic = Μνημονικός Κωδικός
+sys_additionalfieldentry.jsp.sys_additionalfield.descr = Περιγραφή
+sys_additionalfieldentry.jsp.sys_additionalfield.isactive = Ενεργή Εγγραφή
+sys_additionalfieldentry.jsp.sys_additionalfield.datatypeindicator = Τύπος Δεδομένων
+sys_additionalfieldentry.jsp.sys_additionalfield.scale = Ακρίβεια Δεκαδικών
+sys_additionalfieldentry.jsp.sys_additionalfield.componenttype = Είδος Component Συμπλήρωσης
+sys_additionalfieldentry.jsp.sys_additionalfield.lookupcomponent = Lookup Επιλογής
+sys_additionalfieldentry.jsp.sys_additionalfield.defaultisrequired = Προεπιλεγμένη Τιμή Υποχρεωτικότητας Πεδίου
+sys_additionalfieldentry.jsp.sys_additionalfield.ismetadatadropdown = Drop down list Που Παίρνει Τιμές Από Τον SYS_METADATA
+sys_additionalfieldentry.jsp.sys_additionalfield.sysmetadataid = Κωδικός Πίνακα SYS_METADATA Λήψης Τιμών
+sys_additionalfieldentry.jsp.sys_additionalfield.sysmetadatasincevalue = Από Τιμή Επιλογής
+sys_additionalfieldentry.jsp.sys_additionalfield.sysmetadatatillvalue = Έως Τιμή Επιλογής
+sys_additionalfieldentry.jsp.sys_additionalfield.dropdowntablename = Όνομα Πίνακα Λήψης Τιμών
+sys_additionalfieldentry.jsp.sys_additionalfield.dropdowntablecriteria = Φίλτρο Λήψης Εγγραφών Πίνακα
+sys_additionalfieldentry.jsp.sys_additionalfield.dropdownkeycolumn = Πεδίο Πίνακα Κλειδιού
+sys_additionalfieldentry.jsp.sys_additionalfield.dropdowndisplaycolumn = Πεδίο Πίνακα Προβολής
+sys_additionalfieldentry.jsp.sys_additionalfield.isdropdowncompanydepended = Φιλτράρισμα Εγγραφών Με Κριτήριο Την Εταιρεία
+sys_additionalfieldentry.jsp.sys_additionalfield.isdropdownfyeardepended = Φιλτράρισμα Εγγραφών Με Κριτήριο Το Έτος
+sys_additionalfieldentry.jsp.sys_additionalfield.componentsize = Μέγεθος Πεδίου Συμπλήρωσης
+sys_additionalfieldentry.jsp.sys_additionalfield.maxlength = Μέγιστο Μέγεθος Πεδίου Συμπλήρωσης
+sys_additionalfieldentry.jsp.sys_additionalfield.defaultwidth = Προεπιλεγμένο Πλάτος Πεδίου
+sys_additionalfieldentry.jsp.sys_additionalfield.defaultheight = Προεπιλεγμένο Ύψος Πεδίου
+sys_additionalfieldentry.jsp.entrydisplaybox.caption = Στοιχεία Πρόσθετου Πεδίου
+sys_additionalfieldentry.jsp.pagetitle = Καταχώρηση Πρόσθετου Πεδίου Φόρμας
+
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_double = Για Πραγματικό Αριθμό Μόνο Decimal Edit Αντικείμενο Επιτρέπεται
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_longtext = Για Μεγάλο Κείμενο Μόνο Text Area Αντικείμενο Επτρέπεται
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_object = Για Εικόνες Και Αντικείμενα Μόνο Η Επιλογή File Selection Επιτρέπετεαι
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_int = Για Ακέραιους Αριθμούς Επιτρέπεται Μόνο Η Επιλογή Αντικειμένων TextEdit Και DropDownList
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_string = Για Αλφαριθμητικούς Χαρακτήρες Επιτρέπονται Μόνο Τα Αντικείμενα TextEdit,TextArea,DropDown και Lookup
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_date = Για Ημερομηνίες Επιτρέπεται Μόνο Το Αντικείμενο DateEdit
+sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_richtext = Για Κείμενα Με Διαμόρφωση Επιτρέπεται Μόνο Το Αντικείμενο FCKEditor
+sys_additionalfieldentry.jsp.validations.sys_additionalfield.sysmetadataidrequired = Συμπληρώστε Υποχρεωτικά Κωδικό Πίνακα SYS_METADATA για λήψη τιμών
+sys_additionalfieldentry.jsp.validations.sys_additionalfield.dropdowntablenamerequired = Συμπληρώστε Υποχρεωτικά Όνομα Πίνακα Λήψης Τιμών
+sys_additionalfieldentry.jsp.validations.sys_additionalfield.dropdownkeycolumnrequired = Συμπληρώστε Υποχρεωτικά Πεδίο Πίνακα Κλειδιού
+sys_additionalfieldentry.jsp.validations.sys_additionalfield.dropdowndisplaycolumnrequired = Συμπληρώστε Υποχρεωτικά Πεδίο Προβολής Πίνακα
+sys_additionalfieldentry.jsp.validations.sys_additionalfield.lookupcomponentrequired = Συμπληρώστε Υποχρεωτικά Lookup Επιλογής
+sys_additionalfieldentry.jsp.validations.issysmetadatadropdown_check = Δεν Επιτρέπεται Η Ενεργοποιήση Της Επιλογή Τιμών DropDown Από SYS_METADATA
+sys_additionalfieldentry.jsp.validations.sysmetadataid_filled = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδιου Κωδικού Πίνακα SYS_METADATA Λήψης Τιμών
+sys_additionalfieldentry.jsp.validations.sysmetadatasincevalue_filled = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Από Τιμή Επιλογής
+sys_additionalfieldentry.jsp.validations.sysmetadatatillvalue = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Έως Τιμή Επιλογής
+sys_additionalfieldentry.jsp.validations.dropdowntablename_filled = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδιου Όνομα Πίνακα Λήψης Τιμών
+sys_additionalfieldentry.jsp.validations.dropdowntablecriteria_filled = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Φίλτρο Λήψης Εγγραφών Πίνακα
+sys_additionalfieldentry.jsp.validations.dropdowncolumn_filled = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Πεδίο Κλειδιού Πίνακα
+sys_additionalfieldentry.jsp.validations.dropdownlistdisplaycolumn_filled = Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Πεδίο Προβολής Πίνακα
+sys_additionalfieldentry.jsp.validations.isdropdowncompanydepended_filled = Δεν Επιτρέπεται Η Ενεργοποίηση Φιλτράρισμα Εγγραφών Με Κριτήριο Την Εταιρία
+sys_additionalfieldentry.jsp.validations.isdropdownfyeardepended_filled = Δεν Επιτρέπεται Η Ενεργοποίησης Φίλτράρισμα Εγγραφών Με Κριτήριο Το Έτος
+sys_additionalfieldentry.jsp.validations.sys_additionalfield.componenttyperequired = Συμπληρώστε Υποχρεωτικά Είδος Αντικειμένου
+sys_additionalfieldentry.jsp.validations.table_filled = Δεν Επιτρέπεται Η Συμπλήρωση Στοιχείων Πίνακα
+sys_additionalfieldentry.jsp.validations.sysmetadata_filled = Δεν Επιτρέπεται Η Συμπλήρωση Στοιχείων SYS_METADATA
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.isactive_criteria','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.sys_additionalfield.additionalfieldid','Κωδικός Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.sys_additionalfield.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.sys_additionalfield.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.sys_additionalfield.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.griddisplaybox.caption','Πρόσθετα Πεδία Φορμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldbrowser.jsp.pagetitle','Διαχείριση Πρόσθετων Πεδίων Φορμών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.additionalfieldid','Κωδ.Εγγραφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.descr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.isactive','Ενεργή Εγγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.datatypeindicator','Τύπος Δεδομένων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.scale','Ακρίβεια Δεκαδικών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.componenttype','Είδος Component Συμπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.lookupcomponent','Lookup Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.defaultisrequired','Προεπιλεγμένη Τιμή Υποχρεωτικότητας Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.ismetadatadropdown','Drop down list Που Παίρνει Τιμές Από Τον SYS_METADATA');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.sysmetadataid','Κωδικός Πίνακα SYS_METADATA Λήψης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.sysmetadatasincevalue','Από Τιμή Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.sysmetadatatillvalue','Έως Τιμή Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.dropdowntablename','Όνομα Πίνακα Λήψης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.dropdowntablecriteria','Φίλτρο Λήψης Εγγραφών Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.dropdownkeycolumn','Πεδίο Πίνακα Κλειδιού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.dropdowndisplaycolumn','Πεδίο Πίνακα Προβολής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.isdropdowncompanydepended','Φιλτράρισμα Εγγραφών Με Κριτήριο Την Εταιρεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.isdropdownfyeardepended','Φιλτράρισμα Εγγραφών Με Κριτήριο Το Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.componentsize','Μέγεθος Πεδίου Συμπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.maxlength','Μέγιστο Μέγεθος Πεδίου Συμπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.defaultwidth','Προεπιλεγμένο Πλάτος Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.sys_additionalfield.defaultheight','Προεπιλεγμένο Ύψος Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.entrydisplaybox.caption','Στοιχεία Πρόσθετου Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_additionalfieldentry.jsp.pagetitle','Καταχώρηση Πρόσθετου Πεδίου Φόρμας');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_double','Για Πραγματικό Αριθμό Μόνο Decimal Edit Αντικείμενο Επιτρέπεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_longtext','Για Μεγάλο Κείμενο Μόνο Text Area Αντικείμενο Επτρέπεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_object','Για Εικόνες Και Αντικείμενα Μόνο Η Επιλογή File Selection Επιτρέπετεαι');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_int','Για Ακέραιους Αριθμούς Επιτρέπεται Μόνο Η Επιλογή Αντικειμένων TextEdit Και DropDownList');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_string','Για Αλφαριθμητικούς Χαρακτήρες Επιτρέπονται Μόνο Αντικείμενα TextEdit,TextArea,DropDown και Lookup');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_date','Για Ημερομηνίες Επιτρέπεται Μόνο Το Αντικείμενο DateEdit');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.incorrect_componenttype_for_datatype_richtext','Για Κείμενα Με Διαμόρφωση Επιτρέπεται Μόνο Το Αντικείμενο FCKEditor');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sys_additionalfield.sysmetadataidrequired','Συμπληρώστε Υποχρεωτικά Κωδικό Πίνακα SYS_METADATA για λήψη τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sys_additionalfield.dropdowntablenamerequired','Συμπληρώστε Υποχρεωτικά Όνομα Πίνακα Λήψης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sys_additionalfield.dropdownkeycolumnrequired','Συμπληρώστε Υποχρεωτικά Πεδίο Πίνακα Κλειδιού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sys_additionalfield.dropdowndisplaycolumnrequired','Συμπληρώστε Υποχρεωτικά Πεδίο Προβολής Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sys_additionalfield.lookupcomponentrequired','Συμπληρώστε Υποχρεωτικά Lookup Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.issysmetadatadropdown_check','Δεν Επιτρέπεται Η Ενεργοποιήση Της Επιλογή Τιμών DropDown Από SYS_METADATA');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sysmetadataid_filled','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδιου Κωδικού Πίνακα SYS_METADATA Λήψης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sysmetadatasincevalue_filled','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Από Τιμή Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sysmetadatatillvalue','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Έως Τιμή Επιλογής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.dropdowntablename_filled','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδιου Όνομα Πίνακα Λήψης Τιμών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.dropdowntablecriteria_filled','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Φίλτρο Λήψης Εγγραφών Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.dropdowncolumn_filled','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Πεδίο Κλειδιού Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.dropdownlistdisplaycolumn_filled','Δεν Επιτρέπεται Η Συμπλήρωση Του Πεδίου Πεδίο Προβολής Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.isdropdowncompanydepended_filled','Δεν Επιτρέπεται Η Ενεργοποίηση Φιλτράρισμα Εγγραφών Με Κριτήριο Την Εταιρία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.isdropdownfyeardepended_filled','Δεν Επιτρέπεται Η Ενεργοποίησης Φίλτράρισμα Εγγραφών Με Κριτήριο Το Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sys_additionalfield.componenttyperequired','Συμπληρώστε Υποχρεωτικά Είδος Αντικειμένου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.table_filled','Δεν Επιτρέπεται Η Συμπλήρωση Στοιχείων Πίνακα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.sysmetadata_filled','Δεν Επιτρέπεται Η Συμπλήρωση Στοιχείων SYS_METADATA');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.mnemonicrequired','Συμπληρώστε Υποχρεωτικά Μνημονικό Κωδικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.descrrequired','Συμπληρώστε Υποχρεωτικά Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'sys_additionalfieldentry.jsp.validations.datatypeindicatorrequired','Συμπληρώστε Υποχρεωτικά Τύπο Δεδομένων');

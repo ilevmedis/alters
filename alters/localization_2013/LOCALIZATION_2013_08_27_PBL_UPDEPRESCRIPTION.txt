@@ -1,0 +1,37 @@
+pbl_updeprescription.jsp.pagetitle = Ενημέρωση eΔΑΠΥ Εξωτερικών Μέσω Web Service
+pbl_updeprescription.jsp.griddisplaybox.caption = Δεδομένα Ενημέρωσης
+pbl_updeprescription.jsp.pbl_chargeheader.chargedate = Ημ/νία Χρέωσης
+pbl_updeprescription.jsp.pta_visit.mnemonic = Μνημ. Κωδ. Περιστ.
+pbl_updeprescription.jsp.pta_visit.lastname = Επώνυμο Ασθενή
+pbl_updeprescription.jsp.pta_visit.firstname = Όνομα Ασθενή
+pbl_updeprescription.jsp.pbl_chargeheader.referenceno = Αρ. Ηλ. Παραπ.
+pbl_updeprescription.jsp.isinvoiced = Τιμολογ.
+pbl_updeprescription.jsp.isssnok = ΑΜΚΑ ΟΚ
+pbl_updeprescription.jsp.isinsurancenumberok = Αρ.Μητρ. Ασφ. ΟΚ
+pbl_updeprescription.jsp.isdapycodesok = Κωδ. ΔΑΠΥ ΟΚ
+
+pbl_updeprescription.jsp.validations.dapycodes_notok = Πρόβλημα Στην Αντιστοίχιση Κωδικών ΔΑΠΥ
+pbl_updeprescription.jsp.validations.dapycode_not_found = Δεν Βρέθηκε Το Είδος Με Κωδικό ΔΑΠΥ
+pbl_updeprescription.jsp.validations.insurancenumber_notok = Ο Αριθμός Μητρώου Ασφάλισης Δεν Είναι Συμπληρωμένος
+pbl_updeprescription.jsp.validations.ssn_notok = Ο ΑΜΚΑ Δεν Είναι Συμπληρωμένος
+pbl_updeprescription.jsp.validations.invoiced_notok = Το Περιστατικό Δεν Είναι Τιμολογημένο
+pbl_updeprescription.jsp.messages.update_complete = Οι Ενημερώσεις Ολοκληρώθηκαν
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pagetitle','Ενημέρωση eΔΑΠΥ Εξωτερικών Μέσω Web Service');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.griddisplaybox.caption','Δεδομένα Ενημέρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_chargeheader.chargedate','Ημ/νία Χρέωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pta_visit.mnemonic','Μνημ. Κωδ. Περιστ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pta_visit.lastname','Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pta_visit.firstname','Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.pbl_chargeheader.referenceno','Αρ. Ηλ. Παραπ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.isinvoiced','Τιμολογ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.isssnok','ΑΜΚΑ ΟΚ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.isinsurancenumberok','Αρ.Μητρ. Ασφ. ΟΚ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.isdapycodesok','Κωδ. ΔΑΠΥ ΟΚ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_updeprescription.jsp.messages.update_complete','Οι Ενημερώσεις Ολοκληρώθηκαν');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updeprescription.jsp.validations.dapycodes_notok','Πρόβλημα Στην Αντιστοίχιση Κωδικών ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updeprescription.jsp.validations.dapycode_not_found','Δεν Βρέθηκε Το Είδος Με Κωδικό ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updeprescription.jsp.validations.insurancenumber_notok','Ο Αριθμός Μητρώου Ασφάλισης Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updeprescription.jsp.validations.ssn_notok','Ο ΑΜΚΑ Δεν Είναι Συμπληρωμένος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_updeprescription.jsp.validations.invoiced_notok','Το Περιστατικό Δεν Είναι Τιμολογημένο');

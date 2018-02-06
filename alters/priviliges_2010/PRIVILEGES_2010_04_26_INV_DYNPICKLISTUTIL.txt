@@ -1,0 +1,3 @@
+insert into sys_privilege(privilegeid, descr) values ('inv_dynpicklistutil.jsp.view', 'Μαζική Ενημέρωση Pick Lists');
+
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (7, 'inv_dynpicklistutil.jsp.view', 1);

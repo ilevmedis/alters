@@ -1,0 +1,31 @@
+pta_parametersentry.jsp.pta_parameters.ssncheck = Κατάσταση Ελέγχου ΑΜΚΑ
+pta_parametersentry.jsp.validations.pta_parameters.ssncheckrequired = Συμπληρώστε Υποχρεωτικά Κατάσταση Ελέγχου ΑΜΚΑ
+
+pta_visitentry.jsp.message.patient_ssn = (Ασθενής)
+pta_visitentry.jsp.message.direct_ssn = (Αμεσα Ασφαλισμένος)
+pta_visitentry.jsp.message.approvaldoctorcode_ssn = (Ελεγκτής Ιατρός)
+
+pta_oupvisitentry.jsp.message.patient_ssn = (Ασθενής)
+pta_oupvisitentry.jsp.message.direct_ssn = (Αμεσα Ασφαλισμένος)
+pta_oupvisitentry.jsp.message.orderdoctorcode_ssn = (Συνταγογράφος Ιατρός)
+pta_oupvisitentry.jsp.message.approvaldoctorcode_ssn = (Ελεγκτής Ιατρός)
+
+pta_amkachecker.validations.incorrect_legth_for_ssn = Το Μέγεθος Του ΑΜΚΑ Είναι Λάθος
+pta_amkachecker.validations.notnumeric_value_in_ssn = Βρέθηκε Μη Αριθμητικό Στοιχείο Στον ΑΜΚΑ
+pta_amkachecker.validations.wrong_snn = Εσφαλμένος ΑΜΚΑ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_parametersentry.jsp.pta_parameters.ssncheck','Κατάσταση Ελέγχου ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_parametersentry.jsp.validations.pta_parameters.ssncheckrequired','Συμπληρώστε Υποχρεωτικά Κατάσταση Ελέγχου ΑΜΚΑ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.message.patient_ssn','(Ασθενής)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.message.direct_ssn','(Αμεσα Ασφαλισμένος)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.message.approvaldoctorcode_ssn','(Ελεγκτής Ιατρός)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.message.patient_ssn','(Ασθενής)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.message.direct_ssn','(Αμεσα Ασφαλισμένος)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.message.orderdoctorcode_ssn','(Συνταγογράφος Ιατρός)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.message.approvaldoctorcode_ssn','(Ελεγκτής Ιατρός)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_amkachecker.validations.incorrect_legth_for_ssn','Το Μέγεθος Του ΑΜΚΑ Είναι Λάθος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_amkachecker.validations.notnumeric_value_in_ssn','Βρέθηκε Μη Αριθμητικό Στοιχείο Στον ΑΜΚΑ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_amkachecker.validations.wrong_snn','Εσφαλμένος ΑΜΚΑ');

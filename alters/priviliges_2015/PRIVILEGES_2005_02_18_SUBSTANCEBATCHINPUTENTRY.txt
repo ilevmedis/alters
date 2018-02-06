@@ -1,0 +1,10 @@
+﻿insert into sys_privilege(privilegeid, descr) values ('inv_substancebatchinputentry.jsp.view', 'Εισαγωγή Φαρμακευτικών Ουσιών Από Excel (Ανάγνωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_substancebatchinputentry.jsp.print', 'Εισαγωγή Φαρμακευτικών Ουσιών Από Excel (Εκτύπωση)');
+insert into sys_privilege(privilegeid, descr) values ('inv_substancebatchinputentry.jsp.insert', 'Εισαγωγή Φαρμακευτικών Ουσιών Από Excel (Εισαγωγή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_substancebatchinputentry.jsp.update', 'Εισαγωγή Φαρμακευτικών Ουσιών Από Excel (Μεταβολή)');
+insert into sys_privilege(privilegeid, descr) values ('inv_substancebatchinputentry.jsp.delete', 'Εισαγωγή Φαρμακευτικών Ουσιών Από Excel (Διαγραφή)');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'inv_substancebatchinputentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'inv_substancebatchinputentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'inv_substancebatchinputentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'inv_substancebatchinputentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'inv_substancebatchinputentry.jsp.insert', 1);

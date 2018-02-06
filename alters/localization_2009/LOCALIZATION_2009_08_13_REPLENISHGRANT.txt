@@ -1,0 +1,41 @@
+﻿inv_replenishgrant.jsp.pagetitle = Αναπλήρωση Χορηγήσεων Τμήματος
+inv_replenishgrant.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+inv_replenishgrant.jsp.createtransaction = Δημ.Χορήγησης
+inv_replenishgrant.jsp.invstoreid_criteria = Αποθήκη Χορήγησης
+inv_replenishgrant.jsp.deptid_criteria = Τμήμα Αναπλήρωσης
+inv_replenishgrant.jsp.sinceconsumptiondate_criteria = Από Ημ.Υπολ.Αναλώσεων
+inv_replenishgrant.jsp.tillconsumptiondate_criteria = Έως Ημ.Υπολ.Αναλώσεων
+inv_replenishgrant.jsp.itemgroup_criteria = Ομαδοποίηση Ειδών
+inv_replenishgrant.jsp.griddisplaybox.caption = Αναλώσεις Τμήματος
+
+inv_replenishgrant.jsp.autoincrement = Α/Α
+inv_replenishgrant.jsp.inv_item.mnemonic = Μνημ.Κωδ.Ειδους
+inv_replenishgrant.jsp.inv_item.printeddescr = Περιγραφή
+inv_replenishgrant.jsp.inv_unitofmeasure.mnemonic = ΜΜ
+inv_replenishgrant.jsp.quaconsumption = Ποσ.Ανάλ
+
+inv_replenishgrant.jsp.validations.consumptiondaterequired = Συμπληρώστε Υποχρεωτικά Από - Έως Ημερομηνία Υπολογισμού Αναλώσεων
+inv_replenishgrant.jsp.validations.invstorerequired = Συμπληρώστε Υποχρεωτικά Αποθήκη Χορήγησης
+inv_replenishgrant.jsp.validations.deptrequired = Συμπληρώστε Υποχρεωτικά Τμήμα Αναπλήρωσης
+inv_replenishgrant.jsp.validations.wrongdateentered = Η Έως Ημ/νία Μικρότερη Από Την Από Ημ/νια Υπολογισμού Αναλώσεων
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.pagetitle','Αναπλήρωση Χορηγήσεων Τμήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.createtransaction','Δημ.Χορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.invstoreid_criteria','Αποθήκη Χορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.deptid_criteria','Τμήμα Αναπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.sinceconsumptiondate_criteria','Από Ημ.Υπολ.Αναλώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.tillconsumptiondate_criteria','Έως Ημ.Υπολ.Αναλώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.itemgroup_criteria','Ομαδοποίηση Ειδών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.griddisplaybox.caption','Αναλώσεις Τμήματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.autoincrement','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.inv_item.mnemonic','Μνημ.Κωδ.Ειδους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.inv_item.printeddescr','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.inv_unitofmeasure.mnemonic','ΜΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_replenishgrant.jsp.quaconsumption','Ποσ.Ανάλ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_replenishgrant.jsp.validations.consumptiondaterequired','Συμπληρώστε Υποχρεωτικά Από - Έως Ημερομηνία Υπολογισμού Αναλώσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_replenishgrant.jsp.validations.invstorerequired','Συμπληρώστε Υποχρεωτικά Αποθήκη Χορήγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_replenishgrant.jsp.validations.deptrequired','Συμπληρώστε Υποχρεωτικά Τμήμα Αναπλήρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_replenishgrant.jsp.validations.wrongdateentered','Η Έως Ημ/νία Μικρότερη Από Την Από Ημ/νια Υπολογισμού Αναλώσεων');

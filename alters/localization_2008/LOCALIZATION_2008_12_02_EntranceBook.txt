@@ -1,0 +1,95 @@
+﻿pta_oupentrancebookprint.jsp.pta_entrancebook.dateentered = Ημ.Προσέλευσης (UPDATE)
+
+pta_oupvisitbrowser.jsp.menuitems.presencebrowser = Προσελεύσεις
+
+pta_entrancebookbrowser.jsp.pagetitle = Διαχείριση Προσελεύσεων
+pta_entrancebookbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_entrancebookbrowser.jsp.sincedate_criteria = Από Ημ/νία
+pta_entrancebookbrowser.jsp.tilldate_criteria = Έως Ημ/νία
+pta_entrancebookbrowser.jsp.iscanceled_criteria = Ακυρωμένη
+pta_entrancebookbrowser.jsp.isprinted_criteria = Εκτυπωμένη
+
+pta_entrancebookbrowser.jsp.griddisplaybox.caption = Προσελεύσεις
+pta_entrancebookbrowser.jsp.pta_entrancebook.entrancebooklinenum = Κωδικός
+pta_entrancebookbrowser.jsp.pta_entrancebook.dateentered = Ημ.Προσέλευσης
+pta_entrancebookbrowser.jsp.pta_entrancebook.street1 = Οδός
+pta_entrancebookbrowser.jsp.pta_entrancebook.number1 = Αριθμός
+pta_entrancebookbrowser.jsp.pta_entrancebook.canceleddate = Ημ.Ακύρωσης
+pta_entrancebookbrowser.jsp.pta_entrancebook.iscanceled = Ακυρωμένη
+pta_entrancebookbrowser.jsp.pta_entrancebook.isprinted = Εκτυπωμένη
+
+pta_entrancebookentry.jsp.pagetitle = Καταχώρηση Προσέλευσης
+pta_entrancebookentry.jsp.entrydisplaybox.caption = Στοιχεία Προσέλευσης
+pta_entrancebookentry.jsp.pta_entrancebook.entrancebooklinenum = Κωδικός
+pta_entrancebookentry.jsp.pta_entrancebook.dateentered = Ημ/νία Προσέλευσης
+pta_entrancebookentry.jsp.pta_entrancebook.isprinted = Εκτυπωμένη
+pta_entrancebookentry.jsp.pta_entrancebook.canceleddate = Ημ/νία Ακύρωσης
+pta_entrancebookentry.jsp.pta_entrancebook.iscanceled = Ακυρωμένη
+pta_entrancebookentry.jsp.pta_entrancebook.comments = Σχόλια
+pta_entrancebookentry.jsp.cancelbutton = Ακύρωση
+
+pta_entrancebookentry.jsp.validations.dateenteredrequired = Συμπληρώστε Υποχρεωτικά Ημερομηνία Προσέλευσης
+pta_entrancebookentry.jsp.validations.dateentered_lt_lastentrancebookdate = Η Ημ/νία Προσέλευσης Είναι Μικρότερη Από Την Τελευταία Ημ/νία Εκτύπωσης Βιβλίου Επίσκεψης
+pta_entrancebookentry.jsp.validations.dateentered_lt_admissiondate = Η Ημ/νία Προσέλευσης Είναι Μικρότερη Της Ημ/νίας Εισόδου!!! Παρακαλώ Διορθώστε
+pta_entrancebookentry.jsp.validations.dateentered_gt_dischargedate = Η Ημ/νία Προσέλευσης Είναι Μεγαλύτερη Της Ημ/νίας Λήξης Θεραπείας!!! Παρακαλώ Διορθώστε
+pta_entrancebookentry.jsp.validations.entrancebook_error = Σφάλμα Κατά Την Εκτύπωση Του Βιβλίου Εισόδου - Εξόδου
+pta_entrancebookentry.jsp.validations.dateentered_notequal_currentdate = Προσοχή!! Η Ημερομηνία Προσέλευσης Είναι Διαφορετική Από Την Ημ/νία Συστήματος. Να Συνεχίσω;
+
+pta_cancelentrancebookentry.jsp.pagetitle = Ακύρωση Προσέλευσης
+pta_cancelentrancebookentry.jsp.entrydisplaybox.caption = Στοιχεία Ακύρωσης
+pta_cancelentrancebookentry.jsp.pta_entrancebook.entrancebooklinenum = Κωδικός
+pta_cancelentrancebookentry.jsp.pta_entrancebook.dateentered = Ημ/νία Ακύρωσης
+pta_cancelentrancebookentry.jsp.pta_entrancebook.comments = Σχόλια Ακύρωσης
+
+pta_cancelentrancebookentry.jsp.validations.dateentered_lt_lastentrancebookdate = Η Ημ/νία Ακύρωσης Είναι Μικρότερη Από Την Τελευταία Ημ/νία Εκτύπωσης Βιβλίου Επίσκεψης
+pta_cancelentrancebookentry.jsp.validations.dateentered_lt_admissiondate = Η Ημ/νία Ακύρωσης Είναι Μικρότερη Της Ημ/νίας Εισόδου!!! Παρακαλώ Διορθώστε
+pta_cancelentrancebookentry.jsp.validations.dateentered_gt_dischargedate = Η Ημ/νία Ακύρωσης Είναι Μεγαλύτερη Της Ημ/νίας Λήξης Θεραπείας!!! Παρακαλώ Διορθώστε
+pta_cancelentrancebookentry.jsp.validations.dateentered_notequal_currentdate = Προσοχή!! Η Ημερομηνία Ακύρωσης Είναι Διαφορετική Από Την Ημ/νία Συστήματος. Να Συνεχίσω;
+pta_cancelentrancebookentry.jsp.validations.entrancebook_error = Σφάλμα Κατά Την Εκτύπωση Του Βιβλίου Εισόδου - Εξόδου
+
+update SYS_LOCALIZATION set MESSAGE = 'Ημ.Προσέλευσης'  where LOCALIZATIONKEY = 'pta_oupentrancebookprint.jsp.pta_entrancebook.dateentered';
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitbrowser.jsp.menuitems.presencebrowser','Προσελεύσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pagetitle','Διαχείριση Προσελεύσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.sincedate_criteria','Από Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.tilldate_criteria','Έως Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.iscanceled_criteria','Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.isprinted_criteria','Εκτυπωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.griddisplaybox.caption','Προσελεύσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.entrancebooklinenum','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.dateentered','Ημ.Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.street1','Οδός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.number1','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.canceleddate','Ημ.Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.iscanceled','Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookbrowser.jsp.pta_entrancebook.isprinted','Εκτυπωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pagetitle','Καταχώρηση Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.entrydisplaybox.caption','Στοιχεία Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pta_entrancebook.entrancebooklinenum','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pta_entrancebook.dateentered','Ημ/νία Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pta_entrancebook.isprinted','Εκτυπωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pta_entrancebook.canceleddate','Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pta_entrancebook.iscanceled','Ακυρωμένη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.pta_entrancebook.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_entrancebookentry.jsp.cancelbutton','Ακύρωση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_entrancebookentry.jsp.validations.dateenteredrequired','Συμπληρώστε Υποχρεωτικά Ημερομηνία Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_entrancebookentry.jsp.validations.dateentered_lt_lastentrancebookdate','Η Ημ/νία Προσέλευσης Είναι Μικρότερη Από Την Τελευταία Ημ/νία Εκτύπωσης Βιβλίου Επίσκεψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_entrancebookentry.jsp.validations.dateentered_lt_admissiondate','Η Ημ/νία Προσέλευσης Είναι Μικρότερη Της Ημ/νίας Εισόδου!!! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_entrancebookentry.jsp.validations.dateentered_gt_dischargedate','Η Ημ/νία Προσέλευσης Είναι Μεγαλύτερη Της Ημ/νίας Λήξης Θεραπείας!!! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_entrancebookentry.jsp.validations.entrancebook_error','Σφάλμα Κατά Την Εκτύπωση Του Βιβλίου Εισόδου - Εξόδου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_entrancebookentry.jsp.validations.dateentered_notequal_currentdate','Προσοχή!! Η Ημερομηνία Προσέλευσης Είναι Διαφορετική Από Την Ημ/νία Συστήματος. Να Συνεχίσω;');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_cancelentrancebookentry.jsp.pagetitle','Ακύρωση Προσέλευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_cancelentrancebookentry.jsp.entrydisplaybox.caption','Στοιχεία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_cancelentrancebookentry.jsp.pta_entrancebook.entrancebooklinenum','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_cancelentrancebookentry.jsp.pta_entrancebook.dateentered','Ημ/νία Ακύρωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_cancelentrancebookentry.jsp.pta_entrancebook.comments','Σχόλια Ακύρωσης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_cancelentrancebookentry.jsp.validations.dateentered_lt_lastentrancebookdate','Η Ημ/νία Ακύρωσης Είναι Μικρότερη Από Την Τελευταία Ημ/νία Εκτύπωσης Βιβλίου Επίσκεψης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_cancelentrancebookentry.jsp.validations.dateentered_lt_admissiondate','Η Ημ/νία Ακύρωσης Είναι Μικρότερη Της Ημ/νίας Εισόδου!!! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_cancelentrancebookentry.jsp.validations.dateentered_gt_dischargedate','Η Ημ/νία Ακύρωσης Είναι Μεγαλύτερη Της Ημ/νίας Λήξης Θεραπείας!!! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_cancelentrancebookentry.jsp.validations.dateentered_notequal_currentdate','Προσοχή!! Η Ημερομηνία Ακύρωσης Είναι Διαφορετική Από Την Ημ/νία Συστήματος. Να Συνεχίσω;');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_cancelentrancebookentry.jsp.validations.entrancebook_error','Σφάλμα Κατά Την Εκτύπωση Του Βιβλίου Εισόδου - Εξόδου');

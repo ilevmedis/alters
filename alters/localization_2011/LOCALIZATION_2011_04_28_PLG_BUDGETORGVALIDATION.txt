@@ -1,0 +1,4 @@
+plg_budgetresentry.jsp.validations.multiplebudgetorg =  Εχετε συμπληρώσει πολλαπλούς φορείς δέσμευσης. Παρακαλώ διορθώστε.
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresentry.jsp.validations.multiplebudgetorg','Εχετε συμπληρώσει πολλαπλούς φορείς δέσμευσης. Παρακαλώ διορθώστε.');

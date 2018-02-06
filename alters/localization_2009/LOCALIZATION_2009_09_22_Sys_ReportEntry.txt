@@ -1,0 +1,3 @@
+sys_reportentry.jsp.sys_reportcolumn.isremovingrow = Έλεγχος Μη Εκτύπωσης Γραμμής
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_reportcolumn.isremovingrow','Έλεγχος Μη Εκτύπωσης Γραμμής');

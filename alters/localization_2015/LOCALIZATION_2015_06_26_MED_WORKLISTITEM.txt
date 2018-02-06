@@ -1,0 +1,7 @@
+med_worklistitem.jsp.inv_item.mnemonic = Κωδικός
+med_worklistitem.jsp.crosstabdisplaybox.caption = Σύνοψη Ανά Φάρμακο
+med_worklistitem.jsp.showcrosstab_criteria = Εκτύπωση Σύνοψης Ανά Φάρμακο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistitem.jsp.inv_item.mnemonic','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistitem.jsp.crosstabdisplaybox.caption','Σύνοψη Ανά Φάρμακο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_worklistitem.jsp.showcrosstab_criteria','Εκτύπωση Σύνοψης Ανά Φάρμακο');

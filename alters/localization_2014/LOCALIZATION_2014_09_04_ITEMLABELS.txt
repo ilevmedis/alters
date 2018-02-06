@@ -1,0 +1,19 @@
+inv_itemlabels.jsp.createfromorders_criteria = Δημιουργία Εττικετών Από Παραγγελίες Τμημάτων
+inv_itemlabels.jsp.orderstoreid_criteria = Παραγγ. Τμήμα
+inv_itemlabels.jsp.orderno_criteria = Αρ. Παραγγελίας
+inv_itemlabels.jsp.sinceorderdate_criteria = Από Ημ. Παραγγ.
+inv_itemlabels.jsp.tillorderdate_criteria = Εως Ημ. Παραγγ.
+
+inv_itemlabels.jsp.validations.buys_or_orders_required = Επιλέξτε Είτε Αγορές Είτε Παραγγελίες Για Δημιουργία Εττικετών
+inv_itemlabels.jsp.validations.sinceorderday_required = Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Παραγγελίας
+inv_itemlabels.jsp.validations.tillorderdate_required = Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Παραγγελίας
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabels.jsp.createfromorders_criteria','Δημιουργία Εττικετών Από Παραγγελίες Τμημάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabels.jsp.orderstoreid_criteria','Παραγγ. Τμήμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabels.jsp.orderno_criteria','Αρ. Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabels.jsp.sinceorderdate_criteria','Από Ημ. Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_itemlabels.jsp.tillorderdate_criteria','Εως Ημ. Παραγγ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itemlabels.jsp.validations.buys_or_orders_required','Επιλέξτε Είτε Αγορές Είτε Παραγγελίες Για Δημιουργία Εττικετών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itemlabels.jsp.validations.sinceorderday_required','Συμπληρώστε Υποχρεωτικά Από Ημερομηνία Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'inv_itemlabels.jsp.validations.tillorderdate_required','Συμπληρώστε Υποχρεωτικά Έως Ημερομηνία Παραγγελίας');

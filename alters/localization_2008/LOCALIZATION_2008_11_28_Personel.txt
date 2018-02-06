@@ -1,0 +1,47 @@
+﻿prs_personelbrowser.jsp.pagetitle = Διαχείριση Προσωπικού
+prs_personelbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+prs_personelbrowser.jsp.griddisplaybox.caption = Στοιχεία Προσωπικού
+prs_personelbrowser.jsp.surname_criteria = Επώνυμο
+prs_personelbrowser.jsp.firstname_criteria = Όνομα
+prs_personelbrowser.jsp.isactive_criteria = Ενεργός
+prs_personelbrowser.jsp.prs_personel.personid = Κωδικός
+prs_personelbrowser.jsp.prs_personel.surname = Επώνυμο
+prs_personelbrowser.jsp.prs_personel.firstname = Όνομα
+prs_personelbrowser.jsp.prs_personel.isactive = Ενεργός
+
+prs_personelentry.jsp.pagetitle = Καταχώρηση Στοιχείων Προσωπικού
+prs_personelentry.jsp.entrydisplaybox.caption = Στοιχεία Προσωπικού
+prs_personelentry.jsp.prs_personel.personid = Κωδικός
+prs_personelentry.jsp.prs_personel.isactive = Ενεργός
+prs_personelentry.jsp.prs_personel.surname = Επώνυμο
+prs_personelentry.jsp.prs_personel.firstname = Όνομα
+prs_personelentry.jsp.prs_personel.username = Χρήστης
+prs_personelentry.jsp.prs_personel.comments = Σχόλια
+prs_personentry.jsp.objectuserslink = Πρόσβαση Χρηστών
+
+prs_personelentry.jsp.validations.surnamerequired = Συμπληρώστε Υποχρεωτικά Επώνυμο
+prs_personelentry.jsp.validations.firstnamerequired = Συμπληρώστε Υποχρεωτικά Όνομα
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.pagetitle','Διαχείριση Προσωπικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.griddisplaybox.caption','Στοιχεία Προσωπικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.surname_criteria','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.firstname_criteria','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.isactive_criteria','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.prs_personel.personid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.prs_personel.surname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.prs_personel.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelbrowser.jsp.prs_personel.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.pagetitle','Καταχώρηση Στοιχείων Προσωπικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.entrydisplaybox.caption','Στοιχεία Προσωπικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.prs_personel.personid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.prs_personel.isactive','Ενεργός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.prs_personel.surname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.prs_personel.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.prs_personel.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personelentry.jsp.prs_personel.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'prs_personentry.jsp.objectuserslink','Πρόσβαση Χρηστών');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'prs_personelentry.jsp.validations.surnamerequired','Συμπληρώστε Υποχρεωτικά Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'prs_personelentry.jsp.validations.firstnamerequired','Συμπληρώστε Υποχρεωτικά Όνομα');

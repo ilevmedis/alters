@@ -1,0 +1,19 @@
+pbl_cardentry.jsp.tabs.page4 = Τιμολόγια
+pbl_cardentry.jsp.issueinvoice = Τιμολόγηση
+pbl_cardentry.jsp.invoicegriddisplaybox.caption = Παραστατικά Τιμολόγησης
+pbl_cardentry.jsp.fin_transheader.internaleventno = Αρ.Παρ/κού
+pbl_cardentry.jsp.fin_eventtype.mnemonic = Κωδ.Κίνησης
+pbl_cardentry.jsp.fin_transheader.internaleventdate = Ημερομηνία
+pbl_cardentry.jsp.fin_transparty.name = Οικον.Υπόχρεος
+pbl_cardentry.jsp.fin_transdetail.netamount = Καθ.Αξία
+pbl_cardentry.jsp.fin_transdetail.totalamount = Συν.Αξία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.tabs.page4','Τιμολόγια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.issueinvoice','Τιμολόγηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.invoicegriddisplaybox.caption','Παραστατικά Τιμολόγησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.fin_transheader.internaleventno','Αρ.Παρ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.fin_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.fin_transheader.internaleventdate','Ημερομηνία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.fin_transparty.name','Οικον.Υπόχρεος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.fin_transdetail.netamount','Καθ.Αξία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_cardentry.jsp.fin_transdetail.totalamount','Συν.Αξία');

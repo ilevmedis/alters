@@ -1,0 +1,5 @@
+inv_grantentry.jsp.inv_transcredit.noofgrantdays = Αρ.Ημερών Χορ.
+inv_orderstoreentry.jsp.inv_transdebit.noofgrantdays = Αρ.Ημερών Χορ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_grantentry.jsp.inv_transcredit.noofgrantdays','Αρ.Ημερών Χορ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderstoreentry.jsp.inv_transdebit.noofgrantdays','Αρ.Ημερών Χορ.');

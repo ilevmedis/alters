@@ -1,0 +1,7 @@
+inv_orderbuyentry.jsp.inv_transheader.orderinvstoreid = Τμήμα Παραγγελίας
+inv_orderbuyentry.jsp.inv_transheader.orderstoredate = Ημν/ία Παραγγελίας Τμήμ.
+inv_orderbuyentry.jsp.inv_transheader.orderstorenum = Αρ. Παραγ. Τμήμ.
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderinvstoreid','Τμήμα Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderstoredate','Ημν/ία Παραγγελίας Τμήμ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_orderbuyentry.jsp.inv_transheader.orderstorenum','Αρ. Παραγ. Τμήμ.');

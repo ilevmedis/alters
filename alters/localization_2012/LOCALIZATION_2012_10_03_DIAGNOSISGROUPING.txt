@@ -1,0 +1,11 @@
+pta_diagnosisgroupingentry.jsp.pta_diagnosisgrouping.isusedasdiagnosis = Χρήση Ως Διάγνωση
+pta_diagnosisgroupingentry.jsp.pta_diagnosisgrouping.isusedasterm = Χρήση Ως Ορολογία
+
+pta_diagnosisgroupingentry.jsp.validations.define_group_usage = Συμπληρώστε Υποχρεωτικά Την Χρήση Της Κωδικοποιήσης (Διάγνωση - Ορολογία)
+pta_diagnosisgroupingentry.jsp.validations.only_diagnosis_are_default = Μόνο Η Σήμανση Χρήση Διάγνωσης Μπορεί Να Είναι Προεπιλεγμένη. Παρακαλώ Διορθώστε
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosisgroupingentry.jsp.pta_diagnosisgrouping.isusedasdiagnosis','Χρήση Ως Διάγνωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_diagnosisgroupingentry.jsp.pta_diagnosisgrouping.isusedasterm','Χρήση Ως Ορολογία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_diagnosisgroupingentry.jsp.validations.define_group_usage','Συμπληρώστε Υποχρεωτικά Την Χρήση Της Κωδικοποιήσης (Διάγνωση - Ορολογία)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_diagnosisgroupingentry.jsp.validations.only_usedasdiagnosis_are_default','Μόνο Η Σήμανση Χρήση Διάγνωσης Μπορεί Να Είναι Προεπιλεγμένη. Παρακαλώ Διορθώστε');

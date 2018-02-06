@@ -1,0 +1,1 @@
+alter table sys_logmessage add (stacktrace clob, threadinfo varchar2(100), hostinfo varchar2(100));

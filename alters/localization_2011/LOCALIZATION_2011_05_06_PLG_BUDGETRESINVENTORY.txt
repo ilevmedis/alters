@@ -1,0 +1,77 @@
+plg_budgetresinventory.jsp.pagetitle = Καταχώρηση Μεταφοράς Δεσμεύσεων
+plg_budgetresinventory.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+plg_budgetresinventory.jsp.griddisplaybox.caption = Δεσμεύσεις
+plg_budgetresinventory.jsp.page_criteria = Σελίδα
+plg_budgetresinventory.jsp.plg_budgetres.page = Σελίδα
+plg_budgetresinventory.jsp.plg_budgetres.event = Event
+
+plg_budgetresinventory.jsp.budgetresheaderid_criteria = Κωδικός Δέσμευσης
+plg_budgetresinventory.jsp.mnemonic_criteria = Μνημονικός Κωδικός
+plg_budgetresinventory.jsp.descr_criteria = Περιγραφή
+plg_budgetresinventory.jsp.budgetresheaderid_criteria = ΑΑ Δέσμευσης
+plg_budgetresinventory.jsp.sincebudgetresdate_criteria = Από Ημ/νία Δέσμευσης
+plg_budgetresinventory.jsp.tillbudgetresdate_criteria = Εώς Ημ/νία Δέσμευσης
+plg_budgetresinventory.jsp.sincebudgetresapprovaldate_criteria = Από Ημ/νία Έγκρισης
+plg_budgetresinventory.jsp.tillbudgetresapprovaldate_criteria = Εώς Ημ/νία Έγκρισης
+plg_budgetresinventory.jsp.sincebudgetresapprovalno_criteria = Από Αρ. Έγκρισης
+plg_budgetresinventory.jsp.tillbudgetresapprovalno_criteria = Εώς Αρ. Έγκρισης
+
+
+plg_budgetresinventory.jsp.plgeventtypeid_criteria = Κωδ. Κίνησης Έγκρισης Νέας Δέσμευσης
+plg_budgetresinventory.jsp.fyearid_criteria = Έτος Μεταφοράς
+plg_budgetresinventory.jsp.budgetresinventorydate_criteria = Ημ/νία Μεταφοράς
+plg_budgetresinventory.jsp.plg_budgetresheader.budgetresheaderid = Κωδικός
+plg_budgetresinventory.jsp.plg_budgetresheader.mnemonic = Μνημονικός Κωδικός
+plg_budgetresinventory.jsp.plg_budgetresheader.descr =  Περιγραφή
+plg_budgetresinventory.jsp.plg_budgetresheader.budgetresdate = Ημ/νία Δέσμευσης
+plg_budgetresinventory.jsp.plg_budgetresheader.budgetresapprovaldate = Ημ/νία Έγκρισης
+plg_budgetresinventory.jsp.plg_budgetresheader.approvalno =  Αρ. Έγκρισης
+plg_budgetresinventory.jsp.include = Μεταφορά
+
+plg_budgetresinventory.jsp.saveinventory = Μεταφορά Δεσμεύσεων
+plg_budgetresinventory.jsp.validations.no_rows_found = Δεν Βρέθηκαν Εγγραφές Προς Μεταφορά
+plg_budgetresinventory.jsp.messages.reupdate_completed =  H Διαδικασία Ακύρωσης Ολοκληρώθηκε Επιτυχώς
+plg_budgetresinventory.jsp.validations.nullplgeventtype =  Συμπληρώστε Υποχρεωτικά Κωδικό Κίνησης Έγκρισης Νέας Δέσμευσης
+plg_budgetresinventory.jsp.validations.nullfyear =  Συμπληρώστε Υποχρεωτικά Έτος Μεταφοράς
+plg_budgetresinventory.jsp.validations.nullinventorydate =  Συμπληρώστε Υποχρεωτικά Ημερομηνία Μεταφοράς
+plg_budgetresinventory.jsp.validations.emptydatasource =  Δεν Έχετε Επιλέξει Εγγραφές Προς Μεταφορά
+
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.pagetitle','Καταχώρηση Μεταφοράς Δεσμεύσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.griddisplaybox.caption','Δεσμεύσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.page_criteria','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetres.page','Σελίδα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetres.event','Event');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plgeventtypeid_criteria','Κωδ. Κίνησης Έγκρισης Νέας Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.fyearid_criteria','Έτος Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.budgetresinventorydate_criteria','Ημ/νία Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.budgetresheaderid_criteria','Κωδικός Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.mnemonic_criteria','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.descr_criteria','Περιγραφή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.sincebudgetresdate_criteria','Από Ημ/νία Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.tillbudgetresdate_criteria','Εώς Ημ/νία Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.sincebudgetresapprovaldate_criteria','Από Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.tillbudgetresapprovaldate_criteria','Εώς Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.sincebudgetresapprovalno_criteria','Από Αρ. Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.tillbudgetresapprovalno_criteria','Εώς Αρ. Έγκρισης');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetresheader.budgetresheaderid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetresheader.mnemonic','Μνημονικός Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetresheader.descr','Περιγραφή Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetresheader.budgetresdate','Ημ/νία Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetresheader.budgetresapprovaldate','Ημ/νία Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.plg_budgetresheader.approvalno','Αρ. Έγκρισης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.include','Μεταφορά');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_budgetresinventory.jsp.saveinventory','Μεταφορά Δεσμεύσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresinventory.jsp.validations.no_rows_found','Δεν Βρέθηκαν Εγγραφές Προς Μεταφορά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresinventory.jsp.messages.reupdate_completed','H Διαδικασία Ακύρωσης Ολοκληρώθηκε Επιτυχώς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresinventory.jsp.validations.nullplgeventtype','Συμπληρώστε Υποχρεωτικά Κωδικό Κίνησης Έγκρισης Νέας Δέσμευσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresinventory.jsp.validations.nullfyear','Συμπληρώστε Υποχρεωτικά Έτος Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresinventory.jsp.validations.nullinventorydate','Συμπληρώστε Υποχρεωτικά Ημερομηνία Μεταφοράς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'plg_budgetresinventory.jsp.validations.emptydatasource','Δεν Έχετε Επιλέξει Εγγραφές Προς Μεταφορά');

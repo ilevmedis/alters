@@ -1,0 +1,12 @@
+﻿submitbuttons.tree = Προβολή Σε Δέντρο
+submitbuttons.folderup = Πάνω Ένα Επίπεδο
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.tree','Προβολή Σε Δέντρο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.grid','Προβολή Σε Λίστα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'submitbuttons.folderup','Πάνω Ένα Επίπεδο');
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+med_orderentry.jsp.med_orderheader.orderreceiptfacility = Τμήμα Εκτέλεσης
+medorderentry.jsp.med_orderrecurrence.enddate = Λήξη
+med_orderentry.jsp.validations.recurrencepatternid_required = Συμπληρώστε Πρώτα Μοντέλο Επανάληψης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.med_orderheader.orderreceiptfacility','Τμήμα Εκτέλεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'medorderentry.jsp.med_orderrecurrence.enddate','Λήξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderentry.jsp.validations.recurrencepatternid_required','Συμπληρώστε Πρώτα Μοντέλο Επανάληψης');

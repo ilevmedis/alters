@@ -1,0 +1,3 @@
+plg_fundingsourceentry.jsp.plg_fundingsource.isdefaultforincome = Χρήση Για ΓΕ Κρατήσεων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'plg_fundingsourceentry.jsp.plg_fundingsource.isdefaultforincome','Χρήση Για ΓΕ Κρατήσεων');

@@ -1,0 +1,4 @@
+inv_buyentry.jsp.plg_budgetexec.budgetfyearid = Έτος
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'inv_buyentry.jsp.plg_budgetexec.budgetfyearid','Έτος');
+

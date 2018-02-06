@@ -1,0 +1,79 @@
+med_msgeventbrowser.jsp.pagetitle = Διαχείριση Κανόνων Μηνυμάτων
+med_msgeventbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_msgeventbrowser.jsp.griddisplaybox.caption = Κανόνες Μηνυμάτων
+
+med_msgeventbrowser.jsp.pageform_criteria = Ον.Φόρμας
+med_msgeventbrowser.jsp.classname_criteria = Μοντέλο
+med_msgeventbrowser.jsp.isactive_criteria = Ενεργό
+
+med_msgeventbrowser.jsp.med_msgevent.msgeventid = Κωδικός
+med_msgeventbrowser.jsp.med_msgevent.pageform = Ον.Φόρμας
+med_msgeventbrowser.jsp.med_msgevent.classname = Μοντέλο
+med_msgeventbrowser.jsp.med_msgevent.isactive = Ενεργό
+
+
+med_msgevententry.jsp.pagetitle = Καταχώρηση Κανόνων Μηνυμάτων
+med_msgevententry.jsp.entrydisplaybox.caption = Στοιχεία Κανόνα
+med_msgevententry.jsp.msgeventusersgriddisplaybox.caption = Παραλήπτες
+
+med_msgevententry.jsp.med_msgevent.msgeventid = Κωδικός
+med_msgevententry.jsp.med_msgevent.isactive = Ενεργή
+med_msgevententry.jsp.med_msgevent.pageform = Φόρμα
+med_msgevententry.jsp.med_msgevent.classname = Μοντέλο
+med_msgevententry.jsp.med_msgevent.action = Ενέργεια
+med_msgevententry.jsp.med_msgevent.message = Μήνυμα
+med_msgevententry.jsp.med_msgevent.redirecturl = Φόρμα Επιστροφής
+med_msgevententry.jsp.med_msgevent.applycondition = Συνθήκη Ενεργοποίησης
+
+med_msgevententry.jsp.med_msgeventusers.username = Χρήστης
+med_msgevententry.jsp.med_msgeventusers.roleid = Ρόλος
+med_msgevententry.jsp.med_msgeventusers.securityroleid = Ρόλος Ασφάλειας Ιατρ.
+
+med_msgevententry.jsp.validations.pageformrequired = Συμπληρώστε Υποχρεωτικά Φόρμα
+med_msgevententry.jsp.validations.classnamerequired = Συμπληρώστε Υποχρεωτικά Μοντέλο
+med_msgevententry.jsp.validations.actionrequired = Συμπληρώστε Υποχρεωτικά Ενέργεια
+med_msgevententry.jsp.validations.messagerequired = Συμπληρώστε Υποχρεωτικά Μήνυμα
+
+med_msgevententry.jsp.validations.incompatible_username_role = Δε Μπορείτε Να Επιλέξετε Χρήστη Και Ρόλο! Παρακαλώ Διορθώστε
+med_msgevententry.jsp.validations.incompatible_username_securityrole = Δε Μπορείτε Να Επιλέξετε Χρήστη Και Ρόλο Ασφαλείας Ιατρ! Παρακαλώ Διορθώστε
+med_msgevententry.jsp.validations.incompatible_role_securityrole = Δε Μπορείτε Να Επιλέξετε Ρόλο Και Ρόλο Ασφαλείας Ιατρ! Παρακαλώ Διορθώστε
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.pagetitle','Διαχείριση Κανόνων Μηνυμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.griddisplaybox.caption','Κανόνες Μηνυμάτων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.pageform_criteria','Ον.Φόρμας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.classname_criteria','Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.isactive_criteria','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.med_msgevent.msgeventid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.med_msgevent.pageform','Ον.Φόρμας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.med_msgevent.classname','Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgeventbrowser.jsp.med_msgevent.isactive','Ενεργό');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.pagetitle','Καταχώρηση Κανόνων Μηνυμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.entrydisplaybox.caption','Στοιχεία Κανόνα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.msgeventusersgriddisplaybox.caption','Παραλήπτες');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.msgeventid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.isactive','Ενεργή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.pageform','Φόρμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.classname','Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.action','Ενέργεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.message','Μήνυμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.redirecturl','Φόρμα Επιστροφής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgevent.applycondition','Συνθήκη Ενεργοποίησης');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgeventusers.username','Χρήστης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgeventusers.roleid','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_msgevententry.jsp.med_msgeventusers.securityroleid','Ρόλος Ασφάλειας Ιατρ.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.pageformrequired','Συμπληρώστε Υποχρεωτικά Φόρμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.classnamerequired','Συμπληρώστε Υποχρεωτικά Μοντέλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.actionrequired','Συμπληρώστε Υποχρεωτικά Ενέργεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.messagerequired','Συμπληρώστε Υποχρεωτικά Μήνυμα');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.incompatible_username_role','Δε Μπορείτε Να Επιλέξετε Χρήστη Και Ρόλο! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.incompatible_username_securityrole','Δε Μπορείτε Να Επιλέξετε Χρήστη Και Ρόλο Ασφαλείας Ιατρ! Παρακαλώ Διορθώστε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_msgevententry.jsp.validations.incompatible_role_securityrole','Δε Μπορείτε Να Επιλέξετε Ρόλο Και Ρόλο Ασφαλείας Ιατρ! Παρακαλώ Διορθώστε');

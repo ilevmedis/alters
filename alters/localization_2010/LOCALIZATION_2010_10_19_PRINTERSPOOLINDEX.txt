@@ -1,0 +1,31 @@
+sys_printerspoolindex.jsp.pagetitle = Επιλογή Συσκευής Εκτύπωσης
+sys_printerspoolindex.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+sys_printerspoolindex.jsp.griddisplaybox.caption = Συσκευές Εκτύπωσης
+sys_printerspoolindex.jsp.descr_criteria = Περιγραφή Συσκευής
+
+sys_printerspoolindex.jsp.sys_printerspool.printerspoolid = Κωδ.Συσκευής
+sys_printerspoolindex.jsp.sys_printerspool.descr = Περιγραφή Συσκευής
+sys_printerspoolindex.jsp.sys_printerspool.url = Δικτυακή Διαδρομή (URL)
+
+sys_reportentry.jsp.sys_report.autoprintkind = Είδος Αυτόματης Εκτυπ
+sys_reportentry.jsp.sys_report.filename = Όνομα Αρχείου
+sys_reportentry.jsp.sys_report.printerspoolId = Συσκ. Αυτόμ.Εκτυπ.
+
+sys_reportentry.jsp.sys_report.isdelimited = Χρήση Χαρακτ.Διαχωρ.
+sys_reportentry.jsp.sys_report.delimitedchar = Χαρακτήρας Διαχωρισμού
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.pagetitle','Επιλογή Συσκευής Εκτύπωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.griddisplaybox.caption','Συσκευές Εκτύπωσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.descr_criteria','Περιγραφή Συσκευής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.sys_printerspool.printerspoolid','Κωδ.Συσκευής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.sys_printerspool.descr','Περιγραφή Συσκευής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_printerspoolindex.jsp.sys_printerspool.url','Δικτυακή Διαδρομή (URL)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.autoprintkind','Είδος Αυτόματης Εκτυπ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.filename','Όνομα Αρχείου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.printerspoolId','Συσκ. Αυτόμ.Εκτυπ. ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.isdelimited','Χρήση Χαρακτ.Διαχωρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'sys_reportentry.jsp.sys_report.delimitedchar','Χαρακτήρας Διαχωρισμού');
