@@ -1,0 +1,28 @@
+-- Create table
+create table PTA_MERGEPATFILE
+(
+  MERGEPATFILEID  number(38) not null,
+  COMPANYID       number(38) not null,
+  MERGEDATE       date not null,
+  EVENTTYPEID     number(38) not null,
+  INTERNALEVENTNO varchar2(10),
+  SOURCEPATFILEID number(38) not null,
+  TARGETPATFILEID number(38) not null,
+  COMMENTS        varchar2(200)
+);
+-- Create/Recreate primary, unique and foreign key constraints
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_PK primary key (MERGEPATFILEID, COMPANYID);
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_SOURCE_FK foreign key (SOURCEPATFILEID, COMPANYID)
+  references pta_patientfile (PATIENTFILEID, COMPANYID);
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_TARGET_FK foreign key (TARGETPATFILEID, COMPANYID)
+  references pta_patientfile (PATIENTFILEID, COMPANYID);
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_EVENTTYPE_FK foreign key (EVENTTYPEID, COMPANYID)
+  references pta_patientfileeventtype (EVENTTYPEID, COMPANYID);
+-- Create/Recreate indexes
+create index PTA_MERGEPATFILE_SOURCE_FK on PTA_MERGEPATFILE (sourcepatfileid, companyid);
+create index PTA_MERGEPATFILE_TARGET_FK on PTA_MERGEPATFILE (targetpatfileid, companyid);
+create index PTA_MERGEPATFILE_EVENTTYPE_FK on PTA_MERGEPATFILE (eventtypeid, companyid);

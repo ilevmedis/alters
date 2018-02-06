@@ -1,0 +1,1 @@
+alter table inv_parameters add assetregnoexpression varchar2(200);

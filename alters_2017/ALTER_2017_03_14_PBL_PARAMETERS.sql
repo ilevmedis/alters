@@ -1,0 +1,1 @@
+alter table pbl_parameters add (eopyydiscountpolicygroupingid number(38), eopyydiscpolicyexcludedcode varchar2(40));

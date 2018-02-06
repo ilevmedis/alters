@@ -1,0 +1,5 @@
+pta_patientfiletransbrowser.jsp.validations.another_one_criteria_required = Ακόμα Ένα Κριτήριο Αναζήτησης Πρέπει Να Συμπληρωθεί Εκτός Της Εως Ημ/νίας
+pta_patientfiletransbrowser.jsp.validations.atleast_one_criteria_required = Συμπληρώστε Υποχρεωτικά Ένα Κριτήριο Αναζήτησης
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pta_patientfiletransbrowser.jsp.validations.another_one_criteria_required', 'Ακόμα Ένα Κριτήριο Αναζήτησης Πρέπει Να Συμπληρωθεί Εκτός Της Εως Ημ/νίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pta_patientfiletransbrowser.jsp.validations.atleast_one_criteria_required', 'Συμπληρώστε Υποχρεωτικά Ένα Κριτήριο Αναζήτησης');

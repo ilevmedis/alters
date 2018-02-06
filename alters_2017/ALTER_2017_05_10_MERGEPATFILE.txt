@@ -1,0 +1,34 @@
+-- Create table
+create table PTA_MERGEPATFILE
+(
+  MERGEPATFILEID  number(38) not null,
+  COMPANYID       number(38) not null,
+  MERGEDATE       date not null,
+  EVENTTYPEID     number(38) not null,
+  SOURCEPATFILEID number(38) not null,
+  TARGETPATFILEID number(38) not null,
+  COMMENTS        varchar2(200)
+);
+-- Create/Recreate primary, unique and foreign key constraints
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_PK primary key (MERGEPATFILEID, COMPANYID);
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_SOURCE_FK foreign key (SOURCEPATFILEID, COMPANYID)
+  references pta_patientfile (PATIENTFILEID, COMPANYID);
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_TARGET_FK foreign key (TARGETPATFILEID, COMPANYID)
+  references pta_patientfile (PATIENTFILEID, COMPANYID);
+alter table PTA_MERGEPATFILE
+  add constraint PTA_MERGEPATFILE_EVENTTYPE_FK foreign key (EVENTTYPEID, COMPANYID)
+  references pta_patientfileeventtype (EVENTTYPEID, COMPANYID);
+-- Create/Recreate indexes
+create index PTA_MERGEPATFILE_SOURCE_FK on PTA_MERGEPATFILE (sourcepatfileid, companyid);
+create index PTA_MERGEPATFILE_TARGET_FK on PTA_MERGEPATFILE (targetpatfileid, companyid);
+create index PTA_MERGEPATFILE_EVENTTYPE_FK on PTA_MERGEPATFILE (eventtypeid, companyid);
+
+alter table PTA_PATIENTFILE
+  add constraint PTA_PATIENTFILE_PATIENTID unique (PATIENTID, COMPANYID);
+
+alter table PTA_PATIENTFILETRANS add ISMERGED varchar2(1) default '0' not null;
+UPDATE PTA_PATIENTFILETRANS SET ISMERGED = '0';
+COMMIT;

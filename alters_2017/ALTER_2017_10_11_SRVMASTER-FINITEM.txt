@@ -1,0 +1,1 @@
+alter table PBL_CHARGEDETAIL add SERVICEMASTERID number(38);

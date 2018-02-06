@@ -1,0 +1,111 @@
+pta_mergepatfilebrowser.jsp.pagetitle = Διαχείριση Συγχώνευσης Φακέλων Ασθενών
+pta_mergepatfilebrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+pta_mergepatfilebrowser.jsp.source_name_criteria = Ον/νυμο Ασθ. Προς Αλλαγή
+pta_mergepatfilebrowser.jsp.source_fatherfirstname_criteria = Ον.Πατρός Ασθ. Προς Αλλαγή
+pta_mergepatfilebrowser.jsp.target_name_criteria = Νέο Ον/νυμο
+pta_mergepatfilebrowser.jsp.target_fatherfirstname_criteria = Νέο Ον.Πατρός
+pta_mergepatfilebrowser.jsp.sincedate_criteria = Από Ημ/νία Συγχών.
+pta_mergepatfilebrowser.jsp.tilldate_criteria = Εως Ημ/νία Συγχών.
+
+pta_mergepatfilebrowser.jsp.griddisplaybox.caption = Συγχωνεύσεις Φακέλων
+pta_mergepatfilebrowser.jsp.pta_mergepatfile.mergedate = Ημ/νία
+pta_mergepatfilebrowser.jsp.pta_mergepatfile.internaleventno = Αρ.Κίνησης
+pta_mergepatfilebrowser.jsp.pta_sourcelastpatientvisit.lastname = Αρχικό Επώνυμο
+pta_mergepatfilebrowser.jsp.pta_sourcelastpatientvisit.firstname = Αρχικό Όνομα
+pta_mergepatfilebrowser.jsp.pta_sourcelastpatientvisit.fatherfirstname = Αρχικό Ον.Πατρός
+pta_mergepatfilebrowser.jsp.pta_targetlastpatientvisit.lastname = Τελικό Όνομα
+pta_mergepatfilebrowser.jsp.pta_targetlastpatientvisit.firstname = Τελικό Επώνυμο
+pta_mergepatfilebrowser.jsp.pta_targetlastpatientvisit.fatherfirstname = Τελικό Ον.Πατρός
+
+pta_mergepatfileentry.jsp.pagetitle = Συγχώνευση Φακέλων Ασθενών
+pta_mergepatfileentry.jsp.entrydisplaybox.caption = Στοιχεία Συγχωνεύσης Φακέλων
+
+pta_mergepatfileentry.jsp.pta_mergepatfile.mergepatfileid = Κωδικός
+pta_mergepatfileentry.jsp.pta_mergepatfile.mergedate = Ημ/νία
+pta_mergepatfileentry.jsp.pta_mergepatfile.eventtypeid = Κωδ.Κίνησης
+pta_mergepatfileentry.jsp.pta_mergepatfile.comments = Σχόλια
+pta_mergepatfileentry.jsp.pta_mergepatfile.sourcepatfileid = Φάκελος Προς Συγχώνευση
+pta_mergepatfileentry.jsp.pta_sourcepatientfile.sourcefilemnemonic = Μνημονικός
+pta_mergepatfileentry.jsp.pta_sourcepatientfile.sourceposition = Θέση Φακέλου
+pta_mergepatfileentry.jsp.pta_mergepatfile.targetpatfileid = Τελικός Φάκελος
+pta_mergepatfileentry.jsp.pta_targetpatientfile.targetfilemnemonic = Μνημονικός
+pta_mergepatfileentry.jsp.pta_targetpatientfile.targetposition = Θέση
+
+pta_mergepatfileentry.jsp.message.sourcepatfile_status_changed = Η Κατάσταση Του Αρχείου Προς Συγχώνευση Άλλαξε
+pta_mergepatfileentry.jsp.message.and = Και
+pta_mergepatfileentry.jsp.message.transactions_changed = Οι Κινήσεις Του Φακέλου Συγχωνεύθηκαν
+pta_mergepatfileentry.jsp.message.no_changes_made = Δεν Βρέθηκαν Εγγραφές Για Συγχώνευση. Η Διαδικασία Απέτυχε
+
+pta_mergepatfileentry.jsp.validations.pta_mergepatfile.eventtypeidrequired = Συμπληρώστε Υποχρεωτικά Κωδ. Κίνησης
+pta_mergepatfileentry.jsp.validations.pta_mergepatfile.mergedaterequired = Συμπληρώστε Υποχρεωτικά Ημ/νία
+pta_mergepatfileentry.jsp.validations.pta_mergepatfile.sourcepatfileidrequired = Συμπληρώστε Υποχρεωτικά Φάκελο Προς Συγχώνευση
+pta_mergepatfileentry.jsp.validations.pta_mergepatfile.targetpatfileidrequired = Συμπληρώστε Υποχρεωτικά Τελικό Φάκελο
+
+pta_patientfileentry.jsp.mergedwith = Συγχωνεύθηκε
+pta_patientfileentry.jsp.transferto = Μεταφέρθηκε
+
+pta_mergedviewer.jsp.pagetitle = Συγχωνεύσεις
+pta_mergedviewer.jsp.griddisplaybox.caption = Στοιχεία Κινήσεων
+pta_mergedviewer.jsp.pta_mergpatfile.mergedate = Ημ/νία
+pta_mergedviewer.jsp.pta_sourcelastpatientvisit.patientmnemonic = Μνημονικός Ασθ.
+pta_mergedviewer.jsp.pta_sourcelastpatientvisit.lastname = Επώνυμο
+pta_mergedviewer.jsp.pta_sourcelastpatientvisit.firstname = Ονομα
+pta_mergedviewer.jsp.pta_sourcelastpatientvisit.fatherfirstname = Ον.Πατρός
+pta_mergedviewer.jsp.pta_sourcepatientfile.filemnemonic = Μνημ.Φακέλου
+pta_mergedviewer.jsp.pta_sourcepatientfile.position = Θέση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pagetitle','Διαχείριση Συγχώνευσης Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.source_name_criteria','Ον/νυμο Ασθ. Προς Αλλαγή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.source_fatherfirstname_criteria','Ον.Πατρός Ασθ. Προς Αλλαγή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.target_name_criteria','Νέο Ον/νυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.target_fatherfirstname_criteria','Νέο Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.sincedate_criteria','Από Ημ/νία Συγχών.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.tilldate_criteria','Εως Ημ/νία Συγχών.');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.griddisplaybox.caption','Συγχωνεύσεις Φακέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_mergepatfile.mergedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_mergepatfile.internaleventno','Αρ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_sourcelastpatientvisit.lastname','Αρχικό Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_sourcelastpatientvisit.firstname','Αρχικό Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_sourcelastpatientvisit.fatherfirstname','Αρχικό Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_targetlastpatientvisit.lastname','Τελικό Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_targetlastpatientvisit.firstname','Τελικό Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfilebrowser.jsp.pta_targetlastpatientvisit.fatherfirstname','Τελικό Ον.Πατρός');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pagetitle','Συγχώνευση Φακέλων Ασθενών');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.entrydisplaybox.caption','Στοιχεία Συγχωνεύσης Φακέλων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_mergepatfile.mergepatfileid','Κωδικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_mergepatfile.mergedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_mergepatfile.eventtypeid','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_mergepatfile.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_mergepatfile.sourcepatfileid','Φάκελος Προς Συγχώνευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_sourcepatientfile.sourcefilemnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_sourcepatientfile.sourceposition','Θέση Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_mergepatfile.targetpatfileid','Τελικός Φάκελος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_targetpatientfile.targetfilemnemonic','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergepatfileentry.jsp.pta_targetpatientfile.targetposition','Θέση');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.message.sourcepatfile_status_changed','Η Κατάσταση Του Αρχείου Προς Συγχώνευση Άλλαξε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.message.and','Και');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.message.transactions_changed','Οι Κινήσεις Του Φακέλου Συγχωνεύθηκαν');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.message.no_changes_made','Δεν Βρέθηκαν Εγγραφές Για Συγχώνευση. Η Διαδικασία Απέτυχε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.validations.pta_mergepatfile.eventtypeidrequired','Συμπληρώστε Υποχρεωτικά Κωδ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.validations.pta_mergepatfile.mergedaterequired','Συμπληρώστε Υποχρεωτικά Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.validations.pta_mergepatfile.sourcepatfileidrequired','Συμπληρώστε Υποχρεωτικά Φάκελο Προς Συγχώνευση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_mergepatfileentry.jsp.validations.pta_mergepatfile.targetpatfileidrequired','Συμπληρώστε Υποχρεωτικά Τελικό Φάκελο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.mergedwith','Συγχωνεύθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_patientfileentry.jsp.transferto','Μεταφέρθηκε');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pagetitle','Συγχωνεύσεις');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.griddisplaybox.caption','Στοιχεία Κινήσεων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_mergpatfile.mergedate','Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_sourcelastpatientvisit.patientmnemonic','Μνημονικός Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_sourcelastpatientvisit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_sourcelastpatientvisit.firstname','Ονομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_sourcelastpatientvisit.fatherfirstname','Ον.Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_sourcepatientfile.filemnemonic','Μνημ.Φακέλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_mergedviewer.jsp.pta_sourcepatientfile.position','Θέση');

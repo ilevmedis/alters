@@ -1,0 +1,13 @@
+insert into sys_privilege(privilegeid, descr) values ('pbl_rulerequirementparametersentry.jsp.view', 'Ανάγνωση Κανόνων Υποχρεωτικότητας');
+insert into sys_privilege(privilegeid, descr) values ('pbl_rulerequirementparametersentry.jsp.print', 'Εκτύπωση Κανόνων Υποχρεωτικότητας');
+insert into sys_privilege(privilegeid, descr) values ('pbl_rulerequirementparametersentry.jsp.insert', 'Εισαγωγή Κανόνων Υποχρεωτικότητας');
+insert into sys_privilege(privilegeid, descr) values ('pbl_rulerequirementparametersentry.jsp.update', 'Μεταβολή Κανόνων Υποχρεωτικότητας');
+insert into sys_privilege(privilegeid, descr) values ('pbl_rulerequirementparametersentry.jsp.delete', 'Διαγραφή Κανόνων Υποχρεωτικότητας');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_rulerequirementparametersentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_rulerequirementparametersentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_rulerequirementparametersentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_rulerequirementparametersentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (13, 'pbl_rulerequirementparametersentry.jsp.insert', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('allow.change.inpatient.doctor', 'Δικαίωμα Αλλαγής Κλειδώματος Ιατρού Σε Εσωτ. Ασθ.');
+insert into sys_privilege(privilegeid, descr) values ('allow.change.outpatient.doctor', 'Δικαίωμα Αλλαγής Κλειδώματος Ιατρού Σε Εξώτ. Ασθ.');

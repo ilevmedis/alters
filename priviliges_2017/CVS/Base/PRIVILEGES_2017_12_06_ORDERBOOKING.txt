@@ -1,0 +1,7 @@
+insert into sys_privilege(privilegeid, descr) values ('med_orderbookingbrowser.jsp.view', 'Διαχείριση Ραντεβού');
+insert into sys_privilege(privilegeid, descr) values ('med_orderbookingbrowser.jsp.print', 'Εκτύπωση Ραντεβού');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_orderbookingbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'med_orderbookingbrowser.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'med_orderbookingbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (18, 'med_orderbookingbrowser.jsp.print', 1);
+

@@ -1,0 +1,1 @@
+alter table inv_inventorydetail add comments varchar2(100);

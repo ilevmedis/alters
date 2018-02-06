@@ -1,0 +1,17 @@
+pbl_chargeservicemasterentry.jsp.griddisplaybox.caption = Σύνδεση Χρεούμενου Είδους Με Ιατρ. Υπηρεσία
+pbl_chargeservicemasterentry.jsp.pbl_chargedetail.finitemid = Χρεούμενο Εϊδος
+pbl_chargeservicemasterentry.jsp.pbl_chargedetail.servicemasterid = Ιατρική Υπηρεσία
+
+pbl_chargeservicemasterentry.jsp.validations.nofinitemselected = Επιλέξτε Πρώτα Χρεούμενο Είδος
+
+pbl_chargeentry.jsp.validations.multiple_servicemaster = Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για
+pta_oupvisitentry.jsp.validations.multiple_servicemaster = Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_chargeservicemasterentry.jsp.griddisplaybox.caption', 'Σύνδεση Χρεούμενου Είδους Με Ιατρ. Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_chargeservicemasterentry.jsp.pbl_chargedetail.finitemid', 'Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_chargeservicemasterentry.jsp.pbl_chargedetail.servicemasterid', 'Ιατρική Υπηρεσία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pbl_chargeservicemasterentry.jsp.validations.nofinitemselected', 'Επιλέξτε Πρώτα Χρεούμενο Είδος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pbl_chargeentry.jsp.validations.multiple_servicemaster', 'Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pta_oupvisitentry.jsp.validations.multiple_servicemaster', 'Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για');

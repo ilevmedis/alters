@@ -1,0 +1,25 @@
+med_allocationentry.jsp.griddisplaybox.caption = Ραντεβού
+med_allocationentry.jsp.med_orderdetail.servicemasterid = Υπηρεσία
+med_allocationentry.jsp.rsc_resource.descr = Πόρος
+med_allocationentry.jsp.rsc_resourceallocation.sinceallocationdate = Έναρξη
+med_allocationentry.jsp.rsc_resourceallocation.timeallocated = Διάρκεια
+
+med_orderentry.jsp.ssndummygriddisplaybox.caption = Πρώτο Διαθέσιμο Ραντεβού
+med_orderentry.jsp.pta_ssndummy.oldvalue = Μνημονικός
+med_orderentry.jsp.pta_ssndummy.newvalue = Περιγραφή Υπηρεσίας
+med_orderentry.jsp.pta_ssndummy.errortext = Πρώτο Διαθέσιμο
+
+med_allocationentry.jsp.validations.no_servicemaster_selected = Συμπληρώστε Πρώτα Υπηρεσία
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_allocationentry.jsp.griddisplaybox.caption','Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_allocationentry.jsp.med_orderdetail.servicemasterid','Υπηρεσία ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_allocationentry.jsp.rsc_resource.descr','Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_allocationentry.jsp.rsc_resourceallocation.sinceallocationdate','Έναρξη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_allocationentry.jsp.rsc_resourceallocation.timeallocated','Διάρκεια');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.ssndummygriddisplaybox.caption','Πρώτο Διαθέσιμο Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_ssndummy.oldvalue','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_ssndummy.newvalue','Περιγραφή Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderentry.jsp.pta_ssndummy.errortext','Πρώτο Διαθέσιμο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_allocationentry.jsp.validations.no_servicemaster_selected','Συμπληρώστε Πρώτα Υπηρεσία');

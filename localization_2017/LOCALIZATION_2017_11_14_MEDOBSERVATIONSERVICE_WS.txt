@@ -1,0 +1,23 @@
+webservices.medobservationservice.messages.error_occured = Σφάλμα Νο
+webservices.medobservationservice.errors.3 = Δεν Βρέθηκε Διαδικασία Αποτελεσμάτων
+webservices.medobservationservice.errors.4 = Δεν Βρέθηκε Ιατρική Υπηρεσία
+webservices.medobservationservice.errors.5 = Σφάλμα Στην Αποκωδικοποίηση Του HL7 Μηνύματος
+webservices.medobservationservice.errors.6 = Δεν Βρέθηκε Οικονομικό Έτος
+webservices.medobservationservice.errors.7 = Java Exception
+webservices.medobservationservice.errors.8 = Δεν Βρέθηκε Sending Application (MSH-3)
+webservices.medobservationservice.errors.9 = Δεν Βρέθηκε Ημερομηνία Αποτελέσματος
+webservices.medobservationservice.errors.10 = Δεν Βρέθηκε Η Υπηρεσία Στην Οποία Αναφέρεται Το Αποτέλεσμα
+
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'webservices.medobservationservice.messages.error_occured', 'Σφάλμα Νο');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.3', 'Δεν Βρέθηκε Διαδικασία Αποτελεσμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.4', 'Δεν Βρέθηκε Ιατρική Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.5', 'Σφάλμα Στην Αποκωδικοποίηση Του HL7 Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.6', 'Δεν Βρέθηκε Οικονομικό Έτος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.7', 'Java Exception');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.8', 'Δεν Βρέθηκε Sending Application (MSH-3)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.9', 'Δεν Βρέθηκε Ημερομηνία Αποτελέσματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'webservices.medobservationservice.errors.10', 'Δεν Βρέθηκε Η Υπηρεσία Στην Οποία Αναφέρεται Το Αποτέλεσμα');
+

@@ -1,0 +1,60 @@
+pbl_rulerequirementparametersentry.jsp.pagetitle = Κανόνες Υποχρεωτικότητας Ρόλων
+pbl_rulerequirementparametersentry.jsp.entrydisplaybox.caption = Στοιχεία Κανόνων
+
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.startingcheckdate = Ημ/νία Εναρξης Κανόνων
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.roleidtocheck = Ρόλος
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.checkroleinpat = Υποχρεωτικός Για Εσωτ.Ασθ.
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.checkroleoutpat = Υποχρεωτικός Για Εξωτ.Ασθ.
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.roleperiodcheck = Περίοδος Κλειδώματος Ρόλου (Σε Ημέρες)
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.doctoridtocheck = Ιατρός
+pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.doctorperiodcheck = Περίοδος Κλειδώματος Ιατρού (Σε Ημέρες)
+
+pbl_rulerequirementparametersentry.jsp.validations.doctorid_or_roleid_required = Συμπληρώστε Υποχρεωτικά Κανόνα Για Ρόλο ή Ιατρό
+pbl_rulerequirementparametersentry.jsp.validations.startcheckdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Εναρξης Κανόνων
+pbl_rulerequirementparametersentry.jsp.validations.roleid_inoutcheck_required = Συμπληρώστε Πρώτα Ρόλο Και Μετά Υποχρεωτικότητα Για Εσωτ.-Εξωτ. Ασθενείς
+pbl_rulerequirementparametersentry.jsp.validations.roleid_periodcheck_required = Συμπληρώστε Πρώτα Ρόλο Και Μετά Περίοδο Κλειδώματος
+pbl_rulerequirementparametersentry.jsp.validations.inoutcheck_required = Συμπληρώστε Υποχρεωτικότητα Ρόλου Σε Εσωτερικούς ή Εξωτερικούς Ασθενείς
+pbl_rulerequirementparametersentry.jsp.validations.role_periodcheck_required = Συμπληρώστε Υποχρεωτικά Περίοδο Κλειδώματος Ρόλου
+pbl_rulerequirementparametersentry.jsp.validations.doctorid_required = Συμπληρώστε Πρώτα Ιατρό Και Μετά Περίοδο Κλειδώματος
+pbl_rulerequirementparametersentry.jsp.validations.doctorperiodcheck_required = Συμπληρώστε Υποχρεωτικά Περίοδο Κλειδώματος Ιατρού
+
+pta_visitentry.jsp.pta_visitdoctordetail.startlockdate = Ημ/νία Εναρξης Κλειδώματος
+pta_visitentry.jsp.pta_visitdoctordetail.endlockdate = Ημ/νία Λήξης Κλειδώματος
+pta_visitentry.jsp.pta_visitdoctordetail.validations.doctorroleid_required = Συμπληρώστε Υποχρεωτικά Πρώτα Ρόλο
+pta_visitentry.jsp.pta_visitdoctordetail.isdisputed = Αμφισβήτηση
+
+pta_oupvisitentry.jsp.pta_visitdoctordetail.startlockdate = Ημ/νία Εναρξης Κλειδώματος
+pta_oupvisitentry.jsp.pta_visitdoctordetail.endlockdate = Ημ/νία Λήξης Κλειδώματος
+pta_oupvisitentry.jsp.pta_visitdoctordetail.validations.doctorroleid_required = Συμπληρώστε Υποχρεωτικά Πρώτα Ρόλο
+pta_oupvisitentry.jsp.pta_visitdoctordetail.isdisputed = Αμφισβήτηση
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pagetitle','Κανόνες Υποχρεωτικότητας Ρόλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.entrydisplaybox.caption','Στοιχεία Κανόνων');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.startingcheckdate','Ημ/νία Εναρξης Κανόνων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.roleidtocheck','Ρόλος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.checkroleinpat','Υποχρεωτικός Για Εσωτ.Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.checkroleoutpat','Υποχρεωτικός Για Εξωτ.Ασθ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.roleperiodcheck','Περίοδος Κλειδώματος Ρόλου (Σε Ημέρες)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.doctoridtocheck','Ιατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_rulerequirementparametersentry.jsp.pbl_rulerequirementparameters.doctorperiodcheck','Περίοδος Κλειδώματος Ιατρού (Σε Ημέρες)');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.doctorid_or_roleid_required','Συμπληρώστε Υποχρεωτικά Κανόνα Για Ρόλο ή Ιατρό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.startcheckdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Εναρξης Κανόνων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.roleid_inoutcheck_required','Συμπληρώστε Πρώτα Ρόλο Και Μετά Υποχρεωτικότητα Για Εσωτ.-Εξωτ. Ασθενείς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.roleid_periodcheck_required','Συμπληρώστε Πρώτα Ρόλο Και Μετά Περίοδο Κλειδώματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.inoutcheck_required','Συμπληρώστε Υποχρεωτικότητα Ρόλου Σε Εσωτερικούς ή Εξωτερικούς Ασθενείς');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.role_periodcheck_required','Συμπληρώστε Υποχρεωτικά Περίοδο Κλειδώματος Ρόλου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.doctorid_required','Συμπληρώστε Πρώτα Ιατρό Και Μετά Περίοδο Κλειδώματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_rulerequirementparametersentry.jsp.validations.doctorperiodcheck_required','Συμπληρώστε Υποχρεωτικά Περίοδο Κλειδώματος Ιατρού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitdoctordetail.startlockdate','Ημ/νία Εναρξης Κλειδώματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitdoctordetail.endlockdate','Ημ/νία Λήξης Κλειδώματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_visitentry.jsp.pta_visitdoctordetail.isdisputed','Αμφισβήτηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_visitentry.jsp.pta_visitdoctordetail.validations.doctorroleid_required','Συμπληρώστε Υποχρεωτικά Πρώτα Ρόλο');
+
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_visitdoctordetail.startlockdate','Ημ/νία Εναρξης Κλειδώματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_visitdoctordetail.endlockdate','Ημ/νία Λήξης Κλειδώματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.pta_visitdoctordetail.isdisputed','Αμφισβήτηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.pta_visitdoctordetail.validations.doctorroleid_required','Συμπληρώστε Υποχρεωτικά Πρώτα Ρόλο');

@@ -1,0 +1,316 @@
+med_orderbookingentry.jsp.entrydisplaybox.caption = Καταχώρηση Ραντεβού
+med_orderbookingentry.jsp.med_orderdetaildisplaybox.caption = Στοιχεία Ραντεβού
+
+med_orderbookingentry.jsp.cancelorder = Ακύρωση
+med_orderbookingentry.jsp.med_orderheader.internaleventno = Αρ.Παραγγελίας
+med_orderbookingentry.jsp.med_orderheader.orderheaderid = Κωδικός Παραγγελίας
+med_orderbookingentry.jsp.med_orderheader.erpeventtypeid = Διαδικασία
+med_orderbookingentry.jsp.med_eventtype.mnemonic = Κωδ.Κίνησης
+med_orderbookingentry.jsp.med_orderheader.visitid = Νοσηλεία
+med_orderbookingentry.jsp.med_orderheader.patientid = Ασθενής
+med_orderbookingentry.jsp.med_orderheader.medordertypeindicator = Τύπος Παραγγελίας
+med_orderbookingentry.jsp.med_orderheader.orderdate = Ημ/νία Καταχώρησης
+med_orderbookingentry.jsp.med_orderheader.orderpersonid = Παραγγέλων
+med_orderbookingentry.jsp.med_orderheader.orderfacilityid = Τμήμα Παραγγ.
+med_orderbookingentry.jsp.med_orderheader.orderreceiptfacility = Τμήμα Εκτέλεσης
+med_orderbookingentry.jsp.med_orderheader.referenceno = Αρ. Ηλεκ. Παραπ. ΕΟΠΥΥ
+med_orderbookingentry.jsp.useeprescription = Αναζήτηση Ηλεκ. Παραπ. ΕΟΠΥΥ
+med_orderbookingentry.jsp.med_orderheader.priorityindicator = Προτεραιότητα
+med_orderbookingentry.jsp.med_orderheader.orderstatus = Κατάσταση
+med_orderbookingentry.jsp.cancellink = Ακυρώσεις
+
+med_orderbookingentry.jsp.med_orderheader.comments = Σχόλια
+med_orderbookingentry.jsp.dapydatalookup = Στοιχεία ΔΑΠΥ
+med_orderbookingentry.jsp.med_orderheader.clinicalinfo = Κλινικές Πληροφορίες
+med_orderbookingentry.jsp.med_orderheader.costcenterid = Κέντρο Κόστους
+med_orderbookingentry.jsp.tabs.page1 = Υπηρεσίες Ραντεβού
+med_orderbookingentry.jsp.tabs.page2 = Τυποπ.Παραπ/κά
+med_orderbookingentry.jsp.tabs.page3 = Στοιχεία Ασθενή
+med_orderbookingentry.jsp.tabs.page4 = Pick Lists
+med_orderbookingentry.jsp.pta_visit.lastname = Επώνυμο
+med_orderbookingentry.jsp.pta_visit.firstname = Όνομα
+med_orderbookingentry.jsp.pta_visit.fatherfirstname = Όνομα Πατρός
+med_orderbookingentry.jsp.pta_visit.fatherlastname = Επώνυμο Πατρός
+med_orderbookingentry.jsp.pta_visit.motherfirstname = Όνομα Μητρός
+med_orderbookingentry.jsp.pta_visit.motherlastname = Επώνυμο Μητρός
+med_orderbookingentry.jsp.pta_visit.genderid = Φύλο
+med_orderbookingentry.jsp.pta_visit.birthdate = Ημ/νία Γέννησης
+med_orderbookingentry.jsp.pta_visit.idnumber = Αρ.Ταυτότητας
+med_orderbookingentry.jsp.pta_visit.iddate = Ημ/νία/Αρχή Έκδοσης
+med_orderbookingentry.jsp.pta_visit.passportnumber = Αρ.Διαβατηρίου
+med_orderbookingentry.jsp.pta_visit.passportdate = Ημ/νία/Χώρα Έκδοσης
+med_orderbookingentry.jsp.pta_visit.maritalstatusid = Οικογ.Κατάσταση
+med_orderbookingentry.jsp.pta_visit.partnerfirstname = Όνομα Συζύγου
+med_orderbookingentry.jsp.pta_visit.partnerlastname = Επώνυμο Συζύγου
+med_orderbookingentry.jsp.pta_visit.birthcountryid = Χώρα Γέννησης
+med_orderbookingentry.jsp.pta_visit.birthprefectureid = Νομός Γέννησης
+med_orderbookingentry.jsp.pta_visit.birthmunicipalityid = Δήμος Γέννησης
+med_orderbookingentry.jsp.pta_visit.birthcityid = Πόλη Γέννησης
+med_orderbookingentry.jsp.sys_address.street1 = Οδός
+med_orderbookingentry.jsp.sys_address.street1num = Αριθμός
+med_orderbookingentry.jsp.sys_address.countryid = Χώρα
+med_orderbookingentry.jsp.sys_address.cityid = Πόλη
+med_orderbookingentry.jsp.sys_address.district = Περιοχή
+med_orderbookingentry.jsp.sys_address.zip = ΤΚ
+med_orderbookingentry.jsp.sys_address.ismainaddress = Κύρια
+med_orderbookingentry.jsp.sys_phone.companyphone = Τηλέφωνο
+med_orderbookingentry.jsp.sys_phone.phonetype = Είδος
+med_orderbookingentry.jsp.sys_phone.phonenumber = Αριθμός
+med_orderbookingentry.jsp.sys_phone.accessphone = Επικοινωνίας
+med_orderbookingentry.jsp.pta_visit.nationalitytypeid = Ομαδοπ.Εθνικότητας
+med_orderbookingentry.jsp.pta_visit.nationalityid = Εθνικότητα
+med_orderbookingentry.jsp.pta_visit.mainlanguageid = Γλώσσα Επικοινωνίας
+med_orderbookingentry.jsp.pta_visit.religionid = Θρήσκευμα
+med_orderbookingentry.jsp.pta_visit.citizenshipid = Υπηκοότητα
+med_orderbookingentry.jsp.pta_visit.legalizationpaper = Νομιμοποιητικά Έγγραφα Αλλοδαπού
+med_orderbookingentry.jsp.pta_visit.isrefugee = Πολιτικός Πρόσφυγας
+med_orderbookingentry.jsp.pta_visit.taxbranchid = ΔΟΥ
+med_orderbookingentry.jsp.pta_visit.taxregistrationno = ΑΦΜ
+med_orderbookingentry.jsp.fin_itemchoicedatatable.med_servicemaster.sequenceno = Α/Α Παραπ/κού
+med_orderbookingentry.jsp.med_servicemasterchoicedatatable.fin_itemcode.code = Κωδ. ΕΟΠΥΥ
+med_orderbookingentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.mnemonic = Μνημ. Κωδ. Υπηρ.
+med_orderbookingentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.displaydescr = Περιγρ. Υπηρεσίας
+med_orderbookingentry.jsp.pta_ssndummy.oldvalue = Μνημονικός
+med_orderbookingentry.jsp.pta_ssndummy.newvalue = Περιγραφή Υπηρεσίας
+med_orderbookingentry.jsp.pta_ssndummy.errortext = Πρώτο Διαθέσιμο
+med_orderbookingentry.jsp.hasdoctorsmark = Ιατ
+med_orderbookingentry.jsp.message.line = Α/Α
+med_orderbookingentry.jsp.message.istransformedtoinvisit = Η Επίσκεψη Έχει Μετατραπεί Σε Νοσηλεία Και Υπάρχουν Περιορισμοί Μεταβολής
+
+med_orderbookingentry.jsp.validations.lastname_required = Συμπληρώστε Υποχρεωτικά Επώνυμο Ασθενή
+med_orderbookingentry.jsp.validations.firstname_required = Συμπληρώστε Υποχρεωτικά Όνομα Ασθενή
+med_orderbookingentry.jsp.validations.fatherfirstname_required = Συμπληρώστε Υποχρεωτικά Όνομα Πατρός Ασθενή
+med_orderbookingentry.jsp.validations.birthdate_required = Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Ασθενή
+med_orderbookingentry.jsp.validations.genderid_required = Συμπληρώστε Υποχρεωτικά Φύλο Ασθενή
+med_orderbookingentry.jsp.validations.street1_required = Συμπληρώστε Υποχρεωτικά Οδό
+med_orderbookingentry.jsp.validations.street1num_required = Συμπληρώστε Υποχρεωτικά Αριθμό
+med_orderbookingentry.jsp.validations.cityid_required = Συμπληρώστε Υποχρεωτικά Πόλη
+med_orderbookingentry.jsp.validations.countryid_required = Συμπληρώστε Υποχρεωτικά Χώρα
+med_orderbookingentry.jsp.validations.district_required = Συμπληρώστε Υποχρεωτικά Περιοχή
+med_orderbookingentry.jsp.validations.phonenumber_required = Συμπληρώστε Υποχρεωτικά Τηλέφωνο
+med_orderbookingentry.jsp.validations.many_addresses_default = Σημειώθηκαν Περισσότερες Από Μια Διευθύνσεις Ως Κύριες
+med_orderbookingentry.jsp.validations.onlyoneaccessphone = Μόνο Ένα Τηλέφωνο Μπορεί Να Είναι Το Βασικό Τηλεφωνο Επικοινωνίας
+med_orderbookingentry.jsp.validations.eprescription_canceled = Το Ηλεκτρονικό Παραπεμπτικό Είναι Ακυρωμένο
+med_orderbookingentry.jsp.validations.eprescription_not_found = Το Ηλεκτρονικό Παραπεμπτικό Δεν Βρέθηκε
+med_orderbookingentry.jsp.validations.dapycode_not_found = Δεν Βρέθηκε Η Υπηρεσία Με Κωδικό ΔΑΠΥ
+med_orderbookingentry.jsp.validations.prescriptionno_required = Συμπληρώστε Υποχρεωτικά Αριθμό Ηλεκτρονικού Παραπεμπτικού
+med_orderbookingentry.jsp.validations.order_must_be_empty = Η Παραγγελία Πρέπει Να Είναι Κενη
+med_orderbookingentry.jsp.validations.medservicemaster_notchosen_foreopyycode = Επιλέξτε Υποχρεωτικά Υπηρεσία Για Όλους Τους Κωδικούς ΕΟΠΥΥ
+med_orderbookingentry.jsp.validations.different_ssn = Ο ΑΜΚΑ Του Ασθενή Διαφέρει Από Αυτόν Του Ηλεκτρονικού Παραπεμπτικού
+med_orderbookingentry.jsp.validations.resourceallocation_required = Συμπληρώστε Υποχρεωτικά Δεδομένα Προγραμματισμού
+med_orderbookingentry.jsp.validations.patientdata_required = Συμπληρώστε Υποχρεωτικά Στοιχεία Ασθενή
+med_orderbookingentry.jsp.validations.servicemaster_missing_resource = Δεν Εχει Οριστεί Στην Υπηρεσία Default Πόρος Και Ομάδα Πόρου
+med_orderbookingentry.jsp.validations.inactive_servicemaster = Ανενεργή Υπηρεσία
+med_orderbookingentry.jsp.validations.atleastoneservicerequired = Συμπληρώστε Τουλάχιστον Μία Υπηρεσία
+med_orderbookingentry.jsp.validations.resourceallocation_overbooking = Δημιουργία Ραντεβού Overbooking
+med_orderbookingentry.jsp.validations.priorityindicator_required = Συμπληρώστε Υποχρεωτικά Προτεραιότητα
+med_orderbookingentry.jsp.validations.orderdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Καταχώρησης
+med_orderbookingentry.jsp.validations.orderperson_required = Συμπληρώστε Υποχρεωτικά Παραγγέλοντα
+med_orderbookingentry.jsp.validations.orderfacility_required = Συμπληρώστε Υποχρεωτικά Τμήμα Παραγγελίας
+med_orderbookingentry.jsp.validations.erpeventtype_required = Συμπληρώστε Υποχρεωτικά Διαδικασία
+med_orderbookingentry.jsp.validations.duplicateallocation = Ο Πόρος Έχει Ήδη Δεσμευτει Από Άλλο Χρήστη
+med_orderbookingentry.jsp.validations.orderduplicateallocation = Υπάρχει Επικάλυψη Δεσμεύσεων Στην Παραγγελία
+med_orderbookingentry.jsp.validations.orderperson_required = Συμπληρώστε Υποχρεωτικά Παραγγέλων
+med_orderbookingentry.jsp.validations.costcenterid_required = Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους
+
+rsc_resourceallocationbookdate.jsp.slotdatadisplaybox.caption = Στοιχεία Δέσμευσης Πόρου
+rsc_resourceallocationbookdate.jsp.rsc_resource.descr = Προηγ.Πόρος
+rsc_resourceallocationbookdate.jsp.rsc_resourceallocation.sinceallocationdate = Προηγ.Ημ/νία
+rsc_resourceallocationbookdate.jsp.rsc_resourceallocation.servicemasterid = Υπηρεσία
+rsc_resourceallocationbookdate.jsp.rsc_resourceallocation.timeallocated = Μεταφ.Σε Ημ/νία
+rsc_resourceallocationbookdate.jsp.rsc_movetoresourceallocation.resourceid = Μεταφ.Σε Πόρο
+rsc_resourceallocationbookdate.jsp.jsp.resourcegroupid = Μεταφ.Σε Ομάδα Πόρων
+rsc_resourceallocationbookdate.jsp.rsc_movetoresourceallocation.sinceallocationdate = Προηγ.Ημ/νία
+rsc_resourceallocationbookdate.jsp.acceptdate = Εύρεση
+rsc_resourceallocationbookdate.jsp.searchdate = Πρώτη Ελεύθερη
+
+rsc_resourceallocationbookdate.jsp.validations.duplicateallocation = Ο Πόρος Έχει Ήδη Δεσμευτει Από Άλλο Χρήστη
+rsc_resourceallocationbookdate.jsp.validations.resourcegroup_required = Συμπληρώστε Υποχρεωτικά Ομάδα Πόρων
+rsc_resourceallocationbookdate.jsp.validations.allocationdate_required = Συμπληρώστε Υποχρεωτικά Ημ/νία Ανσζήτησης
+rsc_resourceallocationbookdate.jsp.validations.no_servicemaster_selected = Συμπληρώστε Πρώτα Υπηρεσία
+rsc_resourceallocationbookdate.jsp.validations.no_matrix_selected = Συμπληρώστε Πρώτα Διαδικασία
+rsc_resourceallocationbookdate.jsp.validations.bookingdate_notfound = Ασυμβατότητα Πόρου Και Ομάδας Πόρου Για Εύρεση Ελεύθερου Ραντεβού
+
+med_orderbookingbrowser.jsp.med_orderheader.orderheaderid = Κωδ.Παραγ.
+med_orderbookingbrowser.jsp.medordertypeindicator_criteria = Τύπος Παραγγελίας
+med_orderbookingbrowser.jsp.criteriadisplaybox.caption = Κριτήρια Αναζήτησης
+med_orderbookingbrowser.jsp.pagetitle = Διαχείριση Ραντεβού
+med_orderbookingbrowser.jsp.griddisplaybox.caption = Στοιχεία Ραντεβού
+med_orderbookingbrowser.jsp.internaleventno_criteria = Αρ.Παραγγελίας
+med_orderbookingbrowser.jsp.sinceorderdate_criteria = Από Ημ.Καταχώρ.
+med_orderbookingbrowser.jsp.tillorderdate_criteria = Έως Ημ.Καταχώρ.
+med_orderbookingbrowser.jsp.priorityindicator_criteria = Προτεραιότητα
+med_orderbookingbrowser.jsp.orderstatus_criteria = Κατάσταση Παραγγ.
+med_orderbookingbrowser.jsp.orderpersonid_criteria = Παραγγέλων
+med_orderbookingbrowser.jsp.orderfacilityid_criteria = Τμήμα Παραγγ.
+med_orderbookingbrowser.jsp.med_orderheader.orderdate = Ημ/νία Καταχώρ.
+med_orderbookingbrowser.jsp.med_orderheader.internaleventno = Αρ.Παραγγ.
+med_orderbookingbrowser.jsp.pta_lastpatientvisit.patientmnemonic = Μνημ. Κωδ. Ασθενή
+med_orderbookingbrowser.jsp.pta_lastpatientvisit.lastname = Επων.Ασθενή
+med_orderbookingbrowser.jsp.pta_lastpatientvisit.firstname = Όνομα Ασθενή
+med_orderbookingbrowser.jsp.med_orderheader.priorityindicator = Προτεραιότητα
+med_orderbookingbrowser.jsp.med_orderheader.orderstatus = Κατάσταση
+med_orderbookingbrowser.jsp.med_orderperson.name = Παραγγέλων
+med_orderbookingbrowser.jsp.pta_facility.mnemonic = Τμήμα Παραγγ.
+med_orderbookingbrowser.jsp.newpatientorder = Νέα Παραγγ. Ασθενή
+med_orderbookingbrowser.jsp.patientid_criteria = Ασθενής
+med_orderbookingbrowser.jsp.resourceid_criteria = Πόρος
+med_orderbookingbrowser.jsp.resourcegroupid_criteria = Ομάδα Πόρων
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.entrydisplaybox.caption','Καταχώρηση Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderdetaildisplaybox.caption','Στοιχεία Ραντεβού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.cancelorder','Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.internaleventno','Αρ.Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.orderheaderid','Κωδικός Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.erpeventtypeid','Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_eventtype.mnemonic','Κωδ.Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.visitid','Νοσηλεία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.patientid','Ασθενής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.medordertypeindicator','Τύπος Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.orderdate','Ημ/νία Καταχώρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.orderpersonid','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.orderfacilityid','Τμήμα Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.orderreceiptfacility','Τμήμα Εκτέλεσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.referenceno','Αρ. Ηλεκ. Παραπ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.useeprescription','Αναζήτηση Ηλεκ. Παραπ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.priorityindicator','Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.orderstatus','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.cancellink','Ακυρώσεις');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.comments','Σχόλια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.dapydatalookup','Στοιχεία ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.clinicalinfo','Κλινικές Πληροφορίες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_orderheader.costcenterid','Κέντρο Κόστους');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.tabs.page1','Υπηρεσίες Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.tabs.page2','Τυποπ.Παραπ/κά');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.tabs.page3','Στοιχεία Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.tabs.page4','Pick Lists');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.lastname','Επώνυμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.firstname','Όνομα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.fatherfirstname','Όνομα Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.fatherlastname','Επώνυμο Πατρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.motherfirstname','Όνομα Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.motherlastname','Επώνυμο Μητρός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.genderid','Φύλο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.birthdate','Ημ/νία Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.idnumber','Αρ.Ταυτότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.iddate','Ημ/νία/Αρχή Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.passportnumber','Αρ.Διαβατηρίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.passportdate','Ημ/νία/Χώρα Έκδοσης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.maritalstatusid','Οικογ.Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.partnerfirstname','Όνομα Συζύγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.partnerlastname','Επώνυμο Συζύγου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.birthcountryid','Χώρα Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.birthprefectureid','Νομός Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.birthmunicipalityid','Δήμος Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.birthcityid','Πόλη Γέννησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.street1','Οδός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.street1num','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.countryid','Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.cityid','Πόλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.district','Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.zip','ΤΚ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_address.ismainaddress','Κύρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_phone.companyphone','Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_phone.phonetype','Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_phone.phonenumber','Αριθμός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.sys_phone.accessphone','Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.nationalitytypeid','Ομαδοπ.Εθνικότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.nationalityid','Εθνικότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.mainlanguageid','Γλώσσα Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.religionid','Θρήσκευμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.citizenshipid','Υπηκοότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.legalizationpaper','Νομιμοποιητικά Έγγραφα Αλλοδαπού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.isrefugee','Πολιτικός Πρόσφυγας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.taxbranchid','ΔΟΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_visit.taxregistrationno','ΑΦΜ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.fin_itemchoicedatatable.med_servicemaster.sequenceno','Α/Α Παραπ/κού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_servicemasterchoicedatatable.fin_itemcode.code','Κωδ. ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.mnemonic','Μνημ. Κωδ. Υπηρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.med_servicemasterchoicedatatable.med_servicemaster.displaydescr','Περιγρ. Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_ssndummy.oldvalue','Μνημονικός');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_ssndummy.newvalue','Περιγραφή Υπηρεσίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.pta_ssndummy.errortext','Πρώτο Διαθέσιμο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.hasdoctorsmark','Ιατ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.message.line','Α/Α');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingentry.jsp.message.istransformedtoinvisit','Η Επίσκεψη Έχει Μετατραπεί Σε Νοσηλεία Και Υπάρχουν Περιορισμοί Μεταβολής');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.lastname_required','Συμπληρώστε Υποχρεωτικά Επώνυμο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.firstname_required','Συμπληρώστε Υποχρεωτικά Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.fatherfirstname_required','Συμπληρώστε Υποχρεωτικά Όνομα Πατρός Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.birthdate_required','Συμπληρώστε Υποχρεωτικά Ημερομηνία Γέννησης Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.genderid_required','Συμπληρώστε Υποχρεωτικά Φύλο Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.street1_required','Συμπληρώστε Υποχρεωτικά Οδό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.street1num_required','Συμπληρώστε Υποχρεωτικά Αριθμό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.cityid_required','Συμπληρώστε Υποχρεωτικά Πόλη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.countryid_required','Συμπληρώστε Υποχρεωτικά Χώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.district_required','Συμπληρώστε Υποχρεωτικά Περιοχή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.phonenumber_required','Συμπληρώστε Υποχρεωτικά Τηλέφωνο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.many_addresses_default','Σημειώθηκαν Περισσότερες Από Μια Διευθύνσεις Ως Κύριες');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.onlyoneaccessphone','Μόνο Ένα Τηλέφωνο Μπορεί Να Είναι Το Βασικό Τηλεφωνο Επικοινωνίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.eprescription_canceled','Το Ηλεκτρονικό Παραπεμπτικό Είναι Ακυρωμένο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.eprescription_not_found','Το Ηλεκτρονικό Παραπεμπτικό Δεν Βρέθηκε');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.dapycode_not_found','Δεν Βρέθηκε Η Υπηρεσία Με Κωδικό ΔΑΠΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.prescriptionno_required','Συμπληρώστε Υποχρεωτικά Αριθμό Ηλεκτρονικού Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.order_must_be_empty','Η Παραγγελία Πρέπει Να Είναι Κενη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.medservicemaster_notchosen_foreopyycode','Επιλέξτε Υποχρεωτικά Υπηρεσία Για Όλους Τους Κωδικούς ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.different_ssn','Ο ΑΜΚΑ Του Ασθενή Διαφέρει Από Αυτόν Του Ηλεκτρονικού Παραπεμπτικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.resourceallocation_required','Συμπληρώστε Υποχρεωτικά Δεδομένα Προγραμματισμού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.patientdata_required','Συμπληρώστε Υποχρεωτικά Στοιχεία Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.servicemaster_missing_resource','Δεν Εχει Οριστεί Στην Υπηρεσία Default Πόρος Και Ομάδα Πόρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.inactive_servicemaster','Ανενεργή Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.atleastoneservicerequired','Συμπληρώστε Τουλάχιστον Μία Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.resourceallocation_overbooking','Δημιουργία Ραντεβού Overbooking');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.priorityindicator_required','Συμπληρώστε Υποχρεωτικά Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.orderdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Καταχώρησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.orderperson_required','Συμπληρώστε Υποχρεωτικά Παραγγέλοντα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.orderfacility_required','Συμπληρώστε Υποχρεωτικά Τμήμα Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.erpeventtype_required','Συμπληρώστε Υποχρεωτικά Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.duplicateallocation','Ο Πόρος Έχει Ήδη Δεσμευτει Από Άλλο Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.orderduplicateallocation','Υπάρχει Επικάλυψη Δεσμεύσεων Στην Παραγγελία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'med_orderbookingentry.jsp.validations.costcenterid_required','Συμπληρώστε Υποχρεωτικά Κέντρο Κόστους');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.slotdatadisplaybox.caption','Στοιχεία Δέσμευσης Πόρου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.rsc_resource.descr','Προηγ.Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.rsc_resourceallocation.sinceallocationdate','Προηγ.Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.rsc_resourceallocation.servicemasterid','Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.rsc_resourceallocation.timeallocated','Μεταφ.Σε Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.rsc_movetoresourceallocation.resourceid','Μεταφ.Σε Πόρο');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.jsp.resourcegroupid','Μεταφ.Σε Ομάδα Πόρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.rsc_movetoresourceallocation.sinceallocationdate','Προηγ.Ημ/νία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.acceptdate','Εύρεση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'rsc_resourceallocationbookdate.jsp.searchdate','Πρώτη Ελεύθερη');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'rsc_resourceallocationbookdate.jsp.validations.duplicateallocation','Ο Πόρος Έχει Ήδη Δεσμευτει Από Άλλο Χρήστη');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'rsc_resourceallocationbookdate.jsp.validations.resourcegroup_required','Συμπληρώστε Υποχρεωτικά Ομάδα Πόρων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'rsc_resourceallocationbookdate.jsp.validations.allocationdate_required','Συμπληρώστε Υποχρεωτικά Ημ/νία Ανσζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'rsc_resourceallocationbookdate.jsp.validations.no_servicemaster_selected','Συμπληρώστε Πρώτα Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'rsc_resourceallocationbookdate.jsp.validations.no_matrix_selected','Συμπληρώστε Πρώτα Διαδικασία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'rsc_resourceallocationbookdate.jsp.validations.bookingdate_notfound','Ασυμβατότητα Πόρου Και Ομάδας Πόρου Για Εύρεση Ελεύθερου Ραντεβού');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.med_orderheader.orderheaderid','Κωδ.Παραγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.medordertypeindicator_criteria','Τύπος Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.criteriadisplaybox.caption','Κριτήρια Αναζήτησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.pagetitle','Διαχείριση Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.griddisplaybox.caption','Στοιχεία Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.internaleventno_criteria','Αρ.Παραγγελίας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.sinceorderdate_criteria','Από Ημ.Καταχώρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.tillorderdate_criteria','Έως Ημ.Καταχώρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.priorityindicator_criteria','Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.orderstatus_criteria','Κατάσταση Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.orderpersonid_criteria','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.orderfacilityid_criteria','Τμήμα Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.med_orderheader.orderdate','Ημ/νία Καταχώρ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.med_orderheader.internaleventno','Αρ.Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.pta_lastpatientvisit.patientmnemonic','Μνημ. Κωδ. Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.pta_lastpatientvisit.lastname','Επων.Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.pta_lastpatientvisit.firstname','Όνομα Ασθενή');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.med_orderheader.priorityindicator','Προτεραιότητα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.med_orderheader.orderstatus','Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.med_orderperson.name','Παραγγέλων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.pta_facility.mnemonic','Τμήμα Παραγγ.');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.newpatientorder','Νέα Παραγγ.Ραντεβού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.patientid_criteria','Ασθενής');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.resourceid_criteria','Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'med_orderbookingbrowser.jsp.resourcegroupid_criteria','Ομάδα Πόρων');

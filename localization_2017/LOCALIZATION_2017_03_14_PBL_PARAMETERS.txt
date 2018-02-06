@@ -1,0 +1,49 @@
+pbl_parametersentry.jsp.pbl_parameters.eopyydiscpolicyexcludedcode = Ομάδα εκτός πολιτικής εκπτώσεων ΕΟΠΥΥ
+
+pta_oupvisitentry.jsp.chargeentry.eopyydiscounts = Εκπτ.ΕΟΠΥΥ
+pbl_chargeentry.jsp.eopyydiscounts = Εκπτ.ΕΟΠΥΥ
+
+pta_oupvisitentry.jsp.message.ispackagecharge = Η Χρέωση Αφορά Πακέτο Και Δεν Μεταβάλλεται
+pta_oupvisitentry.jsp.validations.not_eopyy_insurance = Δεν Υπάρχει Κάλυψη ΕΟΠΥΥ! Οι Εκπτώσεις Δεν Μπορούν Να Εφαρμοστούν
+pta_oupvisitentry.jsp.validations.charge_is_canceled = Υπάρχει Ακυρωμένη Χρέωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pta_oupvisitentry.jsp.validations.charge_iscancel_transaction = Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ Σε Ακυρωτική Χρέωση!
+
+pta_oupvisitentry.jsp.validations.charge_isincluded_inpackage = Υπάρχει Χρέωση Που Περιλαμβάνεται Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ!
+pta_oupvisitentry.jsp.validations.charge_infinalized_package = Υπάρχει Χρέωση Που Ανήκει Σε Οριστικοποιημένο Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pta_oupvisitentry.jsp.validations.constprice_charge = Υπάρχει Χρέωση Με Σταθερή Τιμή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pta_oupvisitentry.jsp.validations.constcontrib_charge = Υπάρχει Χρέωση Με Σταθερή Συμμετοχή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pta_oupvisitentry.jsp.validations.constdiscount_charge = Υπάρχει Χρέωση Με Σταθερή Έκπτωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+
+pbl_chargeentry.jsp.validations.not_eopyy_insurance = Δεν Υπάρχει Κάλυψη ΕΟΠΥΥ! Οι Εκπτώσεις Δεν Μπορούν Να Εφαρμοστούν
+pbl_chargeentry.jsp.validations.charge_is_canceled = Υπάρχει Ακυρωμένη Χρέωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pbl_chargeentry.jsp.validations.charge_iscancel_transaction = Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ Σε Ακυρωτική Χρέωση!
+pbl_chargeentry.jsp.validations.charge_isincluded_inpackage = Υπάρχει Χρέωση Που Περιλαμβάνεται Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ!
+pbl_chargeentry.jsp.validations.charge_infinalized_package = Υπάρχει Χρέωση Που Ανήκει Σε Οριστικοποιημένο Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pbl_chargeentry.jsp.validations.constprice_charge = Υπάρχει Χρέωση Με Σταθερή Τιμή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pbl_chargeentry.jsp.validations.constcontrib_charge = Υπάρχει Χρέωση Με Σταθερή Συμμετοχή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+pbl_chargeentry.jsp.validations.constdiscount_charge = Υπάρχει Χρέωση Με Σταθερή Έκπτωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_parametersentry.jsp.pbl_parameters.eopyydiscpolicyexcludedcode', 'Ομάδα εκτός πολιτικής εκπτώσεων ΕΟΠΥΥ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pta_oupvisitentry.jsp.chargeentry.eopyydiscounts','Εκπτ.ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1,'pbl_chargeentry.jsp.eopyydiscounts','Εκπτ.ΕΟΠΥΥ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.message.ispackagecharge','Η Χρέωση Αφορά Πακέτο Και Δεν Μεταβάλλεται');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.not_eopyy_insurance','Δεν Υπάρχει Κάλυψη ΕΟΠΥΥ! Οι Εκπτώσεις Δεν Μπορούν Να Εφαρμοστούν');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.charge_is_canceled','Υπάρχει Ακυρωμένη Χρέωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.charge_iscancel_transaction','Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ Σε Ακυρωτική Χρέωση!');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.charge_isincluded_inpackage','Υπάρχει Χρέωση Που Περιλαμβάνεται Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.charge_infinalized_package','Υπάρχει Χρέωση Που Ανήκει Σε Οριστικοποιημένο Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.constprice_charge','Υπάρχει Χρέωση Με Σταθερή Τιμή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.constcontrib_charge','Υπάρχει Χρέωση Με Σταθερή Συμμετοχή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pta_oupvisitentry.jsp.validations.constdiscount_charge','Υπάρχει Χρέωση Με Σταθερή Έκπτωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.not_eopyy_insurance','Δεν Υπάρχει Κάλυψη ΕΟΠΥΥ! Οι Εκπτώσεις Δεν Μπορούν Να Εφαρμοστούν');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.charge_is_canceled','Υπάρχει Ακυρωμένη Χρέωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.charge_iscancel_transaction','Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ Σε Ακυρωτική Χρέωση!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.charge_isincluded_inpackage','Υπάρχει Χρέωση Που Περιλαμβάνεται Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ!');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.charge_infinalized_package','Υπάρχει Χρέωση Που Ανήκει Σε Οριστικοποιημένο Σε Πακέτο! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.constprice_charge','Υπάρχει Χρέωση Με Σταθερή Τιμή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.constcontrib_charge','Υπάρχει Χρέωση Με Σταθερή Συμμετοχή! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2,'pbl_chargeentry.jsp.validations.constdiscount_charge','Υπάρχει Χρέωση Με Σταθερή Έκπτωση! Δεν Μπορούν Να Εφαρμοστούν Εκπτώσεις ΕΟΠΥΥ');

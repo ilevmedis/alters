@@ -1,0 +1,67 @@
+pbl_chargeservicemasterentry.jsp.griddisplaybox.caption = Σύνδεση Χρεούμενου Είδους Με Ιατρ. Υπηρεσία
+pbl_chargeservicemasterentry.jsp.pbl_chargedetail.finitemid = Χρεούμενο Εϊδος
+pbl_chargeservicemasterentry.jsp.pbl_chargedetail.servicemasterid = Ιατρική Υπηρεσία
+
+pbl_chargeservicemasterentry.jsp.validations.nofinitemselected = Επιλέξτε Πρώτα Χρεούμενο Είδος
+
+pbl_chargeentry.jsp.validations.multiple_servicemaster = Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για
+pta_oupvisitentry.jsp.validations.multiple_servicemaster = Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για
+
+med_servicemasterentry.jsp.med_servicemasterresource.reourceid = Προεπιλεγμένος Πόρος
+med_servicemasterentry.jsp.med_servicemasterresource.duration = Διάρκεια
+
+med_servicemasterentry.jsp.validations.med_servicemasterresource.duration_required = Συμπληρώστε Υποχρεωτικά Διάρκεια Ραντεβού Προεπιλεγμένου Πόρου
+med_parametersentry.jsp.med_parameters.statusallowonlytotalcancel = Καταστάσεις που Επιβάλλουν Ολική Ακύρωση
+med_ordercancelentry.jsp.validations.mandatorytotalcancellation = Δεν Επιτρέπεται Μερική Ακύρωση της Παραγγελίας
+
+sys_hl7msglogbrowser.jsp.pagetitle = Διαχείριση HL7 Μηνυμάτων
+sys_hl7msglogbrowser.jsp.criteriadisplaybox.caption = Κριτήρια
+sys_hl7msglogbrowser.jsp.sinceprocessdate_criteria = Από Ημ/νία Μηνύματος
+sys_hl7msglogbrowser.jsp.tillprocessdate_criteria = Έως Ημ/νία Μηνύματος
+sys_hl7msglogbrowser.jsp.messagetype_criteria = Είδος Μηνύματος
+sys_hl7msglogbrowser.jsp.messagestatus_criteria = Κατάσταση Μηνύματος
+sys_hl7msglogbrowser.jsp.origappid_criteria = Αριθμός Κίνησης
+sys_hl7msglogbrowser.jsp.griddisplaybox.caption = HL7 Μηνύματα
+sys_hl7msglogbrowser.jsp.sys_hl7msgheader.origappid = Αρ. Κίνησης
+sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.processdate = Ημ/νία Μηνύματος
+sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.processtime = Ώρα
+sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.messagetype = Είδος Μηνύματος
+sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.orighl7msg = Μήνυμα
+sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.messagestatus = Κατάσταση
+sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.ackmsg = Απάντηση
+sys_hl7msglogbrowser.jsp.validations.sinceprocessdaterequired = Συμπληρώστε Υποχρεωτικά Από Ημ/νία Μηνύματος
+sys_hl7msglogbrowser.jsp.validations.tillprocessdaterequired = Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Μηνύματος
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_chargeservicemasterentry.jsp.griddisplaybox.caption', 'Σύνδεση Χρεούμενου Είδους Με Ιατρ. Υπηρεσία');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_chargeservicemasterentry.jsp.pbl_chargedetail.finitemid', 'Χρεούμενο Είδος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'pbl_chargeservicemasterentry.jsp.pbl_chargedetail.servicemasterid', 'Ιατρική Υπηρεσία');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pbl_chargeservicemasterentry.jsp.validations.nofinitemselected', 'Επιλέξτε Πρώτα Χρεούμενο Είδος');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pbl_chargeentry.jsp.validations.multiple_servicemaster', 'Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'pta_oupvisitentry.jsp.validations.multiple_servicemaster', 'Βρέθηκαν Πολλαπλές Ιατρ.Υπηρεσίες Για');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_servicemasterentry.jsp.med_servicemasterresource.reourceid', 'Προεπιλεγμένος Πόρος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_servicemasterentry.jsp.med_servicemasterresource.duration', 'Διάρκεια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'med_servicemasterentry.jsp.validations.med_servicemasterresource.duration_required', 'Συμπληρώστε Υποχρεωτικά Διάρκεια Ραντεβού Προεπιλεγμένου Πόρου');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'med_parametersentry.jsp.med_parameters.statusallowonlytotalcancel', 'Καταστάσεις που Επιβάλλουν Ολική Ακύρωση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'med_ordercancelentry.jsp.validations.mandatorytotalcancellation', 'Δεν Επιτρέπεται Μερική Ακύρωση της Παραγγελίας');
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.pagetitle', 'Διαχείριση HL7 Μηνυμάτων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.criteriadisplaybox.caption', 'Κριτήρια');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sinceprocessdate_criteria', 'Από Ημ/νία Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.tillprocessdate_criteria', 'Έως Ημ/νία Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.messagetype_criteria', 'Είδος Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.messagestatus_criteria', 'Κατάσταση Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.origappid_criteria', 'Αριθμός Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.griddisplaybox.caption', 'HL7 Μηνύματα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msgheader.origappid', 'Αρ. Κίνησης');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.processdate', 'Ημ/νία Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.processtime', 'Ώρα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.messagetype', 'Είδος Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.orighl7msg', 'Μήνυμα');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.messagestatus', 'Κατάσταση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'sys_hl7msglogbrowser.jsp.sys_hl7msglogheader.ackmsg', 'Απάντηση');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'sys_hl7msglogbrowser.jsp.validations.sinceprocessdaterequired','Συμπληρώστε Υποχρεωτικά Από Ημ/νία Μηνύματος');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'sys_hl7msglogbrowser.jsp.validations.tillprocessdaterequired','Συμπληρώστε Υποχρεωτικά Έως Ημ/νία Μηνύματος');

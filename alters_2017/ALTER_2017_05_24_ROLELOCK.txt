@@ -1,0 +1,25 @@
+alter table PTA_VISITDOCTORDETAIL add STARTLOCKDATE date;
+alter table PTA_VISITDOCTORDETAIL add ISDISPUTED varchar2(1) default '0';
+
+create table PBL_RULEREQUIREMENTPARAMETERS
+(
+  COMPANYID         NUMBER(38) not null,
+  FYEARID           NUMBER(38) not null,
+  ROLEIDTOCHECK     NUMBER(38),
+  CHECKROLEINPAT    VARCHAR2(1) default '0' not null,
+  CHECKROLEOUTPAT   VARCHAR2(1) default '0' not null,
+  ROLEPERIODCHECK   NUMBER(38),
+  DOCTORIDTOCHECK   NUMBER(38),
+  DOCTORPERIODCHECK NUMBER(38),
+  STARTINGCHECKDATE DATE
+);
+
+-- Create/Recreate primary, unique and foreign key constraints
+alter table PBL_RULEREQUIREMENTPARAMETERS
+  add constraint PBL_RULEREQUIREMENTPARAMS_PK primary key (FYEARID, COMPANYID);
+alter table PBL_RULEREQUIREMENTPARAMETERS
+  add constraint PBL_RULEREQPARMS_DOCRULE_FK foreign key (ROLEIDTOCHECK, COMPANYID, FYEARID)
+  references pbl_doctorrole (DOCTORROLEID, COMPANYID, FYEARID);
+-- Create/Recreate indexes
+create index PBL_RULEREQUIREPARMS_DOCTOR_FK on PBL_RULEREQUIREMENTPARAMETERS (doctoridtocheck, companyid, fyearid);
+create index PBL_RULEREQPARMS_DOCRULE_FK on PBL_RULEREQUIREMENTPARAMETERS (roleidtocheck, companyid, fyearid);

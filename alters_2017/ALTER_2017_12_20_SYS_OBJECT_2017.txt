@@ -1,0 +1,1 @@
+insert into sys_object (objectid, objecttype, descr, yearmigrationorder, yearmigrationaction, ismigrated) values ('PBL_RULEREQUIREMENTPARAMETERS', 1, 'PARAMETERS FOR DOCTOR RULES LOCK', 0, 1,'1');

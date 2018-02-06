@@ -1,0 +1,17 @@
+inv_parametersentry.jsp.ast_assetregnodisplaybox.caption = Έκφραση Αρ. Μητρώου Παγίων
+inv_parametersentry.jsp.ast_assetregnorule.codedtoken  = Ρόλος Λογιστικής Οντότητας
+inv_parametersentry.jsp.ast_assetregnorule.mnemonictoken = Χρήση Πεδίου
+inv_parametersentry.jsp.ast_assetregnorule.uncodedtoken = Χρήση Αλφαριθμητικού
+inv_parametersentry.jsp.ast_assetregnorule.sincepos = Τμήμα Λογ. Οντότητας (Από)
+inv_parametersentry.jsp.ast_assetregnorule.tillpos = Τμήμα Λογ. Οντότητας (Έως)
+inv_parametersentry.jsp.validations.selectonetoken = Συμπληρώστε Πεδίο ή Αλφαριθμητικό
+inv_parametersentry.jsp.validations.tillpos_lt_sincepos = Τμήμα Έως Μικρότερο Του Τμήματος Από
+
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_parametersentry.jsp.ast_assetregnodisplaybox.caption', 'Έκφραση Αρ. Μητρώου Παγίων');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_parametersentry.jsp.ast_assetregnorule.codedtoken', 'Ρόλος Λογιστικής Οντότητας');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_parametersentry.jsp.ast_assetregnorule.mnemonictoken', 'Χρήση Πεδίου');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_parametersentry.jsp.ast_assetregnorule.uncodedtoken', 'Χρήση Αλφαριθμητικού');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_parametersentry.jsp.ast_assetregnorule.sincepos', 'Τμήμα Λογ. Οντότητας (Από)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 1, 'inv_parametersentry.jsp.ast_assetregnorule.tillpos', 'Τμήμα Λογ. Οντότητας (Έως)');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'inv_parametersentry.jsp.validations.selectonetoken', 'Συμπληρώστε Πεδίο ή Αλφαριθμητικό');
+INSERT INTO SYS_LOCALIZATION(LANG, ISUSERCHANGED, CATEGORY, LOCALIZATIONKEY, MESSAGE) VALUES ('el', '0', 2, 'inv_parametersentry.jsp.validations.tillpos_lt_sincepos', 'Τμήμα Έως Μικρότερο Του Τμήματος Από');

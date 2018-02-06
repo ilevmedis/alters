@@ -1,0 +1,5 @@
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7msglogbrowser.jsp.view', 'Διαχείριση HL7 Μηνυμάτων');
+insert into sys_privilege(privilegeid, descr) values ('sys_hl7msglogbrowser.jsp.print', 'Εκτύπωση HL7 Μηνυμάτων');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7msglogbrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (1, 'sys_hl7msglogbrowser.jsp.print', 1);
+

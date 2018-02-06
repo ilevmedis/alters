@@ -1,0 +1,15 @@
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfilebrowser.jsp.view', 'Διαχείριση Συγχώνευσης Φακέλων Ασθενών');
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfilebrowser.jsp.print', 'Εκτύπωση Συγχώνευσης Φακέλων Ασθενών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfilebrowser.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfilebrowser.jsp.print', 1);
+
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfileentry.jsp.view', 'Ανάγνωση Συγχώνευσης Φακέλου Ασθενών');
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfileentry.jsp.print', 'Εκτύπωση Συγχώνευσης Φακέλου Ασθενών');
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfileentry.jsp.insert', 'Εισαγωγή Συγχώνευσης Φακέλου Ασθενών');
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfileentry.jsp.update', 'Μεταβολή Συγχώνευσης Φακέλου Ασθενών');
+insert into sys_privilege(privilegeid, descr) values ('pta_mergepatfileentry.jsp.delete', 'Διαγραφή Συγχώνευσης Φακέλου Ασθενών');
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfileentry.jsp.view', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfileentry.jsp.print', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfileentry.jsp.update', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfileentry.jsp.delete', 1);
+insert into sys_roleprivilege(roleid, privilegeid, companyid) values (10, 'pta_mergepatfileentry.jsp.insert', 1);
